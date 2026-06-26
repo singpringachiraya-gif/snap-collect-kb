@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Snap&Collect — Format Lookup</title>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet"/>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7/dist/fuse.min.js"></script>
+<style>
+:root {
+  --navy:#0B1F3A; --gold:#C9A84C; --gold-lt:#F0D98A;
+  --pearl:#F7F5F0; --mist:#E8E4DC; --white:#fff;
+  --text:#2C3E50; --sub:#6B7A8D; --green:#2E7D5E; --red:#C0392B;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:'IBM Plex Sans Thai',sans-serif;background:#000;color:var(--text);min-height:100vh;}
+#stars{position:fixed;inset:0;z-index:0;pointer-events:none;}
+header,main{position:relative;z-index:1;}
+
+/* HEADER */
+header{background:var(--navy);height:60px;padding:0 2rem;display:flex;align-items:center;justify-content:space-between;border-bottom:2px solid var(--gold);position:sticky;top:0;z-index:100;}
+.logo{display:flex;align-items:center;gap:10px;}
+.logo-mark{width:32px;height:32px;background:var(--gold);border-radius:4px;display:flex;align-items:center;justify-content:center;font-family:'IBM Plex Mono',monospace;font-weight:600;font-size:13px;color:var(--navy);}
+.logo-text{color:#fff;font-size:15px;font-weight:600;}
+.logo-sub{color:var(--gold);font-size:11px;letter-spacing:1.5px;text-transform:uppercase;}
+.hbadge{background:rgba(201,168,76,.15);border:1px solid rgba(201,168,76,.3);border-radius:20px;padding:4px 12px;font-size:11px;color:var(--gold);font-family:'IBM Plex Mono',monospace;}
+
+/* MAIN */
+main{max-width:700px;margin:0 auto;padding:3rem 1.5rem 4rem;}
+.hero{text-align:center;margin-bottom:2rem;}
+.hero h1{font-size:26px;font-weight:600;color:#fff;margin-bottom:6px;}
+.hero p{font-size:14px;color:rgba(255,255,255,.6);}
+
+/* SEARCH */
+.search-card{background:var(--white);border-radius:14px;padding:1.4rem;box-shadow:0 2px 16px rgba(11,31,58,.1);margin-bottom:1rem;}
+.search-row{display:flex;gap:.6rem;margin-bottom:.8rem;}
+.sw{flex:1;position:relative;}
+.sw input{width:100%;height:46px;border:2px solid var(--mist);border-radius:9px;padding:0 14px 0 44px;font-family:'IBM Plex Sans Thai',sans-serif;font-size:15px;color:var(--text);background:var(--pearl);outline:none;transition:border-color .15s;}
+.sw input:focus{border-color:var(--gold);background:var(--white);}
+.sw input::placeholder{color:#b0bac5;}
+.si{position:absolute;left:14px;top:50%;transform:translateY(-50%);font-size:17px;pointer-events:none;}
+.btn-search{height:46px;padding:0 22px;border-radius:9px;background:var(--navy);color:#fff;font-family:'IBM Plex Sans Thai',sans-serif;font-size:14px;font-weight:500;border:none;cursor:pointer;white-space:nowrap;}
+.btn-search:hover{opacity:.85;}
+
+/* CATEGORY CHIPS */
+.chips{display:flex;flex-wrap:wrap;gap:.4rem;}
+.chip{height:28px;padding:0 12px;border-radius:14px;font-size:12px;font-weight:500;cursor:pointer;border:1.5px solid var(--mist);background:var(--white);color:var(--sub);font-family:'IBM Plex Sans Thai',sans-serif;transition:all .15s;}
+.chip:hover{border-color:var(--navy);color:var(--navy);}
+.chip.on{background:var(--navy);color:#fff;border-color:var(--navy);}
+
+/* STATS */
+.result-stats{font-size:12px;color:rgba(255,255,255,.5);margin-bottom:.8rem;font-family:'IBM Plex Mono',monospace;}
+.result-stats strong{color:#fff;}
+
+/* RESULT LIST */
+.result-list{display:flex;flex-direction:column;gap:.6rem;}
+.store-card{background:var(--white);border:1px solid var(--mist);border-radius:10px;overflow:hidden;transition:box-shadow .15s;cursor:pointer;}
+.store-card:hover{box-shadow:0 4px 16px rgba(11,31,58,.1);}
+.store-card.open .sc-body{display:block;}
+.sc-head{display:flex;align-items:center;gap:12px;padding:12px 14px;}
+.sc-name{flex:1;font-size:13px;font-weight:500;color:var(--navy);}
+.sc-format{font-family:'IBM Plex Mono',monospace;font-size:12px;font-weight:500;color:var(--gold);background:var(--navy);padding:3px 10px;border-radius:4px;white-space:nowrap;}
+.sc-cat{font-size:11px;padding:2px 8px;border-radius:4px;white-space:nowrap;}
+.cat-spending{background:#EEF4FF;color:#2A4A8A;}
+.cat-join{background:#E8F5EE;color:#1B5E3B;}
+.cat-closed{background:#FDECEC;color:#C0392B;}
+.cat-other{background:#FFF8E6;color:#8a6500;}
+.sc-arrow{color:var(--sub);font-size:12px;transition:transform .2s;}
+.store-card.open .sc-arrow{transform:rotate(180deg);}
+.sc-body{display:none;padding:0 14px 14px;border-top:1px solid var(--mist);margin-top:0;}
+.sc-detail{margin-top:10px;}
+.sc-label{font-size:11px;color:var(--sub);text-transform:uppercase;letter-spacing:.5px;margin-bottom:3px;}
+.sc-value{font-size:13px;color:var(--text);white-space:pre-line;line-height:1.5;}
+.sc-format-big{font-size:22px;font-weight:600;font-family:'IBM Plex Mono',monospace;color:var(--navy);margin-top:2px;}
+.divider{height:1px;background:var(--mist);margin:10px 0;}
+
+/* EMPTY */
+.empty{text-align:center;padding:3rem 1rem;color:rgba(255,255,255,.4);}
+.empty .ei{font-size:40px;margin-bottom:.6rem;}
+.empty p{font-size:13px;}
+
+/* LOADING */
+.loading{text-align:center;padding:3rem;color:rgba(255,255,255,.4);font-size:13px;}
+</style>
+</head>
+<body>
+<canvas id="stars"></canvas>
+<header>
+  <div class="logo">
+    <div class="logo-mark">OS</div>
+    <div><div class="logo-text">ONESIAM</div><div class="logo-sub">Snap&Collect</div></div>
+  </div>
+  <div class="hbadge">Format Lookup</div>
+</header>
+<main>
+  <div class="hero">
+    <h1>ค้นหา Format ใบเสร็จ</h1>
+    <p>พิมพ์ชื่อร้านค้าเพื่อดูว่าต้องกรอก Format อะไร</p>
+  </div>
+
+  <div class="search-card">
+    <div class="search-row">
+      <div class="sw">
+        <span class="si">🔍</span>
+        <input type="text" id="q" placeholder="ชื่อร้านค้า เช่น Starbucks, After You, AIS..." autofocus onkeydown="if(event.key==='Enter')search()"/>
+      </div>
+      <button class="btn-search" onclick="search()">Search</button>
+    </div>
+    <div class="chips" id="chips"></div>
+  </div>
+
+  <div id="stats" class="result-stats" style="display:none"></div>
+  <div id="out"></div>
+</main>
+
+<script>
+var allData = [], fuse = null, activeCat = '', lastQ = '';
+
+// Load data
+fetch('snap-collect-data.json')
+  .then(function(r){ return r.json(); })
+  .then(function(d){
+    allData = d.stores || [];
+    buildChips(d.categories || []);
+    buildFuse();
+    showAll();
+  })
+  .catch(function(){ document.getElementById('out').innerHTML = '<div class="loading">⚠️ โหลดข้อมูลไม่ได้</div>'; });
+
+function buildFuse() {
+  fuse = new Fuse(allData, {
+    keys: ['name','receipt_format','notes'],
+    threshold: 0.35,
+    includeScore: true
+  });
+}
+
+function buildChips(cats) {
+  var c = document.getElementById('chips');
+  var all = '<button class="chip on" onclick="setCat(\'\',this)">ทั้งหมด</button>';
+  cats.forEach(function(cat){
+    all += '<button class="chip" onclick="setCat(\''+esc(cat)+'\',this)">'+esc(cat)+'</button>';
+  });
+  c.innerHTML = all;
+}
+
+function setCat(cat, btn) {
+  activeCat = cat;
+  document.querySelectorAll('.chip').forEach(function(b){ b.classList.remove('on'); });
+  btn.classList.add('on');
+  search();
+}
+
+function search() {
+  var q = document.getElementById('q').value.trim();
+  lastQ = q;
+  var results;
+  if (q) {
+    results = fuse.search(q).map(function(r){ return r.item; });
+  } else {
+    results = allData;
+  }
+  if (activeCat) {
+    results = results.filter(function(r){ return r.category === activeCat; });
+  }
+  render(results, q);
+}
+
+function showAll() {
+  render(allData, '');
+}
+
+function render(rows, q) {
+  var stats = document.getElementById('stats');
+  var out   = document.getElementById('out');
+
+  if (!rows.length) {
+    stats.style.display = 'none';
+    out.innerHTML = '<div class="empty"><div class="ei">🔎</div><p>ไม่พบร้านค้า</p></div>';
+    return;
+  }
+
+  stats.style.display = 'block';
+  stats.innerHTML = 'พบ <strong>' + rows.length + '</strong> ร้านค้า' + (q ? ' ที่ตรงกับ "' + esc(q) + '"' : '');
+
+  out.innerHTML = '<div class="result-list">' + rows.map(function(r, i) {
+    var catCls = r.category === 'Spending Only' ? 'cat-spending'
+               : r.category === 'JoinONESIAMCoin' ? 'cat-join'
+               : r.category === 'ShopClosed' ? 'cat-closed' : 'cat-other';
+    return '<div class="store-card" id="card'+i+'" onclick="toggle('+i+')">' +
+      '<div class="sc-head">' +
+        '<div class="sc-name">' + esc(r.name.split('\n')[0]) + '</div>' +
+        '<span class="sc-cat '+catCls+'">'+esc(r.category||'—')+'</span>' +
+        '<span class="sc-format">'+esc(r.receipt_format||'—')+'</span>' +
+        '<span class="sc-arrow">▼</span>' +
+      '</div>' +
+      '<div class="sc-body">' +
+        '<div class="sc-detail">' +
+          '<div class="sc-label">Receipt Format</div>' +
+          '<div class="sc-format-big">'+esc(r.receipt_format||'—')+'</div>' +
+        '</div>' +
+        (r.notes ? '<div class="divider"></div><div class="sc-detail"><div class="sc-label">หมายเหตุ / วิธีกรอก</div><div class="sc-value">'+esc(r.notes)+'</div></div>' : '') +
+        (r.name.indexOf('\n') > -1 ? '<div class="divider"></div><div class="sc-detail"><div class="sc-label">หมายเหตุเพิ่มเติม</div><div class="sc-value">'+esc(r.name.split('\n').slice(1).join('\n'))+'</div></div>' : '') +
+      '</div>' +
+    '</div>';
+  }).join('') + '</div>';
+}
+
+function toggle(i) {
+  var card = document.getElementById('card'+i);
+  card.classList.toggle('open');
+}
+
+function esc(s) { return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+// Stars
+(function(){
+  var c=document.getElementById('stars'),ctx=c.getContext('2d');
+  var C=['#F48FB1','#80DEEA','#FFF176','#A5D6A7','#CE93D8','#FFD54F','#64B5F6','#FF8A65','#80CBC4','#F06292'];
+  function star(x,y,r,col,t){var in_=r*.42;ctx.save();ctx.translate(x,y);ctx.rotate(t);ctx.beginPath();for(var i=0;i<10;i++){var rd=(i%2===0)?r:in_;var a=(i*Math.PI/5)-Math.PI/2;if(i===0)ctx.moveTo(Math.cos(a)*rd,Math.sin(a)*rd);else ctx.lineTo(Math.cos(a)*rd,Math.sin(a)*rd);}ctx.closePath();ctx.fillStyle=col;ctx.globalAlpha=.85;ctx.fill();ctx.restore();}
+  function init(){c.width=window.innerWidth;c.height=Math.max(window.innerHeight,document.body.scrollHeight);ctx.clearRect(0,0,c.width,c.height);for(var i=0;i<90;i++)star(Math.random()*c.width,Math.random()*c.height,Math.random()*4+6,C[Math.floor(Math.random()*C.length)],(Math.random()-.5)*.6);ctx.globalAlpha=1;}
+  window.addEventListener('resize',init);init();
+})();
+</script>
+</body>
+</html>
