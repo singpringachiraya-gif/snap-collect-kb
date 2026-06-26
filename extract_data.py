@@ -43,14 +43,29 @@ for row in ws2.iter_rows(min_row=2, values_only=True):
         "note": str(note).strip() if note else "",
     })
 
+# --- Sheet 3: Reject พิเศษ — rejection cases + copy messages -----------
+ws3 = wb["Reject พิเศษ "]
+rejects = []
+for row in ws3.iter_rows(min_row=2, values_only=True):
+    case, reason, message, store_note, *_ = list(row) + [None] * 5
+    if not case and not message:
+        continue
+    rejects.append({
+        "case":        str(case).strip()       if case       else "",
+        "reason":      str(reason).strip()     if reason     else "",
+        "message":     str(message).strip()    if message    else "",
+        "store_note":  str(store_note).strip() if store_note else "",
+    })
+
 categories = sorted({s["category"] for s in stores if s["category"]})
 
 with open(OUT, "w", encoding="utf-8") as f:
     json.dump({
         "stores": stores,
         "name_map": name_map,
+        "rejects": rejects,
         "categories": categories,
     }, f, ensure_ascii=False, indent=1)
 
 print(f"Wrote {len(stores)} stores, {len(name_map)} name-mapping rows, "
-      f"{len(categories)} categories -> {OUT}")
+      f"{len(rejects)} reject cases, {len(categories)} categories -> {OUT}")

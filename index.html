@@ -85,6 +85,31 @@ main{max-width:700px;margin:0 auto;padding:3rem 1.5rem 4rem;}
 
 /* LOADING */
 .loading{text-align:center;padding:3rem;color:rgba(255,255,255,.4);font-size:13px;}
+
+/* TABS */
+.tabs{display:flex;gap:.5rem;margin-bottom:1rem;}
+.tab-btn{flex:1;height:40px;border-radius:10px;border:1.5px solid rgba(201,168,76,.3);background:rgba(11,31,58,.5);color:rgba(255,255,255,.6);font-family:'IBM Plex Sans Thai',sans-serif;font-size:14px;font-weight:500;cursor:pointer;transition:all .15s;}
+.tab-btn.on{background:var(--navy);border-color:var(--gold);color:var(--gold);}
+.tab-btn:hover:not(.on){border-color:rgba(201,168,76,.6);color:rgba(255,255,255,.9);}
+.tab-pane{display:none;}
+.tab-pane.on{display:block;}
+
+/* REJECT CARDS */
+.rj-card{background:var(--white);border:1px solid var(--mist);border-radius:10px;overflow:hidden;margin-bottom:.6rem;cursor:pointer;transition:box-shadow .15s;}
+.rj-card:hover{box-shadow:0 4px 16px rgba(11,31,58,.1);}
+.rj-card.open .rj-body{display:block;}
+.rj-head{display:flex;align-items:flex-start;gap:12px;padding:12px 14px;}
+.rj-case{flex:1;font-size:13px;font-weight:500;color:var(--navy);line-height:1.4;}
+.rj-reason{font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:500;color:var(--red);background:#FDECEC;padding:3px 10px;border-radius:4px;white-space:nowrap;flex-shrink:0;}
+.rj-arrow{color:var(--sub);font-size:12px;transition:transform .2s;flex-shrink:0;}
+.rj-card.open .rj-arrow{transform:rotate(180deg);}
+.rj-body{display:none;padding:0 14px 14px;border-top:1px solid var(--mist);}
+.rj-msg-wrap{margin-top:10px;background:#F0FFF4;border:1px solid #A3D9A5;border-radius:8px;padding:10px 12px;}
+.rj-msg-label{font-size:11px;color:#276749;font-weight:500;text-transform:uppercase;letter-spacing:.5px;margin-bottom:4px;}
+.rj-msg{font-size:13px;color:var(--text);white-space:pre-line;line-height:1.6;}
+.btn-copy{margin-top:8px;height:30px;padding:0 14px;border-radius:6px;background:var(--navy);color:#fff;border:none;cursor:pointer;font-size:12px;font-family:'IBM Plex Sans Thai',sans-serif;}
+.btn-copy:hover{opacity:.85;}
+.rj-store{margin-top:8px;font-size:12px;color:var(--sub);background:var(--pearl);border-radius:6px;padding:6px 10px;white-space:pre-line;}
 </style>
 </head>
 <body>
@@ -98,27 +123,58 @@ main{max-width:700px;margin:0 auto;padding:3rem 1.5rem 4rem;}
 </header>
 <main>
   <div class="hero">
-    <h1>ค้นหา Format ใบเสร็จ</h1>
-    <p>พิมพ์ชื่อร้านค้าเพื่อดูว่าต้องกรอก Format อะไร</p>
+    <h1>Snap&Collect — Knowledge Base</h1>
+    <p>ค้นหาข้อมูลร้านค้าและ Reject พิเศษ</p>
   </div>
 
-  <div class="search-card">
-    <div class="search-row">
-      <div class="sw">
-        <span class="si">🔍</span>
-        <input type="text" id="q" placeholder="ชื่อร้านค้า เช่น Starbucks, After You, AIS..." autofocus onkeydown="if(event.key==='Enter')search()"/>
+  <div class="tabs">
+    <button class="tab-btn on" onclick="switchTab('format',this)">🧾 Format ใบเสร็จ</button>
+    <button class="tab-btn" onclick="switchTab('reject',this)">❌ Reject พิเศษ</button>
+  </div>
+
+  <!-- Tab 1: Format Lookup -->
+  <div id="tab-format" class="tab-pane on">
+    <div class="search-card">
+      <div class="search-row">
+        <div class="sw">
+          <span class="si">🔍</span>
+          <input type="text" id="q" placeholder="ชื่อร้านค้า เช่น Starbucks, After You, AIS..." autofocus onkeydown="if(event.key==='Enter')search()"/>
+        </div>
+        <button class="btn-search" onclick="search()">Search</button>
       </div>
-      <button class="btn-search" onclick="search()">Search</button>
+      <div class="chips" id="chips"></div>
     </div>
-    <div class="chips" id="chips"></div>
+    <div id="stats" class="result-stats" style="display:none"></div>
+    <div id="out"></div>
   </div>
 
-  <div id="stats" class="result-stats" style="display:none"></div>
-  <div id="out"></div>
+  <!-- Tab 2: Reject พิเศษ -->
+  <div id="tab-reject" class="tab-pane">
+    <div class="search-card">
+      <div class="search-row">
+        <div class="sw">
+          <span class="si">🔍</span>
+          <input type="text" id="rq" placeholder="ค้นหากรณี Reject เช่น ซ้ำ, INACTIVE, ไม่ระบุสาขา..." onkeydown="if(event.key==='Enter')searchReject()"/>
+        </div>
+        <button class="btn-search" onclick="searchReject()">Search</button>
+      </div>
+    </div>
+    <div id="rstats" class="result-stats" style="display:none"></div>
+    <div id="rout"></div>
+  </div>
 </main>
 
 <script>
 var allData = [], fuse = null, activeCat = '', lastQ = '';
+var rejectData = [], fuseReject = null;
+
+// Tab switching
+function switchTab(tab, btn) {
+  document.querySelectorAll('.tab-btn').forEach(function(b){ b.classList.remove('on'); });
+  document.querySelectorAll('.tab-pane').forEach(function(p){ p.classList.remove('on'); });
+  btn.classList.add('on');
+  document.getElementById('tab-' + tab).classList.add('on');
+}
 
 // Load data
 fetch('snap-collect-data.json')
@@ -128,6 +184,9 @@ fetch('snap-collect-data.json')
     buildChips(d.categories || []);
     buildFuse();
     showAll();
+    rejectData = d.rejects || [];
+    fuseReject = new Fuse(rejectData, { keys: ['case','reason','message'], threshold: 0.4 });
+    renderReject(rejectData, '');
   })
   .catch(function(){ document.getElementById('out').innerHTML = '<div class="loading">⚠️ โหลดข้อมูลไม่ได้</div>'; });
 
@@ -220,6 +279,57 @@ function toggle(i) {
 }
 
 function esc(s) { return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+// ── Reject พิเศษ ──────────────────────────────────────────────────────────
+function searchReject() {
+  var q = document.getElementById('rq').value.trim();
+  var results = q ? fuseReject.search(q).map(function(r){ return r.item; }) : rejectData;
+  renderReject(results, q);
+}
+
+function renderReject(rows, q) {
+  var stats = document.getElementById('rstats');
+  var out   = document.getElementById('rout');
+  if (!rows.length) {
+    stats.style.display = 'none';
+    out.innerHTML = '<div class="empty"><div class="ei">🔎</div><p>ไม่พบกรณีที่ตรงกัน</p></div>';
+    return;
+  }
+  stats.style.display = 'block';
+  stats.innerHTML = 'พบ <strong>' + rows.length + '</strong> กรณี' + (q ? ' ที่ตรงกับ "' + esc(q) + '"' : '');
+  out.innerHTML = rows.map(function(r, i) {
+    var id = 'rj' + i;
+    return '<div class="rj-card" id="' + id + '" onclick="toggleRj(\'' + id + '\')">' +
+      '<div class="rj-head">' +
+        '<div class="rj-case">' + esc(r.case || r.message.split('\n')[0]) + '</div>' +
+        (r.reason ? '<span class="rj-reason">'+esc(r.reason)+'</span>' : '') +
+        '<span class="rj-arrow">▼</span>' +
+      '</div>' +
+      '<div class="rj-body">' +
+        (r.message ? '<div class="rj-msg-wrap">' +
+          '<div class="rj-msg-label">📋 ข้อความ COPY ไปได้เลย</div>' +
+          '<div class="rj-msg" id="msg'+i+'">' + esc(r.message) + '</div>' +
+          '<button class="btn-copy" onclick="copyMsg(event,\'msg'+i+'\')">Copy ข้อความ</button>' +
+        '</div>' : '') +
+        (r.store_note ? '<div class="rj-store">🏪 ' + esc(r.store_note) + '</div>' : '') +
+      '</div>' +
+    '</div>';
+  }).join('');
+}
+
+function toggleRj(id) {
+  document.getElementById(id).classList.toggle('open');
+}
+
+function copyMsg(e, id) {
+  e.stopPropagation();
+  var text = document.getElementById(id).innerText;
+  navigator.clipboard.writeText(text).then(function() {
+    var btn = e.target;
+    btn.textContent = 'Copied ✓';
+    setTimeout(function(){ btn.textContent = 'Copy ข้อความ'; }, 2000);
+  });
+}
 
 // Stars
 (function(){
