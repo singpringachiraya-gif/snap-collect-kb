@@ -141,7 +141,7 @@ main{max-width:700px;margin:0 auto;padding:3rem 1.5rem 4rem;}
       <div class="search-row">
         <div class="sw">
           <span class="si">🔍</span>
-          <input type="text" id="q" placeholder="ชื่อร้านค้า เช่น Starbucks, After You, AIS..." autofocus onkeydown="if(event.key==='Enter')search()" oninput="toggleClear('q','qclear')"/>
+          <input type="text" id="q" placeholder="ชื่อร้านค้า เช่น Starbucks, After You, AIS..." autofocus oninput="search();toggleClear('q','qclear')"/>
           <button class="btn-clear" id="qclear" onclick="clearSearch('q','qclear')" title="ล้างคำค้นหา">✕</button>
         </div>
         <button class="btn-search" onclick="search()">Search</button>
@@ -158,7 +158,7 @@ main{max-width:700px;margin:0 auto;padding:3rem 1.5rem 4rem;}
       <div class="search-row">
         <div class="sw">
           <span class="si">🔍</span>
-          <input type="text" id="rq" placeholder="ค้นหากรณี Reject เช่น ซ้ำ, INACTIVE, ไม่ระบุสาขา..." onkeydown="if(event.key==='Enter')searchReject()" oninput="toggleClear('rq','rqclear')"/>
+          <input type="text" id="rq" placeholder="ค้นหากรณี Reject เช่น ซ้ำ, INACTIVE, ไม่ระบุสาขา..." oninput="searchReject();toggleClear('rq','rqclear')"/>
           <button class="btn-clear" id="rqclear" onclick="clearSearch('rq','rqclear',true)" title="ล้างคำค้นหา">✕</button>
         </div>
         <button class="btn-search" onclick="searchReject()">Search</button>
