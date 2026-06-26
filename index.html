@@ -64,6 +64,10 @@ main{max-width:700px;margin:0 auto;padding:3rem 1.5rem 4rem;}
 .cat-spending{background:#EEF4FF;color:#2A4A8A;}
 .cat-join{background:#E8F5EE;color:#1B5E3B;}
 .cat-closed{background:#FDECEC;color:#C0392B;}
+.cat-external{background:#F3E8FF;color:#6B21A8;}
+.cat-popup{background:#FFF0F9;color:#9D174D;}
+.cat-another{background:#E0F2FE;color:#0369A1;}
+.cat-tna{background:#F1F5F9;color:#475569;}
 .cat-other{background:#FFF8E6;color:#8a6500;}
 .sc-arrow{color:var(--sub);font-size:12px;transition:transform .2s;}
 .store-card.open .sc-arrow{transform:rotate(180deg);}
@@ -186,7 +190,11 @@ function render(rows, q) {
   out.innerHTML = '<div class="result-list">' + rows.map(function(r, i) {
     var catCls = r.category === 'Spending Only' ? 'cat-spending'
                : r.category === 'JoinONESIAMCoin' ? 'cat-join'
-               : r.category === 'ShopClosed' ? 'cat-closed' : 'cat-other';
+               : r.category === 'ShopClosed' ? 'cat-closed'
+               : r.category === 'External' ? 'cat-external'
+               : r.category === 'Popup&Event' ? 'cat-popup'
+               : r.category === 'AnotherShopingCenter' ? 'cat-another'
+               : r.category === 'TNA' ? 'cat-tna' : 'cat-other';
     return '<div class="store-card" id="card'+i+'" onclick="toggle('+i+')">' +
       '<div class="sc-head">' +
         '<div class="sc-name">' + esc(r.name.split('\n')[0]) + '</div>' +

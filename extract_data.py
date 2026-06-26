@@ -9,7 +9,7 @@ Place the admin's master workbook in this same folder, then re-run:
 import json
 import openpyxl
 
-SRC = r"รวมข้อมูลการสะสมใบเสร็จ Snap&Collect.xlsx"
+SRC = r"รวมข้อมูลการสะสมใบเสร็จ Snap&Collect (1).xlsx"
 OUT = r"snap-collect-data.json"
 
 wb = openpyxl.load_workbook(SRC, data_only=True)

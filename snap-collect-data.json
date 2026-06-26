@@ -11121,11 +11121,187 @@
    "extra": ""
   },
   {
-   "no": null,
+   "no": 1557,
    "name": "Bread Talk ICON Fl. G",
    "receipt_format": "ใช้ tax invoice (ABB)",
    "notes": "เช่่น 35",
-   "category": "",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": 1558,
+   "name": "หัวบิล CTM F&D Company Limited - CTM SPD Fl. G",
+   "receipt_format": "No.",
+   "notes": "",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Dunlopillo Exclusive Bed Club EXT_Central Rama 3 null",
+   "receipt_format": "-",
+   "notes": "Central Rama 3/ 02-043-2094",
+   "category": "External",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Dunlopillo Exclusive Bed Club EXT_Seacon Square null",
+   "receipt_format": "-",
+   "notes": "Seconsquare Bangkae / 063-265-4661 / 02-108-4113",
+   "category": "External",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Dunlopillo Exclusive Bed Club EXT_Central Rama 3 null",
+   "receipt_format": "-",
+   "notes": "Rama 3 / 097-985-2623",
+   "category": "External",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Dunlopillo Exclusive Bed Club EXT_Thonglor null",
+   "receipt_format": "-",
+   "notes": "Thonglor / 097-985-6656",
+   "category": "External",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Dunlopillo Exclusive Bed Club EXT_Bangna null",
+   "receipt_format": "-",
+   "notes": "Bangna / 063-224-5921 / 087-764-5779 / 092-259-4776",
+   "category": "External",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Dunlopillo Exclusive Bed Club EXT_Seconsquare Bangkae null",
+   "receipt_format": "-",
+   "notes": "Seconsquare Bangkae",
+   "category": "External",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Dunlopillo Exclusive Bed Club EXT_Seacon Square null",
+   "receipt_format": "-",
+   "notes": "Seconsquare / 063-206-5666",
+   "category": "External",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Dunlopillo Exclusive Bed Club EXT_Rama 9 null",
+   "receipt_format": "-",
+   "notes": "Rama 9 / 063-665-9290",
+   "category": "External",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Dunlopillo Exclusive Bed Club EXT_CDC null",
+   "receipt_format": "-",
+   "notes": "CDC / 02-101-6755",
+   "category": "External",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Lotus Sleep Studio EXT_บางนา null",
+   "receipt_format": "-",
+   "notes": "บางนา / 083-096-0160",
+   "category": "External",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Lotus Sleep Studio EXT_ประดิษฐ์มนูธรรม null",
+   "receipt_format": "-",
+   "notes": "ประดิษฐ์มนูธรรม / 02-288-0228 / 096-949-1525",
+   "category": "External",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Lotus Sleep Studio EXT_Paradise Park null",
+   "receipt_format": "-",
+   "notes": "Paradise Park / 089-983-4774 (CLS-SH034)",
+   "category": "External",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Lotus Sleep Studio EXT_RATCHATHEWI null",
+   "receipt_format": "-",
+   "notes": "RATCHATHEWI / 02-214-3804 / 095-409-9062",
+   "category": "External",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Mattress City EXT_เทสโก้โลตัส - บางกะปิ null",
+   "receipt_format": "-",
+   "notes": "โลตัส - บางกะปิ / 084-455-2462",
+   "category": "External",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Mattress City EXT_เทสโก้โลตัส - บางปู null",
+   "receipt_format": "-",
+   "notes": "โลตัส - บางปู / 097-959-2529",
+   "category": "External",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Mattress City EXT_พระราม 9 null",
+   "receipt_format": "-",
+   "notes": "พระราม 9 / 097-991-9599",
+   "category": "External",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Mattress City EXT_กาญจนบุรี null",
+   "receipt_format": "-",
+   "notes": "กาญจนบุรี / 094-352-5465",
+   "category": "External",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Mattress City EXT_สิรินธร null",
+   "receipt_format": "-",
+   "notes": "สิรินธร / 065-497-1465",
+   "category": "External",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Mattress City EXT_นครชัยศรี null",
+   "receipt_format": "นครชัยศรี",
+   "notes": "นครชัยศรี / 083-821-7128",
+   "category": "External",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Mattress City EXT_รามคำแหง null",
+   "receipt_format": "รามคำแหง",
+   "notes": "รามคำแหง / 097-964-2526",
+   "category": "External",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "BEDGEAR PERFORMANCE SHOP EXT_Crystal Design Center null",
+   "receipt_format": "CDC",
+   "notes": "061 419 9369",
+   "category": "External",
    "extra": ""
   }
  ],
@@ -11973,6 +12149,7 @@
  ],
  "categories": [
   "AnotherShopingCenter",
+  "External",
   "JoinONESIAMCoin",
   "Popup&Event",
   "ShopClosed",
