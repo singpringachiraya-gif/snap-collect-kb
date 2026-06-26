@@ -12147,6 +12147,332 @@
    "note": "สะสมเข้าร้าน TrueShop"
   }
  ],
+ "rejects": [
+  {
+   "case": "ACC: สมาชิกลูกค้าไม่สมบูรณ์ ไม่มีชื่อสกุล",
+   "reason": "ข้อมูลสมาชิกไม่สมบูรณ์ สามารถดำเนินการอัพเดทข้อมูลชื่อ-สกุลเพิ่มเติม",
+   "message": "ไม่ต้องพิมพ์แล้ว มีใน Reject Reason เลย\nเริ่มใช้ 16-Sep2025",
+   "store_note": ""
+  },
+  {
+   "case": "ลูกค้ามีสถานะเป็น INACTIVE ไม่สามารถให้ Coin ได่",
+   "reason": "อื่นๆ",
+   "message": "เนื่องจากข้อมูลสถานะ INACTIVE\nหากมีข้อสงสัยเพิ่มเติมกรุณาติดต่อ Contact Center  02-111- 6161",
+   "store_note": ""
+  },
+  {
+   "case": "รายการนี้ไม่พบข้อมูล Onesiam App Member ในระบบ \nกรุณาติดต่อเจ้าหน้าที่",
+   "reason": "อื่นๆ",
+   "message": "รายการนี้ไม่พบข้อมูล Onesiam App Member ในระบบ \nกรุณาติดต่อเจ้าหน้าที่ Contact Center 02-111-6161",
+   "store_note": ""
+  },
+  {
+   "case": "พวกใบเสร็จที่มีร้านค้าในศูนย์การค้า แต่ไม่มีรายละเอียดระบุสาขาอะไร สามารถใช้เหตุผลนี้ได้",
+   "reason": "อื่นๆ",
+   "message": "เนื่องจาก ใบเสร็จไม่ระบุร้านค้าและสาขารบกวนส่งข้อมูลเพิ่มเติมได้ที่ contact center 02-111-6161",
+   "store_note": ""
+  },
+  {
+   "case": "พวกใบเสร็จที่มีร้านค้าในศูนย์การค้า แต่ไม่มีรายละเอียดระบุสาขาอะไร สามารถใช้เหตุผลนี้ได้",
+   "reason": "อื่นๆ",
+   "message": "เนื่องจาก ใบเสร็จไม่ระบุสาขา\nรบกวนส่งข้อมูลเพิ่มเติมได้ที่ contact center 02-111-6161",
+   "store_note": ""
+  },
+  {
+   "case": "พวกใบรองบิล ใบรายการอาหาร ที่ Reject แล้วยังถ่ายมาซ้ำๆ ใช้อันนี้ได้เลย",
+   "reason": "อื่นๆ",
+   "message": "เนื่องจากภาพไม่ใช่ใบเสร็จ/ใบรองบิล รบกวนติดต่อร้านค้าเพื่อขอใบเสร็จที่มีข้อมูลครบถ้วนในการสะสมนะคะ",
+   "store_note": ""
+  },
+  {
+   "case": "พวกถ่ายบิลซ้ำๆ",
+   "reason": "อื่นๆ",
+   "message": "เนื่องจากพบการถ่ายภาพใบเสร็จซ้ำกันจำนวนหลายครั้ง อาจส่งผลให้เกิดการระงับ Account เพื่อตรวจสอบ\nรบกวนหลีกเลี่ยงการถ่ายใบเสร็จซ้ำกันค่ะ",
+   "store_note": ""
+  },
+  {
+   "case": "บิลเติมเงินเข้าบัตรสมาชิก เช่น สตาร์บัค แล้วถ่ายซ้ำๆ",
+   "reason": "อื่นๆ",
+   "message": "เนื่องจากเป็นการเติมเงินเข้าบัตรสมาชิกร้านค้าไม่เข้าร่วมเงื่อนไขการสะสมยอดซื้อค่ะ",
+   "store_note": "This is a top-up transaction for the store’s membership card and is not eligible for purchase accumulation"
+  },
+  {
+   "case": "พวกถ่ายบิลที่สะสมไม่ได้บ่อยๆซ้ำๆ Reject ก็ไม่หยุด",
+   "reason": "อื่นๆ",
+   "message": "พบการถ่ายใบเสร็จไม่ตรงเงื่อนไขการสะสมจำนวนหลายครั้ง อาจส่งผลให้ถูกระงับ Account เพื่อตรวจสอบเพิ่มเติม",
+   "store_note": ""
+  },
+  {
+   "case": "พวกใบเสร็็จที่ไม่รู้ร้านค้า",
+   "reason": "อื่นๆ",
+   "message": "เนื่องจาก ใบเสร็จไม่ระบุร้านค้า รบกวนส่งข้อมูลเพิ่มเติมได้ที่ contact center 02-111-6161",
+   "store_note": ""
+  },
+  {
+   "case": "",
+   "reason": "อื่นๆ",
+   "message": "รบกวนถ่ายใบเสร็จให้เห็นข้อมูลเต็มใบนะคะ",
+   "store_note": ""
+  },
+  {
+   "case": "",
+   "reason": "อื่นๆ",
+   "message": "รายการซื้อคูปองไม่เข้าร่วมเงื่อนไขการสะสมยอดใช้จ่าย",
+   "store_note": ""
+  },
+  {
+   "case": "รายชื่อร้านค้า TNA=สะสมจากร้านค้าเท่านั้น @18/04/2026",
+   "reason": "",
+   "message": "",
+   "store_note": ""
+  },
+  {
+   "case": "No.",
+   "reason": "Shop Name",
+   "message": "Building",
+   "store_note": ""
+  },
+  {
+   "case": "1",
+   "reason": "A Collection",
+   "message": "ICONSIAM",
+   "store_note": ""
+  },
+  {
+   "case": "2",
+   "reason": "BURBERRY",
+   "message": "ICONSIAM",
+   "store_note": ""
+  },
+  {
+   "case": "3",
+   "reason": "Club21 Multilabel",
+   "message": "ICONSIAM",
+   "store_note": ""
+  },
+  {
+   "case": "4",
+   "reason": "Easy Buddy",
+   "message": "ICONSIAM",
+   "store_note": ""
+  },
+  {
+   "case": "5",
+   "reason": "ICON WASH",
+   "message": "ICONSIAM",
+   "store_note": ""
+  },
+  {
+   "case": "6",
+   "reason": "ISSEY MIYAKE",
+   "message": "ICONSIAM",
+   "store_note": ""
+  },
+  {
+   "case": "7",
+   "reason": "Issey Miyake by Siam Takashimaya",
+   "message": "ICONSIAM",
+   "store_note": ""
+  },
+  {
+   "case": "8",
+   "reason": "OPTICANA",
+   "message": "ICONSIAM",
+   "store_note": ""
+  },
+  {
+   "case": "9",
+   "reason": "PRUKSA PRIME CLINIC",
+   "message": "ICONSIAM",
+   "store_note": ""
+  },
+  {
+   "case": "10",
+   "reason": "THANN",
+   "message": "ICONSIAM",
+   "store_note": ""
+  },
+  {
+   "case": "11",
+   "reason": "Gadget house",
+   "message": "ICS",
+   "store_note": ""
+  },
+  {
+   "case": "12",
+   "reason": "HQ",
+   "message": "ICS",
+   "store_note": ""
+  },
+  {
+   "case": "13",
+   "reason": "Banpresto",
+   "message": "Siam Center",
+   "store_note": ""
+  },
+  {
+   "case": "14",
+   "reason": "Dickies",
+   "message": "Siam Center",
+   "store_note": ""
+  },
+  {
+   "case": "15",
+   "reason": "Easy Buddy",
+   "message": "Siam Center",
+   "store_note": ""
+  },
+  {
+   "case": "16",
+   "reason": "Frank Garcon",
+   "message": "Siam Center",
+   "store_note": ""
+  },
+  {
+   "case": "17",
+   "reason": "LEISURE PROJECT",
+   "message": "Siam Center",
+   "store_note": ""
+  },
+  {
+   "case": "18",
+   "reason": "PRUKSA CLINIC",
+   "message": "Siam Center",
+   "store_note": ""
+  },
+  {
+   "case": "19",
+   "reason": "VANS",
+   "message": "Siam Center",
+   "store_note": ""
+  },
+  {
+   "case": "20",
+   "reason": "VILLAINS SF",
+   "message": "Siam Center",
+   "store_note": ""
+  },
+  {
+   "case": "21",
+   "reason": "3.1 Phillip Lim",
+   "message": "Siam Discovery",
+   "store_note": ""
+  },
+  {
+   "case": "22",
+   "reason": "alexanderwang",
+   "message": "Siam Discovery",
+   "store_note": ""
+  },
+  {
+   "case": "23",
+   "reason": "Club21 Men",
+   "message": "Siam Discovery",
+   "store_note": ""
+  },
+  {
+   "case": "24",
+   "reason": "Club21 Multilabel",
+   "message": "Siam Discovery",
+   "store_note": ""
+  },
+  {
+   "case": "25",
+   "reason": "comme des garcons",
+   "message": "Siam Discovery",
+   "store_note": ""
+  },
+  {
+   "case": "26",
+   "reason": "ISSEY MIYAKE",
+   "message": "SIAM DISCOVERY",
+   "store_note": ""
+  },
+  {
+   "case": "27",
+   "reason": "The north face",
+   "message": "Siam Discovery",
+   "store_note": ""
+  },
+  {
+   "case": "28",
+   "reason": "APEX Skincare",
+   "message": "SIAM PARAGON",
+   "store_note": ""
+  },
+  {
+   "case": "29",
+   "reason": "BOSE",
+   "message": "SIAM PARAGON",
+   "store_note": ""
+  },
+  {
+   "case": "30",
+   "reason": "D WATCH CAFÉ",
+   "message": "SIAM PARAGON",
+   "store_note": ""
+  },
+  {
+   "case": "31",
+   "reason": "GEMS PAVILION",
+   "message": "SIAM PARAGON",
+   "store_note": ""
+  },
+  {
+   "case": "32",
+   "reason": "Jasmin",
+   "message": "SIAM PARAGON",
+   "store_note": ""
+  },
+  {
+   "case": "33",
+   "reason": "P & P Jewelry",
+   "message": "SIAM PARAGON",
+   "store_note": ""
+  },
+  {
+   "case": "34",
+   "reason": "RALPH LAURENT HOME FOR DMHOME",
+   "message": "SIAM PARAGON",
+   "store_note": ""
+  },
+  {
+   "case": "35",
+   "reason": "Sirus Tanya",
+   "message": "SIAM PARAGON",
+   "store_note": ""
+  },
+  {
+   "case": "36",
+   "reason": "Taling Pling",
+   "message": "SIAM PARAGON",
+   "store_note": ""
+  },
+  {
+   "case": "37",
+   "reason": "THANN",
+   "message": "SIAM PARAGON",
+   "store_note": ""
+  },
+  {
+   "case": "38",
+   "reason": "Thom Browne",
+   "message": "SIAM PARAGON",
+   "store_note": ""
+  },
+  {
+   "case": "39",
+   "reason": "TREZ JEWELRY",
+   "message": "SIAM PARAGON",
+   "store_note": ""
+  },
+  {
+   "case": "40",
+   "reason": "XAVIER",
+   "message": "SIAM PARAGON",
+   "store_note": ""
+  }
+ ],
  "categories": [
   "AnotherShopingCenter",
   "External",
