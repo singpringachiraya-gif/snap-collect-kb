@@ -35,10 +35,13 @@ main{max-width:700px;margin:0 auto;padding:3rem 1.5rem 4rem;}
 .search-card{background:var(--white);border-radius:14px;padding:1.4rem;box-shadow:0 2px 16px rgba(11,31,58,.1);margin-bottom:1rem;}
 .search-row{display:flex;gap:.6rem;margin-bottom:.8rem;}
 .sw{flex:1;position:relative;}
-.sw input{width:100%;height:46px;border:2px solid var(--mist);border-radius:9px;padding:0 14px 0 44px;font-family:'IBM Plex Sans Thai',sans-serif;font-size:15px;color:var(--text);background:var(--pearl);outline:none;transition:border-color .15s;}
+.sw input{width:100%;height:46px;border:2px solid var(--mist);border-radius:9px;padding:0 38px 0 44px;font-family:'IBM Plex Sans Thai',sans-serif;font-size:15px;color:var(--text);background:var(--pearl);outline:none;transition:border-color .15s;}
 .sw input:focus{border-color:var(--gold);background:var(--white);}
 .sw input::placeholder{color:#b0bac5;}
 .si{position:absolute;left:14px;top:50%;transform:translateY(-50%);font-size:17px;pointer-events:none;}
+.btn-clear{position:absolute;right:10px;top:50%;transform:translateY(-50%);width:22px;height:22px;border-radius:50%;background:var(--mist);border:none;cursor:pointer;font-size:13px;color:var(--sub);display:none;align-items:center;justify-content:center;line-height:1;}
+.btn-clear:hover{background:#d0cbc3;color:var(--text);}
+.btn-clear.show{display:flex;}
 .btn-search{height:46px;padding:0 22px;border-radius:9px;background:var(--navy);color:#fff;font-family:'IBM Plex Sans Thai',sans-serif;font-size:14px;font-weight:500;border:none;cursor:pointer;white-space:nowrap;}
 .btn-search:hover{opacity:.85;}
 
@@ -138,7 +141,8 @@ main{max-width:700px;margin:0 auto;padding:3rem 1.5rem 4rem;}
       <div class="search-row">
         <div class="sw">
           <span class="si">🔍</span>
-          <input type="text" id="q" placeholder="ชื่อร้านค้า เช่น Starbucks, After You, AIS..." autofocus onkeydown="if(event.key==='Enter')search()"/>
+          <input type="text" id="q" placeholder="ชื่อร้านค้า เช่น Starbucks, After You, AIS..." autofocus onkeydown="if(event.key==='Enter')search()" oninput="toggleClear('q','qclear')"/>
+          <button class="btn-clear" id="qclear" onclick="clearSearch('q','qclear')" title="ล้างคำค้นหา">✕</button>
         </div>
         <button class="btn-search" onclick="search()">Search</button>
       </div>
@@ -154,7 +158,8 @@ main{max-width:700px;margin:0 auto;padding:3rem 1.5rem 4rem;}
       <div class="search-row">
         <div class="sw">
           <span class="si">🔍</span>
-          <input type="text" id="rq" placeholder="ค้นหากรณี Reject เช่น ซ้ำ, INACTIVE, ไม่ระบุสาขา..." onkeydown="if(event.key==='Enter')searchReject()"/>
+          <input type="text" id="rq" placeholder="ค้นหากรณี Reject เช่น ซ้ำ, INACTIVE, ไม่ระบุสาขา..." onkeydown="if(event.key==='Enter')searchReject()" oninput="toggleClear('rq','rqclear')"/>
+          <button class="btn-clear" id="rqclear" onclick="clearSearch('rq','rqclear',true)" title="ล้างคำค้นหา">✕</button>
         </div>
         <button class="btn-search" onclick="searchReject()">Search</button>
       </div>
@@ -167,6 +172,20 @@ main{max-width:700px;margin:0 auto;padding:3rem 1.5rem 4rem;}
 <script>
 var allData = [], fuse = null, activeCat = '', lastQ = '';
 var rejectData = [], fuseReject = null;
+
+// Clear button helpers
+function toggleClear(inputId, btnId) {
+  var btn = document.getElementById(btnId);
+  if (document.getElementById(inputId).value) btn.classList.add('show');
+  else btn.classList.remove('show');
+}
+function clearSearch(inputId, btnId, isReject) {
+  document.getElementById(inputId).value = '';
+  document.getElementById(btnId).classList.remove('show');
+  if (isReject) { renderReject(rejectData, ''); }
+  else { activeCat = ''; document.querySelectorAll('.chip').forEach(function(b){ b.classList.remove('on'); }); document.querySelector('.chip').classList.add('on'); showAll(); }
+  document.getElementById(inputId).focus();
+}
 
 // Tab switching
 function switchTab(tab, btn) {
