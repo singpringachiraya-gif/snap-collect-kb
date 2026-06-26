@@ -2884,7 +2884,7 @@
    "no": 360,
    "name": "บริษัท รตนัตตยา จำกัด - PAWIS SC Fl. 1",
    "receipt_format": "Receipt no",
-   "notes": "PAWIS ICON  : Reject ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
+   "notes": "ตัวอย่างเลขที่ใบเสร็จ : 00000002267\nช่องทางการจ่าย เงินสด ใช้ siam gift card\n\nPAWIS ICON  : Reject ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
