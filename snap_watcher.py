@@ -22,8 +22,9 @@ class ExcelHandler(FileSystemEventHandler):
     def __init__(self):
         self._last_run = 0
 
-    def on_modified(self, event):
-        if os.path.normcase(event.src_path) != os.path.normcase(WATCH_FILE):
+    def _check(self, path):
+        """Called on any filesystem event — OneDrive may fire created/moved instead of modified."""
+        if os.path.normcase(path) != os.path.normcase(WATCH_FILE):
             return
         now = time.time()
         if now - self._last_run < DEBOUNCE_SECONDS:
@@ -32,6 +33,19 @@ class ExcelHandler(FileSystemEventHandler):
         print(f"[watcher] ตรวจพบ Excel เปลี่ยน — รอ {SYNC_WAIT} วินาที ให้ OneDrive sync เสร็จ...")
         time.sleep(SYNC_WAIT)
         _run_extract_and_push()
+
+    def on_modified(self, event):
+        if not event.is_directory:
+            self._check(event.src_path)
+
+    def on_created(self, event):
+        if not event.is_directory:
+            self._check(event.src_path)
+
+    def on_moved(self, event):
+        if not event.is_directory:
+            self._check(event.dest_path)
+
 
 
 def _run_extract_and_push():
