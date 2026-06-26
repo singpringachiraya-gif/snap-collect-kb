@@ -6,10 +6,10 @@ Place the admin's master workbook in this same folder, then re-run:
     pip install openpyxl
     python extract_data.py
 """
-import json
+import json, os
 import openpyxl
 
-SRC = r"รวมข้อมูลการสะสมใบเสร็จ Snap&Collect (1).xlsx"
+SRC = os.environ.get("SNAP_EXCEL_SRC") or r"รวมข้อมูลการสะสมใบเสร็จ Snap&Collect (1).xlsx"
 OUT = r"snap-collect-data.json"
 
 wb = openpyxl.load_workbook(SRC, data_only=True)
