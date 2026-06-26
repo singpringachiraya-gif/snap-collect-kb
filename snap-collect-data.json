@@ -11303,6 +11303,14 @@
    "notes": "061 419 9369",
    "category": "External",
    "extra": ""
+  },
+  {
+   "no": null,
+   "name": "mink",
+   "receipt_format": "Id",
+   "notes": "1234",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
   }
  ],
  "name_map": [
