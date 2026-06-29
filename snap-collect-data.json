@@ -3122,7 +3122,7 @@
   },
   {
    "no": 392,
-   "name": "The Bibimbab ICON Fl. 6 (JoinCoin) /  The Bibimbab SPD Fl. G\nใบรองบิล Check xxxx Reject : ภาพไม่ใช่ใบเสร็จ",
+   "name": "The Bibimbab ICON Fl. 6 (JoinCoin) /  The Bibimbab SPD Fl. G",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทั้ง 2 สาขา  20239414-10076 \n*** สะสมแค่เฉพาะบิลที่มี  Receipt No ถ้าไม่มี Reject: ไม่ใช่ใบเสร็จ\nอัพเดท 31/01/2026",
    "category": "JoinONESIAMCoin",
@@ -3266,7 +3266,7 @@
   },
   {
    "no": 410,
-   "name": "Issey Miyake (SD) / Issey Miyake SD Fl. M",
+   "name": "Issey Miyake SD Fl. M",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
    "category": "Spending Only",
@@ -3882,9 +3882,9 @@
   },
   {
    "no": 488,
-   "name": "Dear Tummy by Intermart ICON Fl. G (ซื้อ GV ไม่สะสมให้)",
+   "name": "Dear Tummy by Intermart ICON Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "กรอกครบทุกตัวบนใบเสร็จ เช่น 1505415022",
+   "notes": "กรอกครบทุกตัวบนใบเสร็จ เช่น 1505415022 (ซื้อ GV ไม่สะสมให้)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -4102,14 +4102,6 @@
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "",
    "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 517,
-   "name": "Zippo SC Fl. 1 * ปิดถาวร 7-jan-2026",
-   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "กรอกครบทุกตัว *เลขอยู่ข้างล่างอยู่หลัง วัน/เดือน/ปี Ex.2-7511",
-   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -4554,7 +4546,7 @@
   },
   {
    "no": 572,
-   "name": "Fuku Matcha Kyoto Cafe : Fuku Matcha Kyoto Cafe SC Fl. 2 / Fuku Matcha Kyoto Cafe ICS Fl. G\n Fuku Matcha Cross 2 SPD (Shop Closed)",
+   "name": "Fuku Matcha Kyoto Cafe SC Fl. 2 / Fuku Matcha Kyoto Cafe ICS Fl. G",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "ฝากเช็คช่องทางการชำระเงิน บางที Shopee,Lineman,Grab ** ดูดีๆ\n คูปอง ONESIAM >> สะสมได้นับรวมได้เลย\nิอัพเดท 08/01/2026",
    "category": "JoinONESIAMCoin",
