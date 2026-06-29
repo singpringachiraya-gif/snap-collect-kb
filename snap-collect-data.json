@@ -2882,10 +2882,10 @@
   },
   {
    "no": 360,
-   "name": "บริษัท รตนัตตยา จำกัด - PAWIS SC Fl. 1",
+   "name": "บริษัท รตนัตตยา จำกัด - PAWIS SC Fl. 1 / PAWIS ICON Fl. 4 / PAWIS SPD Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "ตัวอย่างเลขที่ใบเสร็จ : 00000002267\nช่องทางการจ่าย เงินสด ใช้ siam gift card\n\nPAWIS ICON  : Reject ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
-   "category": "JoinONESIAMCoin",
+   "notes": "ตัวอย่างเลขที่ใบเสร็จ : 00000002267\nช่องทางการจ่าย เงินสด ใช้ siam gift card",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -2894,14 +2894,6 @@
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว เช่น 25029291",
    "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 362,
-   "name": "หัวบิล Y.M.F. International (Siamcenter)  - SHAKA SC Fl. 1  ** ร้านปิด 24-Dec-2025\nSalesPerson: SHAKA",
-   "receipt_format": "",
-   "notes": "",
-   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -2954,18 +2946,10 @@
   },
   {
    "no": 369,
-   "name": "บริษัท Discovery Retail  / DCR SD Fl. G - DCR SD Discovery Retial/Ecotopia Fl. G\nดูดีๆ ถ้ามี  DCR-Ecotopia SPD (ข้างล่างคำว่า DISCOVERY RETAIL) สะสมเข้า >>  Ecotopia SPD Fl. 5\n\n**หัวบิล Discovery Retail เฉพาะตึก SD ไม่ต้องดูรายการสินค้า --> สะสม DCR SD Fl. G ได้เลยค่ะ",
+   "name": "บริษัท Discovery Retail  / DCR SD Fl. G - DCR SD Discovery Retial/Ecotopia Fl. G",
    "receipt_format": "Pos-Reciept (PRH)",
-   "notes": "อัพเดท 01/12/2025\n1. สังเกต member กลางบิล ถ้ามี Reject : ใบเสร็จสะสมแล้ว (สะสมจากร้าน)\n2. มีเลข  Order ID ข้างล่างคือซื้อจาก ONESIAM APP Reject: ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp\n3. สินค้า iphone  Reject > ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp \n4. ถ้ามีตัวปั้มคำว่า CARLYN  สาขา ZPELL หรือ สาขาอื่นๆ Reject: ร้านค้าเปิดให้บริการในศูนย์การค้าอื่นๆ",
+   "notes": "อัพเดท 29/06/2026\n1. สังเกต member กลางบิล ถ้ามี Reject : ใบเสร็จสะสมแล้ว (สะสมจากร้าน)\n2.ดูดีๆ ถ้ามี  DCR-Ecotopia SPD (ข้างล่างคำว่า DISCOVERY RETAIL) สะสมเข้า >>  Ecotopia SPD Fl. 5\n3.หัวบิล Discovery Retail เฉพาะตึก SD ไม่ต้องดูรายการสินค้า --> สะสม DCR SD Fl. G ได้เลยค่ะ",
    "category": "JoinONESIAMCoin",
-   "extra": ""
-  },
-  {
-   "no": null,
-   "name": "หัวบิล บริษัท Discovery Retail  (มีตัวปั้ม ONESIAM Super App Online) ปั้มเพื่อให้แยกว่าบิลมาจากงานนี้\nสะสมเข้า HOUSE OF LUXE SALE SPD Fl. 5 (Event 26-29 Mar)\nชื่อแบรนด์: Amomento,  / Joshua Sanders / Open YY / Ambush  / Andersson Bell / White mountaineering",
-   "receipt_format": "Pos-Reciept (PRH)",
-   "notes": "ดูดีๆ!! ถ้าไม่มีตัวปั้มก็เช็ค DCR ปกติ",
-   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -3054,14 +3038,6 @@
    "receipt_format": "Receipt no",
    "notes": "Donna Chang SPD Fl. G (TNA สะสมที่ร้าน)",
    "category": "JoinONESIAMCoin",
-   "extra": ""
-  },
-  {
-   "no": 381,
-   "name": "Tasty Congee SPD Fl. G  **(ปิด 5-jan-2026)",
-   "receipt_format": "No (เลขที่)",
-   "notes": "PRG/00060156 กรอกแค่ 5 ตัวท้าย เช่น 60156\nTasty Congee&Noodle Wantun Shop ICON Fl. G ** สาขา ICON ปิดถาวร",
-   "category": "ShopClosed",
    "extra": ""
   },
   {
