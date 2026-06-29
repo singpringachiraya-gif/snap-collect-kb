@@ -9450,10 +9450,10 @@
   },
   {
    "no": 1048,
-   "name": "Pralet SPD Fl. G (JoinCoin 12-Mar-2026)",
+   "name": "Pralet SPD Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "20251121032\n( Food Deal : ONESIAM BOX - จำนวนชิ้นในเซ็ตที่ลูกค้าซื้อ )",
-   "category": "JoinONESIAMCoin",
+   "notes": "20251121032\n( Food Deal : ONESIAM BOX - จำนวนชิ้นในเซ็ตที่ลูกค้าซื้อ )\nปิด 30-June-2026 / อัพเดท 29-06-2026",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
