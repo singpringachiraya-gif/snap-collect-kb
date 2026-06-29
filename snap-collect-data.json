@@ -5970,10 +5970,10 @@
   },
   {
    "no": 746,
-   "name": "Chongdee Teahouse SPD Fl. 4 / Chongdee Teahouse ICON Fl. 5",
+   "name": "Chongdee Teahouse SPD Fl. 4",
    "receipt_format": "ID",
-   "notes": "(ICON Food Deal : Onesiam )\n( SPD Food Deal : Food Deal ONESIAM )",
-   "category": "Spending Only",
+   "notes": "SPD Food Deal : Food Deal ONESIAM / สาขา ICON ปิด 29/06/2026",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -6019,7 +6019,7 @@
   {
    "no": 752,
    "name": "GRAB & GO SD Fl. 4 (หัวบิล Siamdiscovery Retail)",
-   "receipt_format": "ดูจาก Remark",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "ดู Sku สินค้า G&G ,Eco  สะสมเข้า Grab&Go",
    "category": "JoinONESIAMCoin",
    "extra": ""
