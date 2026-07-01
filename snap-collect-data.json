@@ -11287,6 +11287,22 @@
    "notes": "สะสมตัวเลข 4 ตัวท้าย เช่น 0180",
    "category": "JoinONESIAMCoin",
    "extra": ""
+  },
+  {
+   "no": 1585,
+   "name": "test update",
+   "receipt_format": "Test",
+   "notes": "Test",
+   "category": "",
+   "extra": ""
+  },
+  {
+   "no": 1586,
+   "name": "Test Update2",
+   "receipt_format": "Test2",
+   "notes": "Test2",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11349,5 +11365,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-01 22:13"
+ "generated_at": "2026-07-01 22:48"
 }
