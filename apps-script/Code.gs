@@ -31,6 +31,9 @@ function onOpen() {
     .addToUi();
 }
 
+/** Run this once from the script editor (not from the Sheet's menu) to install the trigger.
+ *  Deliberately does not call SpreadsheetApp.getUi() — that hangs until the 6-minute execution
+ *  limit when run from the editor, since there's no Sheet-side dialog to display it in. */
 function setup() {
   ScriptApp.getProjectTriggers().forEach(function (t) {
     if (t.getHandlerFunction() === 'onSheetEdit') ScriptApp.deleteTrigger(t);
@@ -39,7 +42,7 @@ function setup() {
     .forSpreadsheet(SpreadsheetApp.getActive())
     .onEdit()
     .create();
-  SpreadsheetApp.getUi().alert('Setup complete. Editing the sheet will now sync automatically.');
+  Logger.log('Setup complete. Check the Triggers page to confirm onSheetEdit is listed.');
 }
 
 function findSheetByKeyword_(ss, keyword) {
