@@ -74,14 +74,20 @@ if ws3:
 
 categories = sorted({s["category"] for s in stores if s["category"]})
 
+new_data = {"stores": stores, "name_map": name_map, "rejects": rejects, "categories": categories}
+
+# Keep the old timestamp if nothing actually changed, so git sees an identical file
+# and skips the commit (generated_at itself must not be what triggers a "changed" diff).
+generated_at = datetime.now().strftime("%Y-%m-%d %H:%M")
+if os.path.exists(OUT):
+    with open(OUT, encoding="utf-8") as f:
+        old = json.load(f)
+    old_data = {k: old.get(k) for k in ("stores", "name_map", "rejects", "categories")}
+    if old_data == new_data:
+        generated_at = old.get("generated_at", generated_at)
+
 with open(OUT, "w", encoding="utf-8") as f:
-    json.dump({
-        "stores": stores,
-        "name_map": name_map,
-        "rejects": rejects,
-        "categories": categories,
-        "generated_at": datetime.now().strftime("%Y-%m-%d %H:%M"),
-    }, f, ensure_ascii=False, indent=1)
+    json.dump({**new_data, "generated_at": generated_at}, f, ensure_ascii=False, indent=1)
 
 print(f"Wrote {len(stores)} stores, {len(name_map)} name-mapping rows, "
       f"{len(rejects)} reject cases, {len(categories)} categories -> {OUT}")

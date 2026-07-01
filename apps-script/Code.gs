@@ -117,15 +117,20 @@ function computeCategories_(stores) {
   return Object.keys(set).sort();
 }
 
-function buildDataJson_() {
+/** Data only — deliberately excludes generated_at, so it can be compared against the
+ *  previous push without a fresh timestamp always making it look "changed". */
+function buildData_() {
   var ss = SpreadsheetApp.getActive();
   var stores = extractStores_(ss);
   var name_map = extractNameMap_(ss);
   var rejects = extractRejects_(ss);
   var categories = computeCategories_(stores);
-  var generated_at = Utilities.formatDate(new Date(), Session.getScriptTimeZone(), 'yyyy-MM-dd HH:mm');
+  return { stores: stores, name_map: name_map, rejects: rejects, categories: categories };
+}
+
+function stringifyWithTimestamp_(data, generatedAt) {
   return JSON.stringify(
-    { stores: stores, name_map: name_map, rejects: rejects, categories: categories, generated_at: generated_at },
+    { stores: data.stores, name_map: data.name_map, rejects: data.rejects, categories: data.categories, generated_at: generatedAt },
     null,
     1
   );
@@ -146,8 +151,9 @@ function ghContentsUrl_() {
     '/contents/' + p.getProperty('GITHUB_FILE_PATH');
 }
 
-/** Fetch current file (sha + content) so updates can be compared/applied; pushes only if content actually changed. */
-function pushToGitHub_(jsonString) {
+/** Fetch current file (sha + content) so updates can be compared/applied; pushes only if the
+ *  actual data (not the timestamp) changed. */
+function pushToGitHub_(data) {
   var branch = PropertiesService.getScriptProperties().getProperty('GITHUB_BRANCH');
   var getUrl = ghContentsUrl_() + '?ref=' + encodeURIComponent(branch);
 
@@ -158,7 +164,9 @@ function pushToGitHub_(jsonString) {
     sha = current.sha;
     var decodedBytes = Utilities.base64Decode(current.content.replace(/\n/g, ''));
     var decoded = Utilities.newBlob(decodedBytes).getDataAsString('UTF-8');
-    if (decoded === jsonString) {
+    var oldFull = JSON.parse(decoded);
+    var oldData = { stores: oldFull.stores, name_map: oldFull.name_map, rejects: oldFull.rejects, categories: oldFull.categories };
+    if (JSON.stringify(oldData) === JSON.stringify(data)) {
       Logger.log('No change detected — skipping push.');
       return { pushed: false, reason: 'unchanged' };
     }
@@ -167,12 +175,14 @@ function pushToGitHub_(jsonString) {
     throw new Error('GitHub GET failed: ' + getResp.getResponseCode());
   }
 
+  var generatedAt = Utilities.formatDate(new Date(), Session.getScriptTimeZone(), 'yyyy-MM-dd HH:mm');
+  var jsonString = stringifyWithTimestamp_(data, generatedAt);
+
   // Two-argument form is required: converts the JS string to UTF-8 bytes before encoding,
   // otherwise Thai characters get mangled.
   var encodedContent = Utilities.base64Encode(jsonString, Utilities.Charset.UTF_8);
-  var ts = Utilities.formatDate(new Date(), Session.getScriptTimeZone(), 'yyyy-MM-dd HH:mm');
   var body = {
-    message: 'data: auto-refresh from Google Sheet [' + ts + ']',
+    message: 'data: auto-refresh from Google Sheet [' + generatedAt + ']',
     content: encodedContent,
     branch: branch,
   };
@@ -198,7 +208,7 @@ function pushToGitHub_(jsonString) {
 /** Called by the debounce trigger. */
 function runExtractAndPush() {
   try {
-    pushToGitHub_(buildDataJson_());
+    pushToGitHub_(buildData_());
   } catch (err) {
     Logger.log('runExtractAndPush error: ' + err);
   }
@@ -207,7 +217,7 @@ function runExtractAndPush() {
 /** Menu item — lets the admin force an immediate push and see a plain-language result. */
 function manualRunAndPush() {
   try {
-    var result = pushToGitHub_(buildDataJson_());
+    var result = pushToGitHub_(buildData_());
     SpreadsheetApp.getUi().alert(result.pushed ? 'Pushed successfully!' : 'No changes to push — data is already up to date.');
   } catch (err) {
     SpreadsheetApp.getUi().alert('Push failed: ' + err.message + '\n\nCheck Extensions > Apps Script > Executions for details.');
