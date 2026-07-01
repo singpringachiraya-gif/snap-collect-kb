@@ -11287,22 +11287,6 @@
    "notes": "สะสมตัวเลข 4 ตัวท้าย เช่น 0180",
    "category": "JoinONESIAMCoin",
    "extra": ""
-  },
-  {
-   "no": 1585,
-   "name": "test update",
-   "receipt_format": "Test",
-   "notes": "Test",
-   "category": "",
-   "extra": ""
-  },
-  {
-   "no": 1586,
-   "name": "Test Update2",
-   "receipt_format": "Test2",
-   "notes": "Test2",
-   "category": "",
-   "extra": ""
   }
  ],
  "name_map": [],
@@ -11347,7 +11331,7 @@
    "case": "บิลเติมเงินเข้าบัตรสมาชิก เช่น สตาร์บัค แล้วถ่ายซ้ำๆ",
    "reason": "อื่นๆ",
    "message": "เนื่องจากเป็นการเติมเงินเข้าบัตรสมาชิกร้านค้าไม่เข้าร่วมเงื่อนไขการสะสมยอดซื้อค่ะ",
-   "store_note": "This is a top-up transaction for the store’s membership card and is not eligible for purchase accumulation"
+   "store_note": ""
   },
   {
    "case": "พวกถ่ายบิลที่สะสมไม่ได้บ่อยๆซ้ำๆ Reject ก็ไม่หยุด",
@@ -11365,5 +11349,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-01 22:48"
+ "generated_at": "2026-07-01 23:15"
 }
