@@ -7,6 +7,7 @@ for the searchable knowledge-base site (index.html).
     python extract_data.py
 """
 import json, os, sys
+from datetime import datetime
 import openpyxl
 
 if hasattr(sys.stdout, "reconfigure"):
@@ -79,6 +80,7 @@ with open(OUT, "w", encoding="utf-8") as f:
         "name_map": name_map,
         "rejects": rejects,
         "categories": categories,
+        "generated_at": datetime.now().strftime("%Y-%m-%d %H:%M"),
     }, f, ensure_ascii=False, indent=1)
 
 print(f"Wrote {len(stores)} stores, {len(name_map)} name-mapping rows, "

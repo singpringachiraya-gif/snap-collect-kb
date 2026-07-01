@@ -15,7 +15,8 @@
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
 body{font-family:'IBM Plex Sans Thai',sans-serif;background:#000;color:var(--text);min-height:100vh;}
 #stars{position:fixed;inset:0;z-index:0;pointer-events:none;}
-header,main{position:relative;z-index:1;}
+header,main,footer{position:relative;z-index:1;}
+.updated-footer{text-align:center;padding:18px 20px 30px;font-size:12px;color:var(--sub);}
 
 /* HEADER */
 header{background:var(--navy);height:60px;padding:0 2rem;display:flex;align-items:center;justify-content:space-between;border-bottom:2px solid var(--gold);position:sticky;top:0;z-index:100;}
@@ -168,6 +169,7 @@ main{max-width:700px;margin:0 auto;padding:3rem 1.5rem 4rem;}
     <div id="rout"></div>
   </div>
 </main>
+<footer class="updated-footer" id="updatedFooter"></footer>
 
 <script>
 var allData = [], fuse = null, activeCat = '', lastQ = '';
@@ -206,6 +208,9 @@ fetch('snap-collect-data.json')
     rejectData = d.rejects || [];
     fuseReject = new Fuse(rejectData, { keys: ['case','reason','message'], threshold: 0.4 });
     renderReject(rejectData, '');
+    if (d.generated_at) {
+      document.getElementById('updatedFooter').textContent = 'ข้อมูลล่าสุด: ' + d.generated_at;
+    }
   })
   .catch(function(){ document.getElementById('out').innerHTML = '<div class="loading">⚠️ โหลดข้อมูลไม่ได้</div>'; });
 
