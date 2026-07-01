@@ -11287,6 +11287,14 @@
    "notes": "สะสมตัวเลข 4 ตัวท้าย เช่น 0180",
    "category": "JoinONESIAMCoin",
    "extra": ""
+  },
+  {
+   "no": null,
+   "name": "test mink",
+   "receipt_format": "",
+   "notes": "",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11349,5 +11357,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-01 23:15"
+ "generated_at": "2026-07-01 23:21"
 }
