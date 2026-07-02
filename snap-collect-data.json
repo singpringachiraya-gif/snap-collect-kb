@@ -11207,6 +11207,22 @@
    "notes": "กรอกครบ เช่น 00000012716 (By Yo 2/7/26)",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1590,
+   "name": "บริษัท สยามวินต์-ธารา - Bankara Ramen SPD Fl. G / Bankara Ramen ICON Fl. G (ICON JoinCoin)",
+   "receipt_format": "Receipt no",
+   "notes": "Ex. 0001102213ใส่ไม่ครบ ตัดเลข 0 สามตัวหน้าออก กรอกแค่ 110213\t\r\n( Food Deal : fooddeal 500 , fooddeal 1000 )\r\nอัพเดท 28/01/2026",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
+  },
+  {
+   "no": 1591,
+   "name": "Bankara Ramen SPD Fl. G / Bankara Ramen ICON Fl. G\r\n(ICON JoinCoin)",
+   "receipt_format": "Receipt no",
+   "notes": "Ex. 0001102213ใส่ไม่ครบ ตัดเลข 0 สามตัวหน้าออก กรอกแค่ 110213\t\r\n( Food Deal : fooddeal 500 , fooddeal 1000 )\r\nอัพเดท 28/01/2026",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11269,5 +11285,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-02 17:56"
+ "generated_at": "2026-07-02 18:40"
 }
