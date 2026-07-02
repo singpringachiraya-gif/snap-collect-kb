@@ -10161,14 +10161,6 @@
    "extra": ""
   },
   {
-   "no": 1427,
-   "name": "หัวบิล MNIKS บริษัท มนุญเพ็ทช็อป บาย ไอเคเอส จำกัด >> Siam Show Paw SPD Fl.5  (Event  31 JAN – 1 FEB 2026)",
-   "receipt_format": "No (เลขที่)",
-   "notes": "กรอกครบทุกตัว EX.EC-EVENT2690131-0022",
-   "category": "ShopClosed",
-   "extra": ""
-  },
-  {
    "no": 1428,
    "name": "beverly hills polo club สาขา ICONSIAM",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
@@ -11202,9 +11194,9 @@
   },
   {
    "no": 1582,
-   "name": "Subdued SC Fl. G (by ton 2/7/26)",
+   "name": "Subdued SC Fl. G",
    "receipt_format": "Slip",
-   "notes": "ตัดเลขศูนย์ 4 ตัวหน้าออก เช่น 0000840201000000182 กรอกเฉพาะ 840201000000182",
+   "notes": "ตัดเลขศูนย์ 4 ตัวหน้าออก เช่น 0000840201000000182 กรอกเฉพาะ 840201000000182 (by ton 2/7/26)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11212,15 +11204,15 @@
    "no": 1583,
    "name": "หัวบิล GANNI ICONSIAM สะสมเข้าร้าน GANNI ICON Fl. 1",
    "receipt_format": "Rcpt",
-   "notes": "สะสมตัวเลข 4 ตัวท้าย เช่น 0535",
+   "notes": "สะสมตัวเลข 4 ตัวท้าย เช่น 0535 (by ton 1/7/26)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
    "no": 1584,
-   "name": "หัวบิล maison margiela paris / MM6 ICONSIAM สะสมเข้าร้าน MM6 & GANNI ICON Fl. 1 (by ton 1/7/26)",
+   "name": "หัวบิล maison margiela paris / MM6 ICONSIAM สะสมเข้าร้าน MM6 & GANNI ICON Fl. 1",
    "receipt_format": "Rcpt",
-   "notes": "สะสมตัวเลข 4 ตัวท้าย เช่น 0180",
+   "notes": "สะสมตัวเลข 4 ตัวท้าย เช่น 0180 (by ton 1/7/26)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   }
@@ -11285,5 +11277,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-02 11:08"
+ "generated_at": "2026-07-02 11:27"
 }
