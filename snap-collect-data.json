@@ -11188,8 +11188,16 @@
    "no": 1587,
    "name": "หัวบิล Samsonite 92 Central Park ดู Branch Name Road Show สะสมเข้า American Tourister ICON Fl. 4",
    "receipt_format": "Ticket no/ Inv.no",
-   "notes": "เช่น 1989 (Wilailack)",
+   "notes": "เช่น 1989 (Wilailack 2/7/26)",
    "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": 1588,
+   "name": "TONKATSU MARUSHICHI พระราม 9",
+   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
+   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
+   "category": "Popup&Event",
    "extra": ""
   }
  ],
@@ -11253,5 +11261,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-02 15:32"
+ "generated_at": "2026-07-02 15:35"
 }
