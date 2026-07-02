@@ -11215,6 +11215,14 @@
    "notes": "สะสมตัวเลข 4 ตัวท้าย เช่น 0180 (by ton 1/7/26)",
    "category": "JoinONESIAMCoin",
    "extra": ""
+  },
+  {
+   "no": 1585,
+   "name": "หัวบิล Mickey Super Club มิคกี้ ไดเนอร์ บีเคเค Paragon / สะสมเข้า Mickey's Supper Club SPD Fl. G",
+   "receipt_format": "ID",
+   "notes": "เช่่น WDKGF",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11277,5 +11285,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-02 11:27"
+ "generated_at": "2026-07-02 12:09"
 }
