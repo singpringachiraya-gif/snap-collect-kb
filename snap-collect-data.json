@@ -594,9 +594,9 @@
   },
   {
    "no": 77,
-   "name": "Jim Thompson by Siam Takashimaya ICON Fl. M\nJim Thompson ICON Fl. 1 >> ปิดถาวร",
+   "name": "Jim Thompson by Siam Takashimaya ICON Fl. M",
    "receipt_format": "Silp No",
-   "notes": "สาขา ICON by STK  ใข้ Slip กรอกแค่ 5 ตัวท้าย\n(UPDATE 30-oct-25)",
+   "notes": "สาขา ICON by STK  ใข้ Slip กรอกแค่ 5 ตัวท้าย\n(UPDATE 30-oct-25) / Jim Thompson ICON Fl. 1 >> ปิดถาวร",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -698,9 +698,9 @@
   },
   {
    "no": 90,
-   "name": "La Meow SC Fl. 2 (Fooddeal 23/06/2026)",
+   "name": "La Meow SC Fl. 2",
    "receipt_format": "No (เลขที่)",
-   "notes": "Ex.601300072",
+   "notes": "Ex.601300072 / (Fooddeal 23/06/2026)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -1002,9 +1002,9 @@
   },
   {
    "no": 128,
-   "name": "Puma SPO Fl. G \n(สาขา  Puma SC Fl. G ปิดถาวร)",
+   "name": "Puma SPO Fl. G",
    "receipt_format": "Transaction No (Trans)",
-   "notes": "กรอกเต็ม",
+   "notes": "กรอกเต็ม / (สาขา  Puma SC Fl. G ปิดถาวร)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -1234,7 +1234,7 @@
   },
   {
    "no": 158,
-   "name": "WATSONS / Watsons SC Fl. 2 / Watsons ICON Fl. 5 / Watsons SPO Fl. G ถ้าไม่มีสาขาบอกให้ดูที่รหัสสาขา\nรหัสสาขา SC : S00890 / ICON : S00819  / SPO : S03008",
+   "name": "Watsons SC Fl. 2 / Watsons ICON Fl. 5 / Watsons SPO Fl. G ถ้าไม่มีสาขาบอกให้ดูที่รหัสสาขา\nรหัสสาขา SC : S00890 / ICON : S00819  / SPO : S03008",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "ใช้เลข R00x/เลข# (4หลัก)  (จะอยู่ล่างCashier name ด้านล่างๆใบเสร็จ)                                                                                                                       Ex. R 002 #0107 กรอกแค่ R002/0107",
    "category": "Spending Only",
@@ -2609,14 +2609,6 @@
    "extra": ""
   },
   {
-   "no": 326,
-   "name": "มีความสุข ชานมไข่มุกกระบอก - Mee Khwam Sook ICS Fl. G ** ปิดถาวร 1-Jan",
-   "receipt_format": "",
-   "notes": "",
-   "category": "ShopClosed",
-   "extra": ""
-  },
-  {
    "no": 327,
    "name": "หัวบิล VNC (Siamcenter) -  Vincci SC",
    "receipt_format": "No (เลขที่)",
@@ -3650,9 +3642,9 @@
   },
   {
    "no": 459,
-   "name": "KAMUI HOKKAIDO DINING  4F / หัวบิลต้องระบุใน siamtakashimaya เท่านั้น !!!                                                                                   ถ้าไม่มีหัว STK Reject: Popup (ใบเสร็จที่ไม่มีออกคำว่า STK คือใบเสร็จที่ร้านค้าตัด Order ร้านเท่านั้นไม่สามารถสะสม Coin Onesiam ได้ค่ะ)",
+   "name": "KAMUI HOKKAIDO DINING  4F / หัวบิลต้องระบุใน siamtakashimaya เท่านั้น !!!",
    "receipt_format": "Receipt no",
-   "notes": "Brand under STK - สะสมเข้า Takashimaya / กรอกครบ เอา / (Update23/11/2025)",
+   "notes": "Brand under STK - สะสมเข้า Takashimaya / กรอกครบ เอา / (Update23/11/2025)\nถ้าไม่มีหัว STK Reject: Popup (ใบเสร็จที่ไม่มีออกคำว่า STK คือใบเสร็จที่ร้านค้าตัด Order ร้านเท่านั้นไม่สามารถสะสม Coin Onesiam ได้ค่ะ)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11293,5 +11285,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-02 10:34"
+ "generated_at": "2026-07-02 11:02"
 }
