@@ -7724,7 +7724,7 @@
    "no": 970,
    "name": "BOY SC Fl. M / Boy London  (หัวใบเสร็จชื่อ KLANDTH แล้วจะมีชื่อร้าน Boylondon บรรทัดล่างเหมือนกัน ให้ดูที่รหัสสินค้าว่าเป็นของแบรนด์ไหน ** ปิดร้าน 27/05/2025",
    "receipt_format": "Tax invoice (ABB)",
-   "notes": "ร้านค้า TNA - เปลี่ยนมา Join Snap @01/03/2025  Tax Invoice I041289\tกรอกครบทุกตัว",
+   "notes": "",
    "category": "ShopClosed",
    "extra": ""
   },
@@ -9682,14 +9682,6 @@
   },
   {
    "no": 1048,
-   "name": "MiiR SPD Fl. 5   (Shop Closed 16-Jun2026)",
-   "receipt_format": "",
-   "notes": "",
-   "category": "ShopClosed",
-   "extra": ""
-  },
-  {
-   "no": 1048,
    "name": "Kampang SPD Fl. 4 (คำแพง)",
    "receipt_format": "ID",
    "notes": "",
@@ -10241,30 +10233,6 @@
    "extra": ""
   },
   {
-   "no": 1440,
-   "name": "POP MART THE GOLDEN GALLOP POP-UP ICON FL.M (Event 12Feb ถึง 22-Mar-2026)",
-   "receipt_format": "",
-   "notes": "Event จบแล้ว / Branch: 0000 สะสมเข้าอันนี้  ----  จบแล้ว",
-   "category": "ShopClosed",
-   "extra": ""
-  },
-  {
-   "no": 1441,
-   "name": "หัวบิล Play Line Friends - Pop Up @SC สะสมเข้า Zo & Friends  Pop up  SC FL.G (เริ่ม 13-Feb ถึง 3-Mar2026)",
-   "receipt_format": "",
-   "notes": "",
-   "category": "ShopClosed",
-   "extra": ""
-  },
-  {
-   "no": 1442,
-   "name": "Culture Crafter Community (Art Jewel)   SPD FL.5 ( Event 19-Feb ถึง 25-MAR2026)",
-   "receipt_format": "",
-   "notes": "",
-   "category": "ShopClosed",
-   "extra": ""
-  },
-  {
    "no": 1443,
    "name": "Chol Aromatique ICON Fl. 1  (External สาขาอื่นๆ: Central World, Emquartier) เริ่ม JoinCoin 1-Mar2026",
    "receipt_format": "No (เลขที่)",
@@ -10485,30 +10453,6 @@
    "name": "SNOWS SPD Fl. G ( POP UP หน้ากูเม่สะสมไม่ได้)",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
-   "category": "ShopClosed",
-   "extra": ""
-  },
-  {
-   "no": 1474,
-   "name": "Royal Project Gastronomy Festival 2026  SPD Fl.5 (POP UP 18-Mar ถึง 29 Mar) โครงการหลวง\nหัวบิล หน่วยขายเคลื่อนที่งานขายกรุงเทพ * ปิดแล้ว",
-   "receipt_format": "",
-   "notes": "",
-   "category": "ShopClosed",
-   "extra": ""
-  },
-  {
-   "no": 1475,
-   "name": "HOUSE OF LUXE SALE SPD Fl. 5 (27-31 Mar 2026)\n(Fikka & CO Coffee + Have a Food Day สะสมเข้าร้านนี้หมด)",
-   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ\nบิลเจอแล้วไม่แน่ใจ ส่งเข้ามาตรวจสอบก่อน",
-   "notes": "1\t3.1 Phillip Lim * ไม่สะสมเข้าร้านเดิมที่มี ดูดีๆ\n2\tAlemais \n3\tAlexander Wang  * ไม่สะสมเข้าร้านเดิมที่มี ดูดีๆ\n4\tblackjack\n5\tComme des Garcons   * ไม่สะสมเข้าร้านเดิมที่มี ดูดีๆ\n6\tCOR\n7\tFear Of God Essentials\n8\tGanni  * ไม่สะสมเข้าร้านเดิมที่มี ดูดีๆ\n9\tKenzo\n10\tNorse Project\n11\tRag&Bone\n12\tThom Brown  * ไม่สะสมเข้าร้านเดิมที่มี ดูดีๆ\n13\tmulberry\n14\tMarc Jacobs  * ไม่สะสมเข้าร้านเดิมที่มี ดูดีๆ\n15\tKarl Lagerfeld\n16\tDVF\n17\tPucci\n18\tPene Caovilla\n19\tGiuseppe Zanotti\n20\tRebecca Mincoff\n21\toff white ใช้ BNO กรอกครบ\n22\tCasetify  ใช้ BNO กรอกครบ * ไม่สะสมเข้าร้านเดิมที่มี ดูดีๆ \n23\tMissoni ใช้ NO กรอกครบ\n24\tCoach  * ไม่สะสมเข้าร้านเดิมที่มี ดูดีๆ\n25\tKate Spade\n26\tMax Mara  * ไม่สะสมเข้าร้านเดิมที่มี ดูดีๆ\n27\tMaison Margiela\n28\tCamper\n29   PRO F&F ใช้ NO กรอกครบ",
-   "category": "ShopClosed",
-   "extra": ""
-  },
-  {
-   "no": 1476,
-   "name": "BROWMIE SC Fl. M (POP UP 20 Mar - 22 Mar 2026) * ปิดแล้ว",
-   "receipt_format": "",
-   "notes": "",
    "category": "ShopClosed",
    "extra": ""
   },
@@ -11287,30 +11231,6 @@
    "notes": "สะสมตัวเลข 4 ตัวท้าย เช่น 0180",
    "category": "JoinONESIAMCoin",
    "extra": ""
-  },
-  {
-   "no": null,
-   "name": "test mink",
-   "receipt_format": "",
-   "notes": "",
-   "category": "",
-   "extra": ""
-  },
-  {
-   "no": null,
-   "name": "Test Ong 2026 Ja",
-   "receipt_format": "",
-   "notes": "",
-   "category": "",
-   "extra": ""
-  },
-  {
-   "no": null,
-   "name": "Test Ong 2027",
-   "receipt_format": "",
-   "notes": "",
-   "category": "",
-   "extra": ""
   }
  ],
  "name_map": [],
@@ -11373,5 +11293,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-01 23:44"
+ "generated_at": "2026-07-02 09:32"
 }
