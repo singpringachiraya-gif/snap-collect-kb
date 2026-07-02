@@ -11210,9 +11210,9 @@
   },
   {
    "no": 1582,
-   "name": "Subdued SC Fl. G",
-   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "เลขใต้ Barcode เช่น T010400000048",
+   "name": "Subdued SC Fl. G (by ton 2/7/26)",
+   "receipt_format": "Slip",
+   "notes": "ตัดเลขศูนย์ 4 ตัวหน้าออก เช่น 0000840201000000182 กรอกเฉพาะ 840201000000182",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11293,5 +11293,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-02 09:32"
+ "generated_at": "2026-07-02 10:34"
 }
