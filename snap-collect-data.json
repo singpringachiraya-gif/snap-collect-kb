@@ -633,14 +633,6 @@
    "extra": ""
   },
   {
-   "no": 82,
-   "name": "บริษัท ซาจิทาร์ริโอ - KG & Salon Inter SPD Fl. 2 (JoinCoin) * ปิด 01/04/2026",
-   "receipt_format": "",
-   "notes": "",
-   "category": "ShopClosed",
-   "extra": ""
-  },
-  {
    "no": 83,
    "name": "Konvy SC Fl. M",
    "receipt_format": "Order number",
@@ -1949,7 +1941,7 @@
    "name": "Thailand Post ICON Fl. BM1 (update 05/04/2026)",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
-   "category": "Spending Only",
+   "category": "Popup&Event",
    "extra": ""
   },
   {
@@ -2027,14 +2019,6 @@
   {
    "no": null,
    "name": "Circular of Lux SD Fl.M (Shop Close 23-Jun)",
-   "receipt_format": "",
-   "notes": "",
-   "category": "ShopClosed",
-   "extra": ""
-  },
-  {
-   "no": null,
-   "name": "Paul - Central World (Shop Close 22-Jun)",
    "receipt_format": "",
    "notes": "",
    "category": "ShopClosed",
@@ -4002,9 +3986,9 @@
   },
   {
    "no": 505,
-   "name": "Katei Shabu / Katei Shabu SPD Fl. 4 / Katei Shabu ICS Fl. 4 ** ดูดีๆว่าใช้ดีลคูปองส่วนลดไหม                                                 (มีตัวปั้มหรือบรรทัดล่างสุด เขียนว่า \"ONESIAM VOUCHER\" คือซื้อดีลส่วนลดมา Reject \nใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp)",
+   "name": "Katei Shabu SPD Fl. 4 / Katei Shabu ICS Fl. 4",
    "receipt_format": "ID",
-   "notes": "รหัส ID 5 ตัวอักษร",
+   "notes": "รหัส ID 5 ตัวอักษร  / ** ดูดีๆว่าใช้ดีลคูปองส่วนลดไหม  (มีตัวปั้มหรือบรรทัดล่างสุด เขียนว่า \"ONESIAM VOUCHER\" คือซื้อดีลส่วนลดมา Reject \nใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp)",
    "category": "JoinONESIAMCoin",
    "extra": "ICS - Join Coin"
   },
@@ -4034,18 +4018,10 @@
   },
   {
    "no": 509,
-   "name": "Seacret / Seacret ICON Fl. 5",
+   "name": "Seacret ICON Fl. 5",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว (ไม่ต้องใส่อักขระพิเศษ)",
    "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 510,
-   "name": "BIMBA Y LOLA SPD Fl. 1 // Shop Closed",
-   "receipt_format": "INVOICE NO (Inv#)",
-   "notes": "กรอกเฉพาะแค่เลข 6 ตัวท้าย (ตัวอย่างเช่น BSP/01/008541)",
-   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -4074,9 +4050,9 @@
   },
   {
    "no": 514,
-   "name": "Sushiro SPD Fl. 4 / Sushiro ICON Fl. G\nกรณีลูกค้าออกใบกำกับภาษี บิลจะเขียนว่า \"duplicate\" ทางร้านจะปั้มออกใบกำกับภาษี >> สามารถสะสมได้",
+   "name": "Sushiro SPD Fl. 4 / Sushiro ICON Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "ใช้เลขหลัง RCT ไม่ต้องกรอก # เอาแค่ตัวเลข เลขสขา Icon (00012 )\nอัพเดทใบกำกับภาษี 29/10/2025",
+   "notes": "ใช้เลขหลัง RCT ไม่ต้องกรอก # เอาแค่ตัวเลข สาขา ICON (00012 )\nกรณีลูกค้าออกใบกำกับภาษี บิลจะเขียนว่า \"duplicate\" ทางร้านจะปั้มออกใบกำกับภาษี >> สามารถสะสมได้",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -4106,7 +4082,7 @@
   },
   {
    "no": 519,
-   "name": "MOGA Hair Salon / Moga SPD Fl. 2 / Moga ICON Fl. 5",
+   "name": "Moga SPD Fl. 2 / Moga ICON Fl. 5",
    "receipt_format": "Document No",
    "notes": "Doc. No ตัวเต็ม เช่น SICO125090170",
    "category": "JoinONESIAMCoin",
@@ -4122,7 +4098,7 @@
   },
   {
    "no": 521,
-   "name": "Dermaster / Dermaster EXT nul",
+   "name": "Dermaster EXT nul",
    "receipt_format": "Receipt no",
    "notes": "",
    "category": "JoinONESIAMCoin",
@@ -5674,7 +5650,7 @@
   },
   {
    "no": 714,
-   "name": "Echo Bar Coffee SD Fl. 1 / เครือPRHบริษัทเรา",
+   "name": "Echo Bar Coffee SD Fl. 1",
    "receipt_format": "Pos-Reciept (PRH)",
    "notes": "POS - Reciept",
    "category": "JoinONESIAMCoin",
@@ -6531,7 +6507,7 @@
   {
    "no": 821,
    "name": "HIS&HER SPO Fl. G ** ย้ายออกนานแล้ว",
-   "receipt_format": "Receipt no",
+   "receipt_format": "",
    "notes": "",
    "category": "ShopClosed",
    "extra": ""
@@ -7434,7 +7410,7 @@
   },
   {
    "no": 934,
-   "name": "หัวบิล Chanel Location: ICON \nChanel Beaute ICON Fl. M \nChanel ICON Fl. M,1\nดูที่ SKU ที่ซื้อ ไม่รู้เอาไปค้นหา Google \nเพราะทุกอย่างเหมือนกัน แยกจากตรงไหนของบิลไม่ได้นอกจาก SKU",
+   "name": "หัวบิล Chanel Location: ICON \nChanel Beaute ICON Fl. M  /Chanel ICON Fl. M,1\nดูที่ SKU ที่ซื้อ ไม่รู้เอาไปค้นหา Google \nเพราะทุกอย่างเหมือนกัน แยกจากตรงไหนของบิลไม่ได้นอกจาก SKU",
    "receipt_format": "Tax invoice (ABB)",
    "notes": "Chanel Beaute ICON Fl. M  กรอกแค่ด้านหน้าเช่น S000012575-08 กรอก S000012575 อัปเดต 20/2/2026 - Luxury \nChanel ICON Fl. M,1 กรอกครบทุกตัวรวมอักขระพิเศษ เช่น  S000012575-08  (Spending only)",
    "category": "JoinONESIAMCoin",
@@ -7573,14 +7549,6 @@
    "name": "Shiori Udon Ginza SC Fl. 2",
    "receipt_format": "ID",
    "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 953,
-   "name": "Khao So i SPD Fl. G",
-   "receipt_format": "ID",
-   "notes": "เดิมใช้ Payment Bill No. (Ex.501030027) อยู่ข้างล่าง / เปลี่ยนใบเสร็จ\nอัพเดท01/08/2025  ถ้าบิลไหนไม่มี  Payment Bill  ใช้ Table No ได้เช่นกัน",
    "category": "Spending Only",
    "extra": ""
   },
@@ -8138,9 +8106,9 @@
   },
   {
    "no": 1024,
-   "name": "GANNI SD Fl. G ( joinCoin) / GANNI ICON Fl. 1 (Spending Only) เปิด 26-Feb2026",
+   "name": "GANNI SD Fl. G ( joinCoin)",
    "receipt_format": "Receipt no",
-   "notes": "สาขา SD - เอาเฉพาะ 4 ตัวท้าย\nสาขา ICON  เอาเฉพาะ 4 ตัวท้าย\nอัพเดท 1/07/2026 BY TON",
+   "notes": "สาขา SD - เอาเฉพาะ 4 ตัวท้าย\nอัพเดท 1/07/2026 BY TON",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -8490,9 +8458,9 @@
   },
   {
    "no": 1048,
-   "name": "YUME MATCHA SPD Fl. G\n** ดูดีๆ >> รายการ  Food Deal ONESIAM Reject: ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp",
+   "name": "YUME MATCHA SPD Fl. G",
    "receipt_format": "ID",
-   "notes": "เริ่ม Join Coin 08-Oct-2025",
+   "notes": "เริ่ม Join Coin 08-Oct-2025\n** ดูดีๆ >> รายการ  Food Deal ONESIAM Reject: ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -9314,22 +9282,6 @@
   },
   {
    "no": 1048,
-   "name": "Pop Land Exclusive Festive Event SPD Fl. M  (งานจัดลานพาร์ค พารากอน ) เริ่ม 11-Nov **ปิดแล้ว",
-   "receipt_format": "",
-   "notes": "",
-   "category": "ShopClosed",
-   "extra": ""
-  },
-  {
-   "no": 1048,
-   "name": "Siam Center x Pop Mart - POP LAND EVENT SC Fl. G เริ่ม 11-Nov ถึง\t11-Jan * ปิดแล้ว",
-   "receipt_format": "",
-   "notes": "",
-   "category": "ShopClosed",
-   "extra": ""
-  },
-  {
-   "no": 1048,
    "name": "PHKA POP UP SC Fl. M",
    "receipt_format": "เลขที่ใบเสร็จ",
    "notes": "เช่น HB73",
@@ -9412,8 +9364,8 @@
    "no": 1048,
    "name": "Pralet SPD Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "20251121032\n( Food Deal : ONESIAM BOX - จำนวนชิ้นในเซ็ตที่ลูกค้าซื้อ )\nปิด 30-June-2026 / อัพเดท 29-06-2026",
-   "category": "ShopClosed",
+   "notes": "20251121032\n( Food Deal : ONESIAM BOX - จำนวนชิ้นในเซ็ตที่ลูกค้าซื้อ )",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -9698,7 +9650,7 @@
   },
   {
    "no": 1048,
-   "name": "MELAND CLUB SPD Fl. 5 (สนามเด็กเล่น)",
+   "name": "MELAND CLUB SPD Fl. 5",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "เช่น 20251129105157004339\nPayment medthod : ONESIAM APP ซื้อดีลผ่าน APP :  REJECT ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp",
    "category": "Spending Only",
@@ -9706,7 +9658,7 @@
   },
   {
    "no": 134,
-   "name": "Sealife (Siam Ocean World) / Sealife SPD Fl. B ( บิล Confirmation สะสมได้เช่นกัน)",
+   "name": "Sealife SPD Fl. B ( บิล Confirmation สะสมได้เช่นกัน)",
    "receipt_format": "Tax invoice (ABB)",
    "notes": "กรอกครบทุกตัว เช่น 260311-5481-06858\nหัวบิล Magic Memories Thailand ใช้เลข #SLBA93881 กรอกครบไม่เอา # (เป็น Event SEA Life)",
    "category": "Spending Only",
@@ -11293,5 +11245,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-02 13:59"
+ "generated_at": "2026-07-02 15:21"
 }
