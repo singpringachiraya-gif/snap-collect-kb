@@ -10474,7 +10474,7 @@
   },
   {
    "no": 1490,
-   "name": "American Tourister ICON Fl. 4 (หัวบิล Samsonite Central Park สะสมเข้า American Tourister)  แสตมป์คำว่า American Tourister ICONSIAM",
+   "name": "American Tourister ICON Fl. 4 (หัวบิล Samsonite Central Park | Branch name : Road Show สะสมเข้า American Tourister)  แสตมป์คำว่า American Tourister ICONSIAM",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "Ticket No / Tax Inv No. เช่น 806\nหัวบิลชื่อร้าน REJECT : รูปภาพไม่ใช่ใบเสร็จ",
    "category": "Spending Only",
@@ -11183,6 +11183,14 @@
    "notes": "เช่น VEVJO (By Garfew 2/7/26)",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1587,
+   "name": "หัวบิล Samsonite 92 Central Park ดู Branch Name Road Show สะสมเข้า American Tourister ICON Fl. 4",
+   "receipt_format": "Ticket no/ Inv.no",
+   "notes": "เช่น 1989 (Wilailack)",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11245,5 +11253,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-02 15:21"
+ "generated_at": "2026-07-02 15:32"
 }
