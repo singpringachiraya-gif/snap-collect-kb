@@ -2794,7 +2794,7 @@
   },
   {
    "no": 350,
-   "name": "ร้านล้างรถ ICON WASH / ICON WASH ICON Fl. BM2 หัวบิล ไอคอนวอช",
+   "name": "ICON WASH ICON Fl. BM2 หัวบิล ไอคอนวอช",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "สะสมผ่านร้านค้าเท่านั้น (TNA:ShopList)",
    "category": "Spending Only",
@@ -2826,7 +2826,7 @@
   },
   {
    "no": 354,
-   "name": "Bangkok Sportswear.Co.,Ltd / NEW ERA / New Era SC Fl. M / New Era ICON  / New Era SPO Fl. G\nใบเสร็จ จะขึ้นต้นด้วย RF\txxxxxx\nใบกำกับภาษี จะขึ้นต้นด้วย  ICR xxxxx",
+   "name": "Bangkok Sportswear.Co.,Ltd / NEW ERA / New Era SC Fl. M / New Era ICON  / New Era SPO Fl. G\nใบเสร็จ จะขึ้นต้นด้วย RF        xxxxxx\nใบกำกับภาษี จะขึ้นต้นด้วย  ICR xxxxx",
    "receipt_format": "Reference no",
    "notes": "SPO / SC  - กรอกครบทุกตัวบนใบเสร็จ เช่น RF23090208 \nยอดสะสม ดูตรง  Totol  ไม่ใช้ตัวเลข Total Amount\nอัพเดท 18/03/2026",
    "category": "JoinONESIAMCoin",
@@ -2866,7 +2866,7 @@
   },
   {
    "no": 359,
-   "name": "JAY MART SPD Fl. 4 (JoinCoin) / JAY MART ICS Fl. 2 (spending) \n ขึ้นต้นด้วย JAY IOT สะสมเข้า Jay Mart (camera) fl.2",
+   "name": "JAY MART SPD Fl. 4 (JoinCoin) / JAY MART ICS Fl. 2 (spending) \nขึ้นต้นด้วย JAY IOT สะสมเข้า Jay Mart (camera) fl.2",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "กรอกครบทุกตัวบนใบเสร็จ - เหมือนกันทั้ง 3 สาขา\nEX. 31117825-200316\nJAYMART / ขึ้นต้นด้วย JAY IOT สะสมเข้า Jay Mart (camera) fl.2\n** ดูตรง MEMBER ถ้าขึ้น JET สะสมแล้วจากร้าน Reject สะสมแล้ว ต้องเลือกอย่างใดอย่างหนึ่งระหว่างสมาชิกร้านค้ากับสมาชิก ONESIAM",
    "category": "JoinONESIAMCoin",
@@ -5874,7 +5874,7 @@
   },
   {
    "no": 739,
-   "name": "TOD'S SPD Fl. M [ปิด \t28-Jan-25]",
+   "name": "TOD'S SPD Fl. M [ปิด28-Jan-25]",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
    "category": "ShopClosed",
@@ -11285,5 +11285,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-02 11:02"
+ "generated_at": "2026-07-02 11:08"
 }
