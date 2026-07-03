@@ -10653,15 +10653,7 @@
    "name": "Baron's Bar by The Cheese Baron SPD Fl. 4 / Baron's Bar by The Cheese Baron ICS Fl. GF",
    "receipt_format": "เลขที่",
    "notes": "ด้านล่างขวากรอกครบ เช่น ST69007053",
-   "category": "",
-   "extra": ""
-  },
-  {
-   "no": null,
-   "name": "ba",
-   "receipt_format": "",
-   "notes": "",
-   "category": "",
+   "category": "Spending Only",
    "extra": ""
   }
  ],
@@ -10725,5 +10717,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 19:13"
+ "generated_at": "2026-07-03 19:14"
 }
