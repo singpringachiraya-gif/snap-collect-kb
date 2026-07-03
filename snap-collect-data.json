@@ -7546,9 +7546,9 @@
   },
   {
    "no": 936,
-   "name": "บริษัท ไทยสากล เอสเตท จำกัด -  Kanori Hand Roll SPD Fl. G / Kanori Hand Roll ICON Fl. G,GA",
+   "name": "Kanori Hand Roll SPD Fl. G / Kanori Hand Roll ICON Fl. G,GA",
    "receipt_format": "Transaction No (Trans)",
-   "notes": "กรอกครบทุกตัว Ex.RC690201028\nใช้ Grab Dine Out สะสมได้\n( Food Deal : Food deal onesiam / Voucher One Siam (K-Bank) - Code ของลูกค้า )\nสะสมได้เฉพาะ พิมพ์ครั้งที่ 1 เท่านั้น \nหากพิมพ์ครั้งที่ 2,3,4  Reject: ใบเสร็จเป็นสำเนา หรือใบเสร็จ re-print ไม่สามารถร่วมรายการสะสมได้\nอัพเดท 27/02/2026",
+   "notes": "กรอกครบทุกตัว Ex.RC690201028\nใช้ Grab Dine Out สะสมได้\nบริษัท ไทยสากล เอสเตท จำกัด \n( Food Deal : Food deal onesiam / Voucher One Siam (K-Bank) - Code ของลูกค้า )\nสะสมได้เฉพาะ พิมพ์ครั้งที่ 1 เท่านั้น \nหากพิมพ์ครั้งที่ 2,3,4  Reject: ใบเสร็จเป็นสำเนา หรือใบเสร็จ re-print ไม่สามารถร่วมรายการสะสมได้\nอัพเดท 27/02/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -7642,7 +7642,7 @@
   },
   {
    "no": 949,
-   "name": "บริษัท พาราโบล่า จำกัด - Zoom Camera SPD Fl. 4",
+   "name": "Zoom Camera SPD Fl. 4 (บริษัท พาราโบล่า จำกัด )",
    "receipt_format": "",
    "notes": "Ex.160690130-0004 กรอกครบทุกตัว",
    "category": "Spending Only",
@@ -7882,9 +7882,9 @@
   },
   {
    "no": 979,
-   "name": "Tumi by Siam Takashimaya ICON Fl. M / LOGO: TUMI หัวบิล Samsonite (ดูดีๆ)\nฺBranch Name Head Office Store No 1227663 = สาขา Siamtakashimaya ICON",
+   "name": "Tumi by Siam Takashimaya ICON Fl. M / LOGO: TUMI หัวบิล Samsonite (ดูดีๆ)",
    "receipt_format": "Ticket No",
-   "notes": "เช่น 114 / เรื่องรหัสสาขา (ภายในสัปดาห์หน้า บิลใบเสร็จของร้านอัพเดทสาขา Branch name: ICONSIAM)",
+   "notes": "เช่น 114 / เรื่องรหัสสาขา (ภายในสัปดาห์หน้า บิลใบเสร็จของร้านอัพเดทสาขา Branch name: ICONSIAM)\nฺBranch Name Head Office Store No 1227663 = สาขา Siamtakashimaya ICON",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -8433,14 +8433,6 @@
    "extra": ""
   },
   {
-   "no": 1048,
-   "name": "RED BULL ENERGY POP SC Fl. M ( 16 Sep - 3 Nov)",
-   "receipt_format": "Tax invoice (ABB)",
-   "notes": "กรอกครบ  (update 22/09/2025)",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
    "no": 1049,
    "name": "พีเอที ลักชูรี่ คอนเซป สาขา 00005  - GIUSEPPE (Luxury)",
    "receipt_format": "No (เลขที่)",
@@ -8469,14 +8461,6 @@
    "name": "Cara Club SC Fl. 1",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอกครบ Ex.00300000623",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 1053,
-   "name": "หัวบิล PLAY Line Friends NCTD POP UP >> สะสมเข้า Dreamies's Dream Forest SPD Fl. 5",
-   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "เลขมุมล่างหลัง # เช่น 430004 ไม่เอาขีด -",
    "category": "Spending Only",
    "extra": ""
   },
@@ -8706,9 +8690,9 @@
   },
   {
    "no": 1128,
-   "name": "หัวบิล Pacharee Thai DNA GMBH Co LTD - Pacharee ICON Fl. 1  (บิลจะไม่ระบุสาขาแต่สะสมได้)",
+   "name": "หัวบิล Pacharee Thai DNA GMBH Co LTD - Pacharee ICON Fl. 1",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "มุมขวาล่างหลัง #1-1907  กรอกครบไม่เอาชีด เช่น 11907",
+   "notes": "มุมขวาล่างหลัง #1-1907  กรอกครบไม่เอาชีด เช่น 11907\n(บิลจะไม่ระบุสาขาแต่สะสมได้)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -8866,9 +8850,9 @@
   },
   {
    "no": 1148,
-   "name": "หัวบิล ละมุนโรตีสายไหม  - Lamunn SPD Fl. 4  / Lamunn ICON Fl. GF",
+   "name": "Lamunn SPD Fl. 4  / Lamunn ICON Fl. GF",
    "receipt_format": "ID",
-   "notes": "",
+   "notes": "หัวบิล ละมุนโรตีสายไหม",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -8938,7 +8922,7 @@
   },
   {
    "no": 1158,
-   "name": "หัวบิล  Christian Dior christian dior perfume \n สะสมเข้า Dior Cosmetics ICON Fl. M - Dior Cosmetics by Siam Takashimaya  (JoinCoin 1000:1 Luxury ) เริ่ม 22-Nov-2025",
+   "name": "Christian Dior christian dior perfume  - สะสมเข้า Dior Cosmetics ICON Fl. M - Dior Cosmetics by Siam Takashimaya  (JoinCoin 1000:1 Luxury ) เริ่ม 22-Nov-2025",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "กรอกแบบนี้ DIORBEAUTY/DOCNO4ตัวท้าย/ยอดซื้อ เช่น DIORBEAUTY/1206/200\nอัพเดท 25/11/2025",
    "category": "JoinONESIAMCoin",
@@ -8978,9 +8962,9 @@
   },
   {
    "no": 1164,
-   "name": "บริษัท เพอร์เฟค สเคป จำกัด  สาขาที่ออก GC-PRG(00002) - Gong cha SPD Fl. 5 / Zone Nextopia",
+   "name": "Gong cha SPD Fl. 5 / Zone Nextopia",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "หัวบิล Gong Cha ใช้ Payment Bill No เช่น 016 กรอกครบทุกตัว\nระบบ มันชอบจับวันที่มาผิดดูดีๆ !!!",
+   "notes": "หัวบิล Gong Cha ใช้ Payment Bill No เช่น 016 กรอกครบทุกตัว\nบริษัท เพอร์เฟค สเคป จำกัด  สาขาที่ออก GC-PRG(00002) - \nระบบ มันชอบจับวันที่มาผิดดูดีๆ !!!",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10701,5 +10685,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 13:58"
+ "generated_at": "2026-07-03 14:02"
 }
