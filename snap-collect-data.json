@@ -7401,14 +7401,6 @@
    "extra": ""
   },
   {
-   "no": 917,
-   "name": "Khem SC Fl. 2 (กาแฟ เข้ม)",
-   "receipt_format": "ID",
-   "notes": "เช่น X1347",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
    "no": 918,
    "name": "SCULPTOR SC Fl. M",
    "receipt_format": "Receipt no",
@@ -7474,7 +7466,7 @@
   },
   {
    "no": 926,
-   "name": "Yodcha ICON Fl. G /",
+   "name": "Yodcha ICON Fl. G",
    "receipt_format": "ID",
    "notes": "",
    "category": "Spending Only",
@@ -7522,7 +7514,7 @@
   },
   {
    "no": 932,
-   "name": "American Eagle SPO Fl. G (ดูดีๆ American Eagle (Signage) ไม่ใช่ห้ามสะสม)",
+   "name": "American Eagle SPO Fl. G",
    "receipt_format": "Receipt no",
    "notes": "ข้อมูลลูกค้า ถ้าใส่สัญชาติ >> สะสมได้เลย // ถ้ามีชื่อสกุลทำตามเงื่อนไขปกติ",
    "category": "JoinONESIAMCoin",
@@ -7554,9 +7546,9 @@
   },
   {
    "no": 936,
-   "name": "บริษัท ไทยสากล เอสเตท จำกัด -  Kanori Hand Roll SPD Fl. G / Kanori Hand Roll ICON Fl. G,GA\nสะสมได้เฉพาะ พิมพ์ครั้งที่ 1 เท่านั้น \nหากพิมพ์ครั้งที่ 2,3,4  Reject: ใบเสร็จเป็นสำเนา หรือใบเสร็จ re-print ไม่สามารถร่วมรายการสะสมได้",
+   "name": "บริษัท ไทยสากล เอสเตท จำกัด -  Kanori Hand Roll SPD Fl. G / Kanori Hand Roll ICON Fl. G,GA",
    "receipt_format": "Transaction No (Trans)",
-   "notes": "กรอกครบทุกตัว Ex.RC690201028\nใช้ Grab Dine Out สะสมได้\n( Food Deal : Food deal onesiam / Voucher One Siam (K-Bank) - Code ของลูกค้า )\nอัพเดท 27/02/2026",
+   "notes": "กรอกครบทุกตัว Ex.RC690201028\nใช้ Grab Dine Out สะสมได้\n( Food Deal : Food deal onesiam / Voucher One Siam (K-Bank) - Code ของลูกค้า )\nสะสมได้เฉพาะ พิมพ์ครั้งที่ 1 เท่านั้น \nหากพิมพ์ครั้งที่ 2,3,4  Reject: ใบเสร็จเป็นสำเนา หรือใบเสร็จ re-print ไม่สามารถร่วมรายการสะสมได้\nอัพเดท 27/02/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -7610,9 +7602,9 @@
   },
   {
    "no": 943,
-   "name": "หัวบิล บริษัท 198 คูซีน  - Have A Zeed SD Fl. 3 / Have A Zeed ICON Fl. 6 \n(แยกสาขาดูตรงเลขใบเสร็จ SDC - สยามดิส / ICS - ICONSIAM)",
+   "name": "หัวบิล บริษัท 198 คูซีน  - Have A Zeed SD Fl. 3 / Have A Zeed ICON Fl. 6",
    "receipt_format": "Receipt no",
-   "notes": "สาขา SD -> ใช้ Receipt No กรอกแค่ 6 ตัวหลัง / เช่น 000062 (Join-Coin)\nสาขา ICON ->ใช้ Receipt No  กรอกแค่ 6 ตัวหลัง / เช่น 000062 (Join-Coin)  ** (Food deal ร้าน Have A Zeed ICON Fl. 6 คำว่า Cash Voucher 500/1000  ) (Food deal ร้าน Have A Zeed SD Fl. 3 คำว่า Voucher1000  )",
+   "notes": "สาขา SD -> ใช้ Receipt No กรอกแค่ 6 ตัวหลัง / เช่น 000062 (Join-Coin)\nสาขา ICON ->ใช้ Receipt No  กรอกแค่ 6 ตัวหลัง / เช่น 000062 (Join-Coin)  ** (Food deal ร้าน Have A Zeed ICON Fl. 6 คำว่า Cash Voucher 500/1000  ) (Food deal ร้าน Have A Zeed SD Fl. 3 คำว่า Voucher1000  ) \n(แยกสาขาดูตรงเลขใบเสร็จ SDC - สยามดิส / ICS - ICONSIAM)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -7637,14 +7629,6 @@
    "name": "Ochaya ICS Fl. 3",
    "receipt_format": "No (เลขที่)",
    "notes": "เช่น 202505001263",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 947,
-   "name": "AIIZ Reno(Thailand)CO.,LTD Plaza สยามเซ็นเตอร์ / A. Moment Pop Up SC Fl. M",
-   "receipt_format": "No (เลขที่)",
-   "notes": "เลขที่ ตัวอย่าง เช่น  PZ9605250200323",
    "category": "Spending Only",
    "extra": ""
   },
@@ -7674,7 +7658,7 @@
   },
   {
    "no": 951,
-   "name": "Tumkratoei Sagate SC Fl. 2 ตำกระเทย \n(มีสาขาเดียวในกทม/เจอบิลสะสมได้เลย บิลไม่ได้ระบุตึก SC)",
+   "name": "Tumkratoei Sagate SC Fl. 2",
    "receipt_format": "เลขที่บิลขาย",
    "notes": "ตำแหน่งสะสม : (เลข 4 ตัวท้าย)\n*สะสมเลขที่บิลขาย CATKRSQ680516- \"0066\"",
    "category": "JoinONESIAMCoin",
@@ -7714,9 +7698,9 @@
   },
   {
    "no": 956,
-   "name": "หัวบิล Mb Group - Blue elephant SC Fl. M / EMIS Pop Up SC Fl. M\nข้างล่างก่อนเลขใบเสร็จจะระบุ ว่าร้านอะไร",
+   "name": "หัวบิล Mb Group - Blue elephant SC Fl. M / EMIS Pop Up SC Fl. M",
    "receipt_format": "ORDER NO",
-   "notes": "กรอกเต็ม Ex.420520260508-0001",
+   "notes": "กรอกเต็ม Ex.420520260508-0001\nข้างล่างก่อนเลขใบเสร็จจะระบุ ว่าร้านอะไร",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -7794,9 +7778,9 @@
   },
   {
    "no": 966,
-   "name": "บริษัท ปั้นข้าว ปั้นรัก จำกัด สาขา 00006 - Shichi Japanese Restaurant ICON Fl. 4 ** กรอกแค่ 6 ตัวท้าย ** \nดูร้านดีๆ!!! ตรวจสอบก่อนจะสะสมว่าถูกไหม",
+   "name": "บริษัท ปั้นข้าว ปั้นรัก จำกัด สาขา 00006 - Shichi Japanese Restaurant ICON Fl. 4",
    "receipt_format": "Receipt no",
-   "notes": "RC007062568/000875 กรอกแค่ 6 ตัวท้าย \n** เริ่ม 28/08/2025    หัวบิล  บริษัท ปั้นข้าวปั้นรัก          \n- ใบกำกับภาษี (ใบใหญ่) ยอดที่จะเอามากรอกสะสม ดูจาก \"จำนวนชำระเงิน\"                                                       \n- จ่ายด้วย One Siam Food Deal (Ar-Coin ONESIAM) : Reject ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp)",
+   "notes": "RC007062568/000875 กรอกแค่ 6 ตัวท้าย \nดูร้านดีๆ!!! ตรวจสอบก่อนจะสะสมว่าถูกไหม\n** เริ่ม 28/08/2025    หัวบิล  บริษัท ปั้นข้าวปั้นรัก          \n- ใบกำกับภาษี (ใบใหญ่) ยอดที่จะเอามากรอกสะสม ดูจาก \"จำนวนชำระเงิน\"                                                       \n- จ่ายด้วย One Siam Food Deal (Ar-Coin ONESIAM) : Reject ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -7994,9 +7978,9 @@
   },
   {
    "no": 991,
-   "name": "The North Face ICON Fl. 2  / The North Face SPO Fl. G \n(The North Face SD Fl. 1 = TNA สะสมจากร้านเท่านั้น)",
+   "name": "The North Face ICON Fl. 2  / The North Face SPO Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "ใช้ Receipt No  EX.215R1012026/00419 กรอกครบทุกตัว",
+   "notes": "ใช้ Receipt No  EX.215R1012026/00419 กรอกครบทุกตัว\n(The North Face SD Fl. 1 = TNA สะสมจากร้านเท่านั้น)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -8290,7 +8274,7 @@
   },
   {
    "no": 1028,
-   "name": "หัวบิล ON ICONSAIM สะสมเข้า On Running ICON Fl. 1 ** ใช้เลขใต้ Barcode",
+   "name": "On Running ICON Fl.",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "ใช้เลขใต้ Barcode ** กรอกครบ เช่น T0102000000151",
    "category": "Spending Only",
@@ -8298,7 +8282,7 @@
   },
   {
    "no": 1029,
-   "name": "ZEISS ICON Fl. 4 (หัวบิลใบเสร็จ Glassaholic)",
+   "name": "ZEISS ICON Fl. 4 (Glassaholic)",
    "receipt_format": "Reciept no",
    "notes": "สังเกตร้านค้าและสาขาตรง POS จะขึ้นว่า Zeiss Icon Siam",
    "category": "Spending Only",
@@ -8306,7 +8290,7 @@
   },
   {
    "no": 1030,
-   "name": "Stand Oil SC Fl. G (JoinCoin) 10/02/2026",
+   "name": "Stand Oil SC Fl. G",
    "receipt_format": "Reciept no",
    "notes": "กนรอกครบ",
    "category": "JoinONESIAMCoin",
@@ -8386,9 +8370,9 @@
   },
   {
    "no": 1040,
-   "name": "Carlyn ICON Fl. M (ของ DCR-PRH)\nExternal: Carlyn - Fashion Island \nExternal: Carlyn - Megabangna \nExternal: Carlyn - Central Westgate\nExternal: Carlyn - Future Park Rangsit",
+   "name": "Carlyn ICON Fl. M (ของ DCR-PRH)",
    "receipt_format": "Pos-Reciept (PRH)",
-   "notes": "เช่น 2437101-1000009 / External  เริ่ม JoinCoin วันที่ 8-Sep2025 / ICON  เริ่ม JoinCoin วันที่ 1-Sep2025",
+   "notes": "เช่น 2437101-1000009 / External  เริ่ม JoinCoin วันที่ 8-Sep2025 / ICON  เริ่ม JoinCoin วันที่ 1-Sep2025\nExternal: Carlyn - Fashion Island \nExternal: Carlyn - Megabangna \nExternal: Carlyn - Central Westgate\nExternal: Carlyn - Future Park Rangsit",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -8650,17 +8634,17 @@
   },
   {
    "no": 1119,
-   "name": "หัวบิล Van Hart ทั้ง G และ ชั้น 4  > สะสมเข้า Van VAN HEART ICON Fl. G",
+   "name": "Van VAN HEART ICON Fl. G",
    "receipt_format": "ID",
-   "notes": "",
+   "notes": "หัวบิล Van Hart ทั้ง G และ ชั้น 4  สะสมเข้าร้านเดียวกัน",
    "category": "Spending Only",
    "extra": ""
   },
   {
    "no": 1120,
-   "name": "FATT Chicken & Flying Pig SPD Fl. 4  (บิลปกติจะไม่มีระบุสาขาสะสมได้)  ใช้ ID\nใบกำกับภาษี : หัวบิล บ้านภาชี จำกัด เอ็มสเฟียร์ ใช้ เลขที่ มุมขวาบน",
+   "name": "FATT Chicken & Flying Pig SPD Fl. 4",
    "receipt_format": "ID/เลขที่",
-   "notes": "หากใบเสร็จระบุใช้ Cash voucher เป็นส่วนลด ให้เช็ค Transaction เพราะอาจจะเป็นการ Burn Coin ที่สะสมได้ *จนกว่าร้านจะมีการเปลี่ยนคำในบิลให้ตรงกับประเภทส่วนลด",
+   "notes": "หากใบเสร็จระบุใช้ Cash voucher เป็นส่วนลด ให้เช็ค Transaction เพราะอาจจะเป็นการ Burn Coin ที่สะสมได้ *จนกว่าร้านจะมีการเปลี่ยนคำในบิลให้ตรงกับประเภทส่วนลด\n (บิลปกติจะไม่มีระบุสาขาสะสมได้)  ใช้ ID\nใบกำกับภาษี : หัวบิล บ้านภาชี จำกัด เอ็มสเฟียร์ ใช้ เลขที่ มุมขวาบน",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -8690,9 +8674,9 @@
   },
   {
    "no": 1124,
-   "name": "SOT SPD Fl. 4\nยอดการสะสม ดูจาก Authorized Amount \nใช้ Siam Coupon 100 หักออก ดูยอด Remaining Balance",
+   "name": "SOT SPD Fl. 4",
    "receipt_format": "Receipt no",
-   "notes": "กรอบครบเอาขีด ex.20251014-10004",
+   "notes": "กรอบครบเอาขีด ex.20251014-10004\nยอดการสะสม ดูจาก Authorized Amount \nใช้ Siam Coupon 100 หักออก ดูยอด Remaining Balance",
    "category": "Spending Only",
    "extra": ""
   },
@@ -8818,9 +8802,9 @@
   },
   {
    "no": 1140,
-   "name": "Sri Oriental Co.,Ltd.  Sri Trat at Sri's Room SPD Fl. G (join Coin เริ่ม 1-Nov-2025)\nหัวบิลใบกำกับภาษี : บริษัท ศรีโอเรียนทอล จำกัด",
+   "name": "Sri Oriental Co.,Ltd.  Sri Trat at Sri's Room SPD Fl. G (join Coin เริ่ม 1-Nov-2025)",
    "receipt_format": "ID",
-   "notes": "เช่น 69N64 \nถ้าเป็นใบกำกับเขียนมือ ใช้เล่มที่+เลขที่ ex 0010047\n( Food Deal : Cash Voucher 2000/4000 )",
+   "notes": "เช่น 69N64 \nหัวบิลใบกำกับภาษี : บริษัท ศรีโอเรียนทอล จำกัด \nถ้าเป็นใบกำกับเขียนมือ ใช้เล่มที่+เลขที่ ex 0010047\n( Food Deal : Cash Voucher 2000/4000 )",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -8850,17 +8834,17 @@
   },
   {
    "no": 1144,
-   "name": "KAYOU ICON Fl. 5 (join Coin) \nSpending Only เริ่ม 03/06/2026",
+   "name": "KAYOU ICON Fl. 5 (join Coin)",
    "receipt_format": "No (เลขที่)",
-   "notes": "สะสมตัวเลข 4 ตัวท้าย เช่น ตัวอย่าง 0005",
+   "notes": "สะสมตัวเลข 4 ตัวท้าย เช่น ตัวอย่าง 0005 \nSpending Only เริ่ม 03/06/2026",
    "category": "Spending Only",
    "extra": ""
   },
   {
    "no": 1145,
-   "name": "Henri Charpentier SPD Fl. G \nHenri Charpentier ICON Fl. G (สาขา ICONSIAM หัวบิลจะออก Siamtakashimaya ต้องดูตรง cashier : Henri Charpentier ICON",
+   "name": "Henri Charpentier SPD Fl. G  / Henri Charpentier ICON Fl. G",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "สาขา SPD ใช้ มุมขวาล่างหลัง #1-0661  กรอก เช่น  1-0661\nสาขา ICON ใช้ Format STK  Ex.Pos 4 ตัวท้าย / MA 4 ตัวท้าย",
+   "notes": "สาขา SPD ใช้ มุมขวาล่างหลัง #1-0661  กรอก เช่น  1-0661\nสาขา ICON ใช้ Format STK  Ex.Pos 4 ตัวท้าย / MA 4 ตัวท้าย \n(สาขา ICONSIAM หัวบิลจะออก Siamtakashimaya ต้องดูตรง cashier : Henri Charpentier ICON",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -9010,9 +8994,9 @@
   },
   {
    "no": 1164,
-   "name": "บริษัท เพอร์เฟค สเคป จำกัด  สาขาที่ออก GC-PRG(00002) - Gong cha SPD Fl. 5 / Zone Nextopia \nระบบ มันชอบจับวันที่มาผิดดูดีๆ !!!",
+   "name": "บริษัท เพอร์เฟค สเคป จำกัด  สาขาที่ออก GC-PRG(00002) - Gong cha SPD Fl. 5 / Zone Nextopia",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "หัวบิล Gong Cha ใช้ Payment Bill No เช่น 016 กรอกครบทุกตัว",
+   "notes": "หัวบิล Gong Cha ใช้ Payment Bill No เช่น 016 กรอกครบทุกตัว\nระบบ มันชอบจับวันที่มาผิดดูดีๆ !!!",
    "category": "Spending Only",
    "extra": ""
   },
@@ -9234,9 +9218,9 @@
   },
   {
    "no": 1194,
-   "name": "Sealife SPD Fl. B ( บิล Confirmation สะสมได้เช่นกัน)",
+   "name": "Sealife SPD Fl. B",
    "receipt_format": "Tax invoice (ABB)",
-   "notes": "กรอกครบทุกตัว เช่น 260311-5481-06858\nหัวบิล Magic Memories Thailand ใช้เลข #SLBA93881 กรอกครบไม่เอา # (เป็น Event SEA Life)",
+   "notes": "กรอกครบทุกตัว เช่น 260311-5481-06858\nหัวบิล Magic Memories Thailand ใช้เลข #SLBA93881 กรอกครบไม่เอา # (เป็น Event SEA Life)\n ( บิล Confirmation สะสมได้เช่นกัน)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -9261,14 +9245,6 @@
    "name": "Smith & Co. SPD Fl. 4",
    "receipt_format": "ID",
    "notes": "ดูดีๆ ตรงการชำระเงิน มีคำว่า Food deal ( Food Deal @ Siam ) ให้ Reject : ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า \nหรือซื้อผ่าน ONESIAM SuperApp",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 1198,
-   "name": "NaiSnow SPD Fl.G (สาขาจะอยู่ล่างสุดใบเสร็จ siamparagon)",
-   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "DINE IN # กรอกครบ เช่น #1113",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10781,5 +10757,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 11:42"
+ "generated_at": "2026-07-03 11:47"
 }
