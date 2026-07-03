@@ -1442,7 +1442,7 @@
   },
   {
    "no": 181,
-   "name": "หัวบิล บริษัท โอเรียนทัล อโรม่า จำกัด - Donna Chang ICON Fl. 5 สะสมได้",
+   "name": "หัวบิล บริษัท โอเรียนทัล อโรม่า จำกัด - Donna Chang ICON Fl. 5",
    "receipt_format": "Receipt no",
    "notes": "Donna Chang SPD Fl. G / TNA สะสมที่ร้านเท่านั้น",
    "category": "JoinONESIAMCoin",
@@ -1572,7 +1572,7 @@
    "no": 197,
    "name": "Sony SPD Fl. 2 (บิลที่สะสมได้ เลขใบเสร็จจะ ขึ้นต้นด้วย 00000Pxxxxxxxx)\n* ใบเสร็จกลุ่มไม่สะสม ** ดูดีๆร้านค้าซีเรียสเรื่องการจ่ายค่า COIN",
    "receipt_format": "No (เลขที่)",
-   "notes": "1. ใบเสร็จ \"SONY CARE ตัวย่อ SSCare Reject: ไม่เข้าร่วมการสะสม\n2. ใบเสร็จซ่อม ค่าแรง ประกัน  Reject: ไม่เข้าร่วมการสะสม\n\nกรอกครบทุกตัว Ex.00000P0702000017489 (Join Coin เริ่ม 01/10/2025)\nพวกใบซ่อม เลขที่ใบเสร็จ จะเป็น JI172600100 , DRD170001159 >> สะสมไม่ได้ดูดีๆ",
+   "notes": "1. ใบเสร็จ \"SONY CARE ตัวย่อ SSCare Reject: ไม่เข้าร่วมการสะสม\n2. ใบเสร็จซ่อม ค่าแรง ประกัน  Reject: ไม่เข้าร่วมการสะสม\nกรอกครบทุกตัว Ex.00000P0702000017489 (Join Coin เริ่ม 01/10/2025)\nพวกใบซ่อม เลขที่ใบเสร็จ จะเป็น JI172600100 , DRD170001159 >> สะสมไม่ได้ดูดีๆ",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -1642,7 +1642,7 @@
   },
   {
    "no": 206,
-   "name": "บริษัท ปุริ จำกัด - Panpuri / Panpuri SPD Fl. 1 / Panpuri SPD Fl. G / Panpuri SC Fl. 1/Panpuri ICON Fl. M",
+   "name": "Panpuri SPD Fl. 1 / Panpuri SPD Fl. G / Panpuri SC Fl. 1/Panpuri ICON Fl. M",
    "receipt_format": "Reference no",
    "notes": "สาขา 0000 SPD \nEx.AB261040009SMC10008270",
    "category": "Spending Only",
@@ -1650,9 +1650,9 @@
   },
   {
    "no": 207,
-   "name": "Sin Chai Hua ICON Fl. BM1\nดูชื่อในใบเสร็จดีๆว่ามันตรงกับ Account ที่ถ่ายไหม!!!",
+   "name": "Sin Chai Hua ICON Fl. BM1",
    "receipt_format": "เลขใต้ Barcode",
-   "notes": "(ex.123123070007) กรอกครบทุกตัว รวมอักขระพิเศษ",
+   "notes": "(ex.123123070007) กรอกครบทุกตัว รวมอักขระพิเศษ / ดูชื่อในใบเสร็จดีๆว่ามันตรงกับ Account ที่ถ่ายไหม!!!",
    "category": "Spending Only",
    "extra": ""
   },
@@ -1666,7 +1666,7 @@
   },
   {
    "no": 209,
-   "name": "Bangkok Beer & Beverages Co., Ltd. - THE BARREL / The Barrel ICON Fl. 4 หัวบิล บริษัท บางกอกเบียร์ แอนด์ เบเวอร์เรจ",
+   "name": "Bangkok Beer & Beverages Co., Ltd. - The Barrel ICON Fl. 4 หัวบิล บริษัท บางกอกเบียร์ แอนด์ เบเวอร์เรจ",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "(EX.9192023/4227) กรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
@@ -1826,9 +1826,9 @@
   },
   {
    "no": 229,
-   "name": "Skechers SPO Fl. G (Joincoinสาขาเดียว) / Skechers ICON Fl. 3\nSkechers FOAMIES and Sandals ICS Fl. M",
+   "name": "Skechers SPO Fl. G / Skechers ICON Fl. 3 / Skechers FOAMIES and Sandals ICS Fl. M",
    "receipt_format": "Receipt no",
-   "notes": "(EX.BT02P0040071682)",
+   "notes": "(EX.BT02P0040071682) / Skechers SPO Fl. G (Joincoinสาขาเดียว)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -2092,7 +2092,7 @@
    "no": 262,
    "name": "Alexander McQueen ICON Fl. M",
    "receipt_format": "Tax invoice (ABB)",
-   "notes": "กรอกครบทุกตัว เช่น AB563052025000121 \nบิลไหนไม่มี Tax Invoice ค่อยใช้เลข Ticket\nอัพเดท 08/08/2025\n\nสาขา SPD ปิด วันที่ 17-Mar-2026",
+   "notes": "กรอกครบทุกตัว เช่น AB563052025000121 \nบิลไหนไม่มี Tax Invoice ค่อยใช้เลข Ticket\nอัพเดท 08/08/2025\nสาขา SPD ปิด วันที่ 17-Mar-2026",
    "category": "JoinONESIAMCoin",
    "extra": "Luxury"
   },
@@ -2498,9 +2498,9 @@
   },
   {
    "no": 313,
-   "name": "Tesla SPD Fl. 2  (สะสมเฉพาะแบบฟอร์มรับมอบรถ Delivery Form)\nOrder Place Location : Siamparagon เท่านั้น",
+   "name": "Tesla SPD Fl. 2",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "หมายเลขคำสั่งซื้อ (RN)  เช่น RN12722289\nเช็ค 1.ชื่อสกุลต้องตรงกับ Account สมาชิกที่ถ่ายเข้ามา 2.วันที่ทำการสั่งซื้อต้องภายในเดือนที่ถ่ายมา\nถ้าไม่แน่ใจ แจ้งพี่มิ้ง\nอัพเดท 28-May-2026",
+   "notes": "หมายเลขคำสั่งซื้อ (RN)  เช่น RN12722289\nเช็ค 1.ชื่อสกุลต้องตรงกับ Account สมาชิกที่ถ่ายเข้ามา \n2.วันที่ทำการสั่งซื้อต้องภายในเดือนที่ถ่ายมา ** เรื่องร้านรถไม่แน่ใจถามพี่อุ้ม\nอัพเดท 28-May-2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -2508,7 +2508,7 @@
    "no": 314,
    "name": "Aston Martin SPD Fl. 2",
    "receipt_format": "เจอบิลแล้วมาตรวจสอบกันก่อนค่ะ",
-   "notes": "",
+   "notes": "เรื่องร้านรถไม่แน่ใจถามพี่อุ้ม",
    "category": "Spending Only",
    "extra": ""
   },
@@ -2516,7 +2516,7 @@
    "no": 315,
    "name": "FERRARI / Bentley SPD Fl. 2",
    "receipt_format": "เจอบิลแล้วมาตรวจสอบกันก่อนค่ะ",
-   "notes": "",
+   "notes": "เรื่องร้านรถไม่แน่ใจถามพี่อุ้ม",
    "category": "Spending Only",
    "extra": ""
   },
@@ -2524,7 +2524,7 @@
    "no": 316,
    "name": "Jaguar Landrover SPD Fl. 2",
    "receipt_format": "เจอบิลแล้วมาตรวจสอบกันก่อนค่ะ",
-   "notes": "",
+   "notes": "เรื่องร้านรถไม่แน่ใจถามพี่อุ้ม",
    "category": "Spending Only",
    "extra": ""
   },
@@ -2532,7 +2532,7 @@
    "no": 317,
    "name": "Maserati (ค่าอุปกรณ์)",
    "receipt_format": "เจอบิลแล้วมาตรวจสอบกันก่อนค่ะ",
-   "notes": "",
+   "notes": "เรื่องร้านรถไม่แน่ใจถามพี่อุ้ม",
    "category": "Spending Only",
    "extra": ""
   },
@@ -2540,7 +2540,7 @@
    "no": 318,
    "name": "Maserati (ซื้อรถ)",
    "receipt_format": "เจอบิลแล้วมาตรวจสอบกันก่อนค่ะ",
-   "notes": "",
+   "notes": "เรื่องร้านรถไม่แน่ใจถามพี่อุ้ม",
    "category": "Spending Only",
    "extra": ""
   },
@@ -2548,7 +2548,7 @@
    "no": 319,
    "name": "BMW , MINI Cooper SPD Fl. 2 (Spending Only)",
    "receipt_format": "เจอบิลแล้วมาตรวจสอบกันก่อนค่ะ",
-   "notes": "",
+   "notes": "เรื่องร้านรถไม่แน่ใจถามพี่อุ้ม",
    "category": "Spending Only",
    "extra": ""
   },
@@ -2556,7 +2556,7 @@
    "no": 320,
    "name": "Rolls-Royce SPD Fl. 2",
    "receipt_format": "เจอบิลแล้วมาตรวจสอบกันก่อนค่ะ",
-   "notes": "",
+   "notes": "เรื่องร้านรถไม่แน่ใจถามพี่อุ้ม",
    "category": "Spending Only",
    "extra": ""
   },
@@ -2564,7 +2564,7 @@
    "no": 321,
    "name": "Millinium Auto SPD Fl. 2",
    "receipt_format": "เจอบิลแล้วมาตรวจสอบกันก่อนค่ะ",
-   "notes": "",
+   "notes": "เรื่องร้านรถไม่แน่ใจถามพี่อุ้ม",
    "category": "Spending Only",
    "extra": ""
   },
@@ -2578,7 +2578,7 @@
   },
   {
    "no": 323,
-   "name": "Phufa - ภูฟ้าผสมผสาน >>Phufa SPD Fl. 4 (มีสาขาเดียว - Join Coin)",
+   "name": "Phufa - ภูฟ้าผสมผสาน >>Phufa SPD Fl. 4",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอบครบทุุกตัว เช่น 000000025755",
    "category": "JoinONESIAMCoin",
@@ -2634,7 +2634,7 @@
   },
   {
    "no": 330,
-   "name": "Paragon Cineplex SPD Fl. 5 (โรงหนัง)",
+   "name": "Paragon Cineplex SPD Fl. 5",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอกครบทุกตัว (ไม่ต้องใส่อักขระพิเศษ)",
    "category": "Spending Only",
@@ -2642,17 +2642,9 @@
   },
   {
    "no": 331,
-   "name": "หังบิล บริษัทโอเชี่ยน เลกาซี่ จำกัด - CARTEL SPO Fl. G",
+   "name": "บริษัทโอเชี่ยน เลกาซี่ จำกัด - CARTEL SPO Fl. G",
    "receipt_format": "No (เลขที่)",
    "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 332,
-   "name": "Anello SPO Fl. G ปิดให้บริการ 18/06/2026",
-   "receipt_format": "Receipt no",
-   "notes": "กรอกครบทุกตัว (ไม่ต้องใส่อักขระพิเศษ)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10821,5 +10813,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 09:53"
+ "generated_at": "2026-07-03 09:56"
 }
