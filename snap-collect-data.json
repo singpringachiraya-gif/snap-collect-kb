@@ -10655,6 +10655,14 @@
    "notes": "ด้านล่างขวากรอกครบ เช่น ST69007053",
    "category": "",
    "extra": ""
+  },
+  {
+   "no": null,
+   "name": "ba",
+   "receipt_format": "",
+   "notes": "",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10717,5 +10725,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 19:12"
+ "generated_at": "2026-07-03 19:13"
 }
