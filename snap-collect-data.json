@@ -10563,7 +10563,7 @@
   {
    "no": 1386,
    "name": "TONKATSU MARUSHICHI พระราม 9",
-   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
+   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM (รออนุมัติ)",
    "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
    "category": "Popup&Event",
    "extra": ""
@@ -10677,5 +10677,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 14:02"
+ "generated_at": "2026-07-03 14:15"
 }
