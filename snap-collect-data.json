@@ -10639,6 +10639,14 @@
    "notes": "Ex. 0001102213ใส่ไม่ครบ ตัดเลข 0 สามตัวหน้าออก กรอกแค่ 110213\t\r\n( Food Deal : fooddeal 500 , fooddeal 1000 )\r\nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
+  },
+  {
+   "no": 1390,
+   "name": "เนื้อคู่ NUER KOO Branch No.00001 Siam Paragon สะสมเข้าร้าน NUER KOO SPD Fl. 4",
+   "receipt_format": "ID",
+   "notes": "เช่น DD6SR",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10701,5 +10709,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 11:48"
+ "generated_at": "2026-07-03 12:56"
 }
