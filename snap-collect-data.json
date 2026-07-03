@@ -6585,280 +6585,8 @@
    "extra": ""
   },
   {
-   "no": 810,
-   "name": "Double Duck SPO Fl. G",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 811,
-   "name": "THE CHEESE BARON ICS Fl. BM1",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 812,
-   "name": "VANILLA PRINCE CAFE ICS Fl. BM",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 813,
-   "name": "Syn Lab Grown Diamond ICS Fl. 1",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 814,
-   "name": "Tummachud Enterprise Co., Ltd. ICS Fl. 8",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 815,
-   "name": "วุ้นกบ AIYU ICS Fl. G",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 816,
-   "name": "Juice Up ICS Fl. G",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 817,
-   "name": "THE AFTERNOON COMPANY LIMITED ICS Fl. 6",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 818,
-   "name": "FDGT C0., Ltd ICS Fl. 6",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 819,
-   "name": "A-Best Co., Ltd ICS Fl. 6",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 820,
-   "name": "OK APPAREL ICS Fl. M",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 821,
-   "name": "Pork Tomyum Noodle ICS Fl. G",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 822,
-   "name": "Krua Khun Mai ICS Fl. G",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 823,
-   "name": "Lar Fish ball Noodle ICS Fl. G",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 824,
-   "name": "PADA ICS Fl. G",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 825,
-   "name": "Shabu Mai ICS Fl. G",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 826,
-   "name": "Arin Jewelry ICS Fl. M",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 827,
-   "name": "Chuanchim Aroi ICS Fl. G",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 828,
-   "name": "Areeya Jewellery ICS Fl. 1",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 829,
-   "name": "Salad & Yum's House ICS Fl. G",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 830,
-   "name": "Chariot ICS Fl. 3",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 831,
-   "name": "Nineties Design ICS Fl. M",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
    "no": 832,
    "name": "Prompt School ICS Fl. 3",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 833,
-   "name": "Relax Place Health & Massage ICS Fl. 1",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 834,
-   "name": "Mee Klong ICS Fl. G",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 835,
-   "name": "Yak Crepe ICS Fl. G",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 836,
-   "name": "YOI PANG PING CHA CHAK ICS Fl. G",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 837,
-   "name": "Richesse ICS Fl. G",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 838,
-   "name": "IM-LAMOON ICS Fl. G",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 839,
-   "name": "Suki Mae Wipa ICS Fl. G",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 840,
-   "name": "JAKARADE ICS Fl. 2",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 841,
-   "name": "Sugar Family ICS Fl. 3",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 842,
-   "name": "Marco Polo ICS Fl. M",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 843,
-   "name": "Waffle Town ICS Fl. G",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 844,
-   "name": "SHD TECHNOLOGY CO., LTD ICS Fl. 7",
    "receipt_format": "Receipt no",
    "notes": "",
    "category": "Spending Only",
@@ -7062,22 +6790,6 @@
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject : ร้านค้าเปิดให้บริการในศูนย์การค้าอื่น",
    "category": "AnotherShopingCenter",
-   "extra": ""
-  },
-  {
-   "no": 871,
-   "name": "สุกี้ช้างเผือก - POP UP Event",
-   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
-   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 873,
-   "name": "more than arts & toys @ICONSIAM  - POP UP Event",
-   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
-   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
-   "category": "Popup&Event",
    "extra": ""
   },
   {
@@ -7354,9 +7066,9 @@
   },
   {
    "no": 914,
-   "name": "Au Bon Pain SPD Fl. G / Au Bon Pain SD Fl. M \nHead Offiec Pop up 009 - สาขา SD สยามดิสคัฟเวอรี่",
+   "name": "Au Bon Pain SPD Fl. G / Au Bon Pain SD Fl. M",
    "receipt_format": "No (เลขที่)",
-   "notes": "เช่น 0113140",
+   "notes": "เช่น 0113140 / Head Offiec Pop up 009 - สาขา SD สยามดิสคัฟเวอรี่",
    "category": "Spending Only",
    "extra": ""
   },
@@ -7618,9 +7330,9 @@
   },
   {
    "no": 947,
-   "name": "BOY SC Fl. M / Boy London  (หัวใบเสร็จชื่อ KLANDTH แล้วจะมีชื่อร้าน Boylondon บรรทัดล่างเหมือนกัน ให้ดูที่รหัสสินค้าว่าเป็นของแบรนด์ไหน ** ปิดร้าน 27/05/2025",
+   "name": "BOY SC Fl. M / Boy London",
    "receipt_format": "Tax invoice (ABB)",
-   "notes": "",
+   "notes": "(หัวใบเสร็จชื่อ KLANDTH แล้วจะมีชื่อร้าน Boylondon บรรทัดล่างเหมือนกัน ให้ดูที่รหัสสินค้าว่าเป็นของแบรนด์ไหน ** ปิดร้าน 27/05/2025",
    "category": "ShopClosed",
    "extra": ""
   },
@@ -7650,7 +7362,7 @@
   },
   {
    "no": 951,
-   "name": "หัวบิล  บริษัท พีเอที ลักซูรี่ คอนเซป จำกัด   \nMarc Jacob ICON Fl. M สาขา 00012 (Join coin)\nMarc Jacob SPO Fl. G (Join Coin)",
+   "name": "หัวบิล  บริษัท พีเอที ลักซูรี่ คอนเซป จำกัด   Marc Jacob ICON Fl. M สาขา 00012 (Join coin) / Marc Jacob SPO Fl. G (Join Coin)",
    "receipt_format": "No (เลขที่)",
    "notes": "สาขา ICON > ขึ้นต้นด้วย MJ เช่น MJ06A6810070\nสาขา SPO > เช่น G186810042\tหรือ H186810016\nสาขา SPD ไม่เข้าร่วมการสะสม POP UP\nอัพเดท 29/10/2025",
    "category": "JoinONESIAMCoin",
@@ -7994,9 +7706,9 @@
   },
   {
    "no": 996,
-   "name": "บริษัท ซี เอช โฮม มีเดีย จำกัด   - Focal SPD Fl. 2  (ร้านค้าจะเป็นคนเขียนเลขใบเสร็จเอง) เริ่ม 1 มิย",
+   "name": "บริษัท ซี เอช โฮม มีเดีย จำกัด   - Focal SPD Fl. 2",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "เช่น (ONE /ปี 2 หลัก/xxx) ร้านจะเขียนเองจากหน้าร้าน แค่พิมพ์ตามที่ร้านเขียน เช่น ONE68001  ใช้เลขที่ Ex.IVC681031-0001",
+   "notes": "เช่น (ONE /ปี 2 หลัก/xxx) ร้านจะเขียนเองจากหน้าร้าน แค่พิมพ์ตามที่ร้านเขียน เช่น ONE68001  ใช้เลขที่ Ex.IVC681031-0001\n (ร้านค้าจะเป็นคนเขียนเลขใบเสร็จเอง) เริ่ม 1 มิย",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -8058,9 +7770,9 @@
   },
   {
    "no": 1004,
-   "name": "1:2 Coffee SC Fl. 2 / 1:2 Coffee ICON Fl. 4\nบิล Food Deal ซื้อจาก APP มีตัวปั้ม - SKU: Siam Deal Discount 5 THB (บางทีไม่ปั้มดูดีๆ)\n Reject: ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp",
+   "name": "1:2 Coffee SC Fl. 2 / 1:2 Coffee ICON Fl. 4",
    "receipt_format": "Payment bill No",
-   "notes": "ใช้เวลาออกใบเสร็จ/Payment No เช่น 1016/18\nเวลาออกใบเสร็จอยู่มุมขวามือหลังวันที่  / ถ้าไม่มีคิวใช้ บิลเลขที่ (Bill Ref No) เต็มหลัง # Ex.510180200 (update 18/10/2025)\nร้านเดิม One to two ไม่ใช่แล้ว อัพเดท 26/03/2026",
+   "notes": "ใช้เวลาออกใบเสร็จ/Payment No เช่น 1016/18\nเวลาออกใบเสร็จอยู่มุมขวามือหลังวันที่  / ถ้าไม่มีคิวใช้ บิลเลขที่ (Bill Ref No) เต็มหลัง # Ex.510180200 (update 18/10/2025)\nร้านเดิม One to two ไม่ใช่แล้ว อัพเดท 26/03/2026\nบิล Food Deal ซื้อจาก APP มีตัวปั้ม - SKU: Siam Deal Discount 5 THB (บางทีไม่ปั้มดูดีๆ)\n Reject: ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp",
    "category": "JoinONESIAMCoin",
    "extra": "(เริ่ม join Coin 01/08/2025)"
   },
@@ -8124,7 +7836,7 @@
    "no": 1012,
    "name": "บริษัท ปั้นข้าว ปั้นรัก จำกัด สาขา 00006 - Shichi Japanese Restaurant ICON Fl. 4 ** กรอกแค่ 6 ตัวท้าย ** \nดูร้านดีๆ!!! ตรวจสอบก่อนจะสะสมว่าถูกไหม",
    "receipt_format": "Receipt no",
-   "notes": "RC007062568/000875 กรอกแค่ 6 ตัวท้าย ** เริ่ม 28/08/2025    หัวบิล  บริษัท ปั้นข้าวปั้นรัก          \n- ใบกำกับภาษี (ใบใหญ่) ยอดที่จะเอามากรอกสะสม ดูจาก \"จำนวนชำระเงิน\"                                                       \n- จ่ายด้วย One Siam Food Deal (Ar-Coin ONESIAM) : Reject ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp)",
+   "notes": "RC007062568/000875 กรอกแค่ 6 ตัวท้าย \n** เริ่ม 28/08/2025    หัวบิล  บริษัท ปั้นข้าวปั้นรัก          \n- ใบกำกับภาษี (ใบใหญ่) ยอดที่จะเอามากรอกสะสม ดูจาก \"จำนวนชำระเงิน\"                                                       \n- จ่ายด้วย One Siam Food Deal (Ar-Coin ONESIAM) : Reject ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -8730,17 +8442,17 @@
   },
   {
    "no": 1088,
-   "name": "Waleerat Clinic ICON Fl. 5  / ดูชื่อสมาชิกตรงกันไหม",
+   "name": "Waleerat Clinic ICON Fl. 5",
    "receipt_format": "INVOICE NO (Inv#)",
-   "notes": "เช่น 6805722",
+   "notes": "เช่น 6805722 /  ดูชื่อสมาชิกตรงกันไหม",
    "category": "Spending Only",
    "extra": ""
   },
   {
    "no": 1089,
-   "name": "DENT @ PARAGON SPD Fl. 4 \n (Patient Name ชื่อลูกค้าดูดีๆว่าชื่อตรงไหม!!!)",
+   "name": "DENT @ PARAGON SPD Fl. 4",
    "receipt_format": "Receipt no",
-   "notes": "เช่น 00728239",
+   "notes": "เช่น 00728239 /  (Patient Name ชื่อลูกค้าดูดีๆว่าชื่อตรงไหม!!!)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11205,5 +10917,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 09:15"
+ "generated_at": "2026-07-03 09:20"
 }
