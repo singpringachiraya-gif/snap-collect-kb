@@ -5002,7 +5002,7 @@
   },
   {
    "no": 627,
-   "name": "Starbucks Coffee",
+   "name": "มิล,b]]ฟสส",
    "receipt_format": "check no (CHK)",
    "notes": "ICONSIAM วิธีดูสาขา: Chaophaya river fron สะสมเข้า ชั้น Starbucks Coffee ICON Fl. 7 / ถ้าไม่ระบุ ชั้น Starbucks Coffee ICON Fl. 1\nPARAGON วิธีดูสาขา : Major สะสมเข้า  Starbucks Coffee SPD Fl. 5\n\nบิลระบุ MOP / MOT  = ซื้อผ่าน Website ร้านค้า : Reject : ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp                                                                                                                                                                              \nบิลที่ระบุ  SBUX 200 =  ไม่มีเมนูเครื่องดื่มเลย คือการเติมเงินเข้าบัตรสมาชิก สะสมไม่ได้ Reject  รูปภาพไม่ใช่ใบเสร็จ \nรายการสินค้า Countdown สามารถสะสมได้",
    "category": "JoinONESIAMCoin",
@@ -5026,7 +5026,7 @@
   },
   {
    "no": 630,
-   "name": "บริษัท มิลลารี่ จำกัด -  The Alley SPO Fl. G (JoinCoin) \nThe Alley SC Fl. 2 (JoinCoin) \n The Alley ICON Fl. 3 (Spending)",
+   "name": "The Alley SPO Fl. G (JoinCoin)  / The Alley SC Fl. 2 (JoinCoin)  /The Alley ICON Fl. 3 (Spending)",
    "receipt_format": "SN",
    "notes": "Ex. 2025030501003\n(Food Deal : One siam-100% )",
    "category": "JoinONESIAMCoin",
@@ -10709,5 +10709,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 13:14"
+ "generated_at": "2026-07-03 13:26"
 }
