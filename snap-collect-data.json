@@ -2,15 +2,15 @@
  "stores": [
   {
    "no": 1,
-   "name": "CHA TRA MUE SPD Fl. G / CHA TRA MUE SD Fl. 3 / CHA TRA MUE ICON Fl. G / CHA TRA MUE ICS Fl. G\nมี  Member ร้านค้า ถ้าชื่อไม่ตรง Reject: ชื่อที่ปรากฏบนใบเสร็จไม่ตรงกับชื่อบัญชี ONESIAM SuperApp",
+   "name": "CHA TRA MUE SPD Fl. G / CHA TRA MUE SD Fl. 3 / CHA TRA MUE ICON Fl. G / CHA TRA MUE ICS Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "เช่น 0155624",
+   "notes": "เช่น 0155624 / มี  Member ร้านค้า ถ้าชื่อไม่ตรง Reject: ชื่อที่ปรากฏบนใบเสร็จไม่ตรงกับชื่อบัญชี ONESIAM SuperAp",
    "category": "Spending Only",
    "extra": ""
   },
   {
    "no": 2,
-   "name": "บริษัท ไอเบอร์รี่ โฮมเมด จำกัด - รสนิยม ROTSANIYOM ICON Fl. G / ROTSANIYOM SPD Fl. G",
+   "name": "ROTSANIYOM ICON Fl. G / ROTSANIYOM SPD Fl. G",
    "receipt_format": "Tax invoice (ABB)",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ Ex.RCRN-PRG6903290129",
    "category": "Spending Only",
@@ -10821,5 +10821,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 09:34"
+ "generated_at": "2026-07-03 09:50"
 }
