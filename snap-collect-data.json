@@ -202,9 +202,9 @@
   },
   {
    "no": 26,
-   "name": "Bon Chon SPD Fl. G / Bon Chon SC Fl. 2 / Bon Chon ICON Fl. 6 / Bon Chon SPO Fl. G\nมันจะมีชื่อ member ด้วย เช็คดีๆ ชื่อตรงกันไหม (join-coin 12-Mar-26)",
+   "name": "Bon Chon SPD Fl. G / Bon Chon SC Fl. 2 / Bon Chon ICON Fl. 6 / Bon Chon SPO Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ EX.BC38012569/003593\n( Food Deal : Onesiam App Coupon - Reject )\nใช้ Grab Dine Out สะสมได้ / อัพเดท 27/02/2026",
+   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ EX.BC38012569/003593\nมันจะมีชื่อ member ด้วย เช็คดีๆ ชื่อตรงกันไหม (join-coin 12-Mar-26)\n( Food Deal : Onesiam App Coupon - Reject )\nใช้ Grab Dine Out สะสมได้ / อัพเดท 27/02/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -714,7 +714,7 @@
   },
   {
    "no": 90,
-   "name": "บริษัทกาญณรงค์ กรุ๊ป จำกัด - karnnarong group co. ltd \nหัวบิล  Pang ChaPang  จะมีระบุชั้น G  สะสมเข้า >> Pang Cha by Lukkaithong SPD Fl. G\nหัวบิล Luk kaiThong  สะสมเข้า >> Pang Cha by Lukkaithong SPD Fl. 4",
+   "name": "บริษัทกาญณรงค์ กรุ๊ป จำกัด - karnnarong group co. ltd \nหัวบิล  Pang ChaPang - Pang Cha by Lukkaithong SPD Fl. G\nหัวบิล Luk kaiThong -  Pang Cha by Lukkaithong SPD Fl. 4",
    "receipt_format": "Receipt no",
    "notes": "LPGRC2012569/001024 กรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
@@ -722,9 +722,9 @@
   },
   {
    "no": 91,
-   "name": "LUSH SC Fl. G / LUSH ICON Fl. 2 (CARD TOP UP= REJECT: ภาพไม่ใช่ใบเสร็จ)",
+   "name": "LUSH SC Fl. G / LUSH ICON Fl. 2",
    "receipt_format": "Tax invoice (ABB)",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
+   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ /  (CARD TOP UP= REJECT: ภาพไม่ใช่ใบเสร็จ)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -770,9 +770,9 @@
   },
   {
    "no": 97,
-   "name": "Massimo Dutti SPD Fl. 1 / Massimo Dutti ICON Fl. 1\nบิลระบุ Ecommerce Ducumet (IPOD) สะสมได้ ใช้เลข Trans ตามปกติ",
+   "name": "Massimo Dutti SPD Fl. 1 / Massimo Dutti ICON Fl. 1",
    "receipt_format": "Transaction No (Trans)",
-   "notes": "กรอกเต็ม เช่น 27 หรือ 166 แล้วแต่หลักในบิล\n** (อัพเดท 01/10/2025 >> เรื่องใบเสร็จ E-Commerc สะสมได้)",
+   "notes": "กรอกเต็ม เช่น 27 หรือ 166 แล้วแต่หลักในบิล\nบิลระบุ Ecommerce Ducumet (IPOD) สะสมได้ ใช้เลข Trans ตามปกติ        \n** (อัพเดท 01/10/2025 >> เรื่องใบเสร็จ E-Commerc สะสมได้)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -1052,9 +1052,9 @@
    "no": 132,
    "name": "Takashimaya หัวบิล Takashimaya ICON Fl. G   \nยอดสะสมดูตรง Total (จะหักพวกส่วนลดหรือคูปองที่สะสมไม่ได้ออกให้แล้ว)",
    "receipt_format": "POS/RCPT",
-   "notes": "ตัวปั้มกุหลาบของร้านไม่เกี่ยวกับสะสมแล้ว /ถ้าสะสมแล้วจะมีเขียนตัว V / VIZ วงกลม ตัวปั้มบันทึกยอด) / วิธีกรอกเลขที่ใบเสร็จ: POS (4ตัวท้าย) / Rcpt (4ตัวท้าย)  Ex. 3001/0006                                                                                                                    \nPoint bay  = นับรวมการสะสมยอดซื้อ                                                                \nใบเสร็จซื้อ GIFT VOUCHER : Reject ไม่ใช่ใบเสร็จได้เลย (**จะมีตัวปั้มงดร่วมรายการ)\nอัพเดท 05/08/2025",
+   "notes": "ตัวปั้มกุหลาบของร้านไม่เกี่ยวกับสะสมแล้ว /ถ้าสะสมแล้วจะมีเขียนตัว V / VIZ วงกลม ตัวปั้มบันทึกยอด) / วิธีกรอกเลขที่ใบเสร็จ: POS (4ตัวท้าย) / Rcpt (4ตัวท้าย)  Ex. 3001/0006                                                                                                                    \nPoint bay  = นับรวมการสะสมยอดซื้อ                                                                \nใบเสร็จซื้อ GIFT VOUCHER : Reject ไม่ใช่ใบเสร็จได้เลย (**จะมีตัวปั้มงดร่วมรายการ)\nอัพเดท 05/08/2025\n\"ส่วนลดที่สะสมไม่ได้ต้องหักยอดออก\n1.) Voucher Point\n2.) Voucher (1 Code)\n3.) Voucher Coupon \nหาก POS รหัส MA-8001  = สาขา  SPO (ปิดถาวร 31 สิงหา 2025) \"",
    "category": "JoinONESIAMCoin",
-   "extra": "ส่วนลดที่สะสมไม่ได้ต้องหักยอดออก\n1.) Voucher Point\n2.) Voucher (1 Code)\n3.) Voucher Coupon \nหาก POS รหัส MA-8001  = สาขา  SPO (ปิดถาวร 31 สิงหา 2025)"
+   "extra": ""
   },
   {
    "no": 133,
@@ -2122,7 +2122,7 @@
   },
   {
    "no": 266,
-   "name": "BURBERRY  {Luxury} Burberry SPD Fl. M / Burberry SPO Fl. G / Burberry ICON Fl. M",
+   "name": "Burberry SPD Fl. M / Burberry SPO Fl. G / Burberry ICON Fl. M",
    "receipt_format": "Transaction No (Trans)",
    "notes": "กรอกครบทุกตัว  #xxxxx (มี 5 หลัก)",
    "category": "JoinONESIAMCoin",
@@ -2130,7 +2130,7 @@
   },
   {
    "no": 267,
-   "name": "Cartier  {Luxury}",
+   "name": "Cartier SPD Fl. M,1 / Cartier ICON Fl. M",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "Ex.624110000001888 (15 หลัก)\n ใบเสร็จเขียนมือ ใช้ No/No เช่น CAR6241/01/06\nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
@@ -2138,31 +2138,31 @@
   },
   {
    "no": 268,
-   "name": "Celine  {Luxury} CELINE SPD Fl. M / CELINE ICON Fl. M \n* ถ้ามีตัวปั้ม ยกเลิกใบกำกับภาษีฉบับนี้ เพื่อออกใบกำกับภาษีฉบับใหม่แทน สามารถสะสมได้",
+   "name": "CELINE SPD Fl. M / CELINE ICON Fl. M",
    "receipt_format": "INVOICE NO (Inv#)",
-   "notes": "Ex. TH003-78195 กรอกครบทุกตัวรวมอักขระพิเศษ\nอัพเดท 28/01/2026",
+   "notes": "Ex. TH003-78195 กรอกครบทุกตัวรวมอักขระพิเศษ\n* ถ้ามีตัวปั้ม ยกเลิกใบกำกับภาษีฉบับนี้ เพื่อออกใบกำกับภาษีฉบับใหม่แทน สามารถสะสมได้\nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
    "extra": "Luxury"
   },
   {
    "no": 269,
-   "name": "Chanel (ชื่อบนใบเสร็จคื่อชื่อพนักงาน) (ชื่อลูกค้าอยู่ตรงลายเซ็น)  {Luxury} -  Chanel SPD Fl. M",
+   "name": "Chanel SPD Fl. M",
    "receipt_format": "bill no (BNO)",
-   "notes": "Ex.S205049741 กรอกครบ \nตัวปั้มยกเลิกใบกำกับภาษีสามารถสะสมได้เพราะลูกค้าจะเอาไปทำ E-Reciept ต่อ\nอัพเดท 28/01/2026",
+   "notes": "Ex.S205049741 กรอกครบ \nChanel (ชื่อบนใบเสร็จคื่อชื่อพนักงาน) (ชื่อลูกค้าอยู่ตรงลายเซ็น)  {Luxury} -\nตัวปั้มยกเลิกใบกำกับภาษีสามารถสะสมได้เพราะลูกค้าจะเอาไปทำ E-Reciept ต่อ\nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
    "extra": "Luxury"
   },
   {
    "no": 270,
-   "name": "COACH  -  {Luxury} COACH ICON Fl. M / COACH SPO Fl. G\n ** ดูหัวบิลดีๆว่าสาขาอะไรทำผิดบ่อยมาก / ดูเลขที่ใบเสร็จว่าจับตัวอักษรเป็นตัวเลขไหม ผิดบ่อย",
+   "name": "COACH ICON Fl. M / COACH SPO Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "สาขา ICONSIAM ตรงบิลจะเขียนว่า CO/ICS คือสาขา ICON \nหมายเหตุ : PAR  คือสาขา PARAGON  - Coach Mid-Luxe SPD Fl. 1 Reject: POP Up ร้านค้าไม่ร่วม  อัพเดท 26/11/2025\n\nEx.00C0095810020 กรอกครบ\nอัพเดท 28/01/2026",
+   "notes": "สาขา ICONSIAM ตรงบิลจะเขียนว่า CO/ICS คือสาขา ICON \n ** ดูหัวบิลดีๆว่าสาขาอะไรทำผิดบ่อยมาก / ดูเลขที่ใบเสร็จว่าจับตัวอักษรเป็นตัวเลขไหม ผิดบ่อย\nหมายเหตุ : PAR  คือสาขา PARAGON  - Coach Mid-Luxe SPD Fl. 1 Reject: POP Up ร้านค้าไม่ร่วม  อัพเดท 26/11/2025\nEx.00C0095810020 กรอกครบ\nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
    "extra": "Luxury"
   },
   {
    "no": 271,
-   "name": "Dior (ใบเสร็จ) -  {Luxury} Christian Dior SPD Fl. M   / Christian Dior ICON Fl. M",
+   "name": "Christian Dior SPD Fl. M   / Christian Dior ICON Fl. M",
    "receipt_format": "Transaction No (Trans)",
    "notes": "Ex.271750  (มี6หลัก)\nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
@@ -2170,7 +2170,7 @@
   },
   {
    "no": 272,
-   "name": "Fendi -  {Luxury} Fendi SPD Fl. M / Fendi Men SPD Fl. M / Fendi ICON Fl. M",
+   "name": "endi SPD Fl. M / Fendi Men SPD Fl. M / Fendi ICON Fl. M",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "เลขที่ใบเสร็จเต็ม (invoice) Ex.1119-02-26506 กรอกครบทุกตัว\nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
@@ -2194,7 +2194,7 @@
   },
   {
    "no": 275,
-   "name": "Furla - {Luxury}  Max Mara & Furla SPD Fl. 1/  Furla SPO Fl. G",
+   "name": "Max Mara & Furla SPD Fl. 1/  Furla SPO Fl. G",
    "receipt_format": "No (เลขที่)",
    "notes": "Max Mara & Furla Ex.07X0012210001  กรอกครบทุกตัว\nFurla SPO กรอกแค่ 5 ตัวท้าย เช่น 10004\nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
@@ -2202,7 +2202,7 @@
   },
   {
    "no": 276,
-   "name": "Gucci {Luxury}  Gucci SPD Fl. 1 / Gucci ICON Fl. M",
+   "name": "Gucci SPD Fl. 1 / Gucci ICON Fl. M",
    "receipt_format": "Tax invoice (ABB)",
    "notes": "Ex.AB263072026004692\nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
@@ -2210,7 +2210,7 @@
   },
   {
    "no": 277,
-   "name": "Hermes {Luxury}  Hermes SPD Fl. M / Hermes ICON Fl. M",
+   "name": "Hermes SPD Fl. M / Hermes ICON Fl. M",
    "receipt_format": "Tax invoice (ABB)",
    "notes": "Ex. NC5-265137-NC0014 กรอกแค่เลขตรงกลาง เข่น 265137",
    "category": "JoinONESIAMCoin",
@@ -2218,7 +2218,7 @@
   },
   {
    "no": 278,
-   "name": "Hugo Boss {Luxury}  / Hugo Boss SPO Fl. G / Hugo Boss ICON Fl. M",
+   "name": "Hugo Boss SPO Fl. G / Hugo Boss ICON Fl. M",
    "receipt_format": "Transaction No (Trans)",
    "notes": "Transaction: xxxxx (มี 5 หลัก)  * เฉพาะสาขา SPO ถ้าชื่อเป็นสัญชาติสะสมไปเลยมันเป็นที่เครื่อง POS",
    "category": "JoinONESIAMCoin",
@@ -2242,7 +2242,7 @@
   },
   {
    "no": 281,
-   "name": "LOEWE - {Luxury}  / LOEWE SPD Fl. M (สะสมชั้น M เท่านั้น)  / LOEWE ICON Fl. M",
+   "name": "LOEWE SPD Fl. M / LOEWE ICON Fl. M",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "Invoice Full กรอบครบทุุกตัว รวมถึง - (เช่น Ex.066002-TH0022-13754)",
    "category": "JoinONESIAMCoin",
@@ -2298,7 +2298,7 @@
   },
   {
    "no": 288,
-   "name": "PRADA {Luxury}    Prada SPD Fl. M / Prada Men SPD Fl. 1/ Prada ICON Fl. M",
+   "name": "Prada SPD Fl. M / Prada Men SPD Fl. 1/ Prada ICON Fl. M",
    "receipt_format": "Transaction No (Trans)",
    "notes": "Ex.5900194052  ถ้าเลขใบเสร็จ ขึ้นต้น XM สะเข้า Prada Siam paragon \nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
@@ -2306,7 +2306,7 @@
   },
   {
    "no": 289,
-   "name": "Saint Laurent (YSL)  {Luxury}  - Saint Laurent Paris SPD Fl. M / Saint Laurent Paris ICON Fl. M",
+   "name": "Saint Laurent Paris SPD Fl. M / Saint Laurent Paris ICON Fl. M",
    "receipt_format": "Tax invoice (ABB)",
    "notes": "Ex.AB363052026003650\nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
@@ -2322,7 +2322,7 @@
   },
   {
    "no": 291,
-   "name": "TIFFANY & CO. {Luxury} Tiffany & Co. SPD Fl. M / Tiffany & Co. ICON Fl. M",
+   "name": "Tiffany & Co. SPD Fl. M / Tiffany & Co. ICON Fl. M",
    "receipt_format": "Order number",
    "notes": "Ex.007750000105486 กรอกครบทุกตัว\nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
@@ -2458,7 +2458,7 @@
   },
   {
    "no": 308,
-   "name": "GEMS PAVILION / Gems Pavilion SPD Fl. 1",
+   "name": "Gems Pavilion SPD Fl. 1",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "สะสมผ่านร้านค้าเท่านั้น (TNA:ShopList)\nไม่ Join ช่องทาง Snap เริ่ม 17/09/2025",
    "category": "TNA",
@@ -2610,15 +2610,15 @@
   },
   {
    "no": 327,
-   "name": "CPS COFFEE / หัวบิล CPS Ooffee สะสมเข้า CPS Coffee SC Fl. G ใช้ ID\nCPS ที่เป็นสินค้า Fashion หัวบิล Jaspal (CPS SIAMCENTER)สะสมเข้า  CPS Chaps + CPS Coffee SC Fl. G ใช้ Doc No",
+   "name": "CPS coffee สะสมเข้า CPS Coffee SC Fl. G \nCPS ที่เป็นสินค้า Fashion หัวบิล Jaspal (CPS SIAMCENTER)สะสมเข้า  CPS Chaps + CPS Coffee SC Fl. G",
    "receipt_format": "No (เลขที่)",
-   "notes": "สาขา CPS Chaps ICON Fl. 1 /  กรอกครบ ไม่เอา / เช่น F0200012838",
+   "notes": "สาขา CPS Chaps ICON Fl. 1 /  กรอกครบ ไม่เอา / เช่น F0200012838\nCPS Chaps + CPS Coffee SC Fl. G ใช้ Doc No\nCPS Coffee SC Fl. G ใช้ ID",
    "category": "Spending Only",
    "extra": ""
   },
   {
    "no": 328,
-   "name": "หัวบิล Jalux - Jalux Asia : Royce SPD Fl. G",
+   "name": "Jalux Asia : Royce SPD Fl. G",
    "receipt_format": "No (เลขที่)",
    "notes": "",
    "category": "Spending Only",
@@ -2730,9 +2730,9 @@
   },
   {
    "no": 343,
-   "name": "Coffee Bean by dao / Coffee Beans by Dao SPD Fl. G / Coffee Beans by Dao ICON Fl. G                                                                                   - สะสมรวมเฉพาะ ยอดที่ใช้ ONESIAM COIN จ่ายเท่านั้น ส่วนลดอื่นๆ หักออก (อัพเดท 12/08/2025)",
+   "name": "Coffee Bean by dao / Coffee Beans by Dao SPD Fl. G / Coffee Beans by Dao ICON Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "กรอกเฉพาะเลข10ตัว  (ตัวอย่างเลขจะอยู่หลัง RC/SIAMxxxxx หรือRC/ICONxxxxxx \nหากมีตัวปั๊ม POINT COLLECTED สะสมได้ปกติ เป็นการสะสม Member ของทางร้าน (UPDATE 19/9/2025)",
+   "notes": "กรอกเฉพาะเลข10ตัว  (ตัวอย่างเลขจะอยู่หลัง RC/SIAMxxxxx หรือRC/ICONxxxxxx \n - สะสมรวมเฉพาะ ยอดที่ใช้ ONESIAM COIN จ่ายเท่านั้น ส่วนลดอื่นๆ หักออก (อัพเดท 12/08/2025)\nหากมีตัวปั๊ม POINT COLLECTED สะสมได้ปกติ เป็นการสะสม Member ของทางร้าน (UPDATE 19/9/2025)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -2802,17 +2802,17 @@
   },
   {
    "no": 352,
-   "name": "Bangkok Sportswear.Co.,Ltd / NEW ERA / New Era SC Fl. M / New Era ICON  / New Era SPO Fl. G\nใบเสร็จ จะขึ้นต้นด้วย RF        xxxxxx\nใบกำกับภาษี จะขึ้นต้นด้วย  ICR xxxxx",
+   "name": "Bangkok Sportswear.Co.,Ltd / NEW ERA / New Era SC Fl. M / New Era ICON  / New Era SPO Fl. G",
    "receipt_format": "Reference no",
-   "notes": "SPO / SC  - กรอกครบทุกตัวบนใบเสร็จ เช่น RF23090208 \nยอดสะสม ดูตรง  Totol  ไม่ใช้ตัวเลข Total Amount\nอัพเดท 18/03/2026",
+   "notes": "SPO / SC  - กรอกครบทุกตัวบนใบเสร็จ เช่น RF23090208 \nใบเสร็จ จะขึ้นต้นด้วย RF        xxxxxx\nใบกำกับภาษี จะขึ้นต้นด้วย  ICR xxxxx\nยอดสะสม ดูตรง  Totol  ไม่ใช้ตัวเลข Total Amount\nอัพเดท 18/03/2026",
    "category": "JoinONESIAMCoin",
    "extra": "อัพเดท 08/11/2024"
   },
   {
    "no": 353,
-   "name": "Havaianas SC Fl. M / Havaianas ICON Fl. 2 / Havaianas SPO Fl. G  \nดูของแต่ละสาขา SC (Joincoin) / SPO (ไม่JoinCoin) / ICON  (Joincoin)",
+   "name": "Havaianas SC Fl. M / Havaianas ICON Fl. 2 / Havaianas SPO Fl. G",
    "receipt_format": "No (เลขที่)",
-   "notes": "SC / ICON / SPO ใส่ 9 ตัวท้าย  เช่น   กรอก 120240464",
+   "notes": "SC / ICON / SPO ใส่ 9 ตัวท้าย  เช่น   กรอก 120240464 \nดูของแต่ละสาขา SC (Joincoin) / SPO (ไม่JoinCoin) / ICON  (Joincoin)",
    "category": "JoinONESIAMCoin",
    "extra": "อัพเดท 12/11/2024"
   },
@@ -4098,7 +4098,7 @@
   },
   {
    "no": 514,
-   "name": "บริษัท Rev Edition Co.,Ltd - ดูว่าชื่อร้านอะไรในใบเสร็จ   REV RUNNR ICON Fl. 3 / REV RUNNR SPO Fl. G",
+   "name": "บริษัท Rev Edition Co.,Ltd -   REV RUNNR ICON Fl. 3 / REV RUNNR SPO Fl. G",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "กรอก 4 ตัวท้าย",
    "category": "JoinONESIAMCoin",
@@ -4106,7 +4106,7 @@
   },
   {
    "no": 515,
-   "name": "บริษัท Rev Edition Co.,Ltd  -  ดูว่าชื่อร้านอะไรในใบเสร็จ Oakley Thailand ICON Fl. 2",
+   "name": "บริษัท Rev Edition Co.,Ltd  -  Oakley Thailand ICON Fl. 2",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "กรอก 6 ตัวท้าย",
    "category": "JoinONESIAMCoin",
@@ -10813,5 +10813,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 09:56"
+ "generated_at": "2026-07-03 11:38"
 }
