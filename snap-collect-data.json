@@ -1218,23 +1218,23 @@
   },
   {
    "no": 153,
-   "name": "Victoria's Secret SC Fl. M >> ที่อยู่ 989 RAMA 1  / Victoria's Secret ICON Fl. M  >> ที่อยู่ 299 Charoen nakhon",
+   "name": "Victoria's Secret SC Fl. M  / Victoria's Secret ICON Fl. M",
    "receipt_format": "INVOICE NO (Inv#)",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
+   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ / SC: ที่อยู่ 989 RAMA 1 ICON: ที่อยู่ 299 Charoen nakhon",
    "category": "Spending Only",
    "extra": ""
   },
   {
    "no": 154,
-   "name": "Watsons SC Fl. 2 / Watsons ICON Fl. 5 / Watsons SPO Fl. G ถ้าไม่มีสาขาบอกให้ดูที่รหัสสาขา\nรหัสสาขา SC : S00890 / ICON : S00819  / SPO : S03008",
+   "name": "Watsons SC Fl. 2 / Watsons ICON Fl. 5 / Watsons SPO Fl. G",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "ใช้เลข R00x/เลข# (4หลัก)  (จะอยู่ล่างCashier name ด้านล่างๆใบเสร็จ)                                                                                                                       Ex. R 002 #0107 กรอกแค่ R002/0107",
+   "notes": "ใช้เลข R00x/เลข# (4หลัก)  (จะอยู่ล่างCashier name ด้านล่างๆใบเสร็จ)  \nEx. R 002 #0107 กรอกแค่ R002/0107\nถ้าไม่มีสาขาบอกให้ดูที่รหัสสาขา\nรหัสสาขา SC : S00890 / ICON : S00819  / SPO : S03008",
    "category": "Spending Only",
    "extra": ""
   },
   {
    "no": 155,
-   "name": "บริษัท โซดาน้ำชา - White Story ICON Fl. G",
+   "name": "White Story ICON Fl. G",
    "receipt_format": "payment bill no",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ Ex.601300052",
    "category": "Spending Only",
@@ -1274,7 +1274,7 @@
   },
   {
    "no": 160,
-   "name": "บริษัท อีซิลี่ จำกัด - Zaabeli ICON Fl. G",
+   "name": "Zaabeli ICON Fl. G",
    "receipt_format": "Receipt no",
    "notes": "Ex. Zaab-ICON680321044\nกรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
@@ -1370,7 +1370,7 @@
   },
   {
    "no": 172,
-   "name": "หัวบิล ไทเปปเปอร์รี่ - Peppery Thai Bistro ICON Fl. G (JoinCoin)",
+   "name": "Peppery Thai Bistro ICON Fl. G (JoinCoin)",
    "receipt_format": "Receipt no",
    "notes": "หลังเครื่องหมาย - กรอกแค่ 8 ตัวท้าย เช่น 254-2600001688 กรอกแค่ 00001688",
    "category": "JoinONESIAMCoin",
@@ -10821,5 +10821,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 09:50"
+ "generated_at": "2026-07-03 09:53"
 }
