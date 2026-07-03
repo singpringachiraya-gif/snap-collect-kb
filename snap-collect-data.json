@@ -9617,14 +9617,6 @@
    "extra": ""
   },
   {
-   "no": 1245,
-   "name": "Neverland SC FL.G  (15 Jan ถึง 26 Jan)",
-   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
    "no": 1246,
    "name": "หัวบิล WW x NA ICS สะสมเข้า >> with it x nature ICS Fl. M",
    "receipt_format": "Reciept no",
@@ -9722,9 +9714,9 @@
   },
   {
    "no": 1258,
-   "name": "Chol Aromatique ICON Fl. 1  (External สาขาอื่นๆ: Central World, Emquartier) เริ่ม JoinCoin 1-Mar2026",
+   "name": "Chol Aromatique ICON Fl. 1",
    "receipt_format": "No (เลขที่)",
-   "notes": "สะสมเลขที่ : 202602000082 ตัวเลขทั้งหมด  // อัพเดท 26/02/2026",
+   "notes": "สะสมเลขที่ : 202602000082 ตัวเลขทั้งหมด  // อัพเดท 26/02/2026\nExternal สาขาอื่นๆ: Central World, Emquartier) เริ่ม JoinCoin 1-Mar2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -9734,14 +9726,6 @@
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "เช่น A202512-54",
    "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 1260,
-   "name": "Seventeen Pop Up SD FL.1  เริ่ม (PopUp 26 Feb-31Mar2026)",
-   "receipt_format": "",
-   "notes": "",
-   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -9758,22 +9742,6 @@
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "EX.100001213",
    "category": "JoinONESIAMCoin",
-   "extra": ""
-  },
-  {
-   "no": 1263,
-   "name": "G-SHOCK CASIO POP-UP SC FL.G (24Feb26 ถึง 23-Mar26)",
-   "receipt_format": "",
-   "notes": "",
-   "category": "ShopClosed",
-   "extra": ""
-  },
-  {
-   "no": 1264,
-   "name": "งานออกร้านคณะภริยาทูต2569 SPD FL.5 (26Feb ถึง 01-Mar)",
-   "receipt_format": "",
-   "notes": "",
-   "category": "Popup&Event",
    "extra": ""
   },
   {
@@ -9825,22 +9793,6 @@
    "extra": ""
   },
   {
-   "no": 1273,
-   "name": "BALL & CHAIN POP-UP SC Fl.G (POP UP 28-Feb ถึง 31-Mar2026) * ปิดแล้ว",
-   "receipt_format": "",
-   "notes": "",
-   "category": "ShopClosed",
-   "extra": ""
-  },
-  {
-   "no": 1274,
-   "name": "K-YOUNG POP UP SC Fl.G  (POP UP 28-Feb ถึง 31-Mar2026)* ปิดแล้ว",
-   "receipt_format": "",
-   "notes": "",
-   "category": "ShopClosed",
-   "extra": ""
-  },
-  {
    "no": 1275,
    "name": "Dot Gelato SPD Fl. 5",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
@@ -9878,14 +9830,6 @@
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "ใช้เฉพาะตัวเลขหลัง R# เช่น 260000429",
    "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 1280,
-   "name": "Colors Culture SC FL.G (Pop Up 10-Mar ถึง 15-Mar) * ปิดแล้ว",
-   "receipt_format": "",
-   "notes": "",
-   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -10757,5 +10701,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 11:47"
+ "generated_at": "2026-07-03 11:48"
 }
