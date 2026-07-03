@@ -10563,8 +10563,8 @@
   {
    "no": 1386,
    "name": "TONKATSU MARUSHICHI สำนักงานใหญ่ พระราม 9 สะสมเข้าร้าน Tonkatsu Marushichi SPD Fl. G",
-   "receipt_format": "Ref.",
-   "notes": "กรอกครบ เช่น 00072-1 (By Yo 3/7/26)",
+   "receipt_format": "Receipt no. / Ref.",
+   "notes": "Receipt no. กรอกครบ T01RC1072569/000343\nหากไม่มีเลข Receipt ใช้ Ref. แทนได้ เช่น 00072-1 (By Yo 3/7/26)",
    "category": "Popup&Event",
    "extra": ""
   },
@@ -10677,5 +10677,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 14:47"
+ "generated_at": "2026-07-03 15:31"
 }
