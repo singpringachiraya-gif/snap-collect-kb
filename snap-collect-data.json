@@ -9265,14 +9265,6 @@
    "extra": ""
   },
   {
-   "no": 1202,
-   "name": "หัวบิล Club PAWRENTS  Arak Animal - PAWRENTS BY ARAK SPD Fl. 5,5A - NEXTOPIA",
-   "receipt_format": "Receipt no",
-   "notes": "เช่น 1251100001000078",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
    "no": 1203,
    "name": "Somuti SPD Fl. 5",
    "receipt_format": "No (เลขที่)",
@@ -9314,9 +9306,9 @@
   },
   {
    "no": 1208,
-   "name": "Saint Peter Opticians SC Fl. 2 (ใบเสร็จเขียนมือ)",
+   "name": "Saint Peter Opticians SC Fl. 2",
    "receipt_format": "No (เลขที่)",
-   "notes": "00042",
+   "notes": "00042 / (ใบเสร็จเขียนมือ)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -9474,9 +9466,9 @@
   },
   {
    "no": 1228,
-   "name": "หัวบิล PACIFICA SERVICES CO.,LTD  - GMT watch Maison SPD Fl. M\nดูชื่อสกุลด้วยว่าตรงกันไหม",
+   "name": "หัวบิล PACIFICA SERVICES CO.,LTD  - GMT watch Maison SPD Fl. M",
    "receipt_format": "No (เลขที่)",
-   "notes": "เช่น PA6903-00196 กรอกครบ\nอัพเดท 30'03/2026",
+   "notes": "เช่น PA6903-00196 กรอกครบ\nอัพเดท 30'03/2026 / ดูชื่อสกุลด้วยว่าตรงกันไหม",
    "category": "Spending Only",
    "extra": ""
   },
@@ -9778,7 +9770,7 @@
   },
   {
    "no": 1272,
-   "name": "Parameterthailand SPD FL.G ( เปิด 6 Mar)",
+   "name": "Parameterthailand SPD FL.G",
    "receipt_format": "ID",
    "notes": "กรอกครบทุกตัว IRPND",
    "category": "Spending Only",
@@ -9906,7 +9898,7 @@
   },
   {
    "no": 1291,
-   "name": "หัวบิล ริชสปอร์ต สยามพีเมี่ยม - Geox / O&B SPO Fl. G",
+   "name": "Geox / O&B SPO Fl. G (หัวบิล ริชสปอร์ต สยามพีเมี่ยม)",
    "receipt_format": "Receipt no",
    "notes": "000RS12301000000249",
    "category": "Spending Only",
@@ -10717,5 +10709,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 13:50"
+ "generated_at": "2026-07-03 13:53"
 }
