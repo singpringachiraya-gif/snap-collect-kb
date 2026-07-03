@@ -9714,7 +9714,7 @@
   },
   {
    "no": 1259,
-   "name": "หัวบิลบริษัท อินฟินิท ออโตโมบิล จำกัด (Infinite Automobile)  \nสาขา 00001 ชั้น 2 ศูนย์การค้าสยามพารากอน (ห้อง 2-08A)  \nสะสมเข้าร้าน AVATR SPD Fl. 2",
+   "name": "Infinite Automobile - สาขา 00001 ชั้น 2 ศูนย์การค้าสยามพารากอน (ห้อง 2-08A)  \nสะสมเข้าร้าน AVATR SPD Fl. 2",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "เช่น A202512-54",
    "category": "Spending Only",
@@ -9930,17 +9930,17 @@
   },
   {
    "no": 1295,
-   "name": "ISABELLA ITALIAN BY ANDREAS ICON Fl. G (หัวบิล สำนักงานใหญ่)",
+   "name": "ISABELLA ITALIAN BY ANDREAS ICON Fl. G",
    "receipt_format": "ID",
-   "notes": "",
+   "notes": "(หัวบิล สำนักงานใหญ่)",
    "category": "Spending Only",
    "extra": ""
   },
   {
    "no": 1296,
-   "name": "American Tourister ICON Fl. 4 (หัวบิล Samsonite Central Park | Branch name : Road Show สะสมเข้า American Tourister)  แสตมป์คำว่า American Tourister ICONSIAM",
+   "name": "American Tourister ICON Fl. 4",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "Ticket No / Tax Inv No. เช่น 806\nหัวบิลชื่อร้าน REJECT : รูปภาพไม่ใช่ใบเสร็จ",
+   "notes": "Ticket No / Tax Inv No. เช่น 806\nหัวบิลชื่อร้าน REJECT : รูปภาพไม่ใช่ใบเสร็จ\n(หัวบิล Samsonite Central Park | Branch name : Road Show สะสมเข้า American Tourister)  แสตมป์คำว่า American Tourister ICONSIAM",
    "category": "Spending Only",
    "extra": ""
   },
@@ -9970,7 +9970,7 @@
   },
   {
    "no": 1300,
-   "name": "Lotus's Eatery ICS Fl. 4 (Lotus ICS 5185) - ศูนย์อาหาร",
+   "name": "Lotus's Eatery ICS Fl. 4 (Lotus ICS 5185)",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "TID/TAXINV เช่น  518521/000013 (เลขมันจะอยู่บรรทัดล่างตัวหนังสือ)\n ยอดสะสม ดูยอดรวม / \nใบเสร็จไม่มียอดคงเหลือ ดูตรงยอดรวม xx",
    "category": "Spending Only",
@@ -10717,5 +10717,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 13:41"
+ "generated_at": "2026-07-03 13:50"
 }
