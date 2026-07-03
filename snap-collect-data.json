@@ -10631,6 +10631,14 @@
    "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1395,
+   "name": "เสนห์ขนมจีน ICS Fl. 4",
+   "receipt_format": "ID",
+   "notes": "",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10693,5 +10701,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 16:52"
+ "generated_at": "2026-07-03 16:54"
 }
