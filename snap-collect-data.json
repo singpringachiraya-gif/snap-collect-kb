@@ -2314,7 +2314,7 @@
   },
   {
    "no": 290,
-   "name": "หัวบิล ไอริส2005 - Sirivannavari Bangkok / SIRIVANNAVARI Bangkok SPD Fl. 1",
+   "name": "ไอริส2005 - Sirivannavari Bangkok / SIRIVANNAVARI Bangkok SPD Fl. 1",
    "receipt_format": "bill no (BNO)",
    "notes": "Ex.SRSO-202601117 กรอกครบทุกตัว\nอัพเดท 28/01/2026",
    "category": "Spending Only",
@@ -2330,15 +2330,15 @@
   },
   {
    "no": 292,
-   "name": "Van Cleef & Arpels   {Luxury}  / Van Cleef & Arpels SPD Fl. M / Van Cleef & Arpels ICON Fl. M\nสาขาอยู่ตรงกลางข้างล่างใบเสร็จ",
+   "name": "Van Cleef & Arpels SPD Fl. M / Van Cleef & Arpels ICON Fl. M",
    "receipt_format": "INVOICE NO (Inv#)",
-   "notes": "Ex.625705000003478  กรอกครบทุกตัว\nอัพเดท 28/01/2026\n- ใบเสร็จเขียนมือ กรอกครบ ใช้ No/No เช่น  VCASP0008",
+   "notes": "Ex.625705000003478  กรอกครบทุกตัว\nอัพเดท 28/01/2026\n- ใบเสร็จเขียนมือ กรอกครบ ใช้ No/No เช่น  VCASP0008\nสาขาอยู่ตรงกลางข้างล่างใบเสร็จ",
    "category": "JoinONESIAMCoin",
    "extra": "Luxury"
   },
   {
    "no": 293,
-   "name": "VERSACE  {Luxury}  Versace SPD Fl. M / Versace ICON Fl. M  / Versace SPO Fl. G",
+   "name": "Versace SPD Fl. M / Versace ICON Fl. M  / Versace SPO Fl. G",
    "receipt_format": "Transaction No (Trans)",
    "notes": "Ex. 22355 กรอกครบทุกตัว\nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
@@ -2346,7 +2346,7 @@
   },
   {
    "no": 294,
-   "name": "Zegna  {Luxury}  Ermenegildo Zegna SPD Fl. M",
+   "name": "Ermenegildo Zegna SPD Fl. M",
    "receipt_format": "Receipt no",
    "notes": "Ex.01-7 กรอกครบทุกตัว\nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
@@ -2354,7 +2354,7 @@
   },
   {
    "no": 295,
-   "name": "Chopard  {Luxury} Chopard Boutique SPD Fl. M",
+   "name": "Chopard Boutique SPD Fl. M",
    "receipt_format": "Document No",
    "notes": "Ex.INV2026010002 กรอกครบทุกตัว\nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
@@ -2402,7 +2402,7 @@
   },
   {
    "no": 301,
-   "name": "หัวบิล Cortina Watch - PIAGET / Frank'sWatchBoutique(PiagetBoutiqueเช่า) SPD Fl. M",
+   "name": "Cortina Watch - PIAGET / Frank'sWatchBoutique(PiagetBoutiqueเช่า) SPD Fl. M",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "625002xxxxxxxxx (มี 15 หลัก) / ดูตรงกลางๆในบิลจะเขียน At Franck Muller",
    "category": "Spending Only",
@@ -2418,7 +2418,7 @@
   },
   {
    "no": 303,
-   "name": "หัวบิล TKI  - PATEK PHILIPPE\n Patek Philippe ICON Fl. G (JoinCoin)",
+   "name": "หัวบิล TKI  -Patek Philippe ICON Fl. G (JoinCoin)",
    "receipt_format": "No (เลขที่)",
    "notes": "Patek Ex. SO-26-01-010606\nอัพเดท 04/02/2026",
    "category": "Spending Only",
@@ -2450,7 +2450,7 @@
   },
   {
    "no": 307,
-   "name": "Blue River / Hublot (Blue River Diamond เช่าช่วง) SPD Fl. M / Prima Times และ Blue River Since 1977 SPD Fl. M",
+   "name": "Hublot (Blue River Diamond เช่าช่วง) SPD Fl. M / Prima Times และ Blue River Since 1977 SPD Fl. M",
    "receipt_format": "Document No",
    "notes": "เล่มที่-เลขที่ : xxx-xxxx",
    "category": "Spending Only",
@@ -2578,7 +2578,7 @@
   },
   {
    "no": 323,
-   "name": "Phufa - ภูฟ้าผสมผสาน >>Phufa SPD Fl. 4",
+   "name": "ภูฟ้าผสมผสาน Phufa SPD Fl. 4",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอบครบทุุกตัว เช่น 000000025755",
    "category": "JoinONESIAMCoin",
@@ -2586,7 +2586,7 @@
   },
   {
    "no": 324,
-   "name": "หัวบิล thai yamazaki co. ltd  - Flavors Field",
+   "name": "thai yamazaki co. ltd  - Flavors Field",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอกครบทุกตัว (ไม่ต้องใส่อักขระพิเศษ)",
    "category": "Spending Only",
@@ -2594,7 +2594,7 @@
   },
   {
    "no": 325,
-   "name": "หัวบิล VNC (Siamcenter) -  Vincci SC",
+   "name": "VNC (Siamcenter) -  Vincci SC",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอกครบทุกตัว (ไม่ต้องใส่อักขระพิเศษ)",
    "category": "Spending Only",
@@ -2602,7 +2602,7 @@
   },
   {
    "no": 326,
-   "name": "บริษัท พรรณรวีตา จำกัด - AMIS Aesthetic Clinic",
+   "name": "พรรณรวีตา จำกัด - AMIS Aesthetic Clinic",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอกครบทุกตัว (ไม่ต้องใส่อักขระพิเศษ)",
    "category": "JoinONESIAMCoin",
@@ -2642,7 +2642,7 @@
   },
   {
    "no": 331,
-   "name": "บริษัทโอเชี่ยน เลกาซี่ จำกัด - CARTEL SPO Fl. G",
+   "name": "โอเชี่ยน เลกาซี่ จำกัด - CARTEL SPO Fl. G",
    "receipt_format": "No (เลขที่)",
    "notes": "",
    "category": "Spending Only",
@@ -2722,7 +2722,7 @@
   },
   {
    "no": 342,
-   "name": "บริษัท ทรู ดิสทริบิวชั่น แอนด์ เซลส์ จำกัด - TRUESPHERE ICON Fl. 3 / TRUE SPD Fl. 3",
+   "name": "ทรู ดิสทริบิวชั่น แอนด์ เซลส์ จำกัด - TRUESPHERE ICON Fl. 3 / TRUE SPD Fl. 3",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว Ex.00141TUTS2410002800987\nดูชื่อด้วยว่าในบิลตรงกับสมาชิกที่ถ่ายเข้ามาไหม พนงชอบเอาของลูกค้ามาถ่าย",
    "category": "Spending Only",
@@ -2738,7 +2738,7 @@
   },
   {
    "no": 344,
-   "name": "บริษัท อร่อยหม่าล่าเดเทอลิ่ง (JOINCOIN) -  ZhangLiang MALA TANG SC Fl. 2",
+   "name": "อร่อยหม่าล่าเดเทอลิ่ง (JOINCOIN) -  ZhangLiang MALA TANG SC Fl. 2",
    "receipt_format": "bill no (BNO)",
    "notes": "กรอกตัวเลขอย่างเดียว (Bill Ref Number)",
    "category": "JoinONESIAMCoin",
@@ -10709,5 +10709,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 18:04"
+ "generated_at": "2026-07-03 18:06"
 }
