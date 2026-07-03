@@ -130,17 +130,17 @@
   },
   {
    "no": 17,
-   "name": "บริษัท ที ที เค ฟู๊ดส์ จำกัด / บริษัท สยามวินต์-ธารา - Bankara Ramen SPD Fl. G / Bankara Ramen ICON Fl. G\n(ICON JoinCoin)",
+   "name": "Bankara Ramen SPD Fl. G / Bankara Ramen ICON Fl. G (ICON JoinCoin)",
    "receipt_format": "Receipt no",
-   "notes": "Ex. 0001102213ใส่ไม่ครบ ตัดเลข 0 สามตัวหน้าออก กรอกแค่ 110213\t\n( Food Deal : fooddeal 500 , fooddeal 1000 )\nอัพเดท 28/01/2026",
+   "notes": "Ex. 0001102213ใส่ไม่ครบ ตัดเลข 0 สามตัวหน้าออก กรอกแค่ 110213        \n( Food Deal : fooddeal 500 , fooddeal 1000 )\nอัพเดท 28/01/2026\nบริษัท ที ที เค ฟู๊ดส์ จำกัด / บริษัท สยามวินต์-ธารา",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
    "no": 18,
-   "name": "หัวบิล Food Passion - BAR B Q PLAZA (ดูหมายเหตุ วิธีแยกสาขา)",
+   "name": "BAR B Q PLAZA (ดูหมายเหตุ วิธีแยกสาขา)",
    "receipt_format": "Receipt no",
-   "notes": "สาขาที่ 00205 เลขที่ขึ้นด้วย 257 = ICONSIAM \nสาขาที่ 00109 มีตราปั๊มสาขาล่างใบเสร็จ = SC / XXXXXX  / เลขมุมซ้าย = SC     เลขมุมขวา = ICON\nEx.QC-041099  กรอกครบทุกตัว\nใช้ Grab Dine Out สะสมได้",
+   "notes": "สาขาที่ 00205 เลขที่ขึ้นด้วย 257 = ICONSIAM \nสาขาที่ 00109 มีตราปั๊มสาขาล่างใบเสร็จ = SC / XXXXXX  / เลขมุมซ้าย = SC     เลขมุมขวา = ICON\nEx.QC-041099  กรอกครบทุกตัว\nใช้ Grab Dine Out สะสมได้\nหัวบิล Food Passion",
    "category": "Spending Only",
    "extra": ""
   },
@@ -186,9 +186,9 @@
   },
   {
    "no": 24,
-   "name": "บริษัท แปซิฟิกา รีเทล จํากัด Pacifica Retail - Birkenstock ICON Fl. 1 / American Eagle SPO Fl. G",
+   "name": "Birkenstock ICON Fl. 1 / American Eagle SPO Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "ดูหัวบิลว่าอยู่ฝั่งไหน สะสมเข้าตามร้านค้าที่แจ้ง // บิลเขียนมือใช้ เล่มที่ (มุมขวาบน)",
+   "notes": "ดูหัวบิลว่าอยู่ฝั่งไหน สะสมเข้าตามร้านค้าที่แจ้ง // บิลเขียนมือใช้ เล่มที่ (มุมขวาบน)\nบริษัท แปซิฟิกา รีเทล จํากัด Pacifica Retail",
    "category": "Spending Only",
    "extra": ""
   },
@@ -274,15 +274,15 @@
   },
   {
    "no": 35,
-   "name": "บริษัท ทนา เคอรี่ เฮ้าส์ จำกัด - Cocoichibanya ICON Fl. 6 / Cocoichibanya SPD Fl. G",
+   "name": "Cocoichibanya ICON Fl. 6 / Cocoichibanya SPD Fl. G",
    "receipt_format": "Tax invoice (ABB)",
-   "notes": "ICONSIAM = TC31, Paragon = C04\nEx.202601230096",
+   "notes": "ICONSIAM = TC31, Paragon = C04\nEx.202601230096\nบริษัท ทนา เคอรี่ เฮ้าส์ จำกัด",
    "category": "Spending Only",
    "extra": ""
   },
   {
    "no": 36,
-   "name": "Converse SC Fl. M - ไม่สะสมที่มีตัวปั้ม ไม่ร่วมสะสมคะแนน ONESIAM)",
+   "name": "Converse SC Fl. M",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว เช่น 000CV08801000026166 (ไม่สะสมที่มีตัวปั้ม ไม่ร่วมสะสมคะแนน ONESIAM) Reject: รูปภาพไม่ใช่ใบเสร็จ   เช่น บิลรายการสินค้า,ภาพถ่ายใบเสร็จจากหน้าจอ,สลิปบัตรเครดิต,ใบรับสินค้า หรือ   อื่นๆ",
    "category": "JoinONESIAMCoin",
@@ -306,9 +306,9 @@
   },
   {
    "no": 39,
-   "name": "หัวบิล CMG - Crocs ICON Fl. 3 / Crocs SC Fl. M / Crocs SPO Fl. G",
+   "name": "Crocs ICON Fl. 3 / Crocs SC Fl. M / Crocs SPO Fl. G",
    "receipt_format": "Reciept no",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ เช่น 001/0000022",
+   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ เช่น 001/0000022\nหัวบิล CMG",
    "category": "Spending Only",
    "extra": ""
   },
@@ -322,7 +322,7 @@
   },
   {
    "no": 41,
-   "name": "หัวบิล talk to do -  Dairy Queen SPD Fl. G",
+   "name": "Talk to do -  Dairy Queen SPD Fl. G",
    "receipt_format": "Tax invoice (ABB)",
    "notes": "กรอกครบทุกตัว \nใบเสร็จออก สาขา Khao Lak สะสมได้ เครื่องเสีย\nอัพเดท 17/06/2026",
    "category": "Spending Only",
@@ -394,9 +394,9 @@
   },
   {
    "no": 50,
-   "name": "RUAY SABAI SABAI / บริษัท รวยสบาย สบาย จำกัด - Fire Tiger / FIRE TIGER BY SEOULCIAL CLUB ICON Fl. 5 / \nFIRE TIGER BY SEOULCIAL CLUB SC Fl. M",
+   "name": "FIRE TIGER BY SEOULCIAL CLUB ICON Fl. 5 / FIRE TIGER BY SEOULCIAL CLUB SC Fl. M",
    "receipt_format": "No (เลขที่)",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ\nเช่น FTG02RC012569/003677",
+   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ\nเช่น FTG02RC012569/003677\nRUAY SABAI SABAI / บริษัท รวยสบาย สบาย จำกัด -",
    "category": "Spending Only",
    "extra": ""
   },
@@ -610,7 +610,7 @@
   },
   {
    "no": 77,
-   "name": "หัวบิล K food guru - Kam's Roast ICON Fl. 6 (JoinCoin)",
+   "name": "K food guru - Kam's Roast ICON Fl. 6 (JoinCoin)",
    "receipt_format": "Tax invoice (ABB)",
    "notes": "สะสมเฉพาะตัวเลข 680409016",
    "category": "Spending Only",
@@ -698,7 +698,7 @@
   },
   {
    "no": 88,
-   "name": "หัวบิล betagro mermaid co., ltd - Little Mermaid SPD Fl. G",
+   "name": "Little Mermaid SPD Fl. G",
    "receipt_format": "bill no (BNO)",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ Ex.RL120127262",
    "category": "Spending Only",
@@ -708,7 +708,7 @@
    "no": 89,
    "name": "L'Occitane ICON Fl. 1",
    "receipt_format": "Tax invoice (ABB)",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
+   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ\nหัวบิล betagro mermaid co., ltd",
    "category": "Spending Only",
    "extra": ""
   },
@@ -778,7 +778,7 @@
   },
   {
    "no": 98,
-   "name": "หัวบิล McTHAI co.ltd \nMcDonald's , McCafe SPD Fl. G (ชั้น G รหัสสาขา 50108)  \nMcDonald's , (McCafe SPD Fl. 5 มีตัวปั๊ม รหัส 50310 Paragon Cineplex)",
+   "name": "McDonald's , McCafe SPD Fl. G (ชั้น G รหัสสาขา 50108)   / McDonald's , (McCafe SPD Fl. 5 มีตัวปั๊ม รหัส 50310 Paragon Cineplex)",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
@@ -874,7 +874,7 @@
   },
   {
    "no": 110,
-   "name": "หัวบิล tokyo concept company - On The Table Tokyo Cafe' SC Fl. 2",
+   "name": "tokyo concept company - On The Table Tokyo Cafe' SC Fl. 2",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ เช่น OTT05052568001469",
    "category": "Spending Only",
@@ -946,7 +946,7 @@
   },
   {
    "no": 119,
-   "name": "หัวบิล pet lovers centre - Pet Safari ICON Fl. BM1",
+   "name": "Pet Safari ICON Fl. BM1",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ  Ex.POS1-128621",
    "category": "Spending Only",
@@ -1050,7 +1050,7 @@
   },
   {
    "no": 132,
-   "name": "Takashimaya หัวบิล Takashimaya ICON Fl. G   \nยอดสะสมดูตรง Total (จะหักพวกส่วนลดหรือคูปองที่สะสมไม่ได้ออกให้แล้ว)",
+   "name": "Takashimaya ICON Fl. G   \nยอดสะสมดูตรง Total (จะหักพวกส่วนลดหรือคูปองที่สะสมไม่ได้ออกให้แล้ว)",
    "receipt_format": "POS/RCPT",
    "notes": "ตัวปั้มกุหลาบของร้านไม่เกี่ยวกับสะสมแล้ว /ถ้าสะสมแล้วจะมีเขียนตัว V / VIZ วงกลม ตัวปั้มบันทึกยอด) / วิธีกรอกเลขที่ใบเสร็จ: POS (4ตัวท้าย) / Rcpt (4ตัวท้าย)  Ex. 3001/0006                                                                                                                    \nPoint bay  = นับรวมการสะสมยอดซื้อ                                                                \nใบเสร็จซื้อ GIFT VOUCHER : Reject ไม่ใช่ใบเสร็จได้เลย (**จะมีตัวปั้มงดร่วมรายการ)\nอัพเดท 05/08/2025\n\"ส่วนลดที่สะสมไม่ได้ต้องหักยอดออก\n1.) Voucher Point\n2.) Voucher (1 Code)\n3.) Voucher Coupon \nหาก POS รหัส MA-8001  = สาขา  SPO (ปิดถาวร 31 สิงหา 2025) \"",
    "category": "JoinONESIAMCoin",
@@ -1210,9 +1210,9 @@
   },
   {
    "no": 152,
-   "name": "the Apostofi - บริษัท อะพอลโทฟี่ โฮลดิ้งส์ จำกัด  ve/la SPD Fl. G / VE/LA mini - bar SD Fl. M",
+   "name": "Ve/la SPD Fl. G / VE/LA mini - bar SD Fl. M",
    "receipt_format": "Receipt no",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ / สาขา SD จะไม่มีสาขาบอกเครื่องพัง สะสมได้",
+   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ / สาขา SD จะไม่มีสาขาบอกเครื่องพัง สะสมได้\n บริษัท อะพอลโทฟี่ โฮลดิ้งส์ จำกัด",
    "category": "Spending Only",
    "extra": ""
   },
@@ -1242,7 +1242,7 @@
   },
   {
    "no": 156,
-   "name": "บริษัท (MK-INTERFOOD) SC,ICON - YAYOI TEISHOKU SC Fl. 2 / YAYOI TEISHOKU ICON Fl. 6",
+   "name": "MK-INTERFOOD) SC,ICON - YAYOI TEISHOKU SC Fl. 2 / YAYOI TEISHOKU ICON Fl. 6",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
@@ -1282,9 +1282,9 @@
   },
   {
    "no": 161,
-   "name": "GAGAN Thailand.co.Ltd - Zara SPD Fl. 1 / Zara ICON Fl. 1/ Zara Home SPD Fl. 2\nบิลระบุ Ecommerce Ducumet (IPOD) สะสมได้ ใช้เลข Trans ตามปกติ",
+   "name": "Zara SPD Fl. 1 / Zara ICON Fl. 1/ Zara Home SPD Fl. 2",
    "receipt_format": "Transaction No (Trans)",
-   "notes": "(อัพเดท 01/10/2025 >> เรื่องใบเสร็จ E-Commerc สะสมได้)",
+   "notes": "(อัพเดท 01/10/2025 >> เรื่องใบเสร็จ E-Commerc สะสมได้)\nบิลระบุ Ecommerce Ducumet (IPOD) สะสมได้ ใช้เลข Trans ตามปกติ",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -1314,7 +1314,7 @@
   },
   {
    "no": 165,
-   "name": "หัวบิล POMODORO GROUP -  Amici by POMODORO SPD Fl. G",
+   "name": "POMODORO GROUP -  Amici by POMODORO SPD Fl. G",
    "receipt_format": "check no (CHK)",
    "notes": "Check ID กรอกครบ เช่น 397919",
    "category": "Spending Only",
@@ -1330,7 +1330,7 @@
   },
   {
    "no": 167,
-   "name": "บริษัท C J Seafood - Jumbo Seafood SPD Fl. G / Jumbo Seafood ICON Fl. BM1,G",
+   "name": "C J Seafood - Jumbo Seafood SPD Fl. G / Jumbo Seafood ICON Fl. BM1,G",
    "receipt_format": "bill no (BNO)",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
@@ -1346,17 +1346,17 @@
   },
   {
    "no": 169,
-   "name": "หัวบิล Claire เลขใบเสร็จ REIC >>  Siam Laser Clinic ICON Fl. 5",
+   "name": "Siam Laser Clinic ICON Fl. 5",
    "receipt_format": "No (เลขที่)",
-   "notes": "ถ้าบิลเขียนมือ มี slip ใช้เลขอ้างอิงได้ เช่น TRACE xxxxxx /  REPG - spd , REIC - icon",
+   "notes": "ถ้าบิลเขียนมือ มี slip ใช้เลขอ้างอิงได้ เช่น TRACE xxxxxx /  REPG - spd , REIC - icon \nหัวบิล Claire เลขใบเสร็จ REIC",
    "category": "Spending Only",
    "extra": ""
   },
   {
    "no": 170,
-   "name": "บริษัท Richy Vision Co.,Ltd / Infinite Gallery SPD Fl. 2",
+   "name": "Infinite Gallery SPD Fl. 2",
    "receipt_format": "No (เลขที่)",
-   "notes": "กรอกครบทุกตัว เช่น IC-RC-660500063\nสาขา ICONSIAM ปิด 13-Jun2026",
+   "notes": "กรอกครบทุกตัว เช่น IC-RC-660500063\nสาขา ICONSIAM ปิด 13-Jun2026\nบริษัท Richy Vision Co.,Ltd",
    "category": "JoinONESIAMCoin",
    "extra": "SPD - Join Coin"
   },
@@ -1410,7 +1410,7 @@
   },
   {
    "no": 177,
-   "name": "บริษัทเดอะ ช็อคโกแลต แฟคทอรี่ จำกัด - Chocolate Factory SPD Fl. G",
+   "name": "Chocolate Factory SPD Fl. G",
    "receipt_format": "Receipt no",
    "notes": "ตรงแคชเชียร์ >> Paragon / กรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
@@ -1442,15 +1442,15 @@
   },
   {
    "no": 181,
-   "name": "หัวบิล บริษัท โอเรียนทัล อโรม่า จำกัด - Donna Chang ICON Fl. 5",
+   "name": "Donna Chang ICON Fl. 5",
    "receipt_format": "Receipt no",
-   "notes": "Donna Chang SPD Fl. G / TNA สะสมที่ร้านเท่านั้น",
-   "category": "JoinONESIAMCoin",
+   "notes": "Donna Chang SPD Fl. G / TNA สะสมที่ร้านเท่านั้น\nหัวบิล บริษัท โอเรียนทัล อโรม่า จำกัด",
+   "category": "Spending Only",
    "extra": ""
   },
   {
    "no": 182,
-   "name": "บริษัท เดอะ ต๊าจ รอยัล อินเดีย จำกัด - Royal India ( taj royal india - spd ) Royal India SPD Fl. G",
+   "name": "Royal India ( taj royal india - spd ) Royal India SPD Fl. G",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
@@ -1458,9 +1458,9 @@
   },
   {
    "no": 183,
-   "name": "หัวบิล Fine food Holding CO.,Ltd. - ร้าน Fumi Grill & Bento SPD Fl. G",
+   "name": "Fumi Grill & Bento SPD Fl. G",
    "receipt_format": "No (เลขที่)",
-   "notes": "เลขใบเสร็จอยู่บรรทัดล่าง Table >> Number xxxxx",
+   "notes": "เลขใบเสร็จอยู่บรรทัดล่าง Table >> Number xxxxx\nหัวบิล Fine food Holding CO.,Ltd.",
    "category": "Spending Only",
    "extra": ""
   },
@@ -1626,7 +1626,7 @@
   },
   {
    "no": 204,
-   "name": "บริษัท ซูชิ เอ็กซ์เพรส (ไทยแลนด์) จำกัด - SUSHI PLUS SPO Fl. G",
+   "name": "ซูชิ เอ็กซ์เพรส (ไทยแลนด์) จำกัด - SUSHI PLUS SPO Fl. G",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
@@ -1634,7 +1634,7 @@
   },
   {
    "no": 205,
-   "name": "บริษัท รวยปังปัง จำกัด >> Mil Express & Sundububu SD Fl. 2 / Mil Toast House ICON Fl. 6",
+   "name": "Mil Toast House ICON Fl. 6",
    "receipt_format": "Receipt no",
    "notes": "สาขา 00002 icon\nEx.SDB01RC012569/000754 กรอกครบทุกตัว",
    "category": "Spending Only",
@@ -10709,5 +10709,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 17:58"
+ "generated_at": "2026-07-03 18:04"
 }
