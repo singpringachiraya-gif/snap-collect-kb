@@ -5210,7 +5210,7 @@
   },
   {
    "no": 638,
-   "name": "หัวบิล เตี๋ยวเรือเสาวรีย์ ICS / Tiewrue-saowaree ICS Fl. 3",
+   "name": "Tiewrue-saowaree ICS Fl. 3 (เตี๋ยวเรือเสาวรีย์ ICS)",
    "receipt_format": "ID",
    "notes": "เช่น WHXMY",
    "category": "Spending Only",
@@ -7065,24 +7065,8 @@
    "extra": ""
   },
   {
-   "no": 870,
-   "name": "ครัวดอกไม้ขาว - สยามแสควร์วัน",
-   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
-   "notes": "Reject : ร้านค้าเปิดให้บริการในศูนย์การค้าอื่น",
-   "category": "AnotherShopingCenter",
-   "extra": ""
-  },
-  {
    "no": 871,
    "name": "สุกี้ช้างเผือก - POP UP Event",
-   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
-   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 872,
-   "name": "The Rolling Pin - POP UP Event",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
    "category": "Popup&Event",
@@ -7121,14 +7105,6 @@
    "extra": ""
   },
   {
-   "no": 877,
-   "name": "BONNANA  บอนนาน่า -  POP UP Event",
-   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
-   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
    "no": 878,
    "name": "BOWCAKE",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
@@ -7153,32 +7129,8 @@
    "extra": ""
   },
   {
-   "no": 881,
-   "name": "Anri Bakery  - POP UP Event",
-   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
-   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 882,
-   "name": "Life is Journey - POP UP Event",
-   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
-   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
    "no": 883,
    "name": "ํTNT Space Carnival  - POP UP Event ถึง 30 พย",
-   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
-   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 884,
-   "name": "Vat Refund",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
    "category": "Popup&Event",
@@ -7209,27 +7161,11 @@
    "extra": ""
   },
   {
-   "no": 888,
-   "name": "NCT Dream Exhibition dream Vibe ICONSIAM 7F",
-   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
-   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
    "no": 889,
    "name": "mitsukoshi depachika (ONEBANGKOK)",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject : ร้านค้าเปิดให้บริการในศูนย์การค้าอื่น",
    "category": "AnotherShopingCenter",
-   "extra": ""
-  },
-  {
-   "no": 890,
-   "name": "DINOLAB Dino Lab BKK   ( POP UP)",
-   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
-   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
-   "category": "Popup&Event",
    "extra": ""
   },
   {
@@ -7993,24 +7929,8 @@
    "extra": ""
   },
   {
-   "no": 986,
-   "name": "ซันนี่ ณาน ครัวซองต์",
-   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
-   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
    "no": 987,
    "name": "สุกี้พรศิริ",
-   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
-   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 988,
-   "name": "Gift Wonderland @SiamCenter - Siam Selected Co.,Ltd | Gift Wonderland SC Fl.1  * ปิดแล้ว",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
    "category": "Popup&Event",
@@ -11285,5 +11205,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 09:08"
+ "generated_at": "2026-07-03 09:15"
 }
