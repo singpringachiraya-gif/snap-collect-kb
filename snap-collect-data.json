@@ -4266,7 +4266,7 @@
   },
   {
    "no": 520,
-   "name": "Easy Buddy SC Fl. 2 (ดูดีๆทั้งบิลก่อนจะกด Reject ว่าจะ Reject เหตุผลอะไร!!!)  \nEasy Buddy ICON Fl.   (ดูดีๆทั้งบิลก่อนจะกด Reject ว่าจะ Reject เหตุผลอะไร!!!)  \n(Join-Coin ทั้ง 2 สาขา ICON เริ่ม Join 19/02/2026)",
+   "name": "Easy Buddy SC Fl. 2 / Easy Buddy ICON Fl. 6",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject#1 :  ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น \n(สำหรับไม่ได้มีระบุ member สมาชิกร้าน)\nReject #2 (สำหรับขึ้นชื่อสมาชิกแล้ว) : ใบเสร็จเคยถูกบันทึกไปแล้ว ไม่สะสมซ้ำ ใช้อันนี้เลื่อนดูบิลด้วย",
    "category": "JoinONESIAMCoin",
@@ -4290,9 +4290,9 @@
   },
   {
    "no": 523,
-   "name": "Nike SC Fl. G / Nike ICON Fl. 2 / Nike SPO Fl. G\nเฉพาะสาขา SPO จะระบุ Digital Order Number  >> สะสมได้\nถ้าทุกสาขาขึ้น ORDER ID >> Reject: ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp",
+   "name": "Nike SC Fl. G / Nike ICON Fl. 2 / Nike SPO Fl. G",
    "receipt_format": "INVOICE NO (Inv#)",
-   "notes": "กรอกครบทุกตัว \n(****สาขา SPO มันจะชอบจับ SP0 เลข 0 เลขใบเสร็จคือ SPO (ตัวโอ) เช็คก่อนสะสมด้วยนะคะ)",
+   "notes": "กรอกครบทุกตัว \nสาขา SPO มันจะชอบจับ SP0 เลข 0 เลขใบเสร็จคือ SPO (ตัวโอ) เช็คก่อนสะสมด้วยนะคะ) \nเฉพาะสาขา SPO จะระบุ Digital Order Number  >> สะสมได้\nถ้าทุกสาขาขึ้น ORDER ID >> Reject: ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -4314,9 +4314,9 @@
   },
   {
    "no": 526,
-   "name": "Omazz Gallery (มีหลายสาขา) - ดูจากรหัสร้านเอามุมขวา\nสาขา SPO >> รหัสร้าน : CLSOH-SHOM-004 (จะมีเขียน SPO ข้างบน ถ้าไม่มีลองเช็ครหัสสาขา)\nสาขา เอกมัย >> รหัสร้าน : CLS-SH021\nสาขา Crystal Design Center >> รหัสร้าน : CLSOH-SHOM-002\nสาขา Seasons Village Ratchaphruek >> รหัสร้าน : CLSOH-SHOM-005\nสาขา Mega-Bangna >> รหัสร้าน : CLS-SH020",
+   "name": "Omazz Gallery (มีหลายสาขา) - ดูจากรหัสร้านเอามุมขวา",
    "receipt_format": "Receipt no",
-   "notes": "ตัวอย่าง : 172579134758759",
+   "notes": "ตัวอย่าง : 172579134758759        \nสาขา SPO >> รหัสร้าน : CLSOH-SHOM-004 (จะมีเขียน SPO ข้างบน ถ้าไม่มีลองเช็ครหัสสาขา)\nสาขา เอกมัย >> รหัสร้าน : CLS-SH021\nสาขา Crystal Design Center >> รหัสร้าน : CLSOH-SHOM-002\nสาขา Seasons Village Ratchaphruek >> รหัสร้าน : CLSOH-SHOM-005\nสาขา Mega-Bangna >> รหัสร้าน : CLS-SH020",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -4546,9 +4546,9 @@
   },
   {
    "no": 555,
-   "name": "MOMOKO Bag & Shoes Spa SPD Fl. 3 (ไม่ Join) >> เลข SPD\nMOMOKO Bag & Shoes Spa ICON Fl. BM1 >> Join Coin ขึ้นต้น เลข ICON",
+   "name": "MOMOKO Bag & Shoes Spa SPD Fl. 3 \nMOMOKO Bag & Shoes Spa ICON Fl. BM1",
    "receipt_format": "Receipt no",
-   "notes": "กรอกครบทุกตัว เช่น ICON2-REP2400230",
+   "notes": "กรอกครบทุกตัว เช่น ICON2-REP2400230\nSPD : (ไม่ Join) >> เลข SPD\nICON :  Join Coin ขึ้นต้น เลข ICON",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11285,5 +11285,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 09:05"
+ "generated_at": "2026-07-03 09:08"
 }
