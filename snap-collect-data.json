@@ -8961,14 +8961,6 @@
    "extra": ""
   },
   {
-   "no": 1160,
-   "name": "Yoba SPD Fl. 4 (JoinCoin 14-Jan-2026)",
-   "receipt_format": "ID",
-   "notes": "",
-   "category": "JoinONESIAMCoin",
-   "extra": ""
-  },
-  {
    "no": 1161,
    "name": "Copenn SPD Fl. 1",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
@@ -9035,8 +9027,8 @@
   {
    "no": 1169,
    "name": "Yoba SPD Fl. 4 / Yoba SD Fl. 3",
-   "receipt_format": "Receipt no",
-   "notes": "Ex.RCSPG032569/001701  SPD JoinCoin",
+   "receipt_format": "ID",
+   "notes": "เช่น C0XJV  อัพเดท 03/07/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10647,6 +10639,14 @@
    "notes": "เช่น DD6SR",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1391,
+   "name": "Butter Haus SPD Fl. G",
+   "receipt_format": "ID",
+   "notes": "",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10709,5 +10709,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 13:29"
+ "generated_at": "2026-07-03 13:35"
 }
