@@ -8442,9 +8442,9 @@
   },
   {
    "no": 1049,
-   "name": "พีเอที ลักชูรี่ คอนเซป สาขา 00005  - GIUSEPPE (Luxury) หัวบิลจะเป็น เซ็นทรัลเวิลด์ แต่สะสมเข้า Siam Takashimaya ได้เลย UPDATE 19/09/25",
+   "name": "พีเอที ลักชูรี่ คอนเซป สาขา 00005  - GIUSEPPE (Luxury)",
    "receipt_format": "No (เลขที่)",
-   "notes": "Brand under STK - สะสมเข้า Takashimaya",
+   "notes": "Brand under STK - สะสมเข้า Takashimaya \nหัวบิลจะเป็น เซ็นทรัลเวิลด์ แต่สะสมเข้า Siam Takashimaya ได้เลย UPDATE 19/09/25",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -8802,9 +8802,9 @@
   },
   {
    "no": 1140,
-   "name": "Sri Oriental Co.,Ltd.  Sri Trat at Sri's Room SPD Fl. G (join Coin เริ่ม 1-Nov-2025)",
+   "name": "Sri Trat at Sri's Room SPD Fl. G",
    "receipt_format": "ID",
-   "notes": "เช่น 69N64 \nหัวบิลใบกำกับภาษี : บริษัท ศรีโอเรียนทอล จำกัด \nถ้าเป็นใบกำกับเขียนมือ ใช้เล่มที่+เลขที่ ex 0010047\n( Food Deal : Cash Voucher 2000/4000 )",
+   "notes": "เช่น 69N64 \nหัวบิลใบกำกับภาษี : บริษัท ศรีโอเรียนทอล จำกัด (Sri Oriental Co.,Ltd.)\n(join Coin เริ่ม 1-Nov-2025)\nถ้าเป็นใบกำกับเขียนมือ ใช้เล่มที่+เลขที่ ex 0010047\n( Food Deal : Cash Voucher 2000/4000 )",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -8850,9 +8850,9 @@
   },
   {
    "no": 1146,
-   "name": "Dolce & Gabbana Cafe SPD Fl. 1 (ดูดีๆ พนงชอบเอาบิล Reprint มาถ่าย)",
+   "name": "Dolce & Gabbana Cafe SPD Fl. 1",
    "receipt_format": "Receipt no",
-   "notes": "",
+   "notes": "(ดูดีๆ พนงชอบเอาบิล Reprint มาถ่าย)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -8890,9 +8890,9 @@
   },
   {
    "no": 1151,
-   "name": "บริษัท มากุโระ กรุ๊ป จำกัด / Tonkatsu Aoki ICON Fl. 4",
+   "name": "Tonkatsu Aoki ICON Fl. 4",
    "receipt_format": "Receipt no",
-   "notes": "กรอกครบ Ex.AOKI007A330000034  **มีสมาชิกด้านล่าง  (UPDATE 12/11/2025)",
+   "notes": "กรอกครบ Ex.AOKI007A330000034  **มีสมาชิกด้านล่าง  (UPDATE 12/11/2025)\nบริษัท มากุโระ กรุ๊ป จำกัด",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -8914,17 +8914,9 @@
   },
   {
    "no": 1154,
-   "name": "หัวบิล SLC บริษัท เอสเทติก อานเซอร์ จำกัด -  Siam Laser Clinic ICON Fl. 5",
+   "name": "Siam Laser Clinic ICON Fl. 5",
    "receipt_format": "No (เลขที่)",
-   "notes": "REIC025110158 / ดูชื่อสมาชิกว่าตรงกันไหมก่อนสะสม",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 1155,
-   "name": "DEMON SLAYER ICON FL.6 (17-Nov ถึง 31-Jan26)",
-   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "Ex. R#2500000078",
+   "notes": "REIC025110158 / ดูชื่อสมาชิกว่าตรงกันไหมก่อนสะสม\nหัวบิล SLC บริษัท เอสเทติก อานเซอร์ จำกัด -",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10709,5 +10701,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 13:53"
+ "generated_at": "2026-07-03 13:58"
 }
