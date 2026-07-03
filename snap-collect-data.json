@@ -74,7 +74,7 @@
   },
   {
    "no": 10,
-   "name": "Apple / จะมีระบุ Apple ICONSIAM Apple ICON Fl. 2",
+   "name": "Apple ICONSIAM Apple ICON Fl. 2",
    "receipt_format": "เลขใต้ Barcode",
    "notes": "เลขใบเสร็จเต็มๆ คือ 20250612R7281005310001 กรอกแค่ Rxxxxx เช่น R7281005310",
    "category": "Spending Only",
@@ -90,7 +90,7 @@
   },
   {
    "no": 12,
-   "name": "Atelier De Prestige / Atelier De Prestige ICON Fl. M",
+   "name": "Atelier De Prestige ICON Fl. M",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "(EX.A2307160011)",
    "category": "Spending Only",
@@ -138,7 +138,7 @@
   },
   {
    "no": 18,
-   "name": "BAR B Q PLAZA (ดูหมายเหตุ วิธีแยกสาขา)",
+   "name": "BAR B Q PLAZA ทุกสาขา",
    "receipt_format": "Receipt no",
    "notes": "สาขาที่ 00205 เลขที่ขึ้นด้วย 257 = ICONSIAM \nสาขาที่ 00109 มีตราปั๊มสาขาล่างใบเสร็จ = SC / XXXXXX  / เลขมุมซ้าย = SC     เลขมุมขวา = ICON\nEx.QC-041099  กรอกครบทุกตัว\nใช้ Grab Dine Out สะสมได้\nหัวบิล Food Passion",
    "category": "Spending Only",
@@ -186,7 +186,7 @@
   },
   {
    "no": 24,
-   "name": "Birkenstock ICON Fl. 1 / American Eagle SPO Fl. G",
+   "name": "Birkenstock ICON Fl. 1",
    "receipt_format": "Receipt no",
    "notes": "ดูหัวบิลว่าอยู่ฝั่งไหน สะสมเข้าตามร้านค้าที่แจ้ง // บิลเขียนมือใช้ เล่มที่ (มุมขวาบน)\nบริษัท แปซิฟิกา รีเทล จํากัด Pacifica Retail",
    "category": "Spending Only",
@@ -202,7 +202,7 @@
   },
   {
    "no": 26,
-   "name": "Bon Chon SPD Fl. G / Bon Chon SC Fl. 2 / Bon Chon ICON Fl. 6 / Bon Chon SPO Fl. G",
+   "name": "Bon Chon ทุกสาขา",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ EX.BC38012569/003593\nมันจะมีชื่อ member ด้วย เช็คดีๆ ชื่อตรงกันไหม (join-coin 12-Mar-26)\n( Food Deal : Onesiam App Coupon - Reject )\nใช้ Grab Dine Out สะสมได้ / อัพเดท 27/02/2026",
    "category": "JoinONESIAMCoin",
@@ -386,7 +386,7 @@
   },
   {
    "no": 49,
-   "name": "Fallabella ICON Fl. 6 (JoinCoin) / FALLABELLA LITTLE SISTER KITCHEN Fl. 5  - Zone Nextopia (joinCoin)",
+   "name": "Fallabella ICON Fl. 6 /  FALLABELLA LITTLE SISTER KITCHEN Fl. 5",
    "receipt_format": "ID",
    "notes": "ใช้ ID กรอกครบ  เริ่ม JoinCoin 02/03/2026\nอัพเดท 27/02/2026",
    "category": "JoinONESIAMCoin",
@@ -466,7 +466,7 @@
   },
   {
    "no": 59,
-   "name": "หัวบิล CP Hilai Harbour Co.LTD - Great Harbour ICON Fl. 6 (Join Coin เริ่ม 16/11/2025)",
+   "name": "Great Harbour ICON Fl. 6",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ (Food Deal : VIZ Coin )",
    "category": "JoinONESIAMCoin",
@@ -474,7 +474,7 @@
   },
   {
    "no": 60,
-   "name": "Greyhound Cafe SC Fl. 1 (JoinCoin)",
+   "name": "Greyhound Cafe SC Fl. 1 (Joincoin)",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ\nใช้ Grab Dine Out สะสมได้ / อัพเดท 27/02/2026\nGreyhound Cafe ICON Fl. 2 --- ปิด 06/05/2026\nอัพเดท 06/05/2026",
    "category": "JoinONESIAMCoin",
@@ -514,7 +514,7 @@
   },
   {
    "no": 65,
-   "name": "Hitori Shabu / hitori shabu SPD Fl. G",
+   "name": "hitori shabu SPD Fl. G",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ Ex.SHA001P1060055482\nใช้ Grab Dine Out สะสมได้ / อัพเดท 27/02/2026",
    "category": "Spending Only",
@@ -530,7 +530,7 @@
   },
   {
    "no": 67,
-   "name": "Hokkai Don (ครีเอทเอ็ม 00001) / Hokkai Don SPD Fl. G",
+   "name": "Hokkai Don SPD Fl. G (ครีเอทเอ็ม 00001)",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
@@ -562,7 +562,7 @@
   },
   {
    "no": 71,
-   "name": "FOODXCITE COMPANY LIMITED - Ippudo SPD Fl. G / Ippudo ICON Fl. 6 (JoinCoin ทั้ง 2 สาขา)",
+   "name": "Ippudo SPD Fl. G / Ippudo ICON Fl. 6",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอกครบทุกตัว  เช่น 01471989",
    "category": "JoinONESIAMCoin",
@@ -610,7 +610,7 @@
   },
   {
    "no": 77,
-   "name": "K food guru - Kam's Roast ICON Fl. 6 (JoinCoin)",
+   "name": "Kam's Roast ICON Fl. 6 (JoinCoin) K food guru",
    "receipt_format": "Tax invoice (ABB)",
    "notes": "สะสมเฉพาะตัวเลข 680409016",
    "category": "Spending Only",
@@ -714,7 +714,7 @@
   },
   {
    "no": 90,
-   "name": "บริษัทกาญณรงค์ กรุ๊ป จำกัด - karnnarong group co. ltd \nหัวบิล  Pang ChaPang - Pang Cha by Lukkaithong SPD Fl. G\nหัวบิล Luk kaiThong -  Pang Cha by Lukkaithong SPD Fl. 4",
+   "name": "Pang Cha by Lukkaithong SPD Fl. G / Pang Cha by Lukkaithong SPD Fl. 4 (บริษัทกาญณรงค์ karnnarong group co. ltd)",
    "receipt_format": "Receipt no",
    "notes": "LPGRC2012569/001024 กรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
@@ -754,7 +754,7 @@
   },
   {
    "no": 95,
-   "name": "MANDARIN ORIENTAL (THAILAND) - Mandarin Oriental Shop SPD Fl. G / Mandarin Oriental Dry Cleaning SPD Fl. B",
+   "name": "Mandarin Oriental Shop SPD Fl. G / Mandarin Oriental Dry Cleaning SPD Fl. B",
    "receipt_format": "Tax invoice (ABB)",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ Ex.T26-165609",
    "category": "Spending Only",
@@ -818,7 +818,7 @@
   },
   {
    "no": 103,
-   "name": "MUJI SD Fl. 2 / MUJI ICON Fl. 3 ** จะมี member The One อยู่ดูว่าชื่อตรงกันไหม",
+   "name": "MUJI SD Fl. 2 / MUJI ICON Fl. 3",
    "receipt_format": "Receipt no",
    "notes": "Ex.991-429039\nกรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
@@ -826,15 +826,15 @@
   },
   {
    "no": 104,
-   "name": "NESPRESSO SPD Fl. 2 (หัวบิลจะเปลี่ยนจากคำว่า Receipt เป็น Delivery note)",
+   "name": "NESPRESSO SPD Fl. 2",
    "receipt_format": "INVOICE NO (Inv#)",
-   "notes": "ใบกำกับภาษี จะเขียนว่าสำเนาใบกำกับภาษีเพราะร้านต้องเก็บตัวจริง (สะสมได้) \nสาขา ICON >> ปิดถาวร",
+   "notes": "ใบกำกับภาษี จะเขียนว่าสำเนาใบกำกับภาษีเพราะร้านต้องเก็บตัวจริง (สะสมได้) \nสาขา ICON >> ปิดถาวร\n(หัวบิลจะเปลี่ยนจากคำว่า Receipt เป็น Delivery note)",
    "category": "Spending Only",
    "extra": ""
   },
   {
    "no": 105,
-   "name": "บริษัท รวยไม่หยุด - Nice Two Meat U SPD Fl. 4 / Nice Two Meat U ICON Fl. 5",
+   "name": "Nice Two Meat U SPD Fl. 4 / Nice Two Meat U ICON Fl. 5",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
@@ -850,9 +850,9 @@
   },
   {
    "no": 107,
-   "name": "Olino Crepe SPO Fl. G / Olino ICS Fl. G   บิลระบุสาขา icon 2 = ics",
+   "name": "Olino Crepe SPO Fl. G / Olino ICS Fl. G",
    "receipt_format": "No (เลขที่)",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
+   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ\nระบุสาขา icon 2 = ics",
    "category": "Spending Only",
    "extra": ""
   },
@@ -898,7 +898,7 @@
   },
   {
    "no": 113,
-   "name": "Osim ICON Fl. 4 (For Spending Only) / Osim SPD Fl. 2 (For Spending Only)",
+   "name": "Osim ICON Fl. 4  / Osim SPD Fl. 2",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "ไม่มีเลขใบเสร็จ - ใช้เลขเล่มที่ ต่อด้วย เลขที่ xxxxx",
    "category": "Spending Only",
@@ -930,7 +930,7 @@
   },
   {
    "no": 117,
-   "name": "PAUL - ICONSIAM (เช็คสาขา ดู Remark ก่อนสะสม)",
+   "name": "PAUL ทุกสาขา",
    "receipt_format": "No (เลขที่)",
    "notes": "สาขาอื่นเลือก ตึก External / Central World  / Central Embassy /  Central Chidlom  /  The Emporium  / The 8th Thonglor null / Mega Bangna (เมกะไม่ร่วมแล้ว)",
    "category": "JoinONESIAMCoin",
@@ -1026,7 +1026,7 @@
   },
   {
    "no": 129,
-   "name": "หัวบิล AST Global -  Sancheck ICON Fl. 6",
+   "name": "Sancheck ICON Fl. 6 (หัวบิล AST Global)",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
@@ -1178,7 +1178,7 @@
   },
   {
    "no": 148,
-   "name": "UA Sport (Thailand) Co., Ltd. -  Under Armour SC Fl. G / Under Armour ICON Fl. 3 / Under Armour SPO Fl. G",
+   "name": "UA Sport - Under Armour SC Fl. G / Under Armour ICON Fl. 3 / Under Armour SPO Fl. G",
    "receipt_format": "Receipt no",
    "notes": "เช่่น 25DSC14028777 / หากเจอใบเสร็จไม่ระบุสาขา และยอดชำระ REJECT : ร้านค้าไม่เข้าร่วมการสะสม",
    "category": "JoinONESIAMCoin",
@@ -1242,7 +1242,7 @@
   },
   {
    "no": 156,
-   "name": "MK-INTERFOOD) SC,ICON - YAYOI TEISHOKU SC Fl. 2 / YAYOI TEISHOKU ICON Fl. 6",
+   "name": "MK-INTERFOOD -  YAYOI TEISHOKU SC Fl. 2 / YAYOI TEISHOKU ICON Fl. 6",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
@@ -1314,7 +1314,7 @@
   },
   {
    "no": 165,
-   "name": "POMODORO GROUP -  Amici by POMODORO SPD Fl. G",
+   "name": "Amici by POMODORO SPD Fl. G",
    "receipt_format": "check no (CHK)",
    "notes": "Check ID กรอกครบ เช่น 397919",
    "category": "Spending Only",
@@ -1546,7 +1546,7 @@
   },
   {
    "no": 194,
-   "name": "Pro Clean (ตึก car park) - Pro Clean SCP Fl. BM / จะมีหัวบิลบอกสาขา",
+   "name": "Pro Clean SCP Fl. BM / จะมีหัวบิลบอกสาขา",
    "receipt_format": "เลขที่ใบงาน",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
@@ -1697,14 +1697,6 @@
    "extra": ""
   },
   {
-   "no": 213,
-   "name": "อมรินทร์ บุ๊ค เซ็นเตอร์ - NAIIN *ร้านปิดแล้ว Reject ได้เลย อัพเดต 24/12/68",
-   "receipt_format": "",
-   "notes": "",
-   "category": "ShopClosed",
-   "extra": ""
-  },
-  {
    "no": 214,
    "name": "Tokyo Milk Cheese Factory SPD Fl. G",
    "receipt_format": "ID",
@@ -1722,7 +1714,7 @@
   },
   {
    "no": 216,
-   "name": "บริษัท กำลังเสริม - Kloset Etcetera SC Fl. 1",
+   "name": "Kloset Etcetera SC Fl. 1 (บริษัท กำลังเสริม)",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "ไม่มีเลขใบเสร็จ - (EX. ETCRC184202412297) กรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
@@ -1954,7 +1946,7 @@
   },
   {
    "no": 245,
-   "name": "WACOAL (SPO) Wacoal SPO Fl. G / Bme by Wacoal SPO Fl. G",
+   "name": "Wacoal SPO Fl. G / Bme by Wacoal SPO Fl. G",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
@@ -1994,7 +1986,7 @@
   },
   {
    "no": 250,
-   "name": "หัวบิลของ ICON - บริษัท คาวาระ โกลบอล จำกัด - Harmenstone SC Fl. M / Harmenstone ICON Fl. 1",
+   "name": "Harmenstone SC Fl. M / Harmenstone ICON Fl. 1 (หัวบิลของ ICON - บริษัท คาวาระ โกลบอล จำกัด)",
    "receipt_format": "No (เลขที่)",
    "notes": "**กรณีบิลเงินสดจะต้องแนปสลิปจ่ายเงินด้วย = APPROVE / เช่น 01200019026\nบิลปกติ >> RCIC10202512006 / RCIC8202512140",
    "category": "Spending Only",
@@ -2010,23 +2002,15 @@
   },
   {
    "no": 252,
-   "name": "บริษัท เลค คอมมูนิเคชั่น จำกัด - Xiaomi Store SPD Fl. 3 / Xiaomi SD Fl. 2",
+   "name": "Xiaomi Store SPD Fl. 3 / Xiaomi SD Fl. 2 (บริษัท เลค คอมมูนิเคชั่น จำกัด)",
    "receipt_format": "No (เลขที่)",
    "notes": "หมายเลขคำสั่งซื้อ เช่น 1257122156150968",
    "category": "Spending Only",
    "extra": ""
   },
   {
-   "no": 253,
-   "name": "Circular of Lux SD Fl.M (Shop Close 23-Jun)",
-   "receipt_format": "",
-   "notes": "",
-   "category": "ShopClosed",
-   "extra": ""
-  },
-  {
    "no": 254,
-   "name": "บริษัท JI F&B CO., LTD.  - Bornga SD Fl. 3",
+   "name": "Bornga SD Fl. 3",
    "receipt_format": "Receipt no",
    "notes": "หลังขีด5 ตัวท้าย\nGrab Dine Out สะสมได้  ใช้คำว่า  เขียนหัวมุม GF-xxx\nอัพเดท 02/03/2026",
    "category": "JoinONESIAMCoin",
@@ -2178,7 +2162,7 @@
   },
   {
    "no": 273,
-   "name": "บริษัท Ferragamo Thailand Ltd. - Salvatore Ferragamo {Luxury}  Ferragamo ICON Fl. G / Ferragamo SPO Fl. G",
+   "name": "Ferragamo ICON Fl. G / Ferragamo SPO Fl. G",
    "receipt_format": "Receipt no",
    "notes": "สาขา ICON กรอกครบล เช่น  A4BY-1-5110-16242 \nสาขาSPO กรอกเฉพาะ 5 ตัวท้าย\nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
@@ -2186,7 +2170,7 @@
   },
   {
    "no": 274,
-   "name": "CHRISTIAN LOUBOUTIN {Luxury}  / SPR_Christian Louboutin SPD Fl. M",
+   "name": "SPR_Christian Louboutin SPD Fl. M",
    "receipt_format": "Reference no",
    "notes": "Ex. 1119-02-26506 กรอครบทุกตัว \nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
@@ -2258,7 +2242,7 @@
   },
   {
    "no": 283,
-   "name": "Louis Vuitton {Luxury}   (ดูหัวบิล จะมี LV / LV men สะสมตามชื่อ) \n Louis Vuitton SPD Fl. M \nLouis Vuitton Men SPD Fl. M \n Louis Vuitton ICON Fl. M \nLOUIS VUITTON WOMEN POP UP  สะสมเข้า  Louis Vuitton SPD Fl. M",
+   "name": "Louis Vuitton SPD Fl. M  / Louis Vuitton Men SPD Fl. M  / Louis Vuitton ICON Fl. M \nLOUIS VUITTON WOMEN POP UP  สะสมเข้า  Louis Vuitton SPD Fl. M\nดูหัวบิล จะมี LV / LV men สะสมตามชื่อ)",
    "receipt_format": "Tax invoice (ABB)",
    "notes": "Ex.266513002016 กรอกครบทุกตัว\nิอัพเดท 28/01/2026\n  **ชื่อลูกค้าส่วนใหญ่ นามสกุลจะขึ้นก่อนชื่อ ดูดีๆ!!",
    "category": "JoinONESIAMCoin",
@@ -2266,7 +2250,7 @@
   },
   {
    "no": 284,
-   "name": "MCM  {Luxury}  / MCM SPD Fl. M / MCM ICON Fl. M",
+   "name": "MCM SPD Fl. M / MCM ICON Fl. M",
    "receipt_format": "Reference no",
    "notes": "Ex.1005023905 กรอกครบทุกตัว\nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
@@ -2274,7 +2258,7 @@
   },
   {
    "no": 285,
-   "name": "Mikimoto  {Luxury}  / Mikimoto SPD Fl. M",
+   "name": "Mikimoto SPD Fl. M",
    "receipt_format": "No (เลขที่)",
    "notes": "Ex.R2601-00004 กรอครบทุกตัว\nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
@@ -2282,7 +2266,7 @@
   },
   {
    "no": 286,
-   "name": "MIU MIU {Luxury}  / MIU MIU SPD Fl. M / MIU MIU ICON Fl. M",
+   "name": "MIU MIU SPD Fl. M / MIU MIU ICON Fl. M",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "Ex.H610121148 กรอกครบทุกตัว\nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
@@ -2402,7 +2386,7 @@
   },
   {
    "no": 301,
-   "name": "Cortina Watch - PIAGET / Frank'sWatchBoutique(PiagetBoutiqueเช่า) SPD Fl. M",
+   "name": "Frank'sWatchBoutique(PiagetBoutiqueเช่า) SPD Fl. M (Cortina Watch - PIAGET)",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "625002xxxxxxxxx (มี 15 หลัก) / ดูตรงกลางๆในบิลจะเขียน At Franck Muller",
    "category": "Spending Only",
@@ -2418,7 +2402,7 @@
   },
   {
    "no": 303,
-   "name": "หัวบิล TKI  -Patek Philippe ICON Fl. G (JoinCoin)",
+   "name": "TKI  -Patek Philippe ICON Fl. G (JoinCoin)",
    "receipt_format": "No (เลขที่)",
    "notes": "Patek Ex. SO-26-01-010606\nอัพเดท 04/02/2026",
    "category": "Spending Only",
@@ -2570,7 +2554,7 @@
   },
   {
    "no": 322,
-   "name": "หัวบิล ICONSIGNATURE - ICONSIAM ถ้าไม่มีระบุอะไร ICONCRAFT ICON Fl. 4  \nถ้ามีตัวปั้ม >  ICONCRAFT สะสมเข้า ICONCRAFT ICON Fl. 4",
+   "name": "ICONSIGNATURE - ICONSIAM ถ้าไม่มีระบุอะไร ICONCRAFT ICON Fl. 4  \nถ้ามีตัวปั้ม >  ICONCRAFT สะสมเข้า ICONCRAFT ICON Fl. 4",
    "receipt_format": "Pos-Reciept (PRH)",
    "notes": "กรอกครบทุกตัว เช่น 2425102-1438859\nICONACTIVE + Ecotopia ปิดถาวร\nอัพเดท 13/01/2025",
    "category": "JoinONESIAMCoin",
@@ -10717,5 +10701,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 19:14"
+ "generated_at": "2026-07-03 20:41"
 }
