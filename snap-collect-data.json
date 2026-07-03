@@ -626,7 +626,7 @@
   },
   {
    "no": 79,
-   "name": "KFC SPD Fl. G /  KFC SC Fl. G / KFC SPO Fl. G",
+   "name": "KFC ทุกสาขา",
    "receipt_format": "INVOICE NO (Inv#) (TAX INVOICE ID)",
    "notes": "บิลปกติ - กรอกครบทุกตัว รวมอักขระพิเศษ Ex.3244-903-0042020\n- หัวบิล KFC-3244 SC บิลออกจากการซื้อจากตู้อัตโนมัติ  สะสมได้ ใช้เลข REF Ex.3826042313492 หรือ TRACE Ex.033629\n- หัวบิล KFC-1453 SPD บิลออกจากการซื้อจากตู้อัตโนมัติ  สะสมได้ ใช้เลข TRACE Ex.033629",
    "category": "Spending Only",
@@ -10709,5 +10709,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 18:06"
+ "generated_at": "2026-07-03 18:07"
 }
