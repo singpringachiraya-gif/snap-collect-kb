@@ -811,8 +811,8 @@
   {
    "no": 102,
    "name": "MR.D.I.Y. ICS Fl. 3",
-   "receipt_format": "Receipt no",
-   "notes": "",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "เลขอยู่ล่างบรรทัดรวม Total ขึ้นต้นด้วย R เช่น R000183235",
    "category": "Spending Only",
    "extra": ""
   },
@@ -5386,7 +5386,7 @@
   },
   {
    "no": 661,
-   "name": "ยำเสน่ห์ ICS Fl. G",
+   "name": "เสนห์ขนมจีน ICS Fl. 4",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอกครบทุกตัว",
    "category": "Spending Only",
@@ -10693,5 +10693,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 16:47"
+ "generated_at": "2026-07-03 16:52"
 }
