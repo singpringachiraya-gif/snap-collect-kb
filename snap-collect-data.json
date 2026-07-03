@@ -4466,7 +4466,7 @@
   },
   {
    "no": 560,
-   "name": "บริษัท แอลวีเอ็มเอช ว็อช แอนด์ จิวเวลรี่ (ประเทศไทย) จำกัด - Fred - Fred SPD Fl. M",
+   "name": "บริษัท แอลวีเอ็มเอช ว็อช แอนด์ จิวเวลรี่ (ประเทศไทย) จำกัด - Fred SPD Fl. M",
    "receipt_format": "Tax invoice (ABB)",
    "notes": "กรอกครบทุกตัว",
    "category": "JoinONESIAMCoin",
@@ -5034,9 +5034,9 @@
   },
   {
    "no": 631,
-   "name": "บริษัท ELCA (Thailand) Ltd. - The Cosmetics Company Store\n** ดูราคาดีๆ ระบบชอบจับ ตัว ฿ มาเป็นราคาด้วย **",
+   "name": "บริษัท ELCA (Thailand) Ltd. - The Cosmetics Company Store",
    "receipt_format": "INVOICE NO.",
-   "notes": "เช่่น 011284\nอัพเดท 28/01/2026",
+   "notes": "เช่่น 011284 / ** ดูราคาดีๆ ระบบชอบจับ ตัว ฿ มาเป็นราคาด้วย **\nอัพเดท 28/01/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -5234,7 +5234,7 @@
   },
   {
    "no": 642,
-   "name": "บริษัท เดอะ เฟรช ฟู้ด จำกัด THE FRESH FOOD COMPANY LIMITED \n Get Fresh ICS Fl. G (JoinCoin) มีสาขาเดียวนอกนั้น ปิดถาวร",
+   "name": "บริษัท เดอะ เฟรช ฟู้ด จำกัด  Get Fresh ICS Fl. G (JoinCoin)",
    "receipt_format": "No (เลขที่)",
    "notes": "เช่่น 0100288 \nออกใบกำกับภาษี ใช้ เลขที่ใบกำกับภาษีเต็มรูปแบบ เช่น C011700630\nอัพเดท 12/12/2025",
    "category": "JoinONESIAMCoin",
@@ -5346,9 +5346,9 @@
   },
   {
    "no": 656,
-   "name": "owndays SC Fl. M / Owndays ICON Fl. 4 / Owndays SPO Fl. G\nสาขาอยูล่างใบเสร็จเลย ดูดีๆ ชอบถ่ายมาไม่ครบ",
+   "name": "owndays SC Fl. M / Owndays ICON Fl. 4 / Owndays SPO Fl. G",
    "receipt_format": "No (เลขที่)",
-   "notes": "Ex.6901-CH565 01989\n* ใบรับเงินมัดจำ - ไม่สะสมให้ไม่ใช่ใบเสร็จ",
+   "notes": "Ex.6901-CH565 01989\nสาขาอยูล่างใบเสร็จเลย ดูดีๆ ชอบถ่ายมาไม่ครบ\n* ใบรับเงินมัดจำ - ไม่สะสมให้ไม่ใช่ใบเสร็จ",
    "category": "Spending Only",
    "extra": ""
   },
@@ -5396,16 +5396,8 @@
    "no": 662,
    "name": "BsaB SPO Fl. G  (pop up สะสมได้ /  BsaB & Marvis ICON Fl. 5 (Pop Up สะสมได้)",
    "receipt_format": "No (เลขที่)",
-   "notes": "SPO\nสาขา ICON ใช้เลข Receipt Taxinvoice #ICS13 กรอกแค่หลัง # เช่น ICS13",
+   "notes": "สาขา ICON ใช้เลข Receipt Taxinvoice #ICS13 กรอกแค่หลัง # เช่น ICS13",
    "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 663,
-   "name": "Casa Lapin SPD Fl. 4 / ปิด 15-May-2026",
-   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
-   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
-   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -5818,9 +5810,9 @@
   },
   {
    "no": 715,
-   "name": "บริษัท ร่วมเจริญพัฒนา จำกัด (มหาชน)  / Luxoptic SPD, SD, ICON / แว่นท็อปเจริญ ICS                                                                 สาขาที่ 03510 = SPD / 03800 = luxoptic SD / 02735 = ICON",
+   "name": "บริษัท ร่วมเจริญพัฒนา จำกัด (มหาชน)  / Luxoptic SPD, SD, ICON / แว่นท็อปเจริญ ICS",
    "receipt_format": "No (เลขที่)",
-   "notes": "กรอกครบทุกตัว (ไม่ต้องใส่อักขระพิเศษ)\n ไม่มีรหัสสาขาตามที่ระบุ Reject : อื่นๆ  \"เนื่องจาก ใบเสร็จไม่ระบุสาขา\nรบกวนส่งข้อมูลเพิ่มเติมได้ที่ contact center 02-111-6161\"",
+   "notes": "สาขาที่ 03510 = SPD / 03800 = luxoptic SD / 02735 = ICON               \nกรอกครบทุกตัว (ไม่ต้องใส่อักขระพิเศษ)\n ไม่มีรหัสสาขาตามที่ระบุ Reject : อื่นๆ  \"เนื่องจาก ใบเสร็จไม่ระบุสาขา\nรบกวนส่งข้อมูลเพิ่มเติมได้ที่ contact center 02-111-6161\"",
    "category": "Spending Only",
    "extra": ""
   },
@@ -5914,7 +5906,7 @@
   },
   {
    "no": 727,
-   "name": "หัวบิล ศูนย์การค้าสยามเซ็นเตอร์ / Food Library - เพลินพุงคาเฟ่ SC Fl. 2 /  เพลินพุง/ตำตำ ICON Fl. G",
+   "name": "Food Library - เพลินพุงคาเฟ่ SC Fl. 2 /  เพลินพุง/ตำตำ ICON Fl. G",
    "receipt_format": "No (เลขที่)",
    "notes": "chk no. เช่น 151737 กรอกครบทุกตัว",
    "category": "Spending Only",
@@ -6074,9 +6066,9 @@
   },
   {
    "no": 747,
-   "name": "Oh! Juice SPD Fl. G / Oh! Juice ICON Fl. G\nมีชื่อ member ข้างล่าง ถ้าถ่ายไม่เห็นทั้งใบ Reject: ใบเสร็จไม่ชัดเจน !!",
+   "name": "Oh! Juice SPD Fl. G / Oh! Juice ICON Fl. G",
    "receipt_format": "No (เลขที่)",
-   "notes": "กรอกครบทุกตัว",
+   "notes": "กรอกครบทุกตัว\nมีชื่อ member ข้างล่าง ถ้าถ่ายไม่เห็นทั้งใบ Reject: ใบเสร็จไม่ชัดเจน !!",
    "category": "Spending Only",
    "extra": ""
   },
@@ -6185,14 +6177,6 @@
    "extra": ""
   },
   {
-   "no": 761,
-   "name": "ขาหมูเทียนชัย24 SPO Fl. G",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
    "no": 762,
    "name": "AJISAN SPO Fl. G",
    "receipt_format": "Receipt no",
@@ -6219,14 +6203,6 @@
   {
    "no": 765,
    "name": "Garmin ICS Fl. M",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 766,
-   "name": "ไจแอ้นลูกชิ้นปลาระเบิด ICS Fl. G",
    "receipt_format": "Receipt no",
    "notes": "",
    "category": "Spending Only",
@@ -6298,9 +6274,9 @@
   },
   {
    "no": 775,
-   "name": "Pandora SD Fl. G  / Pandora SPD Fl. 2  / Pandora ICON Fl. M / Pandora ICON Fl. 4\nไม่สะสมเฉพาะ Pandora (ที่ระบุ STK)",
+   "name": "Pandora SD Fl. G  / Pandora SPD Fl. 2  / Pandora ICON Fl. M / Pandora ICON Fl. 4",
    "receipt_format": "Receipt no / TAX INV.",
-   "notes": "เฉพาะ 6 ตัวท้ายหลังขีด - เช่น S25158001-000613 กรอกแค่ 000613 / สาขา SPD ใช้ TAX INV. กรอกเต็ม (ไม่เอาขีด)",
+   "notes": "ไม่สะสมเฉพาะ Pandora (ที่ระบุ STK)\nเฉพาะ 6 ตัวท้ายหลังขีด - เช่น S25158001-000613 กรอกแค่ 000613 / สาขา SPD ใช้ TAX INV. กรอกเต็ม (ไม่เอาขีด)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -6314,9 +6290,9 @@
   },
   {
    "no": 777,
-   "name": "Xoom Box SD Fl. 4 / Xoom Box SC Fl. BM1 (สาขาระบุข้างล่างใบเสร็จ)",
+   "name": "Xoom Box SD Fl. 4 / Xoom Box SC Fl. BM1",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "หมายเลขการรับออเดอร์ เช่น 1748510013800860540",
+   "notes": "หมายเลขการรับออเดอร์ เช่น 1748510013800860540\n(สาขาระบุข้างล่างใบเสร็จ)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -6346,7 +6322,7 @@
   },
   {
    "no": 781,
-   "name": "ChingCha Chalee SPD Fl. G / ชิงช้าชาลี",
+   "name": "ChingCha Chalee SPD Fl. G",
    "receipt_format": "Receipt no",
    "notes": "ID",
    "category": "Spending Only",
@@ -6494,14 +6470,6 @@
    "receipt_format": "Receipt no",
    "notes": "Ex.CA2024120723",
    "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 800,
-   "name": "HIS&HER SPO Fl. G ** ย้ายออกนานแล้ว",
-   "receipt_format": "",
-   "notes": "",
-   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -10813,5 +10781,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 11:38"
+ "generated_at": "2026-07-03 11:42"
 }
