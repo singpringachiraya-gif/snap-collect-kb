@@ -2250,7 +2250,7 @@
   },
   {
    "no": 282,
-   "name": "บริษัท PP Luxe Co.,Ltd  {Luxury}  ร้าน Longchamp ร้าน PP Space (SPO)",
+   "name": "Longchamp SPD Fl. M / Longchamp ICON Fl. M Longchamp SPO Fl. G",
    "receipt_format": "bill no (BNO)",
    "notes": "ตัวอย่าง : S2300014000010006049 กรอกเหมือนกันทั้ง SPD , ICON \n เฉพาะสาขา SPO  กรอกแค่ 4ตัวท้าย เช่น 6049",
    "category": "JoinONESIAMCoin",
@@ -10693,5 +10693,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 16:13"
+ "generated_at": "2026-07-03 16:47"
 }
