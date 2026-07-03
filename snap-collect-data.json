@@ -10623,6 +10623,14 @@
    "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1394,
+   "name": "ฉันจะกินชาเขียวทุกวัน",
+   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
+   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10685,5 +10693,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 15:35"
+ "generated_at": "2026-07-03 16:13"
 }
