@@ -10639,6 +10639,14 @@
    "notes": "ด้านล่างขวากรอกครบ เช่น ST69007053",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": null,
+   "name": "MRKREME: THE FURRYWAYS SPD Fl. M",
+   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
+   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10701,5 +10709,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-03 20:41"
+ "generated_at": "2026-07-04 19:04"
 }
