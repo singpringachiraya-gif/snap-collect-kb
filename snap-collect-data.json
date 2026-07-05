@@ -10641,10 +10641,18 @@
    "extra": ""
   },
   {
-   "no": null,
+   "no": 1398,
    "name": "MRKREME: THE FURRYWAYS SPD Fl. M",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
+   "category": "",
+   "extra": ""
+  },
+  {
+   "no": 1399,
+   "name": "Porsche SPD Fl. 2 - ASS Auto Service",
+   "receipt_format": "Invoice Number",
+   "notes": "เช่น EGP1115367",
    "category": "",
    "extra": ""
   }
@@ -10709,5 +10717,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-04 19:04"
+ "generated_at": "2026-07-05 15:23"
 }
