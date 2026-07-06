@@ -130,7 +130,7 @@
   },
   {
    "no": 17,
-   "name": "Bankara Ramen SPD Fl. G / Bankara Ramen ICON Fl. G (ICON JoinCoin)",
+   "name": "Bankara Ramen SPD Fl. G / Bankara Ramen ICON Fl. G (ICON JoinCoin) (บริษัท สยามวินต์-ธารา)",
    "receipt_format": "Receipt no",
    "notes": "Ex. 0001102213ใส่ไม่ครบ ตัดเลข 0 สามตัวหน้าออก กรอกแค่ 110213        \n( Food Deal : fooddeal 500 , fooddeal 1000 )\nอัพเดท 28/01/2026\nบริษัท ที ที เค ฟู๊ดส์ จำกัด / บริษัท สยามวินต์-ธารา",
    "category": "JoinONESIAMCoin",
@@ -7657,14 +7657,6 @@
    "extra": ""
   },
   {
-   "no": 954,
-   "name": "GANNI SD Fl. G ( joinCoin)",
-   "receipt_format": "Receipt no",
-   "notes": "สาขา SD - เอาเฉพาะ 4 ตัวท้าย\nอัพเดท 1/07/2026 BY TON",
-   "category": "JoinONESIAMCoin",
-   "extra": ""
-  },
-  {
    "no": 955,
    "name": "BANG & OLUFSEN ICON Fl. 1",
    "receipt_format": "SALE NO",
@@ -10506,7 +10498,7 @@
   },
   {
    "no": 1381,
-   "name": "หัวบิล GANNI ICONSIAM สะสมเข้าร้าน GANNI ICON Fl. 1",
+   "name": "GANNI ICON Fl. 1",
    "receipt_format": "Rcpt",
    "notes": "สะสมตัวเลข 4 ตัวท้าย เช่น 0535 (by ton 1/7/26)",
    "category": "JoinONESIAMCoin",
@@ -10522,7 +10514,7 @@
   },
   {
    "no": 1383,
-   "name": "หัวบิล Mickey Super Club มิคกี้ ไดเนอร์ บีเคเค Paragon / สะสมเข้า Mickey's Supper Club SPD Fl. G",
+   "name": "Mickey Super Club สะสมเข้า Mickey's Supper Club SPD Fl. G",
    "receipt_format": "ID",
    "notes": "เช่่น WDKGF (By PP 2/7/26)",
    "category": "Spending Only",
@@ -10538,7 +10530,7 @@
   },
   {
    "no": 1385,
-   "name": "หัวบิล Samsonite 92 Central Park ดู Branch Name Road Show สะสมเข้า American Tourister ICON Fl. 4",
+   "name": "Samsonite 92 Central Park ดู Branch Name Road Show สะสมเข้า American Tourister ICON Fl. 4",
    "receipt_format": "Ticket no/ Inv.no",
    "notes": "เช่น 1989 (By Wilailack 2/7/26)",
    "category": "Spending Only",
@@ -10546,7 +10538,7 @@
   },
   {
    "no": 1386,
-   "name": "TONKATSU MARUSHICHI สำนักงานใหญ่ พระราม 9 สะสมเข้าร้าน Tonkatsu Marushichi SPD Fl. G",
+   "name": "Tonkatsu Marushichi SPD Fl. G (สำนักงานใหญ่ พระราม 9)",
    "receipt_format": "Receipt no. / Ref.",
    "notes": "Receipt no. กรอกครบ T01RC1072569/000343\nหากไม่มีเลข Receipt ใช้ Ref. แทนได้ เช่น 00072-1 (By Yo 3/7/26)",
    "category": "Popup&Event",
@@ -10598,14 +10590,6 @@
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
    "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 1395,
-   "name": "เสนห์ขนมจีน ICS Fl. 4",
-   "receipt_format": "ID",
-   "notes": "",
-   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -10701,5 +10685,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-06 09:19"
+ "generated_at": "2026-07-06 09:24"
 }
