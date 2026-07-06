@@ -10623,6 +10623,14 @@
    "notes": "เช่น EGP1115367",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1340,
+   "name": "HONO YAKINIKU SC Fl. 2",
+   "receipt_format": "Invoice no.",
+   "notes": "กรอกครบ เช่น 0000198",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10685,5 +10693,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-06 09:24"
+ "generated_at": "2026-07-06 13:44"
 }
