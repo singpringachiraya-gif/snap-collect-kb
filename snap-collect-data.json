@@ -10639,6 +10639,14 @@
    "notes": "เช่่น S26803001-000022 กรอกครบทุกตัว",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1402,
+   "name": "TDE2026 Thailand Diecast Expo ICON Fl. 7",
+   "receipt_format": "เลขที่",
+   "notes": "บิลเขียนมือดูตราปั๊มงาน TDE 2026 / เจอใบเสร็จแล้วมาอัปเดตกันค่ะ",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10701,5 +10709,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-07 10:26"
+ "generated_at": "2026-07-07 12:39"
 }
