@@ -6234,7 +6234,7 @@
   },
   {
    "no": 773,
-   "name": "Pro Exchange SPO Fl. G",
+   "name": "เอาออก",
    "receipt_format": "Receipt no",
    "notes": "",
    "category": "Spending Only",
@@ -6242,9 +6242,9 @@
   },
   {
    "no": 774,
-   "name": "MM6 SD Fl. G (Maison Maglela)",
+   "name": "เอาออก",
    "receipt_format": "Receipt no",
-   "notes": "กรอกเฉพาะ 4 ตัวท้าย (อัปเดต 25/10/2025)",
+   "notes": "",
    "category": "Spending Only",
    "extra": ""
   },
@@ -7642,7 +7642,7 @@
   },
   {
    "no": 952,
-   "name": "MM6 SD Fl. G",
+   "name": "Tanachira Home Co.,ltd - Marimekko SD Fl. G",
    "receipt_format": "Receipt no",
    "notes": "เอาเฉพาะ 4 ตัวท้าย",
    "category": "JoinONESIAMCoin",
@@ -10506,9 +10506,9 @@
   },
   {
    "no": 1382,
-   "name": "หัวบิล maison margiela paris / MM6 ICONSIAM สะสมเข้าร้าน MM6 & GANNI ICON Fl. 1",
+   "name": "maison margiela paris / MM6 ICONSIAM สะสมเข้าร้าน MM6 & GANNI ICON Fl. 1",
    "receipt_format": "Rcpt",
-   "notes": "สะสมตัวเลข 4 ตัวท้าย เช่น 0180 (by ton 1/7/26)",
+   "notes": "สะสมตัวเลข 4 ตัวท้าย เช่น 0180 (by ton 1/7/26)\nMM6 SD Fl. G สะสมตัวเลข 4 ตัวท้าย",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -10701,5 +10701,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-07 09:21"
+ "generated_at": "2026-07-07 10:22"
 }
