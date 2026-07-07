@@ -10631,6 +10631,14 @@
    "notes": "กรอกครบ เช่น 0000198",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1341,
+   "name": "United Arrows SPD Fl.",
+   "receipt_format": "TBC",
+   "notes": "",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10693,5 +10701,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-06 13:44"
+ "generated_at": "2026-07-07 09:20"
 }
