@@ -10625,7 +10625,7 @@
    "extra": ""
   },
   {
-   "no": 1340,
+   "no": 1400,
    "name": "HONO YAKINIKU SC Fl. 2",
    "receipt_format": "Invoice no.",
    "notes": "กรอกครบ เช่น 0000198",
@@ -10633,7 +10633,7 @@
    "extra": ""
   },
   {
-   "no": 1341,
+   "no": 1401,
    "name": "United Arrows SPD Fl.",
    "receipt_format": "Rcpt",
    "notes": "เช่่น S26803001-000022 กรอกครบทุกตัว",
@@ -10701,5 +10701,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-07 10:22"
+ "generated_at": "2026-07-07 10:26"
 }
