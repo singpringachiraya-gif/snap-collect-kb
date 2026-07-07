@@ -8210,7 +8210,7 @@
   },
   {
    "no": 1024,
-   "name": "ST68003422\nสาขา Siam Paragon Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
+   "name": "KIKIMATCHA POP UP SC Fl. M",
    "receipt_format": "No (เลขที่)",
    "notes": "ST68003422\nสาขา Siam Paragon",
    "category": "Spending Only",
@@ -10709,5 +10709,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-07 14:14"
+ "generated_at": "2026-07-07 14:16"
 }
