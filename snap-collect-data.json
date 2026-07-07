@@ -8098,10 +8098,10 @@
   },
   {
    "no": 1010,
-   "name": "Focus Store SD Fl. 2 (เปิด 06/08/2025)",
-   "receipt_format": "No (เลขที่)",
-   "notes": "",
-   "category": "Spending Only",
+   "name": "Focus Store ทุกสาขา (เปิด 06/08/2025)",
+   "receipt_format": "Receipt No.",
+   "notes": "กรอกครบ เช่น V14726070104 \nSiam Paragan Join Coins : Focus Store SPD Fl. 4\nSiam Center Join Coins : Focus Store SC Fl. BM1\nSiam Discovery Join Coins : Focus Store SD Fl. 2\nICONSIAM Spending only",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -10709,5 +10709,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-07 14:18"
+ "generated_at": "2026-07-07 14:54"
 }
