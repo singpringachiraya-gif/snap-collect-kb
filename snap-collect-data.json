@@ -10635,8 +10635,8 @@
   {
    "no": 1341,
    "name": "United Arrows SPD Fl.",
-   "receipt_format": "TBC",
-   "notes": "",
+   "receipt_format": "Rcpt",
+   "notes": "เช่่น S26803001-000022 กรอกครบทุกตัว",
    "category": "Spending Only",
    "extra": ""
   }
@@ -10701,5 +10701,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-07 09:20"
+ "generated_at": "2026-07-07 09:21"
 }
