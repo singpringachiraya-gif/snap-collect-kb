@@ -10058,7 +10058,7 @@
   },
   {
    "no": 1323,
-   "name": "BE;FREEK SC FL.G [บริษัท อกาโวนต์ จำกัด) POPUP 12/05/2026 - 05/07/2026",
+   "name": "BE;FREEK SC FL.G [บริษัท อกาโวนต์ จำกัด)",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "เลขที่ชั่วคราว เช่น 1778557489694",
    "category": "Spending Only",
@@ -10749,5 +10749,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-08 16:43"
+ "generated_at": "2026-07-08 18:04"
 }
