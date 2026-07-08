@@ -10655,6 +10655,38 @@
    "notes": "กรอกครบ เช่น SQ068070090",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1404,
+   "name": "ball & chain by SIAM Takashimaya",
+   "receipt_format": "ดูจาก Remark",
+   "notes": "ร้านย้ายไปสะสมภายใต้ STK",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
+  },
+  {
+   "no": 1405,
+   "name": "snow peak by SIAM Takashimaya",
+   "receipt_format": "ดูจาก Remark",
+   "notes": "ร้านย้ายไปสะสมภายใต้ STK",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
+  },
+  {
+   "no": 1406,
+   "name": "Usagi by Siam Takashimaya",
+   "receipt_format": "ดูจาก Remark",
+   "notes": "ร้านย้ายไปสะสมภายใต้ STK",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
+  },
+  {
+   "no": 1407,
+   "name": "Snidel by Siam Takashimaya",
+   "receipt_format": "ดูจาก Remark",
+   "notes": "ร้านย้ายไปสะสมภายใต้ STK",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10717,5 +10749,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-08 16:38"
+ "generated_at": "2026-07-08 16:41"
 }
