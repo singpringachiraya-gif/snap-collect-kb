@@ -10647,6 +10647,14 @@
    "notes": "บิลเขียนมือดูตราปั๊มงาน TDE 2026 / เจอใบเสร็จแล้วมาอัปเดตกันค่ะ",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1403,
+   "name": "The Klinique SPD Fl. 4",
+   "receipt_format": "เลขที่",
+   "notes": "กรอกครบ เช่น SQ068070090",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10709,5 +10717,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-08 11:49"
+ "generated_at": "2026-07-08 16:37"
 }
