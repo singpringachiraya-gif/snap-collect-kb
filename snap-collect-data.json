@@ -7795,7 +7795,7 @@
   {
    "no": 972,
    "name": "SLEEPING CLOUD POP UP SC Fl. M",
-   "receipt_format": "",
+   "receipt_format": "Doc No.",
    "notes": "",
    "category": "Spending Only",
    "extra": ""
@@ -10709,5 +10709,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-08 11:40"
+ "generated_at": "2026-07-08 11:49"
 }
