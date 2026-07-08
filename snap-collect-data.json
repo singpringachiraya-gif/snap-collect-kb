@@ -10653,7 +10653,7 @@
    "name": "The Klinique SPD Fl. 4",
    "receipt_format": "เลขที่",
    "notes": "กรอกครบ เช่น SQ068070090",
-   "category": "",
+   "category": "Spending Only",
    "extra": ""
   }
  ],
@@ -10717,5 +10717,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-08 16:37"
+ "generated_at": "2026-07-08 16:38"
 }
