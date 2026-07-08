@@ -10060,7 +10060,7 @@
    "no": 1323,
    "name": "BE;FREEK SC FL.G [บริษัท อกาโวนต์ จำกัด)",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "เลขที่ชั่วคราว เช่น 1778557489694",
+   "notes": "เลขที่ เช่น 1778557489694",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10749,5 +10749,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-08 18:04"
+ "generated_at": "2026-07-08 18:08"
 }
