@@ -5180,7 +5180,7 @@
    "no": 637,
    "name": "เอสคลาสคลินิก - Aes Class Clinic SPD FL.2 / Aes Class Clinic ICON Fl. 5  (ตระกูลชื่อเดิม PEWDEE CLINIC)",
    "receipt_format": "Receipt no",
-   "notes": "เลขที่ใบเสร็จกรอกเต็มไม่เอา เครื่องหมาย - ตัวอย่าง BSIP-67-2218 กรอกแค่  BSIP672218  (สาขา ICON TNA สะสมที่ร้านเท่านั้น - สาขา ICON ปิดถาวร )",
+   "notes": "เลขที่ใบเสร็จกรอกเต็มไม่เอา เครื่องหมาย - ตัวอย่าง BSIP-67-2218 กรอกแค่  BSIP672218  (สาขา ICON TNA สะสมที่ร้านเท่านั้น - สาขา ICON ปิดถาวร )\nExternal สามารถสะสมได้ค่ะ\nAes Class Clinic EXT_Silom null\nAes Class Clinic EXT_Siam Square null\nAes Class Clinic EXT_Esplanade null\nAes Class Clinic EXT_Future Park null\nAes Class Clinic EXT_Nakhon Pathom null\nAes Class Clinic EXT_Sriracha null\nAes Class Clinic EXT_Central Chonburi null\nAes Class Clinic EXT_HuaHin null\nAes Class Clinic EXT_HatYai null\nAes Class Clinic EXT_Central Chidlom null\nAes Class Clinic EXT_Central Ladprao null\nAes Class Clinic EXT_Central Rama 3 null\nAes Class Clinic EXT_Central Bangna null\nAes Class Clinic EXT_Central Eastville null\nAes Class Clinic EXT_Central Pinklao null\nAes Class Clinic EXT_Suvarnbhumi null",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -10749,5 +10749,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-09 17:54"
+ "generated_at": "2026-07-09 18:43"
 }
