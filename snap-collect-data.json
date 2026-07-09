@@ -9611,8 +9611,8 @@
   {
    "no": 1254,
    "name": "Chow Tai Fook SPD Fl. 1 (ร้านทอง)",
-   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
-   "notes": "",
+   "receipt_format": "เลขที่",
+   "notes": "ใบเสร็จหัวบิล บริษัท เอ็นจีจี เอ็นเตอร์ไพรส์ จำกัด ดูตรงสาขา Siam Paragon - CTF\nกรอกเลขที่ครบเช่น AB26-26070025",
    "category": "Spending Only",
    "extra": "แลกโปรศูนย์ได้/แลกโปรBankไม่ได้"
   },
@@ -10749,5 +10749,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-08 18:08"
+ "generated_at": "2026-07-09 17:54"
 }
