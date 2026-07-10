@@ -10643,8 +10643,8 @@
   {
    "no": 1402,
    "name": "TDE2026 Thailand Diecast Expo ICON Fl. 7",
-   "receipt_format": "เลขที่ / ดูจาก Remark",
-   "notes": "บิลมี 2 แบบ \n1.บิลเขียนมือดูตราปั๊มงาน TDE 2026 \n2.หัวบิล TDE2026 ใช้มุมขวาล่างหลัง #3-1027 เช่น 3-1027",
+   "receipt_format": "เลขที่",
+   "notes": "บิลเขียนมือดูตราปั๊มงาน TDE 2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10686,6 +10686,14 @@
    "receipt_format": "ดูจาก Remark",
    "notes": "Brand under STK - สะสมเข้า Siam Takashimaya  / อัพเดท 08/07/2029",
    "category": "JoinONESIAMCoin",
+   "extra": ""
+  },
+  {
+   "no": 1408,
+   "name": "หัวบิล บริษัท กรังด์ปรีซ์ อินเตอร์เนชั่นแนล จำกัด (มหาชน) สะสมเข้า TDE2026 Thailand Diecast Expo ICON Fl. 7 (สะสมเฉพาะที่มีตัวปั๊ม)",
+   "receipt_format": "เลขที่",
+   "notes": "เช่น ST69070123",
+   "category": "",
    "extra": ""
   }
  ],
@@ -10749,5 +10757,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-10 11:33"
+ "generated_at": "2026-07-10 11:46"
 }
