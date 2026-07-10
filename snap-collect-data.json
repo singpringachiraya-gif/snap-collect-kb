@@ -10643,8 +10643,8 @@
   {
    "no": 1402,
    "name": "TDE2026 Thailand Diecast Expo ICON Fl. 7",
-   "receipt_format": "เลขที่",
-   "notes": "บิลเขียนมือดูตราปั๊มงาน TDE 2026 / เจอใบเสร็จแล้วมาอัปเดตกันค่ะ",
+   "receipt_format": "เลขที่ / ดูจาก Remark",
+   "notes": "บิลมี 2 แบบ \n1.บิลเขียนมือดูตราปั๊มงาน TDE 2026 \n2.หัวบิล TDE2026 ใช้มุมขวาล่างหลัง #3-1027 เช่น 3-1027",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10749,5 +10749,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-09 18:43"
+ "generated_at": "2026-07-10 11:33"
 }
