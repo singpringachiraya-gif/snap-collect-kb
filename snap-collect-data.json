@@ -10703,6 +10703,14 @@
    "notes": "Remark : ร้านมีใบเสร็จ 2 แบบ EX. เลขใต้ Barcode >  BTW0002831 และ  EX.  ใบเสร็จรับเงิน > 43",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1410,
+   "name": "หัวบิล PINGU POP UP สะสมเข้า PINGU POP UP SC Fl. G",
+   "receipt_format": "เลขที่่ มุมขวาล่าง",
+   "notes": "เช่น 71-1298 ไม่เอา #",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10765,5 +10773,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-11 14:16"
+ "generated_at": "2026-07-11 17:39"
 }
