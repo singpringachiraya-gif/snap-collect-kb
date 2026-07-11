@@ -10697,7 +10697,7 @@
    "extra": ""
   },
   {
-   "no": null,
+   "no": 1409,
    "name": "หัวบิล 3D STUDIO บริษัท สามดี สตูดิโอ จำกัด SPD สะสมเข้า Bambu Lab SPD",
    "receipt_format": "เลขใต้ Barcode / ใบเสร็จรับเงิน",
    "notes": "Remark : ร้านมีใบเสร็จ 2 แบบ EX. เลขใต้ Barcode >  BTW0002831 และ  EX.  ใบเสร็จรับเงิน > 43",
@@ -10765,5 +10765,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-11 14:12"
+ "generated_at": "2026-07-11 14:16"
 }
