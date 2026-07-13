@@ -10500,7 +10500,7 @@
    "no": 1381,
    "name": "GANNI ICON Fl. 1",
    "receipt_format": "Rcpt",
-   "notes": "สะสมตัวเลข 4 ตัวท้าย เช่น 0535 (by ton 1/7/26)",
+   "notes": "สะสมตัวเลข 4 ตัวท้าย เช่น 0535 (by ton 1/7/26)\nสาขา Siam Discovery สะสม 4 ตัวท้ายเหมือนกัน",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -10773,5 +10773,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-13 10:21"
+ "generated_at": "2026-07-13 12:28"
 }
