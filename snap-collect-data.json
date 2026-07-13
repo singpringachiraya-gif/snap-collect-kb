@@ -9732,7 +9732,7 @@
    "no": 1276,
    "name": "truffle donut Spd Fl.G",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "มุมขวาล่าง #15-0056 กรอกครบ #15-0056 /Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store Update 12/6/2026",
+   "notes": "มุมขวาล่าง #15-0056 กรอกครบ #15-0056 /กลับมาสะสมได้ Update 12/7/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10773,5 +10773,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-11 17:39"
+ "generated_at": "2026-07-13 10:21"
 }
