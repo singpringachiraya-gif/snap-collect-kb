@@ -7650,10 +7650,10 @@
   },
   {
    "no": 953,
-   "name": "Tanachira Home Co.,ltd - Marimekko SD Fl. G",
-   "receipt_format": "Receipt no",
-   "notes": "เอาเฉพาะ 6 ตัวท้าย Ex.S26497001-000777 กรอกแค่ 000777",
-   "category": "JoinONESIAMCoin",
+   "name": "Jay B 3rd TR.EE POP UP STORE",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "รออนุมัติสร้างร้าน",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -10773,5 +10773,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-13 12:28"
+ "generated_at": "2026-07-13 12:31"
 }
