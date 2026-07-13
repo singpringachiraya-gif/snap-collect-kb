@@ -10709,7 +10709,23 @@
    "name": "หัวบิล PINGU POP UP สะสมเข้า PINGU POP UP SC Fl. G",
    "receipt_format": "เลขที่่ มุมขวาล่าง",
    "notes": "เช่น 71-1298 ไม่เอา #",
-   "category": "",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": 1411,
+   "name": "Picocici x Sanrio (POP UP STORE) SC Fl. G",
+   "receipt_format": "",
+   "notes": "เจอใบเสร็จแล้วมาอัปเดตกันค่ะ",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": 1412,
+   "name": "Chato Studio x House of Bianca (POP UP STORE) SC Fl. G",
+   "receipt_format": "",
+   "notes": "เจอใบเสร็จแล้วมาอัปเดตกันค่ะ",
+   "category": "Spending Only",
    "extra": ""
   }
  ],
@@ -10773,5 +10789,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-13 14:32"
+ "generated_at": "2026-07-13 15:07"
 }
