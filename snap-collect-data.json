@@ -43,7 +43,7 @@
   {
    "no": 6,
    "name": "AIS Future World SPD Fl. 4 / AIS SERENADE SPD Fl. 4 /  AIS SPD Fl. 4 / AIS SC Fl. 1 / AIS ICON Fl. 4",
-   "receipt_format": "No (เลขที่)",
+   "receipt_format": "",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ\nสาขาที่ 00495 Siamcenter\nสาขาที่ 00443 ICON คลองสาน เจริญนคร \nสาขาที่ 00414 Paragon\nสาขาที่ 00991 Paragon    \nถ้าหัวไม่มีสาขา - ส่วนใหญ่จะเป็นสาธารณูปโภค ให้ในรายการบิล เช่น จ่ายค่าโทรศัพท์ Reject",
    "category": "Spending Only",
    "extra": ""
@@ -10797,5 +10797,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-14 10:56"
+ "generated_at": "2026-07-14 12:27"
 }
