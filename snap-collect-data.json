@@ -10652,14 +10652,14 @@
    "no": 1403,
    "name": "The Klinique SPD Fl. 4",
    "receipt_format": "เลขที่",
-   "notes": "กรอกครบ เช่น SQ068070090",
+   "notes": "SPD กรอกครบ เช่น SQ068070090\nICON กรอกครบ เช่น IC069070114\n**ดูสาขาให้ดีก่อนกดสะสม**",
    "category": "Spending Only",
    "extra": ""
   },
   {
    "no": 1404,
    "name": "ball & chain by SIAM Takashimaya",
-   "receipt_format": "",
+   "receipt_format": "ดูจาก Remark",
    "notes": "Brand under STK - สะสมเข้า Siam Takashimaya  / อัพเดท 08/07/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
@@ -10797,5 +10797,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-14 12:27"
+ "generated_at": "2026-07-14 14:16"
 }
