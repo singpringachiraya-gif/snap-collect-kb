@@ -6034,9 +6034,9 @@
   },
   {
    "no": 746,
-   "name": "Ami (บริษัท พีพีลุกซ์ จำกัด) >> สะสมเข้า Ami SPD Fl. M(Luxury)\nAmi (Bean Coffee Roaster >> สะสมเข้า Ami Le'Cafe SPD Fl. M",
+   "name": "Ami (บริษัท พีพีลุกซ์ จำกัด) >> สะสมเข้า Ami SPD Fl. M(Luxury)\nหัวบิล Ami Paragon >> สะสมเข้า Ami Le'Cafe SPD Fl. M",
    "receipt_format": "Receipt no",
-   "notes": "ร้านของใช้/เสื้อผ้า ใช้ BNO กรอกเต็ม เช่น S2500058000010004333\nร้าน Cafe ใช้ ID เช่น ONTAO",
+   "notes": "ร้านของใช้/เสื้อผ้า ใช้ BNO กรอกเต็ม เช่น S2500058000010004333\nดูรายการสินค้า ถ้าเป็นบิลเครื่องดื่ม สะสมเข้าร้าน Cafe ใช้ เลขที่ใบเสร็จ เช่น RC690715015",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -10797,5 +10797,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-15 14:53"
+ "generated_at": "2026-07-15 17:57"
 }
