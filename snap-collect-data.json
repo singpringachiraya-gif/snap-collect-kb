@@ -10714,9 +10714,9 @@
   },
   {
    "no": 1411,
-   "name": "Picocici x Sanrio (POP UP STORE) SC Fl. G",
-   "receipt_format": "",
-   "notes": "เจอใบเสร็จแล้วมาอัปเดตกันค่ะ",
+   "name": "Focus Store Event สะสมเข้าร้านค้า Picocici x Sanrio (POP UP STORE) SC Fl. G",
+   "receipt_format": "Receipt no.",
+   "notes": "รายการ Description Picocici เช่น V99926070237",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10797,5 +10797,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-15 12:49"
+ "generated_at": "2026-07-15 13:25"
 }
