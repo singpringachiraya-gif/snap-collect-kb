@@ -9130,9 +9130,9 @@
   },
   {
    "no": 1191,
-   "name": "หัวบิล บริษัท คาเนโกะ ฮันโนะสึเกะ (ประเทศไทย) จํากัด-   Kaneko Hannosuke SPD Fl. 4",
+   "name": "บริษัท คาเนโกะ ฮันโนะสึเกะ (ประเทศไทย) จํากัด-",
    "receipt_format": "ID",
-   "notes": "",
+   "notes": "สะสมเข้าร้าน Kaneko Hannosuke SPD Fl. 4  บริษัท คาเนโกะ ฮันโนะสึเกะ (ประเทศไทย) จํากัด",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10797,5 +10797,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-14 15:49"
+ "generated_at": "2026-07-15 12:11"
 }
