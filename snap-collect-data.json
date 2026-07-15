@@ -6962,10 +6962,10 @@
   },
   {
    "no": 865,
-   "name": "Souri SPD Fl. G -  Paragon Takehome ก็สะสมได้/ Event ก็สะสมได้ / Souri ICON Fl. G",
-   "receipt_format": "No (เลขที่)",
-   "notes": "กรอกครบทุกตัวเลข เช่น 202509000260",
-   "category": "Spending Only",
+   "name": "Souri SPD Fl. G -  Paragon Takehome / Souri ICON Fl. G",
+   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
+   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -10797,5 +10797,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-15 13:25"
+ "generated_at": "2026-07-15 14:53"
 }
