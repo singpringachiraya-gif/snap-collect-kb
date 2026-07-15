@@ -8540,7 +8540,7 @@
    "no": 1113,
    "name": "TAKE TOYS POP UP SC Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "กรอบครบไม่เอาขีด /  เช่น RC0000000000000",
+   "notes": "กรอบครบเอาขีด /  เช่น RC-24-202607109",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10797,5 +10797,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-15 12:14"
+ "generated_at": "2026-07-15 12:49"
 }
