@@ -10735,6 +10735,14 @@
    "notes": "ใช้เลขน้าวันที่ กรอกครบทุกตัว เช่น 0011000001413",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1414,
+   "name": "PATRON MARGARITA YOU WAY POP-UP",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "สะสมเลือกตึก Siam Paragon PATRON Pop Up ใช้เลขมุมล่างขวา เช่น 1-0158",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10797,5 +10805,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-15 17:57"
+ "generated_at": "2026-07-16 15:38"
 }
