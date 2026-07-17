@@ -10743,6 +10743,14 @@
    "notes": "สะสมเลขด้านบนวันที่ เช่น RC-52-202607007\nใบกำกับภาษี สะสมใช้เลขที่ IV-202607012",
    "category": "",
    "extra": ""
+  },
+  {
+   "no": 1415,
+   "name": "Kiwamiya SPD Fl. 4",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10805,5 +10813,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-17 10:56"
+ "generated_at": "2026-07-17 11:16"
 }
