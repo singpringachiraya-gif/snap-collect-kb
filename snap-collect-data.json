@@ -10751,6 +10751,14 @@
    "notes": "",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1416,
+   "name": "Khao บริษัท ข้าวกรุ๊ป จำกัด ไอคอนสยาม",
+   "receipt_format": "Receipt no.",
+   "notes": "สะสมเข้าร้านค้า Khao Jaan Prod ICON Fl. 2 เช่น 1RC072569/000016",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10813,5 +10821,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-17 13:26"
+ "generated_at": "2026-07-17 17:58"
 }
