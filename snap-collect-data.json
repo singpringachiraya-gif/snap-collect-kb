@@ -8628,7 +8628,7 @@
    "no": 1124,
    "name": "SOT SPD Fl. 4",
    "receipt_format": "Receipt no",
-   "notes": "กรอบครบเอาขีด ex.20251014-10004\nยอดการสะสม ดูจาก Authorized Amount \nใช้ Siam Coupon 100 หักออก ดูยอด Remaining Balance",
+   "notes": "กรอบครบเอาขีด ex.20251014-10004\nยอดการสะสม ดูจาก Authorized Amount \nใช้ Siam Coupon 100 หักออก ดูยอด Remaining Balance\nชื่อบริษัทใบกำกับภาษี บริษัท ดา ซิลลิกี้ จำกัด (DA SEUL KI CO., LTD.) เลขทะเบียนนิติบุคคล: 0105545118186",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10813,5 +10813,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-17 11:30"
+ "generated_at": "2026-07-17 13:26"
 }
