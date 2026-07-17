@@ -10722,14 +10722,6 @@
   },
   {
    "no": 1412,
-   "name": "Chato Studio x House of Bianca (POP UP STORE) SC Fl. G",
-   "receipt_format": "",
-   "notes": "เจอใบเสร็จแล้วมาอัปเดตกันค่ะ",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 1413,
    "name": "หัวบิล โคแอน จำกัด / Oura Ring SPD Fl. 3",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "ใช้เลขน้าวันที่ กรอกครบทุกตัว เช่น 0011000001413",
@@ -10737,11 +10729,19 @@
    "extra": ""
   },
   {
-   "no": 1414,
+   "no": 1413,
    "name": "PATRON MARGARITA YOU WAY POP-UP",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "สะสมเลือกตึก Siam Paragon PATRON Pop Up ใช้เลขมุมล่างขวา เช่น 1-0158",
    "category": "Popup&Event",
+   "extra": ""
+  },
+  {
+   "no": 1414,
+   "name": "หัวบิล บริษัท ชาโต คอลเลคทีฟ จำกัด สะสมเข้า Chato Studio x House of Bianca (POP UP STORE) SC Fl. G",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "สะสมเลขด้านบนวันที่ เช่น RC-52-202607007",
+   "category": "",
    "extra": ""
   }
  ],
@@ -10805,5 +10805,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-16 18:39"
+ "generated_at": "2026-07-17 10:40"
 }
