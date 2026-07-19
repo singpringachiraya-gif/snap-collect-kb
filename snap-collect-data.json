@@ -10759,6 +10759,14 @@
    "notes": "สะสมเข้าร้านค้า Khao Jaan Prod ICON Fl. 2 เช่น 1RC072569/000016",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1417,
+   "name": "หัวบิล Digital media Marketing Co., Ltd Siam Gift Card SPD",
+   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
+   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10821,5 +10829,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-17 17:58"
+ "generated_at": "2026-07-19 11:00"
 }
