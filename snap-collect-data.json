@@ -10780,7 +10780,7 @@
    "no": 1419,
    "name": "Dolce & Gabbana (Luxury) ดูสาขาตรงหมายเหตุ",
    "receipt_format": "Nr.",
-   "notes": "Siam Paragon: \nIconsiam:\nรออัปเดตจากพี่จิม ระหว่างนี้ กรอกเต็มไปก่อนค่ะ",
+   "notes": "Siam Paragon: กรอกเต็มรวมอักขระ . เช่น 2026.00000571\nIconsiam:\nรออัปเดตจากพี่จิม ระหว่างนี้ กรอกเต็มไปก่อนค่ะ",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -10853,5 +10853,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-21 18:04"
+ "generated_at": "2026-07-21 18:14"
 }
