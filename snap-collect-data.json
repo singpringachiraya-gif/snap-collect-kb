@@ -10778,9 +10778,9 @@
   },
   {
    "no": 1419,
-   "name": "Dolce & Gabbana SPD Fl. 1",
-   "receipt_format": "",
-   "notes": "",
+   "name": "Dolce & Gabbana (Luxury) ดูสาขาตรงหมายเหตุ",
+   "receipt_format": "Nr.",
+   "notes": "Siam Paragon:\nIconsiam:",
    "category": "",
    "extra": ""
   }
@@ -10845,5 +10845,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-21 17:10"
+ "generated_at": "2026-07-21 17:15"
 }
