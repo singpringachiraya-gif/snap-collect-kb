@@ -9740,7 +9740,7 @@
    "no": 1277,
    "name": "Grazia Gelato SPD Fl. G",
    "receipt_format": "No (เลขที่)",
-   "notes": "2905",
+   "notes": "เช่น 00000023081",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10837,5 +10837,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-21 13:03"
+ "generated_at": "2026-07-21 13:28"
 }
