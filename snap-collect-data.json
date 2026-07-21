@@ -10747,8 +10747,8 @@
   {
    "no": 1415,
    "name": "Kiwamiya SPD Fl. 4",
-   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
-   "notes": "",
+   "receipt_format": "เลขที่",
+   "notes": "กรอกครบทุกตัว เช่น RCKWM003260721010",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10837,5 +10837,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-21 13:28"
+ "generated_at": "2026-07-21 13:40"
 }
