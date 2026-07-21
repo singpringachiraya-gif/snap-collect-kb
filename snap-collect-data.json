@@ -10500,7 +10500,7 @@
    "no": 1381,
    "name": "GANNI ดูสาขาตรงหมายเหตุ",
    "receipt_format": "Rcpt",
-   "notes": "สะสมตัวเลข 4 ตัวท้าย เช่น 0535 (by ton 1/7/26)\nสาขา Siam Discovery สะสม 4 ตัวท้ายเหมือนกัน",
+   "notes": "ICONSIAM สะสมตัวเลข 4 ตัวท้าย เช่น 0535 (by ton 1/7/26)\nสาขา Siam Discovery สะสม 4 ตัวท้ายเหมือนกัน",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -10508,7 +10508,7 @@
    "no": 1382,
    "name": "maison margiela paris / MM6 ICONSIAM สะสมเข้าร้าน MM6 & GANNI ICON Fl. 1 ดูสาขาตรงหมายเหตุ",
    "receipt_format": "Rcpt",
-   "notes": "สะสมตัวเลข 4 ตัวท้าย เช่น 0180 (by ton 1/7/26)\nMM6 SD Fl. G สะสมตัวเลข 4 ตัวท้าย",
+   "notes": "ICONSIAM สะสมตัวเลข 4 ตัวท้าย เช่น 0180 (by ton 1/7/26)\nMM6 SD Fl. G สะสมตัวเลข 4 ตัวท้าย",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -10837,5 +10837,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-21 16:15"
+ "generated_at": "2026-07-21 16:22"
 }
