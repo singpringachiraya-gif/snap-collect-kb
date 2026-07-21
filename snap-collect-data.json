@@ -7653,7 +7653,7 @@
    "name": "Jay B 3rd TR.EE POP UP STORE",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "มุมขวาล่าง หลัง # เช่น 10-0040\n13 ก.ค. 2569 - 19 ก.ค. 2569",
-   "category": "Spending Only",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -10837,5 +10837,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-21 16:22"
+ "generated_at": "2026-07-21 16:39"
 }
