@@ -2340,8 +2340,8 @@
    "no": 295,
    "name": "Chopard Boutique SPD Fl. M",
    "receipt_format": "Document No",
-   "notes": "Ex.INV2026010002 กรอกครบทุกตัว\nอัพเดท 28/01/2026",
-   "category": "JoinONESIAMCoin",
+   "notes": "Ex.INV2026010002 กรอกครบทุกตัว / Spending Only\nอัพเดท 21/7/2026 Shop cancelled",
+   "category": "Spending Only",
    "extra": "Luxury"
   },
   {
@@ -10837,5 +10837,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-21 14:11"
+ "generated_at": "2026-07-21 14:59"
 }
