@@ -10775,6 +10775,14 @@
    "notes": "Remark : ร้านมีใบเสร็จ 2 แบบ EX. Invoice Number >  11XXX และ  EX.  RECEIPT NO. >  SPG8526",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1419,
+   "name": "Dolce & Gabbana SPD Fl. 1",
+   "receipt_format": "",
+   "notes": "",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10837,5 +10845,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-21 16:39"
+ "generated_at": "2026-07-21 17:10"
 }
