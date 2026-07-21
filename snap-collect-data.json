@@ -636,8 +636,8 @@
    "no": 80,
    "name": "Konvy SC Fl. M",
    "receipt_format": "Order number",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ เช่น 70214855\nอัพเดท 26/11/2025 จาก Doc no มาเป็น Order No",
-   "category": "Spending Only",
+   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ เช่น 70214855\nอัพเดท 26/11/2025 จาก Doc no มาเป็น Order No / Join Coins 20/7/2026",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -10837,5 +10837,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-20 12:50"
+ "generated_at": "2026-07-21 10:16"
 }
