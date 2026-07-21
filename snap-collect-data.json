@@ -9125,7 +9125,7 @@
    "name": "Kampang SPD Fl. 4 (คำแพง)",
    "receipt_format": "ID",
    "notes": "",
-   "category": "Spending Only",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -10837,5 +10837,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-21 10:16"
+ "generated_at": "2026-07-21 12:47"
 }
