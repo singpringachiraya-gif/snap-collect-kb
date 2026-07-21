@@ -9124,7 +9124,7 @@
    "no": 1190,
    "name": "Kampang SPD Fl. 4 (คำแพง)",
    "receipt_format": "ID",
-   "notes": "",
+   "notes": "Update Join Coin 6-Jul-26",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -10837,5 +10837,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-21 12:47"
+ "generated_at": "2026-07-21 13:03"
 }
