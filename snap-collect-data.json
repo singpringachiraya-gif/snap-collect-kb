@@ -1549,7 +1549,7 @@
    "name": "Pro Clean SCP Fl. BM / จะมีหัวบิลบอกสาขา",
    "receipt_format": "เลขที่ใบงาน",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
-   "category": "Spending Only",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -10853,5 +10853,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-21 17:48"
+ "generated_at": "2026-07-21 18:04"
 }
