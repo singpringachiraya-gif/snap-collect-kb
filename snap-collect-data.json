@@ -10799,6 +10799,14 @@
    "notes": "เช่น 1-3767 ไม่เอา #",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1422,
+   "name": "Detective Conan 30th Anniversary Exhibition Iconsiam 22 Jul - 8 Nov.",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "อยู่ระหว่างรออนุมัติสร้างร้าน / หากเจอตอนนี้ Reject : ร้านค้าไม่เข้าร่วมสะสม Pop up ไปก่อน",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10861,5 +10869,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-22 14:45"
+ "generated_at": "2026-07-22 16:56"
 }
