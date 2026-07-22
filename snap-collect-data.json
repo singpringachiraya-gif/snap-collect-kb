@@ -771,8 +771,8 @@
   {
    "no": 97,
    "name": "Massimo Dutti SPD Fl. 1 / Massimo Dutti ICON Fl. 1",
-   "receipt_format": "Transaction No (Trans)",
-   "notes": "กรอกเต็ม เช่น 27 หรือ 166 แล้วแต่หลักในบิล\nบิลระบุ Ecommerce Ducumet (IPOD) สะสมได้ ใช้เลข Trans ตามปกติ        \n** (อัพเดท 01/10/2025 >> เรื่องใบเสร็จ E-Commerc สะสมได้)",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "Iconsiam : ตำแหน่งสะสม : เลขใต้ วัน/เดือน/ปี - เวลา เลข 13 หลัก เช่น 1693900001701\nSiam Paragon : ตำแหน่งสะสม : เลข Trans\nบิลระบุ Ecommerce Ducumet (IPOD) สะสมได้        \n** (อัพเดท 01/10/2025 >> เรื่องใบเสร็จ E-Commerc สะสมได้) Format by Ton 22/7/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -10869,5 +10869,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-22 16:56"
+ "generated_at": "2026-07-22 17:34"
 }
