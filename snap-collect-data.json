@@ -10807,6 +10807,14 @@
    "notes": "อยู่ระหว่างรออนุมัติสร้างร้าน / หากเจอตอนนี้ Reject : ร้านค้าไม่เข้าร่วมสะสม Pop up ไปก่อน",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1423,
+   "name": "On Roll Nori SPD Fl. 4",
+   "receipt_format": "",
+   "notes": "",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10869,5 +10877,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-22 17:34"
+ "generated_at": "2026-07-22 18:56"
 }
