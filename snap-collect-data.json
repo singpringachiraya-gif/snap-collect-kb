@@ -1162,7 +1162,7 @@
   },
   {
    "no": 146,
-   "name": "True Coffee SPD Fl. 3",
+   "name": "True Coffee SPD Fl. 3 / TRUE SPD Fl. 3",
    "receipt_format": "No (เลขที่)",
    "notes": "เช่น 0114628 กรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
@@ -8298,7 +8298,7 @@
   },
   {
    "no": 1035,
-   "name": "หัวบิล The Platters Mahanakorn co.ltd  - Bura Marie SPD Fl. G /  (เปิด 28/08/2025)",
+   "name": "Bura Marie SPD Fl. G /  (เปิด 28/08/2025) หัวบิล The Platters Mahanakorn co.ltd  -",
    "receipt_format": "Tax invoice (ABB)",
    "notes": "เช่น RC6808000087",
    "category": "Spending Only",
@@ -10853,5 +10853,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-22 11:12"
+ "generated_at": "2026-07-22 13:08"
 }
