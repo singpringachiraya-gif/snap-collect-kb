@@ -1547,8 +1547,8 @@
   {
    "no": 194,
    "name": "Pro Clean SCP Fl. BM / จะมีหัวบิลบอกสาขา",
-   "receipt_format": "เลขที่ใบงาน",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
+   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
+   "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น\nอัพเดท 22/07/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -10797,7 +10797,7 @@
    "name": "Flower Decor SPD Fl. B",
    "receipt_format": "เลขที่่ มุมขวาล่าง",
    "notes": "เช่น 1-3767 ไม่เอา #",
-   "category": "",
+   "category": "Spending Only",
    "extra": ""
   }
  ],
@@ -10861,5 +10861,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-22 14:21"
+ "generated_at": "2026-07-22 14:45"
 }
