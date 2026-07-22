@@ -10791,6 +10791,14 @@
    "notes": "เช่น 9HHOI",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1421,
+   "name": "Flower Decor SPD Fl. B",
+   "receipt_format": "เลขที่่ มุมขวาล่าง",
+   "notes": "เช่น 1-3767 ไม่เอา #",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10853,5 +10861,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-22 13:08"
+ "generated_at": "2026-07-22 14:21"
 }
