@@ -10804,14 +10804,14 @@
    "no": 1422,
    "name": "Detective Conan 30th Anniversary Exhibition Iconsiam 22 Jul - 8 Nov.",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "อยู่ระหว่างรออนุมัติสร้างร้าน / หากเจอตอนนี้ Reject : ร้านค้าไม่เข้าร่วมสะสม Pop up ไปก่อน",
+   "notes": "กรอกเลขหลัง R# เช่น 2600000055",
    "category": "Popup&Event",
    "extra": ""
   },
   {
    "no": 1423,
    "name": "On Roll Nori SPD Fl. 4",
-   "receipt_format": "",
+   "receipt_format": "ID",
    "notes": "",
    "category": "Spending Only",
    "extra": ""
@@ -10877,5 +10877,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-22 18:56"
+ "generated_at": "2026-07-23 10:42"
 }
