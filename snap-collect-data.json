@@ -8940,8 +8940,8 @@
    "no": 1165,
    "name": "Ecotopia SPD Fl. 5  - Zone Nextopia",
    "receipt_format": "Pos-Reciept (PRH)",
-   "notes": "",
-   "category": "Spending Only",
+   "notes": "ex.2425102-1539816",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -10885,5 +10885,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-23 16:25"
+ "generated_at": "2026-07-26 09:41"
 }
