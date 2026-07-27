@@ -10821,7 +10821,15 @@
    "name": "Sood’s ICS Fl. G",
    "receipt_format": "เลขที่ใบเสร็จ",
    "notes": "กรอกครบทุกตัว เช่น 2026000000000430",
-   "category": "",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": 1425,
+   "name": "LLOUD BEACH CLUB POP-UP IN BANGKOK (POP UP STORE) SD Fl. 3",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "Siam Discovery",
+   "category": "Spending Only",
    "extra": ""
   }
  ],
@@ -10885,5 +10893,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-26 09:41"
+ "generated_at": "2026-07-27 21:35"
 }
