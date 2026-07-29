@@ -10847,6 +10847,14 @@
    "notes": "รออนุมัติสร้างร้านค้า",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1428,
+   "name": "SOSO COFFEE ICON Fl. 5",
+   "receipt_format": "ID",
+   "notes": "เช่น CB91X",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10909,5 +10917,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-29 12:33"
+ "generated_at": "2026-07-29 15:08"
 }
