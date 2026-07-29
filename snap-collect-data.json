@@ -10831,6 +10831,14 @@
    "notes": "เช่น 63 ไม่เอา # \nRemark : Siam Discovery 28 Jul - 3 Aug 2026",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1426,
+   "name": "RIIZE POP-UP [ARCHIIVE] in BANKOK - Siam Paragon 29 jul -9 aug",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "กรอกครบหลัง #\nรอร้านขึ้นบนระบบ",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10893,5 +10901,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-28 13:18"
+ "generated_at": "2026-07-29 11:22"
 }
