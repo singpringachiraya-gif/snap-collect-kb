@@ -5460,8 +5460,8 @@
    "no": 673,
    "name": "Kiss Me Doll SC Fl. M",
    "receipt_format": "Receipt no",
-   "notes": "กรอกวันที่กับ 2 ตัวท้ายติดกัน เช่น เลขเต็ม O029623111700017 กรอกแค่ 23111717",
-   "category": "JoinONESIAMCoin",
+   "notes": "กรอกวันที่กับ 2 ตัวท้ายติดกัน เช่น เลขเต็ม O029623111700017 กรอกแค่ 23111717\nShop closed 29 Jul 26",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -6020,8 +6020,8 @@
    "no": 744,
    "name": "Hikari SPD Fl. 3",
    "receipt_format": "INVOICE NO (Inv#)",
-   "notes": "กรอกเต็ม เช่นPS001011507",
-   "category": "JoinONESIAMCoin",
+   "notes": "กรอกเต็ม เช่นPS001011507\nShop Closed 29 Jul 26",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -10909,5 +10909,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-29 11:34"
+ "generated_at": "2026-07-29 12:33"
 }
