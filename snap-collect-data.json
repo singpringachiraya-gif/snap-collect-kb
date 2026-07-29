@@ -10839,6 +10839,14 @@
    "notes": "กรอกครบหลัง #\nรอร้านขึ้นบนระบบ",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1427,
+   "name": "AOO Hello Thailand POP UP  - 5 Aug - 16 Aug 2026",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "รออนุมัติสร้างร้านค้า",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10901,5 +10909,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-29 11:22"
+ "generated_at": "2026-07-29 11:27"
 }
