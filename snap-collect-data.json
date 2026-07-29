@@ -2868,7 +2868,7 @@
    "no": 362,
    "name": "Ake Ake SC Fl. 1",
    "receipt_format": "Receipt no",
-   "notes": "กรอกครบทุกตัวบนใบเสร็จ  เช่น pg660483221",
+   "notes": "กรอกครบทุกตัวบนใบเสร็จ  เช่น PG660483221",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -10909,5 +10909,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-29 11:27"
+ "generated_at": "2026-07-29 11:34"
 }
