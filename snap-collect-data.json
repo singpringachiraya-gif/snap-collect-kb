@@ -10836,7 +10836,7 @@
    "no": 1426,
    "name": "RIIZE POP-UP [ARCHIIVE] in BANKOK - Siam Paragon 29 jul -9 aug",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "กรอกครบหลัง #\nรอร้านขึ้นบนระบบ",
+   "notes": "เลขมุมขวาล่าง ไม่เอา # เช่น 3-0023",
    "category": "Popup&Event",
    "extra": ""
   },
@@ -10917,5 +10917,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-29 15:08"
+ "generated_at": "2026-07-29 19:04"
 }
