@@ -8930,7 +8930,7 @@
   },
   {
    "no": 1164,
-   "name": "Gong cha SPD Fl. 5 / Zone Nextopia",
+   "name": "Gong cha SPD Fl. 5 / Zone Nextopia / Gong cha SC Fl. MF /Gong cha ICON Fl. G",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "หัวบิล Gong Cha ใช้ Payment Bill No เช่น 016 กรอกครบทุกตัว\nบริษัท เพอร์เฟค สเคป จำกัด  สาขาที่ออก GC-PRG(00002) - \nระบบ มันชอบจับวันที่มาผิดดูดีๆ !!!",
    "category": "Spending Only",
@@ -10917,5 +10917,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-30 10:37"
+ "generated_at": "2026-07-30 12:37"
 }
