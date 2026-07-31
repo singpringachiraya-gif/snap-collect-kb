@@ -10871,6 +10871,14 @@
    "notes": "",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1431,
+   "name": "SUPERSUN (POP UP STORE) SC Fl. G",
+   "receipt_format": "เลขที่ใบเสร็จ",
+   "notes": "กรอกครบทุกตัว เช่น 2026000000000156",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10933,5 +10941,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-31 15:04"
+ "generated_at": "2026-07-31 16:38"
 }
