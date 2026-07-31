@@ -10855,6 +10855,22 @@
    "notes": "เช่น CB91X",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1429,
+   "name": "MIMI POP UP - Siam Center วันที่ 1-31 สิงหาคม 2569",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "",
+   "category": "Popup&Event",
+   "extra": ""
+  },
+  {
+   "no": 1430,
+   "name": "SEOUIR POP UP - Siam Center วันที่ 1-31 สิงหาคม 2569",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10917,5 +10933,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-30 13:27"
+ "generated_at": "2026-07-31 15:04"
 }
