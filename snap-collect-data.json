@@ -10879,6 +10879,14 @@
    "notes": "กรอกครบทุกตัว เช่น 2026000000000156",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1432,
+   "name": "More Yogurt SPD Fl. 5",
+   "receipt_format": "หมายเลขรับสินค้า",
+   "notes": "",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10941,5 +10949,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-31 16:38"
+ "generated_at": "2026-07-31 18:07"
 }
