@@ -7746,7 +7746,7 @@
   },
   {
    "no": 966,
-   "name": "บริษัท ปั้นข้าว ปั้นรัก จำกัด สาขา 00006 - Shichi Japanese Restaurant ICON Fl. 4",
+   "name": "Shichi Japanese Restaurant ICON Fl. 4 - บริษัท ปั้นข้าว ปั้นรัก จำกัด สาขา 00006",
    "receipt_format": "Receipt no",
    "notes": "RC007062568/000875 กรอกแค่ 6 ตัวท้าย \nดูร้านดีๆ!!! ตรวจสอบก่อนจะสะสมว่าถูกไหม\n** เริ่ม 28/08/2025    หัวบิล  บริษัท ปั้นข้าวปั้นรัก          \n- ใบกำกับภาษี (ใบใหญ่) ยอดที่จะเอามากรอกสะสม ดูจาก \"จำนวนชำระเงิน\"                                                       \n- จ่ายด้วย One Siam Food Deal (Ar-Coin ONESIAM) : Reject ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp)",
    "category": "JoinONESIAMCoin",
@@ -10949,5 +10949,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-31 18:07"
+ "generated_at": "2026-07-31 18:46"
 }
