@@ -6122,10 +6122,10 @@
   },
   {
    "no": 757,
-   "name": "Jerome SPD Fl. G",
-   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
-   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
-   "category": "Popup&Event",
+   "name": "Jerome cheesecake SPD Fl. G",
+   "receipt_format": "เลขที่",
+   "notes": "ตึก Siam Paragon เสริชหน้า SE ให้พิมพ์คำว่า cheesecake กรอกครบขวาล่าง เช่น ST69006205",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -10949,5 +10949,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-03 13:30"
+ "generated_at": "2026-08-03 14:35"
 }
