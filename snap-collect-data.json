@@ -7476,7 +7476,7 @@
    "no": 930,
    "name": "DEAR TUMMY FOOD MARKET ICON Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "",
+   "notes": "ใบเสร็จร้านอาหารชั้น G Icon หากเสิร์ชแล้วเจออยู่บริเวณ Dear tummy สะสมเข้าร้านไม่ Join Coin นี้ได้ค่ะ เช่น\n1.Didi's ICON",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10949,5 +10949,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-03 12:30"
+ "generated_at": "2026-08-03 13:21"
 }
