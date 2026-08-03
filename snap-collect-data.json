@@ -8523,8 +8523,8 @@
   {
    "no": 1111,
    "name": "บริษัท คินโนะ จํากัด / DOMO Yakiniku SPD Fl. 4 (JoinCoin)",
-   "receipt_format": "บิลเลขที่ (Bill Ref No.)",
-   "notes": "Ex.602030021 \nเปลี่ยนใบเสร็จ อัพเดท 04/02/2026 (Food Deal : Food Deal  )",
+   "receipt_format": "No.",
+   "notes": "Ex.กรอกครบเฉพาะตัวเลข 00000562\nเปลี่ยนใบเสร็จ อัพเดท 03/08/2026 (Food Deal : Food Deal  )",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -10949,5 +10949,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-07-31 18:46"
+ "generated_at": "2026-08-03 12:30"
 }
