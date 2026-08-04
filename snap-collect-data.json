@@ -10212,7 +10212,7 @@
    "no": 1344,
    "name": "Yonny ICS Fl. G",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "หมายเลขซีเรียลคำสั่งซื้อ",
+   "notes": "เลขที่ใบกำกับภาษีอย่างย่อ เช่น 20260804122840107015510006",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10949,5 +10949,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-04 13:19"
+ "generated_at": "2026-08-04 13:34"
 }
