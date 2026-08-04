@@ -5555,8 +5555,8 @@
   {
    "no": 685,
    "name": "TAWANG SD Fl. 3",
-   "receipt_format": "ID",
-   "notes": "ตัวอักษร 5 ตัว\nGrab Dine Out สะสมได้  \nอัพเดท 02/03/2026",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "ใช้เลขมุมขวาล่างหลัง # เช่น 3-2254\nGrab Dine Out สะสมได้  \nอัพเดท 02/03/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10949,5 +10949,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-04 13:34"
+ "generated_at": "2026-08-04 13:44"
 }
