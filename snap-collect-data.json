@@ -10844,7 +10844,7 @@
    "no": 1427,
    "name": "AOO Hello Thailand POP UP  - 5 Aug - 16 Aug 2026",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "เลขมุมขวาล่าง  เช่น 2-1001 ไม่เอา #",
+   "notes": "เลขมุมขวาล่าง ไม่เอา # เช่น 2-1062",
    "category": "Popup&Event",
    "extra": ""
   },
@@ -10866,9 +10866,9 @@
   },
   {
    "no": 1430,
-   "name": "SEOUIR POP UP - Siam Center วันที่ 1-31 สิงหาคม 2569",
-   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
-   "notes": "",
+   "name": "SEOULR POP UP - Siam Center วันที่ 1-31 สิงหาคม 2569",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "เลขมุมขวาล่าง ไม่เอา # เช่น 75-0224",
    "category": "Popup&Event",
    "extra": ""
   },
@@ -10949,5 +10949,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-05 17:42"
+ "generated_at": "2026-08-05 17:46"
 }
