@@ -10844,7 +10844,7 @@
    "no": 1427,
    "name": "AOO Hello Thailand POP UP  - 5 Aug - 16 Aug 2026",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "เช่น 2-1001 ไม่เอา #",
+   "notes": "เลขมุมขวาล่าง  เช่น 2-1001 ไม่เอา #",
    "category": "Popup&Event",
    "extra": ""
   },
@@ -10949,5 +10949,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-05 17:40"
+ "generated_at": "2026-08-05 17:42"
 }
