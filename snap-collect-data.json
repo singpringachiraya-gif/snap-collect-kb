@@ -10885,7 +10885,15 @@
    "name": "More Yogurt SPD Fl. 5",
    "receipt_format": "หมายเลขรับสินค้า",
    "notes": "",
-   "category": "",
+   "category": "Popup&Event",
+   "extra": ""
+  },
+  {
+   "no": 1433,
+   "name": "Hasul City Escape BBQ SPD Fl. 4 / SIAM PARAGON",
+   "receipt_format": "ID",
+   "notes": "เช่น GVNUV",
+   "category": "Spending Only",
    "extra": ""
   }
  ],
@@ -10949,5 +10957,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-05 17:46"
+ "generated_at": "2026-08-06 13:50"
 }
