@@ -10895,6 +10895,14 @@
    "notes": "เช่น GVNUV",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1434,
+   "name": "Galeries Lafayette EXT_Paris null",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "เลือก External Building , เลือก Galeries Lafayette EXT_Paris null\n - ดูยอดสุดท้ายตรง Moutant total\n - ใส่ตัวเลขยอดตามนั้น (ไม่ต้องสนใจ สกุลเงิน) \n - กดติ๊กถูกไม่ส่งการแจ้งเตือนให้ลูกค้า -> เน้นย้ำ เพราะเราไม่นับยอด spending ให้ลูกค้า จึงจำเป็นต้อง Tick ทุกครั้ง",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10957,5 +10965,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-06 13:50"
+ "generated_at": "2026-08-06 15:18"
 }
