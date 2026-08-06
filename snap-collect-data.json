@@ -10911,6 +10911,14 @@
    "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1436,
+   "name": "Shop FF Siam Premium Outlets สะสมเข้าร้าน Fitflop SPO Fl. G",
+   "receipt_format": "INV NO.",
+   "notes": "บริษัท เซ็นทรัลเทรดดิ้ง จำกัด\nเลขประจำตัวผู้เสียภาษี: 0105500001158",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10973,5 +10981,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-06 15:38"
+ "generated_at": "2026-08-06 17:01"
 }
