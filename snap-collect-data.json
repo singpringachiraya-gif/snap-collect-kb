@@ -1322,10 +1322,10 @@
   },
   {
    "no": 166,
-   "name": "Valichain SC Fl. M",
+   "name": "Valichain SC Fl. M / Join Coin 10 Aug 2026",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
-   "category": "Spending Only",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -10997,5 +10997,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-07 15:18"
+ "generated_at": "2026-08-07 19:03"
 }
