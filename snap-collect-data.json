@@ -5276,7 +5276,7 @@
    "no": 649,
    "name": "หัวบิล บีเอ็นจี คอร์ปอเรชั่น [วิธีดูสาขาดูจาก Remark]",
    "receipt_format": "No (เลขที่)",
-   "notes": "ACE. / The Travel Store SD Fl. 1  >>  RegID ลงท้าย AB172\nShop Victorinox (สาขาที่ 00005-SD) >>   RegID  ลงท้าย A5824\nThe Travel store (SPO) >>  RegID ลงท้าย A0331 \nPolo world SPO Fl. G >>   RegID ลงท้าย A0370 \nTravel Store ICON Fl. 5  >> RegID ลงท้าย A0359 [JoinCoin] เริ่ม 19-May-2026\nOwala SPD Fl. 5 >> RegID ลงท้าย A1204\nTIMBUK2 SD Fl. 1 >> RegID ลงท้าย A0472\nOwala Siam Discovery >> RegID ลงท้าย A0472 (ดูรหัสสินค้า OWL)\n\nอัพเดท 16-June-2026",
+   "notes": "ACE. / The Travel Store SD Fl. 1  >>  RegID ลงท้าย AB172\nShop Victorinox (สาขาที่ 00005-SD) >>   RegID  ลงท้าย A5824\nThe Travel store (SPO) >>  RegID ลงท้าย A0331 \nPolo world SPO Fl. G >>   RegID ลงท้าย A0370 \nTravel Store ICON Fl. 5  >> RegID ลงท้าย A0359 [JoinCoin] เริ่ม 19-May-2026\nOwala SPD Fl. 5 >> RegID ลงท้าย A1204\nTIMBUK2 SD Fl. 1 >> RegID ลงท้าย A0472\nOwala Siam Discovery >> RegID ลงท้าย A0472 (ดูรหัสสินค้า OWL)\nOwala & Moleskine ICON Fl. 5 >> RegID ลงท้าย A0372\n\nอัพเดท 16-June-2026",
    "category": "Spending Only",
    "extra": "อัพเดท 23/07/2025"
   },
@@ -10989,5 +10989,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-07 11:07"
+ "generated_at": "2026-08-07 11:23"
 }
