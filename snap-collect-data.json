@@ -2283,7 +2283,7 @@
   {
    "no": 288,
    "name": "Prada SPD Fl. M / Prada Men SPD Fl. 1/ Prada ICON Fl. M",
-   "receipt_format": "Transaction No (Trans)",
+   "receipt_format": "INVOICE NO (Inv#)",
    "notes": "Ex.5900194052  ถ้าเลขใบเสร็จ ขึ้นต้น XM สะเข้า Prada Siam paragon \nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
    "extra": "Luxury"
@@ -10997,5 +10997,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-07 19:03"
+ "generated_at": "2026-08-10 12:09"
 }
