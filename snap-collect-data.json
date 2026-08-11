@@ -10898,9 +10898,9 @@
   },
   {
    "no": 1434,
-   "name": "Galeries Lafayette EXT_Paris null",
+   "name": "Galeries Lafayette EXT_Paris null /6 Aug-31 Dec 2026",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "เลือก External Building , เลือก Galeries Lafayette EXT_Paris null\n - ดูยอดสุดท้ายตรง Moutant total\n - ใส่ตัวเลขยอดตามนั้น (ไม่ต้องสนใจ สกุลเงิน) \n - กดติ๊กถูกไม่ส่งการแจ้งเตือนให้ลูกค้า -> เน้นย้ำ เพราะเราไม่นับยอด spending ให้ลูกค้า จึงจำเป็นต้อง Tick ทุกครั้ง",
+   "notes": "เลือก External Building , เลือก Galeries Lafayette EXT_Paris null\n - ดูยอดสุดท้ายตรง Moutant total\n - ใส่ตัวเลขยอดตามนั้น (ไม่ต้องสนใจ สกุลเงิน) \n - กดติ๊กถูกไม่ส่งการแจ้งเตือนให้ลูกค้า -> เน้นย้ำ เพราะเราไม่นับยอด spending ให้ลูกค้า จึงจำเป็นต้อง Tick ทุกครั้ง\nอนุโลมให้ สะสมย้อนหลังได้ 3 วันนับจากวันที่บนใบเสร็จ",
    "category": "Popup&Event",
    "extra": ""
   },
@@ -10997,5 +10997,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-10 12:09"
+ "generated_at": "2026-08-11 11:16"
 }
