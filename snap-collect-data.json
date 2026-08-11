@@ -7939,8 +7939,8 @@
   {
    "no": 990,
    "name": "KG & Salon Inter SPD Fl. 2 (open 15 july)",
-   "receipt_format": "",
-   "notes": "",
+   "receipt_format": "เลขที่",
+   "notes": "เช่น 57178",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -10997,5 +10997,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-11 11:16"
+ "generated_at": "2026-08-11 11:34"
 }
