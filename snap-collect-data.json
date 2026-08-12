@@ -220,7 +220,7 @@
    "no": 28,
    "name": "Boost Juice SPD Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
+   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ / ใบเสร็จจากตู้ kiosk สะสมใช้เลข 4 หลักหัวบิล",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10997,5 +10997,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-11 11:34"
+ "generated_at": "2026-08-12 17:41"
 }
