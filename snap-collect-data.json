@@ -10524,7 +10524,7 @@
    "no": 1384,
    "name": "Khao-So-I ICON Fl. G / Khao So i SPD Fl. G",
    "receipt_format": "ID",
-   "notes": "เช่น VEVJO (By Garfew 2/7/26)",
+   "notes": "เช่น VEVJO \nสะสมเฉพาะใบเสร็จตัวจริง ไม่สะสมใบรองบิลที่เป็นเลขโต๊ะ (By Yo 13/8/26)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10997,5 +10997,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-13 13:21"
+ "generated_at": "2026-08-13 15:16"
 }
