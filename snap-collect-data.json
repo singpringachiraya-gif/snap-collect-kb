@@ -162,9 +162,9 @@
   },
   {
    "no": 21,
-   "name": "Beautrium ICS Fl. M",
+   "name": "Beautrium ICS Fl. M / Beautrium SD Fl. 1",
    "receipt_format": "Silp No",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
+   "notes": "มีสาขา ICS และ Siam Discovery ดูสาขาดีๆ\nกรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10997,5 +10997,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-12 17:41"
+ "generated_at": "2026-08-13 13:21"
 }
