@@ -9180,7 +9180,7 @@
    "no": 1197,
    "name": "Smith & Co. SPD Fl. 4",
    "receipt_format": "ID",
-   "notes": "ดูดีๆ ตรงการชำระเงิน มีคำว่า Food deal ( Food Deal @ Siam ) ให้ Reject : ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า ส่วนต่างสะสมได้\nหรือซื้อผ่าน ONESIAM SuperApp",
+   "notes": "ดูดีๆ ตรงการชำระเงิน มีคำว่า Food deal ( Food Deal @ Siam ) ให้ Reject : ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp \nส่วนต่างที่ชำระแยกสะสมได้",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10997,5 +10997,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-13 17:49"
+ "generated_at": "2026-08-13 17:50"
 }
