@@ -10162,9 +10162,9 @@
   },
   {
    "no": 1337,
-   "name": "Swatch Pop Up Spd FL.1   [Pop Up 1 June-31 June 2026] หัวบิล Swatch Group Thailand Swatch Pop-Up สะสมเข้าตึก Siam Paragon ร้านค้า Swatch SPD Fl. 1",
+   "name": "หัวบิล Swatch Group Thailand Swatch Pop-Up สะสมเข้าตึก Siam Paragon ร้านค้า Swatch SPD Fl. 1",
    "receipt_format": "เลขที่่",
-   "notes": "Transaction No กรอกครบ เช่น 2068000018",
+   "notes": "Swatch Pop Up Spd FL.1   [Pop Up 1 June-31 June 2026] \nTransaction No กรอกครบ เช่น 2068000018",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10997,5 +10997,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-14 10:46"
+ "generated_at": "2026-08-14 13:17"
 }
