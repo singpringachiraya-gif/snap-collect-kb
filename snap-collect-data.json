@@ -6881,14 +6881,6 @@
    "extra": ""
   },
   {
-   "no": 855,
-   "name": "96 Cha SC Fl. 2",
-   "receipt_format": "ID",
-   "notes": "",
-   "category": "JoinONESIAMCoin",
-   "extra": ""
-  },
-  {
    "no": 856,
    "name": "LELE ICON Fl. 6",
    "receipt_format": "ID",
@@ -11053,5 +11045,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-17 17:06"
+ "generated_at": "2026-08-17 18:25"
 }
