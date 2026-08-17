@@ -10975,6 +10975,22 @@
    "notes": "Shop live 19-Aug-26",
    "category": "JoinONESIAMCoin",
    "extra": ""
+  },
+  {
+   "no": 1444,
+   "name": "SANDELL POP UP SC Fl. G / SIAM CENTER",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "Shop live 19-Aug-26",
+   "category": "Popup&Event",
+   "extra": ""
+  },
+  {
+   "no": 1445,
+   "name": "House of Roid’s POP UP SC Fl. G / SIAM CENTER",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "Shop live 19-Aug-26",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11037,5 +11053,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-17 15:46"
+ "generated_at": "2026-08-17 17:06"
 }
