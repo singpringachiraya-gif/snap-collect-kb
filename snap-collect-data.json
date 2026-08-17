@@ -10935,6 +10935,22 @@
    "notes": "กรอกครบเช่น RCMGP002260807024",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1439,
+   "name": "Kantima Salon SC Fl. 1",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": 1440,
+   "name": "เด็ดกะเพรา SPD Fl. 5A / (Ded Ga Pao) Siam Paragon",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -10997,5 +11013,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-17 11:06"
+ "generated_at": "2026-08-17 11:12"
 }
