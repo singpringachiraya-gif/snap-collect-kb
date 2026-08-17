@@ -10959,6 +10959,14 @@
    "notes": "",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1442,
+   "name": "Miniso YOYO Popup สะสมเข้า MINISO ICON Fl. 5",
+   "receipt_format": "No.",
+   "notes": "กรอกเต็ม",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11021,5 +11029,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-17 13:08"
+ "generated_at": "2026-08-17 13:15"
 }
