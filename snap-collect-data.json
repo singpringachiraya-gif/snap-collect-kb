@@ -2387,8 +2387,8 @@
   {
    "no": 301,
    "name": "Franck Muller SPD Fl. M (Cortina Watch )",
-   "receipt_format": "INVOICE NO (Inv#)",
-   "notes": "625002xxxxxxxxx (มี 15 หลัก) / ดูตรงกลางๆในบิลจะเขียน At Franck Muller",
+   "receipt_format": "Tax INVOICE NO (Inv#)",
+   "notes": "625002xxxxxxxxx (มี 15 หลัก) / ดูตรงกลางๆในบิลจะเขียน At Franck Muller \nหรือ SPFC100662 / แบบใหม่",
    "category": "Spending Only",
    "extra": "Luxury"
   },
@@ -10997,5 +10997,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-17 11:02"
+ "generated_at": "2026-08-17 11:06"
 }
