@@ -10954,10 +10954,10 @@
   },
   {
    "no": 1441,
-   "name": "3rd SENSE SC Fl. 1",
-   "receipt_format": "",
+   "name": "3rd SENSE SC Fl. 1 /Siam Center",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
    "notes": "",
-   "category": "",
+   "category": "Spending Only",
    "extra": ""
   }
  ],
@@ -11021,5 +11021,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-17 11:15"
+ "generated_at": "2026-08-17 11:18"
 }
