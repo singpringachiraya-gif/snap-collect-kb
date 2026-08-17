@@ -10947,8 +10947,8 @@
   {
    "no": 1440,
    "name": "เด็ดกะเพรา SPD Fl. 5A / (Ded Ga Pao) Siam Paragon",
-   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
-   "notes": "",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "มุมขวาล่างกรอกทั้งหมดหลัง # เช่น 1-0194",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11021,5 +11021,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-17 11:18"
+ "generated_at": "2026-08-17 12:29"
 }
