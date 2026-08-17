@@ -8973,7 +8973,7 @@
    "name": "Yoba SPD Fl. 4 / Yoba SD Fl. 3",
    "receipt_format": "ID",
    "notes": "เช่น C0XJV  อัพเดท 03/07/2026",
-   "category": "Spending Only",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -11021,5 +11021,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-17 12:29"
+ "generated_at": "2026-08-17 13:08"
 }
