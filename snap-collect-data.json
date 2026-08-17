@@ -10967,6 +10967,14 @@
    "notes": "14 - 30 AUG กรอกเต็ม",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1443,
+   "name": "Vertiver Pearl /ICONSIAM",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "Shop live 19-Aug-26",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11029,5 +11037,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-17 14:24"
+ "generated_at": "2026-08-17 15:46"
 }
