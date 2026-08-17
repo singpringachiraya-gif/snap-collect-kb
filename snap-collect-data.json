@@ -10951,6 +10951,14 @@
    "notes": "",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1441,
+   "name": "3rd SENSE SC Fl. 1",
+   "receipt_format": "",
+   "notes": "",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11013,5 +11021,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-17 11:12"
+ "generated_at": "2026-08-17 11:15"
 }
