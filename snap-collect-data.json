@@ -5922,8 +5922,8 @@
   },
   {
    "no": 731,
-   "name": "GRAB & GO SD Fl. 4 (หัวบิล Siamdiscovery Retail)",
-   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "name": "GRAB & GO SD Fl. 4 (หัวบิล Discovery Retail สะสมเข้า DCR SD Fl. G)",
+   "receipt_format": "Pos-Reciept (PRH)",
    "notes": "ดู Sku สินค้า G&G ,Eco  สะสมเข้า Grab&Go",
    "category": "JoinONESIAMCoin",
    "extra": ""
@@ -11061,5 +11061,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-19 09:48"
+ "generated_at": "2026-08-19 17:24"
 }
