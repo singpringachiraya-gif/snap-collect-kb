@@ -10991,6 +10991,14 @@
    "notes": "Shop live 19-Aug-26",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1446,
+   "name": "PWC Pop Up /Siam Center",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11053,5 +11061,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-18 13:37"
+ "generated_at": "2026-08-19 09:48"
 }
