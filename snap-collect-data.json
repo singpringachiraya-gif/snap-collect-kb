@@ -7762,9 +7762,9 @@
   },
   {
    "no": 968,
-   "name": "Multiply by 8 (External) เริ่ม 26 Jun 2025",
-   "receipt_format": "เจอบิลแล้วมาอัพเดทกันค่ะ",
-   "notes": "",
+   "name": "Multiply by 8 (External)",
+   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
+   "notes": "Reject :  ร้านค้าเปิดให้บริการศูนย์การค้าอื่น",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11061,5 +11061,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-20 12:36"
+ "generated_at": "2026-08-20 14:34"
 }
