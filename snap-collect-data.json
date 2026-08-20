@@ -5924,7 +5924,7 @@
    "no": 731,
    "name": "GRAB & GO SD Fl. 4 (หัวบิล Discovery Retail สะสมเข้า DCR SD Fl. G)",
    "receipt_format": "Pos-Reciept (PRH)",
-   "notes": "Sku สินค้า G&G ,Eco  สะสมเข้า DCR SD Fl. G ทั้งหมด",
+   "notes": "Sku สินค้า G&G ,Eco  สะสมเข้า DCR SD Fl. G ทั้งหมด (P'prai 20/8/2026)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11061,5 +11061,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-20 12:34"
+ "generated_at": "2026-08-20 12:36"
 }
