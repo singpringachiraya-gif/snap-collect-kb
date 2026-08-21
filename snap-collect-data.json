@@ -10999,6 +10999,14 @@
    "notes": "",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1447,
+   "name": "BEE CHENG HIANG Pop Up /Siam Paragon",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11061,5 +11069,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-21 13:10"
+ "generated_at": "2026-08-21 15:57"
 }
