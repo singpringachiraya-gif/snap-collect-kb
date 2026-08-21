@@ -3258,10 +3258,10 @@
   },
   {
    "no": 411,
-   "name": "บ้านหลานยาย",
-   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
-   "notes": "Reject: ร้านค้าไม่เข้าร่วมการสะสม POP UP",
-   "category": "JoinONESIAMCoin",
+   "name": "บ้านหลานยาย Gaeng Sod ICON Fl. GA,G",
+   "receipt_format": "ID",
+   "notes": "รหัส ID 5 ตัวอักษร",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -11061,5 +11061,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-21 12:21"
+ "generated_at": "2026-08-21 13:10"
 }
