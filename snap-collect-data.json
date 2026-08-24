@@ -10971,8 +10971,8 @@
   {
    "no": 1443,
    "name": "Vertiver Pearl /ICONSIAM",
-   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
-   "notes": "Shop live 19-Aug-26",
+   "receipt_format": "เลข Receipt หลัง#",
+   "notes": "กรอกแค่ตัวเลข ไม่ใส่#",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11077,5 +11077,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-24 17:18"
+ "generated_at": "2026-08-24 18:55"
 }
