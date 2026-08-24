@@ -6020,8 +6020,8 @@
    "no": 744,
    "name": "Hikari SPD Fl. 3",
    "receipt_format": "INVOICE NO (Inv#)",
-   "notes": "กรอกเต็ม เช่นPS001011507\nShop Closed 29 Jul 26",
-   "category": "ShopClosed",
+   "notes": "กรอกเต็ม เช่นPS001011507\nShop Closed 29 Jul 26 / Shop Live 22 Aug 26",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -11077,5 +11077,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-24 10:28"
+ "generated_at": "2026-08-24 17:18"
 }
