@@ -11015,6 +11015,14 @@
    "notes": "กรอกครบ เช่น 06292",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1449,
+   "name": "Yavis Store สะสมเข้า YVIS SC Fl. 1 หรือ YVIS ICON Fl. 5",
+   "receipt_format": "เลขที่ใบเสร็จ",
+   "notes": "สาขา ICONSIAM ดูที่เบอร์โทรศัพท์หัวบิล 061 864 9966\nหรือดู Transaction ลูกค้าก่อนสะสม",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11077,5 +11085,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-24 18:55"
+ "generated_at": "2026-08-25 13:00"
 }
