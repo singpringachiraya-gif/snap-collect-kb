@@ -8388,7 +8388,7 @@
    "no": 1046,
    "name": "Ah Ma Shou Zuo SPD Fl. G",
    "receipt_format": "ID",
-   "notes": "",
+   "notes": "หากใบเสร็จไม่มี ID ให้ใช้เลข Order เช่น OR072-260825-5Y45VWQE",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11085,5 +11085,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-25 13:00"
+ "generated_at": "2026-08-26 11:53"
 }
