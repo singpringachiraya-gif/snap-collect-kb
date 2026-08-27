@@ -7395,9 +7395,9 @@
   {
    "no": 920,
    "name": "BOSE SPD Fl. 2",
-   "receipt_format": "Receipt no",
-   "notes": "กรอกแค่ตัวเลข เช่น 1PRG00731",
-   "category": "Spending Only",
+   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
+   "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
+   "category": "TNA",
    "extra": ""
   },
   {
@@ -11109,5 +11109,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-27 17:39"
+ "generated_at": "2026-08-27 18:49"
 }
