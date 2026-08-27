@@ -11039,6 +11039,14 @@
    "notes": "เช่น 244119",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Hitori Shabu icon สะสมเข้าร้าน Tonkatsu Aoki ICON Fl. 4",
+   "receipt_format": "ใบเสร็จรับเงินเลขที่",
+   "notes": "สะสมเข้าร้าน Tonkatsu Aoki ICON Fl. 4 \n- ใบเสร็จมีชื่อลูกค้า ตรวจสอบชื่อก่อนทุกครั้ง",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11101,5 +11109,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-27 17:01"
+ "generated_at": "2026-08-27 17:31"
 }
