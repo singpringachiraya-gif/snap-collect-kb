@@ -5426,9 +5426,9 @@
   },
   {
    "no": 669,
-   "name": "Echo Bar Coffee SD Fl. 1",
-   "receipt_format": "No (เลขที่)",
-   "notes": "กรอกครบทุกตัว (ไม่ต้องใส่อักขระพิเศษ) / หากเจอรูปแบบอื่น ให้ Reject : รูปภาพไม่ใช่ใบเสร็จ",
+   "name": "ปิด",
+   "receipt_format": "",
+   "notes": "",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11101,5 +11101,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-27 14:42"
+ "generated_at": "2026-08-27 15:17"
 }
