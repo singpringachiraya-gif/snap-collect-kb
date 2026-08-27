@@ -43,7 +43,7 @@
   {
    "no": 6,
    "name": "AIS Future World SPD Fl. 4 / AIS SERENADE SPD Fl. 4 /  AIS SPD Fl. 4 / AIS SC Fl. 1 / AIS ICON Fl. 4",
-   "receipt_format": "",
+   "receipt_format": "No (เลขที่)",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ\nสาขาที่ 00495 Siamcenter\nสาขาที่ 00443 ICON คลองสาน เจริญนคร \nสาขาที่ 00414 Paragon\nสาขาที่ 00991 Paragon    \nถ้าหัวไม่มีสาขา - ส่วนใหญ่จะเป็นสาธารณูปโภค ให้ในรายการบิล เช่น จ่ายค่าโทรศัพท์ Reject",
    "category": "Spending Only",
    "extra": ""
@@ -5202,7 +5202,7 @@
   },
   {
    "no": 640,
-   "name": "บริษัทเจ.ไอ.บี. คอมพิวเตอร์ กรุ๊ป จำกัด -  JIB SPD Fl. 4 / JIB ICON Fl. 4",
+   "name": "JIB SPD Fl. 4 / JIB ICON Fl. 4 - บริษัทเจ.ไอ.บี. คอมพิวเตอร์ กรุ๊ป จำกัด -",
    "receipt_format": "บิลเลขที่ (Bill Ref No.)",
    "notes": "EX.IS00243-6901-001311 กรอกครบทุกตัว\nใบเสร็จมี 2 แบบ ดูดีๆ!! \nEx.1 ใบเสร็จรับเงิน/ใบกำกับภาษีอย่างย่อค่ะ ใช้เลขที่",
    "category": "Spending Only",
@@ -11093,5 +11093,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-27 13:57"
+ "generated_at": "2026-08-27 14:15"
 }
