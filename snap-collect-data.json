@@ -5426,9 +5426,9 @@
   },
   {
    "no": 669,
-   "name": "ปิด",
-   "receipt_format": "",
-   "notes": "",
+   "name": "เจ๊แดง สามย่าน ICON Fl. G",
+   "receipt_format": "Receipt no",
+   "notes": "เช่น 010082569/002220",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11101,5 +11101,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-27 15:17"
+ "generated_at": "2026-08-27 17:01"
 }
