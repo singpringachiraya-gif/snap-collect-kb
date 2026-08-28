@@ -10181,7 +10181,7 @@
    "name": "The Row SPD Fl. M บริษัท PP Luxe Co",
    "receipt_format": "BNO",
    "notes": "กรอกครบ เช่น S2600077000010000074",
-   "category": "Spending Only",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -11109,5 +11109,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-28 14:00"
+ "generated_at": "2026-08-28 18:27"
 }
