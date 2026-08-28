@@ -11045,7 +11045,15 @@
    "name": "Hitori Shabu icon สะสมเข้าร้าน Tonkatsu Aoki ICON Fl. 4",
    "receipt_format": "ใบเสร็จรับเงินเลขที่",
    "notes": "สะสมเข้าร้าน Tonkatsu Aoki ICON Fl. 4 \n- ใบเสร็จมีชื่อลูกค้า ตรวจสอบชื่อก่อนทุกครั้ง",
-   "category": "",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": 1453,
+   "name": "Oakley Thailand ICON Fl. 2",
+   "receipt_format": "Tax Invoice No.",
+   "notes": "สะสม 5 ตัวท้ายเช่น 15519",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   }
  ],
@@ -11109,5 +11117,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-28 10:43"
+ "generated_at": "2026-08-28 13:55"
 }
