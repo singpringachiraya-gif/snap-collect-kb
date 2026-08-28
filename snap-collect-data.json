@@ -6635,9 +6635,9 @@
   {
    "no": 824,
    "name": "Anri Bakery SPD",
-   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
-   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
-   "category": "Popup&Event",
+   "receipt_format": "Receipt no",
+   "notes": "",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -11109,5 +11109,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-27 18:49"
+ "generated_at": "2026-08-28 10:43"
 }
