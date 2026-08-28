@@ -10180,7 +10180,7 @@
    "no": 1339,
    "name": "The Row SPD Fl. M บริษัท PP Luxe Co",
    "receipt_format": "BNO",
-   "notes": "กรอกครบ เช่น S2600077000010000074\nบิล Deposit ไม่สะสม Reject: รูปภาพไม่ใช่ใบเสร็จ Confirm by P'Jim (28/8/2026)",
+   "notes": "กรอกครบ เช่น S2600077000010000074\nบิล Deposit ไม่มีเลข BNO แบบปกติ ไม่สะสม Reject: รูปภาพไม่ใช่ใบเสร็จ Confirm by P'Jim (28/8/2026)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
