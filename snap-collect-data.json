@@ -11055,6 +11055,14 @@
    "notes": "กรอกครบ เช่น 202608001146",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1454,
+   "name": "LIFTLAB SPD Fl. 4",
+   "receipt_format": "เลขที่",
+   "notes": "กรอกครบ เช่น 26-2-000061",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11117,5 +11125,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-29 14:40"
+ "generated_at": "2026-08-29 16:17"
 }
