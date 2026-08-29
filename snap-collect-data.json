@@ -11047,6 +11047,14 @@
    "notes": "สะสมเข้าร้าน Tonkatsu Aoki ICON Fl. 4 \n- ใบเสร็จมีชื่อลูกค้า ตรวจสอบชื่อก่อนทุกครั้ง",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1453,
+   "name": "CHAN Iconsiam สะสมเข้า SOOKSIAM ICON Fl. BM",
+   "receipt_format": "เลขที่",
+   "notes": "กรอกครบ เช่น 202608001146",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11109,5 +11117,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-28 18:40"
+ "generated_at": "2026-08-29 14:40"
 }
