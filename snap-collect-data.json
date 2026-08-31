@@ -11063,6 +11063,14 @@
    "notes": "กรอกครบ เช่น 26-2-000061",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1455,
+   "name": "OUTCAST STORE SD",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "POP UP",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11125,5 +11133,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-31 10:49"
+ "generated_at": "2026-08-31 11:07"
 }
