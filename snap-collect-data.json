@@ -4451,8 +4451,8 @@
   {
    "no": 560,
    "name": "Fred SPD Fl. M",
-   "receipt_format": "Tax invoice (ABB)",
-   "notes": "บริษัท แอลวีเอ็มเอช ว็อช แอนด์ จิวเวลรี่ (ประเทศไทย) จำกัด -\nกรอกครบทุกตัว",
+   "receipt_format": "Number",
+   "notes": "บริษัท แอลวีเอ็มเอช ว็อช แอนด์ จิวเวลรี่ (ประเทศไทย) จำกัด -\nกรอกครบทุกตัว เช่น  TH3611260000152",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11141,5 +11141,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-31 15:42"
+ "generated_at": "2026-08-31 18:32"
 }
