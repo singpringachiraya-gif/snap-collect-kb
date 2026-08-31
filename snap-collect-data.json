@@ -11071,6 +11071,14 @@
    "notes": "POP UP",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1456,
+   "name": "CHOOZEN CO LTD สะสมเข้าร้านค้า Kangol ICS Fl. M",
+   "receipt_format": "RECEIPT NO.",
+   "notes": "กรอกเต็ม",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11133,5 +11141,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-31 11:23"
+ "generated_at": "2026-08-31 13:01"
 }
