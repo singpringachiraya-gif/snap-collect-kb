@@ -10961,6 +10961,14 @@
    "extra": ""
   },
   {
+   "no": 1442,
+   "name": "MINISO ICON Fl. 5",
+   "receipt_format": "NO/POS No.",
+   "notes": "Miniso YOYO Popup สะสมได้ 14 - 30 AUG กรอกเต็ม\nเช่น 202608280003/THB4",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
    "no": 1443,
    "name": "Vertiver Pearl /ICONSIAM",
    "receipt_format": "เลข Receipt หลัง#",
@@ -11117,5 +11125,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-31 09:36"
+ "generated_at": "2026-08-31 09:39"
 }
