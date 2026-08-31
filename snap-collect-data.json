@@ -10962,9 +10962,9 @@
   },
   {
    "no": 1442,
-   "name": "Miniso YOYO Popup สะสมเข้า MINISO ICON Fl. 5",
-   "receipt_format": "No.",
-   "notes": "14 - 30 AUG กรอกเต็ม",
+   "name": "MINISO ICON Fl. 5",
+   "receipt_format": "NO/POS No.",
+   "notes": "Miniso YOYO Popup สะสมได้ 14 - 30 AUG กรอกเต็ม\nเช่น 202608280003/THB4",
    "category": "Popup&Event",
    "extra": ""
   },
@@ -11125,5 +11125,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-29 16:17"
+ "generated_at": "2026-08-31 09:36"
 }
