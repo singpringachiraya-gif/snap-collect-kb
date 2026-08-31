@@ -2236,7 +2236,7 @@
    "no": 282,
    "name": "Longchamp SPD Fl. M / Longchamp ICON Fl. M Longchamp SPO Fl. G",
    "receipt_format": "bill no (BNO)",
-   "notes": "ตัวอย่าง : S2300014000010006049 กรอกเหมือนกันทั้ง SPD , ICON , SPO\nใช้เลขเต็มทุกสาขา อัปเเดตสาขา SPO จากเกด 31/8/2026",
+   "notes": "ตัวอย่าง : S2300014000010006049 กรอกเหมือนกันทั้ง SPD , ICON , SPO\nใช้เลขเต็มทุกสาขา อัปเดตสาขา SPO จากเกด 31/8/2026",
    "category": "JoinONESIAMCoin",
    "extra": "Luxury"
   },
@@ -11133,5 +11133,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-08-31 11:07"
+ "generated_at": "2026-08-31 11:23"
 }
