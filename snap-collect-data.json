@@ -1068,7 +1068,7 @@
    "no": 134,
    "name": "sushi seki_spr_pop up SPD Fl. 5",
    "receipt_format": "No (เลขที่)",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ เช่น RC010052568001635",
+   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ เช่น RC010052/568001635",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11149,5 +11149,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-01 15:57"
+ "generated_at": "2026-09-01 18:33"
 }
