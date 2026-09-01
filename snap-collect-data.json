@@ -35,7 +35,7 @@
   {
    "no": 5,
    "name": "After You SPD Fl. G / After You & Luggaw SC Fl. 1 / After You ICON Fl. 6",
-   "receipt_format": "No (เลขที่)",
+   "receipt_format": "No (เลขที่) /ดูหมายเหตุ",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ  / ถ้าบิลเขียนว่าซื้อ Voucher สะสมไม่ได้",
    "category": "Spending Only",
    "extra": ""
@@ -11149,5 +11149,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-01 18:34"
+ "generated_at": "2026-09-01 18:51"
 }
