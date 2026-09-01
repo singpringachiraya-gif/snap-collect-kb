@@ -11087,6 +11087,14 @@
    "notes": "กรอกเต็มเอาขีด- (เช่น 1-8079)",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1458,
+   "name": "True Coffee ICON Fl. 4 /TRUESPHERE ICON Fl. 3",
+   "receipt_format": "NO. / ดูหมายเหตุ",
+   "notes": "เช่่น 0188291\nที่เป็นกาแฟให้สะสมเข้าร้านค้า True Coffee ICON Fl. 4\n\nทรู ดิสทริบิวชั่น แอนด์ เซลส์ จำกัด -สะสมเข้าร้านค้า  TRUESPHERE ICON Fl. 3 กรอกครบทุกตัว Ex.00141TUTS2410002800987\n\nดูชื่อด้วยว่าในบิลตรงกับสมาชิกที่ถ่ายเข้ามาไหม พนงชอบเอาของลูกค้ามาถ่าย",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11149,5 +11157,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-01 18:52"
+ "generated_at": "2026-09-01 19:06"
 }
