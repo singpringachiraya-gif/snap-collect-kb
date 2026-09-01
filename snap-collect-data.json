@@ -11079,6 +11079,14 @@
    "notes": "กรอกเต็ม",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1457,
+   "name": "PUTTA OGANIC SPD FL.4",
+   "receipt_format": "เลขมุมขวาล่างใบเสร็จ หลัง# กรอกครบ",
+   "notes": "กรอกเต็มเอาขีด- (เช่น 1-8079)",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11141,5 +11149,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-01 13:39"
+ "generated_at": "2026-09-01 15:57"
 }
