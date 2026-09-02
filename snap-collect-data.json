@@ -8220,7 +8220,7 @@
    "no": 1025,
    "name": "MNG SPO Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "อยู่ข้างเวลา  Ex.093-26/02-00219",
+   "notes": "อยู่ข้างเวลา  Ex.M93-26/02-00219",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11173,5 +11173,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-02 13:53"
+ "generated_at": "2026-09-02 14:41"
 }
