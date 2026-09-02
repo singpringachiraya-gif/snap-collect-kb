@@ -9732,7 +9732,7 @@
    "no": 1276,
    "name": "truffle donut Spd Fl.G",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "เลขมุมขวาล่างหลัง #15-0056 เช่นกรอกครบ 15-0056 Update 2/9/2026",
+   "notes": "มุมขวาล่างหลัง # เช่นกรอกครบ 15-0056 Update 2/9/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11157,5 +11157,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-02 10:53"
+ "generated_at": "2026-09-02 10:59"
 }
