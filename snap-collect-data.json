@@ -2594,9 +2594,9 @@
   },
   {
    "no": 327,
-   "name": "CPS coffee สะสมเข้า CPS Coffee SC Fl. G \nCPS ที่เป็นสินค้า Fashion หัวบิล Jaspal (CPS SIAMCENTER)สะสมเข้า  CPS Chaps + CPS Coffee SC Fl. G",
+   "name": "CPS ที่เป็นสินค้า Fashion หัวบิล Jaspal (CPS SIAMCENTER)สะสมเข้า  CPS Chaps + CPS Coffee SC Fl. G",
    "receipt_format": "No (เลขที่)",
-   "notes": "CPS Chaps + CPS Coffee ICON Fl. 1 /  กรอกครบที่เป็นเสื้อผ้า เช่น DC5000133665        \nที่เป็นคาเฟ่ Coffee ใช้เลข ID\n\nCPS Chaps + CPS Coffee SC Fl. G ใช้ Doc No\n\nCPS Coffee SC Fl. G ใช้ ID",
+   "notes": "CPS Chaps + CPS Coffee ICON Fl. 1 /  กรอกครบที่เป็นเสื้อผ้า Docket no เช่น DC5000133665        \nที่เป็นคาเฟ่ Coffee ใช้เลข ID\n\nCPS Chaps & CPS Coffee & ORI SC Fl. G /  กรอกครบที่เป็นเสื้อผ้า Docket no เช่น DC5000133665        \nที่เป็นคาเฟ่ Coffee ใช้เลข ID",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11181,5 +11181,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-02 17:01"
+ "generated_at": "2026-09-02 17:05"
 }
