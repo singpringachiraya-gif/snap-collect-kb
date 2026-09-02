@@ -9724,7 +9724,7 @@
    "no": 1275,
    "name": "Dot Gelato SPD Fl. 5",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "มุมขวาล่าง #15-0056 กรอกครบ #15-0056",
+   "notes": "มุมขวาล่าง #15-0056 กรอกครบ 15-0056",
    "category": "Spending Only",
    "extra": ""
   },
@@ -9732,7 +9732,7 @@
    "no": 1276,
    "name": "truffle donut Spd Fl.G",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "มุมขวาล่าง #15-0056 กรอกครบ #15-0056 /กลับมาสะสมได้ Update 12/7/2026",
+   "notes": "เลขมุมขวาล่างหลัง #15-0056 เช่นกรอกครบ 15-0056 Update 2/9/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11157,5 +11157,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-01 19:06"
+ "generated_at": "2026-09-02 10:53"
 }
