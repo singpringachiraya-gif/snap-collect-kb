@@ -508,7 +508,7 @@
    "no": 64,
    "name": "Hasul Korean Restaurant SC Fl. 2",
    "receipt_format": "No (เลขที่)",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ Ex.15179104",
+   "notes": "สาขา 00001 = Siam Center\nกรอกครบทุกตัว รวมอักขระพิเศษ Ex.15179104",
    "category": "Spending Only",
    "extra": ""
   },
@@ -3084,7 +3084,7 @@
    "no": 389,
    "name": "NanaPhilosophyBIDCคลินิกทันตกรรมเช่าช่วง SPD Fl. 2",
    "receipt_format": "Receipt no",
-   "notes": "กรอกครบทุกตัวบนใบเสร็จ เช่น r1123001474",
+   "notes": "กรอกครบทุกตัวบนใบเสร็จ เช่น R1123001474",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11181,5 +11181,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-02 16:41"
+ "generated_at": "2026-09-02 16:45"
 }
