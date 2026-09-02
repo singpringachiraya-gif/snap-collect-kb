@@ -11093,7 +11093,15 @@
    "name": "True Coffee ICON Fl. 4 /TRUESPHERE ICON Fl. 3",
    "receipt_format": "NO. / ดูหมายเหตุ",
    "notes": "เช่่น 0188291\nที่เป็นกาแฟให้สะสมเข้าร้านค้า True Coffee ICON Fl. 4\n\nทรู ดิสทริบิวชั่น แอนด์ เซลส์ จำกัด -สะสมเข้าร้านค้า  TRUESPHERE ICON Fl. 3 กรอกครบทุกตัว Ex.00141TUTS2410002800987\n\nดูชื่อด้วยว่าในบิลตรงกับสมาชิกที่ถ่ายเข้ามาไหม พนงชอบเอาของลูกค้ามาถ่าย",
-   "category": "",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": 1459,
+   "name": "Hoka SPO Fl. G / Hoka ICON Fl. 2",
+   "receipt_format": "Tax Invoice No.",
+   "notes": "กรอกครบ เช่น KF004P04140018380",
+   "category": "Spending Only",
    "extra": ""
   }
  ],
@@ -11157,5 +11165,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-02 12:14"
+ "generated_at": "2026-09-02 12:27"
 }
