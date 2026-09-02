@@ -1684,7 +1684,7 @@
    "no": 211,
    "name": "Maison Francis Kurkdjian ICON Fl. M",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "ไม่มีเลขใบเสร็จ - เลข# มุมซ้าย ข้างวันที่ (EX. INV-M2307090010)",
+   "notes": "หลัง #INV- (EX. M2307090010)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11181,5 +11181,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-02 16:25"
+ "generated_at": "2026-09-02 16:41"
 }
