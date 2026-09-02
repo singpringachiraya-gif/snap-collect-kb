@@ -1428,7 +1428,7 @@
    "no": 179,
    "name": "PRESTIGE PRODUCT LTD - Maison Francis Kurkdjian ICON Fl. M / Byredo ICON Fl. 1",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "หลัง #INV- ทั้งหมด เช่น M2307090010 / B2511010003 \nกรอกครบทุกตัว รวมอักขระพิเศษ",
+   "notes": "หลัง #INV- ทั้งหมด เช่น M2307090010 หรือ B2511010003 \nกรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11181,5 +11181,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-02 14:43"
+ "generated_at": "2026-09-02 16:25"
 }
