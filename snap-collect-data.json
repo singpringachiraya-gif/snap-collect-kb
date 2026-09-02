@@ -11127,6 +11127,14 @@
    "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1463,
+   "name": "CLUB PAWRENTS สะสมเข้า PAWRENTS BY ARAK SPD Fl. 5,5A",
+   "receipt_format": "Reciept #",
+   "notes": "กรอกครบเลขหลัง # \nเช่น 1260900001008197",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11189,5 +11197,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-02 17:34"
+ "generated_at": "2026-09-02 18:11"
 }
