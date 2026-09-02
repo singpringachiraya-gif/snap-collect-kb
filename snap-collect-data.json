@@ -11135,6 +11135,14 @@
    "notes": "กรอกครบเลขหลัง # \nเช่น 1260900001008197",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1464,
+   "name": "2nd STREET SD Fl. M /Siam Discovery",
+   "receipt_format": "Invoice No.",
+   "notes": "กรอกครบ เช่น 01-0000000221",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11197,5 +11205,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-02 18:14"
+ "generated_at": "2026-09-02 18:50"
 }
