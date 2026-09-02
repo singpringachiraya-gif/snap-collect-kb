@@ -5651,8 +5651,8 @@
   {
    "no": 697,
    "name": "Casetify SPD Fl. 2 / Casetify ICON Fl. 3",
-   "receipt_format": "No (เลขที่)",
-   "notes": "กรอกครบทุกตัว",
+   "receipt_format": "Order #",
+   "notes": "กรอกหลัง # เฉพาะตัวเลข ไม่เอาในวงเล็บ\nเช่น 33113738",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11181,5 +11181,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-02 16:45"
+ "generated_at": "2026-09-02 16:48"
 }
