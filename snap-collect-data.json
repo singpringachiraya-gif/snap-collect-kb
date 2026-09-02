@@ -11111,6 +11111,14 @@
    "notes": "ห้อง G42 – G43 at Siam Premium Outlets / Live 4/9/2026",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1461,
+   "name": "Salomon SD Fl. M / Salomon SPO Fl. G",
+   "receipt_format": "Invoice NO.",
+   "notes": "กรอกเต็ม ex. XPY042250902010006",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11173,5 +11181,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-02 14:41"
+ "generated_at": "2026-09-02 14:43"
 }
