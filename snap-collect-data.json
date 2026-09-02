@@ -10957,7 +10957,7 @@
    "name": "3rd SENSE SC Fl. 1 /Siam Center",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "มุมขวาล่างกรอกทั้งหมดหลัง # เช่น 2-0009",
-   "category": "Spending Only",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -11181,5 +11181,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-02 16:48"
+ "generated_at": "2026-09-02 16:57"
 }
