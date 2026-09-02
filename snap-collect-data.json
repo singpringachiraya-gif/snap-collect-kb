@@ -2596,7 +2596,7 @@
    "no": 327,
    "name": "CPS coffee สะสมเข้า CPS Coffee SC Fl. G \nCPS ที่เป็นสินค้า Fashion หัวบิล Jaspal (CPS SIAMCENTER)สะสมเข้า  CPS Chaps + CPS Coffee SC Fl. G",
    "receipt_format": "No (เลขที่)",
-   "notes": "สาขา CPS Chaps ICON Fl. 1 /  กรอกครบ ไม่เอา / เช่น F0200012838\nCPS Chaps + CPS Coffee SC Fl. G ใช้ Doc No\nCPS Coffee SC Fl. G ใช้ ID",
+   "notes": "CPS Chaps + CPS Coffee ICON Fl. 1 /  กรอกครบที่เป็นเสื้อผ้า เช่น DC5000133665        \nที่เป็นคาเฟ่ Coffee ใช้เลข ID\n\nCPS Chaps + CPS Coffee SC Fl. G ใช้ Doc No\n\nCPS Coffee SC Fl. G ใช้ ID",
    "category": "Spending Only",
    "extra": ""
   },
@@ -10900,7 +10900,7 @@
    "no": 1434,
    "name": "Galeries Lafayette EXT_Paris null /6 Aug-31 Dec 2026",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "เลือก External Building , เลือก Galeries Lafayette EXT_Paris null\n - ดูยอดสุดท้ายตรง Moutant total\n - ใส่ตัวเลขยอดตามนั้น (ไม่ต้องสนใจ สกุลเงิน) \n - กดติ๊กถูกไม่ส่งการแจ้งเตือนให้ลูกค้า -> เน้นย้ำ เพราะเราไม่นับยอด spending ให้ลูกค้า จึงจำเป็นต้อง Tick ทุกครั้ง\nอนุโลมให้ สะสมย้อนหลังได้ 3 วันนับจากวันที่บนใบเสร็จ",
+   "notes": "",
    "category": "Popup&Event",
    "extra": ""
   },
@@ -11181,5 +11181,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-02 16:57"
+ "generated_at": "2026-09-02 17:01"
 }
