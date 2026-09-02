@@ -4413,7 +4413,7 @@
    "name": "Tory Burch SPO Fl. G",
    "receipt_format": "bill no (BNO)",
    "notes": "สะสม 4 ตัวท้าย",
-   "category": "",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -11181,5 +11181,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-02 17:06"
+ "generated_at": "2026-09-02 17:27"
 }
