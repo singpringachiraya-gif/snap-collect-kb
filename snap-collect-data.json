@@ -1204,7 +1204,7 @@
    "no": 151,
    "name": "VANS ICON Fl. 3 / VANS SPO Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "5 ตัวท้าย หลังเครื่องหมาย/   ตัวอย่างเช่น 266R1092023/01045 \n(VANS SC Fl. G - REJECT SHOPLIST สะสมที่หน้าาร้าน)",
+   "notes": "5 ตัวท้าย หลังเครื่องหมาย/   ตัวอย่างเช่น 01045 \n(VANS SC Fl. G - REJECT SHOPLIST สะสมที่หน้าาร้าน)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11157,5 +11157,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-02 10:59"
+ "generated_at": "2026-09-02 12:14"
 }
