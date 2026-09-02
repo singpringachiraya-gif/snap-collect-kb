@@ -11103,6 +11103,14 @@
    "notes": "กรอกครบ เช่น KF004P04140018380",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1460,
+   "name": "MLAB SPO Fl. G",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "ห้อง G42 – G43 at Siam Premium Outlets / Live 4/9/2026",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11165,5 +11173,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-02 12:27"
+ "generated_at": "2026-09-02 13:53"
 }
