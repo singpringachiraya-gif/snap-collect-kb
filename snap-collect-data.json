@@ -11147,8 +11147,8 @@
   {
    "no": 1465,
    "name": "maison KEEPS SC Fl. 1",
-   "receipt_format": "WAITING อัพเดตกันค่ะ",
-   "notes": "",
+   "receipt_format": "Invoice No.",
+   "notes": "กรอกครบรวมอักขระ เช่น IV-2608-SIA-000178\nBy น้องออม 3/9/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   }
@@ -11213,5 +11213,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-03 15:31"
+ "generated_at": "2026-09-03 15:44"
 }
