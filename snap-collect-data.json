@@ -7373,7 +7373,7 @@
    "name": "ชาไทย Fighting SC Fl. 2",
    "receipt_format": "ID",
    "notes": "เช่น CT3BM\t( Food Deal : Onesiam Food Deal )",
-   "category": "JoinONESIAMCoin",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -11213,5 +11213,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-03 15:58"
+ "generated_at": "2026-09-03 16:42"
 }
