@@ -8004,7 +8004,7 @@
    "no": 998,
    "name": "YUME MATCHA SPD Fl. G",
    "receipt_format": "ID",
-   "notes": "เริ่ม Join Coin 08-Oct-2025\n** ดูดีๆ >> รายการ  Food Deal ONESIAM Reject: ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp",
+   "notes": "เริ่ม Join Coin 08-Oct-2025\nช่องทางจ่ายด้วย Grab สะสมได้ Update จาก Pop 3/9/2026\n\n** ดูดีๆ >> รายการ  Food Deal ONESIAM Reject: ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11213,5 +11213,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-03 17:19"
+ "generated_at": "2026-09-03 17:38"
 }
