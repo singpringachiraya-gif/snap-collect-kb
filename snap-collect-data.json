@@ -11143,6 +11143,14 @@
    "notes": "กรอกครบ เช่น 01-0000000221",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1465,
+   "name": "maison KEEPS SC Fl. 1",
+   "receipt_format": "WAITING อัพเดตกันค่ะ",
+   "notes": "",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11205,5 +11213,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-03 12:34"
+ "generated_at": "2026-09-03 14:58"
 }
