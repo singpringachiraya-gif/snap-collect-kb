@@ -3972,7 +3972,7 @@
    "no": 500,
    "name": "Maison Kitsune ICON Fl. M",
    "receipt_format": "bill no (BNO)",
-   "notes": "กรอกครบทุกตัว เช่่น S2300033000010002961",
+   "notes": "กรอก 8 ตัวท้าย เช่่น 10002961\nUpdate จากหยี 3/9/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11213,5 +11213,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-03 16:42"
+ "generated_at": "2026-09-03 17:19"
 }
