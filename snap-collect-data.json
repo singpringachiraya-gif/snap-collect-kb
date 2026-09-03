@@ -3044,7 +3044,7 @@
    "no": 384,
    "name": "บริษัท นารายณ์อินเตอร์เทรด จำกัด - Naraya SPD Fl. 3/ Naraya ICON Fl. G",
    "receipt_format": "INVOICE NO (Inv#)",
-   "notes": "กรอกครบทุกตัวบนใบเสร็จ                                                                                                                                            ตัวอย่าง 00000spd01000068389 - SPD\nตัวอย่าง 00000ics01000068389 - Icon",
+   "notes": "กรอกครบทุกตัวบนใบเสร็จ                                                                                                                                            ตัวอย่าง 00000SPD01000068389 - SPD\nตัวอย่าง 00000ICS01000068389 - Icon",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11213,5 +11213,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-03 15:44"
+ "generated_at": "2026-09-03 15:58"
 }
