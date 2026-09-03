@@ -11151,6 +11151,14 @@
    "notes": "กรอกครบรวมอักขระ เช่น IV-2608-SIA-000178\nBy น้องออม 3/9/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
+  },
+  {
+   "no": 1466,
+   "name": "Chocoholic Pop up Siam Center",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "1-30 กันยายน 2569 ระหว่างร้าน Lush-LYN ชั้น G Siam Center",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11213,5 +11221,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-03 17:38"
+ "generated_at": "2026-09-03 17:58"
 }
