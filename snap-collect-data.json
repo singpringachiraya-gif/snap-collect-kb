@@ -11159,6 +11159,14 @@
    "notes": "1-30 กันยายน 2569 ระหว่างร้าน Lush-LYN ชั้น G Siam Center",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1467,
+   "name": "บริษัท เมนทาแกรม จำกัด สะสมเข้า MLAB SPO Fl. G",
+   "receipt_format": "TAX INVOICE",
+   "notes": "ดูสาขาใต้ Qr ล่างใบเสร็จ / กรอบครบ เช่น KPM6909-00009",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11221,5 +11229,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-04 11:57"
+ "generated_at": "2026-09-04 14:45"
 }
