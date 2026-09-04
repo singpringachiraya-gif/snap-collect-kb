@@ -12,7 +12,7 @@
    "no": 2,
    "name": "ROTSANIYOM ICON Fl. G / ROTSANIYOM SPD Fl. G",
    "receipt_format": "Tax invoice (ABB)",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ Ex.RCRN-PRG6903290129",
+   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ Ex.RCRN-PRG6903290129 (update 04/09/26)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -236,7 +236,7 @@
    "no": 30,
    "name": "Burn Bussaba SPD Fl. G",
    "receipt_format": "Tax invoice (ABB)",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
+   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ (update04/09/2026)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -652,7 +652,7 @@
    "no": 82,
    "name": "KUB KAO KUP PLA SPD Fl. G / KUB KAO KUP PLA ICON Fl. 5",
    "receipt_format": "Tax invoice (ABB)",
-   "notes": "Ex.RCFP-PRG69013000044         กรอกครบทุกตัวรวมอักขระพิเศษ\nอัพเดท 03/07/2026",
+   "notes": "Ex.RCFP-PRG69013000044 กรอกครบทุกตัวรวมอักขระพิเศษ\nอัพเดท 04/09/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -1124,7 +1124,7 @@
    "no": 141,
    "name": "Thong Smith SPD Fl. G",
    "receipt_format": "Tax invoice (ABB)",
-   "notes": "Ex.RCTS-PRG6901220179 / กรอกครบทุกตัว รวมอักขระพิเศษ",
+   "notes": "Ex.RCTS-PRG6901220179 / กรอกครบทุกตัว รวมอักขระพิเศษ (update04/09/26)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -5468,7 +5468,7 @@
    "no": 674,
    "name": "AnComAnCa (อันเกิม-อันก๋า) ICON Fl. G",
    "receipt_format": "Tax invoice (ABB)",
-   "notes": "กรอกครบทุกตัว Ex.RCAC-ICS69013000026",
+   "notes": "กรอกครบทุกตัว Ex.RCAC-ICS69013000026 (update 04/09/2026)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -8172,7 +8172,7 @@
    "no": 1019,
    "name": "Rongsi Pochana ICON Fl. 4",
    "receipt_format": "Tax invoice (ABB)",
-   "notes": "กรอกครบไม่เอาอักขระพิเศษ\nใบกำกับ >> กรอกครบไม่เอาขีด RCRSICS6812020004",
+   "notes": "กรอกครบไม่เอาอักขระพิเศษ เช่น RCRS-ICS6812020004 (update 04/09/2026)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -9100,7 +9100,7 @@
    "no": 1187,
    "name": "Fa Pla Tahn SPD Fl. 4 - ฟ้าปลาทาน",
    "receipt_format": "Tax invoice (ABB)",
-   "notes": "เช่น RCFP-PRG69090400106",
+   "notes": "เช่น RCFP-PRG69090400106 กรอกเต็ม รวมอักขระ (update04/09/2026)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -9932,7 +9932,7 @@
    "no": 1303,
    "name": "Slayuan ICON Fl. 5",
    "receipt_format": "Tax Invoice",
-   "notes": "กรอกครบทุกตัว Ex. RCSY-ICS69041100012",
+   "notes": "กรอกครบทุกตัว Ex. RCSY-ICS69041100012 (update04/09/26)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11221,5 +11221,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-04 17:45"
+ "generated_at": "2026-09-04 17:55"
 }
