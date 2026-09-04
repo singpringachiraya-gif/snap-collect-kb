@@ -9099,8 +9099,8 @@
   {
    "no": 1187,
    "name": "Fa Pla Tahn SPD Fl. 4 - ฟ้าปลาทาน",
-   "receipt_format": "Receipt no",
-   "notes": "",
+   "receipt_format": "Tax invoice (ABB)",
+   "notes": "เช่น RCFP-PRG69090400106",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11221,5 +11221,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-04 14:49"
+ "generated_at": "2026-09-04 17:45"
 }
