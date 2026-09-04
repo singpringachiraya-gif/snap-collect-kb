@@ -11106,14 +11106,6 @@
   },
   {
    "no": 1460,
-   "name": "MLAB SPO Fl. G",
-   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
-   "notes": "ห้อง G42 – G43 at Siam Premium Outlets / Live 4/9/2026",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 1461,
    "name": "Salomon SD Fl. M / Salomon SPO Fl. G",
    "receipt_format": "Invoice NO.",
    "notes": "กรอกเต็ม ex. XPY042250902010006",
@@ -11121,7 +11113,7 @@
    "extra": ""
   },
   {
-   "no": 1462,
+   "no": 1461,
    "name": "Copenn / iconsiam",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
@@ -11129,7 +11121,7 @@
    "extra": ""
   },
   {
-   "no": 1463,
+   "no": 1462,
    "name": "CLUB PAWRENTS สะสมเข้า PAWRENTS BY ARAK SPD Fl. 5,5A",
    "receipt_format": "Reciept #",
    "notes": "กรอกครบเลขหลัง # \nเช่น 1260900001008197",
@@ -11137,7 +11129,7 @@
    "extra": ""
   },
   {
-   "no": 1464,
+   "no": 1463,
    "name": "2nd STREET SD Fl. M /Siam Discovery",
    "receipt_format": "Invoice No.",
    "notes": "กรอกครบ เช่น 01-0000000221",
@@ -11145,7 +11137,7 @@
    "extra": ""
   },
   {
-   "no": 1465,
+   "no": 1464,
    "name": "maison KEEPS SC Fl. 1",
    "receipt_format": "Invoice No.",
    "notes": "กรอกครบรวมอักขระ เช่น IV-2608-SIA-000178\nBy น้องออม 3/9/2026",
@@ -11153,7 +11145,7 @@
    "extra": ""
   },
   {
-   "no": 1466,
+   "no": 1465,
    "name": "Chocoholic Pop up Siam Center",
    "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
    "notes": "1-30 กันยายน 2569 ระหว่างร้าน Lush-LYN ชั้น G Siam Center",
@@ -11161,10 +11153,10 @@
    "extra": ""
   },
   {
-   "no": 1467,
+   "no": 1466,
    "name": "บริษัท เมนทาแกรม จำกัด สะสมเข้า MLAB SPO Fl. G",
    "receipt_format": "TAX INVOICE",
-   "notes": "ดูสาขาใต้ Qr ล่างใบเสร็จ / กรอบครบ เช่น KPM6909-00009\nห้อง G42 – G43",
+   "notes": "ดูสาขาใต้ Qr ล่างใบเสร็จ / กรอบครบ เช่น KPM6909-00009\nห้อง G42 – G43 Live 4/9/2026",
    "category": "Spending Only",
    "extra": ""
   }
@@ -11229,5 +11221,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-04 14:46"
+ "generated_at": "2026-09-04 14:49"
 }
