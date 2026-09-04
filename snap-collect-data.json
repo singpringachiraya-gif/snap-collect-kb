@@ -1100,7 +1100,7 @@
    "no": 138,
    "name": "CP EXTRA ICS บริษัท เอกชัย - Tesco Lotus / Lotus Prive ICS Fl. BM1",
    "receipt_format": "Tax invoice (ABB)",
-   "notes": "(หลังเวลา) ไม่ต้องเว้นวรรค // Lotus Card Reward สามารถนำมารวมสะสมยอดซื้อได้\nEx.0518500310010020\nถ้ามีตัวอักษรในใบเสร็จตัดออก ScoUser กรอกแค่เลขพอ / อัพเดท 09/03/2026",
+   "notes": "เลขอยู่ด้านล่างใบเสร็จ (หลังเวลา) ไม่ต้องเว้นวรรค Ex.0518500310010020\nถ้ามีตัวอักษรในใบเสร็จตัดออก ScoUser กรอกแค่เลขพอ / อัพเดท 09/03/2026\n** Lotus Card Reward สามารถนำมารวมสะสมยอดซื้อได้ **",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11221,5 +11221,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-03 18:42"
+ "generated_at": "2026-09-04 11:53"
 }
