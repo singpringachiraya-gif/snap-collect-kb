@@ -7466,9 +7466,9 @@
   },
   {
    "no": 931,
-   "name": "EMIS Pop Up SC Fl. M",
-   "receipt_format": "Tax invoice (ABB)",
-   "notes": "เช่น 15016340",
+   "name": "EMIS SC Fl. M",
+   "receipt_format": "Order No.",
+   "notes": "เช่น 515218 (update 05/09/26)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11167,6 +11167,14 @@
    "notes": "กรอกครบทุกตัว (updte by kade 05/09/26)",
    "category": "JoinONESIAMCoin",
    "extra": ""
+  },
+  {
+   "no": 1470,
+   "name": "Luxnara Jewelry SC Fl. M / Luxnara Jewelry ICON Fl. G",
+   "receipt_format": "เลขที่",
+   "notes": "กรอกครบทุกตัว เช่น ST69002108 (update 05/09/26)",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11229,5 +11237,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-05 17:41"
+ "generated_at": "2026-09-05 17:48"
 }
