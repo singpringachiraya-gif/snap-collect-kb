@@ -11159,6 +11159,14 @@
    "notes": "ดูสาขาใต้ Qr ล่างใบเสร็จ / กรอบครบ เช่น KPM6909-00009\nห้อง G42 – G43 Live 4/9/2026",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1467,
+   "name": "Guerlain SPD Fl. 1 / \nบิลออกเป็น store : Guerlain Event สะสมเข้า Guerlain SPD",
+   "receipt_format": "MEMO NO.",
+   "notes": "Ex. 5304-01-0000000319\nMember name ชื่อลูกค้า **ดูชื่อก่อนสะสม",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11221,5 +11229,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-04 18:20"
+ "generated_at": "2026-09-05 11:34"
 }
