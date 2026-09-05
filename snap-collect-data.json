@@ -4833,14 +4833,6 @@
    "extra": ""
   },
   {
-   "no": 608,
-   "name": "Levi Strauss (Thailand) Ltd. - Levi's / Levi's SPO Fl. G",
-   "receipt_format": "Receipt no",
-   "notes": "SPO",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
    "no": 609,
    "name": "Lockbox Group Ltd. - Lockbox",
    "receipt_format": "Receipt no",
@@ -11165,7 +11157,15 @@
    "name": "Guerlain SPD Fl. 1 / \nบิลออกเป็น store : Guerlain Event สะสมเข้า Guerlain SPD",
    "receipt_format": "MEMO NO.",
    "notes": "Ex. 5304-01-0000000319\nMember name ชื่อลูกค้า **ดูชื่อก่อนสะสม",
-   "category": "",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": 1468,
+   "name": "Wilson SD Fl. M",
+   "receipt_format": "Invoice NO.",
+   "notes": "กรอกครบทุกตัว เช่น XPY1NG2609050005",
+   "category": "Spending Only",
    "extra": ""
   }
  ],
@@ -11229,5 +11229,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-05 11:47"
+ "generated_at": "2026-09-05 16:45"
 }
