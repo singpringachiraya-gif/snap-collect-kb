@@ -7468,7 +7468,7 @@
    "no": 931,
    "name": "EMIS SC Fl. M",
    "receipt_format": "Order No.",
-   "notes": "เช่น 515218 (update 05/09/26)",
+   "notes": "เช่น 515218 (update by aom 05/09/26)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11172,7 +11172,7 @@
    "no": 1470,
    "name": "Luxnara Jewelry SC Fl. M / Luxnara Jewelry ICON Fl. G",
    "receipt_format": "เลขที่",
-   "notes": "กรอกครบทุกตัว เช่น ST69002108 (update 05/09/26)",
+   "notes": "กรอกครบทุกตัว เช่น ST69002108 (update by wanyee 05/09/26)",
    "category": "Spending Only",
    "extra": ""
   }
@@ -11237,5 +11237,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-05 17:48"
+ "generated_at": "2026-09-05 18:15"
 }
