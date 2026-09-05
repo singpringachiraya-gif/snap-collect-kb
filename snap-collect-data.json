@@ -2177,14 +2177,6 @@
    "extra": "Luxury"
   },
   {
-   "no": 275,
-   "name": "Max Mara & Furla SPD Fl. 1/  Furla SPO Fl. G",
-   "receipt_format": "No (เลขที่)",
-   "notes": "Max Mara & Furla Ex.07X0012210001  กรอกครบทุกตัว\nFurla SPO กรอกแค่ 5 ตัวท้าย เช่น 10004\nอัพเดท 28/01/2026",
-   "category": "JoinONESIAMCoin",
-   "extra": "Luxury"
-  },
-  {
    "no": 276,
    "name": "Gucci SPD Fl. 1 / Gucci ICON Fl. M",
    "receipt_format": "Tax invoice (ABB)",
@@ -4186,10 +4178,10 @@
   },
   {
    "no": 527,
-   "name": "Max Mara & Furla SPD Fl. 1  บิล FURLA",
+   "name": "Max Mara & Furla SPD Fl. 1   บิล FURLA",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอกครบทุกตัว",
-   "category": "JoinONESIAMCoin",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -11167,6 +11159,14 @@
    "notes": "กรอกครบทุกตัว เช่น XPY1NG2609050005",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1469,
+   "name": "Max Mara & Furla SPO Fl. G",
+   "receipt_format": "No (เลขที่)",
+   "notes": "กรอกครบทุกตัว",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11229,5 +11229,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-05 16:59"
+ "generated_at": "2026-09-05 17:31"
 }
