@@ -11162,9 +11162,9 @@
   },
   {
    "no": 1469,
-   "name": "Max Mara & Furla SPO Fl. G",
+   "name": "Furla SPO Fl. G",
    "receipt_format": "No (เลขที่)",
-   "notes": "กรอกครบทุกตัว",
+   "notes": "กรอกครบทุกตัว (updte by kade 05/09/26)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   }
@@ -11229,5 +11229,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-05 17:31"
+ "generated_at": "2026-09-05 17:41"
 }
