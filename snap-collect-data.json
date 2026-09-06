@@ -2164,7 +2164,7 @@
    "no": 273,
    "name": "Ferragamo ICON Fl. G / Ferragamo SPO Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "สาขา ICON กรอกครบล เช่น  A4BY-1-5110-16242 \nสาขาSPO กรอกเฉพาะ 5 ตัวท้าย\nอัพเดท 28/01/2026",
+   "notes": "สาขา ICON กรอกครบล เช่น  A4BY-1-5110-16242 \nสาขาSPO กรอกเฉพาะ 4 ตัวท้าย\nอัพเดท 28/01/2026 เกด",
    "category": "JoinONESIAMCoin",
    "extra": "Luxury"
   },
@@ -11237,5 +11237,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-06 10:39"
+ "generated_at": "2026-09-06 12:37"
 }
