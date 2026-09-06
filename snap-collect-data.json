@@ -10148,7 +10148,7 @@
    "no": 1337,
    "name": "หัวบิล Swatch Group Thailand Swatch Pop-Up สะสมเข้าตึก Siam Discovery ร้านค้า Swatch SD Fl. G",
    "receipt_format": "เลขที่่",
-   "notes": "Swatch Pop Up Spd FL.1   [Pop Up 1 June-31 June 2026 ปิดแล้ว] \nSwatch SD Fl. G เปิดถึง 31 AUg 2026\nTransaction No กรอกครบ เช่น 2068000018",
+   "notes": "Swatch Pop Up Spd FL.1   [Pop Up 1 June-31 June 2026 ปิดแล้ว] \nSwatch SD Fl. G เปิดถึง 30 SEP 2026\nTransaction No กรอกครบ เช่น 2068000018",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11237,5 +11237,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-06 10:18"
+ "generated_at": "2026-09-06 10:39"
 }
