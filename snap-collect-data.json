@@ -7666,7 +7666,7 @@
   },
   {
    "no": 958,
-   "name": "1:2 Coffee SC Fl. 2 / 1:2 Coffee ICON Fl. 4",
+   "name": "1:2 Coffee SC Fl. 2 / 1:2 Coffee ICON Fl. 4 / 1:2 Coffee SPD Fl. 3",
    "receipt_format": "Payment bill No",
    "notes": "ใช้เวลาออกใบเสร็จ/Payment No เช่น 1016/18\nเวลาออกใบเสร็จอยู่มุมขวามือหลังวันที่  / ถ้าไม่มีคิวใช้ บิลเลขที่ (Bill Ref No) เต็มหลัง # Ex.510180200 (update 18/10/2025)\nร้านเดิม One to two ไม่ใช่แล้ว อัพเดท 26/03/2026\nบิล Food Deal ซื้อจาก APP มีตัวปั้ม - SKU: Siam Deal Discount 5 THB (บางทีไม่ปั้มดูดีๆ)\n Reject: ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp",
    "category": "JoinONESIAMCoin",
@@ -11237,5 +11237,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-06 12:37"
+ "generated_at": "2026-09-06 16:56"
 }
