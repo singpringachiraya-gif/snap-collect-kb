@@ -4948,7 +4948,7 @@
    "no": 624,
    "name": "บริษัท ยัสปาลแอนด์ซันส์ / Jaspal & Sons Co.,Ltd -  Santas Home (spo) / Sealy Premier (spd)",
    "receipt_format": "No (เลขที่)",
-   "notes": "SPO",
+   "notes": "SPO ex.PD26090010\nSPD ex.PK26090008",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11237,5 +11237,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-06 16:56"
+ "generated_at": "2026-09-06 17:28"
 }
