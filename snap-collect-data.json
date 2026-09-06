@@ -4946,9 +4946,9 @@
   },
   {
    "no": 624,
-   "name": "บริษัท ยัสปาลแอนด์ซันส์ / Jaspal & Sons Co.,Ltd -  Santas Home (spo) / Sealy Premier (spd)",
+   "name": "บริษัท ยัสปาลแอนด์ซันส์ / Jaspal & Sons Co.,Ltd -  Santas Home (spo) / Sealy Premier Gallery SPD Fl. 3",
    "receipt_format": "No (เลขที่)",
-   "notes": "SPO ex.PD26090010\nSPD ex.PK26090008",
+   "notes": "สาขาที่ 30 Siam Premium Outlet ex.PD26090010\nสาขาที่ 26 Siam Paragon สะสมเข้า Sealy Premier Gallery SPD Fl. 3 ex.PK26090008",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11237,5 +11237,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-06 17:28"
+ "generated_at": "2026-09-06 17:30"
 }
