@@ -11175,6 +11175,14 @@
    "notes": "กรอกครบทุกตัว เช่น ST69002108 (update by wanyee 05/09/26)",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1471,
+   "name": "หัวบิล Robust Sport สะสมเข้า Chariot ICS Fl. 3",
+   "receipt_format": "",
+   "notes": "",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11237,5 +11245,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-06 17:32"
+ "generated_at": "2026-09-06 18:35"
 }
