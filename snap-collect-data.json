@@ -11179,9 +11179,9 @@
   {
    "no": 1471,
    "name": "หัวบิล Robust Sport สะสมเข้า Chariot ICS Fl. 3",
-   "receipt_format": "",
-   "notes": "",
-   "category": "",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "เลขใต้เวลา 4 ตัว เช่น 0012",
+   "category": "Spending Only",
    "extra": ""
   }
  ],
@@ -11245,5 +11245,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-06 18:35"
+ "generated_at": "2026-09-06 18:39"
 }
