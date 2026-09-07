@@ -7371,7 +7371,7 @@
   {
    "no": 919,
    "name": "Pat Edit สะสมเข้า Pucci SPO Fl. G",
-   "receipt_format": "Receipt no",
+   "receipt_format": "No (เลขที่)",
    "notes": "เปลี่ยนชื่อจากร้าน PUCCI เป็น Pat Edit \nUpdate จากเมล Kanyarat Pholprasert",
    "category": "Spending Only",
    "extra": ""
@@ -11245,5 +11245,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-07 14:39"
+ "generated_at": "2026-09-07 14:44"
 }
