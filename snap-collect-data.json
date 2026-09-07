@@ -2076,8 +2076,8 @@
    "no": 262,
    "name": "Alexander McQueen ICON Fl. M",
    "receipt_format": "Tax invoice (ABB)",
-   "notes": "กรอกครบทุกตัว เช่น AB563052025000121 \nบิลไหนไม่มี Tax Invoice ค่อยใช้เลข Ticket\nอัพเดท 08/08/2025\nสาขา SPD ปิด วันที่ 17-Mar-2026",
-   "category": "JoinONESIAMCoin",
+   "notes": "กรอกครบทุกตัว เช่น AB563052025000121 \nบิลไหนไม่มี Tax Invoice ค่อยใช้เลข Ticket\nอัพเดท 08/08/2025\nสาขา SPD ปิด วันที่ 17-Mar-2026\nสาขา ICON ปิด 6-Sep-2026",
+   "category": "ShopClosed",
    "extra": "Luxury"
   },
   {
@@ -3100,8 +3100,8 @@
    "no": 392,
    "name": "GULJAK ICON Fl. 6",
    "receipt_format": "No (เลขที่)",
-   "notes": "เลข NO ** กรอกเฉพาะ5ตัวท้าย  >> SCT/00042545 กรอกแค่ 42545",
-   "category": "JoinONESIAMCoin",
+   "notes": "เลข NO ** กรอกเฉพาะ5ตัวท้าย  >> SCT/00042545 กรอกแค่ 42545\nร้านปิดมีผลทันที 7-Sep-2026 by พี่มน",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11245,5 +11245,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-07 14:46"
+ "generated_at": "2026-09-07 16:19"
 }
