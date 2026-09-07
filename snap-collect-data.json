@@ -9995,8 +9995,8 @@
   {
    "no": 1317,
    "name": "Bringhome TheBacon SC Fl. 1",
-   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
-   "notes": "",
+   "receipt_format": "เลขใต้เลขผู้เสียภาษี (กรอกเต็ม)",
+   "notes": "EX.RC-39-202609106",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11245,5 +11245,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-06 18:39"
+ "generated_at": "2026-09-07 10:49"
 }
