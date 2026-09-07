@@ -7370,9 +7370,9 @@
   },
   {
    "no": 919,
-   "name": "Pucci SPO Fl. G",
+   "name": "Pat Edit สะสมเข้า Pucci SPO Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "",
+   "notes": "เปลี่ยนชื่อจากร้าน PUCCI เป็น Pat Edit \nUpdate จากเมล Kanyarat Pholprasert",
    "category": "Spending Only",
    "extra": ""
   },
@@ -7756,7 +7756,7 @@
    "no": 969,
    "name": "Pucci SPO Fl. G (ดูสาขาจากเลขห้อง G80A)",
    "receipt_format": "No (เลขที่)",
-   "notes": "POS186807002",
+   "notes": "เปลี่ยนชื่อจากร้าน PUCCI เป็น Pat Edit \nPOS186807002",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11245,5 +11245,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-07 11:09"
+ "generated_at": "2026-09-07 14:39"
 }
