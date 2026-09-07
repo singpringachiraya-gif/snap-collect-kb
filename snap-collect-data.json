@@ -9370,7 +9370,7 @@
   },
   {
    "no": 1225,
-   "name": "Bacha Coffee SPD Fl. G",
+   "name": "Bacha Coffee SPD Fl. G / Bacha Coffee ICON Fl. G",
    "receipt_format": "Tax invoice (ABB)",
    "notes": "กรอกครบทุกตัว Ex. U14P03/00983",
    "category": "Spending Only",
@@ -11253,5 +11253,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-07 17:47"
+ "generated_at": "2026-09-07 18:57"
 }
