@@ -11183,6 +11183,14 @@
    "notes": "เลขใต้เวลา 4 ตัว เช่น 0012",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1472,
+   "name": "Hunter ICON Fl. 3 (Minor Fashion Limited)",
+   "receipt_format": "Receipt No.",
+   "notes": "EX. 2DI1000000012",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11245,5 +11253,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-07 16:19"
+ "generated_at": "2026-09-07 17:47"
 }
