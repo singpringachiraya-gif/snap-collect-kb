@@ -7756,7 +7756,7 @@
    "no": 969,
    "name": "Pucci SPO Fl. G (ดูสาขาจากเลขห้อง G80A)",
    "receipt_format": "No (เลขที่)",
-   "notes": "เปลี่ยนชื่อจากร้าน PUCCI เป็น Pat Edit \nPOS186807002",
+   "notes": "เปลี่ยนชื่อจากร้าน PUCCI เป็น Pat Edit \nบริษัท พีเอที ลักชูรี่ คอนเซป จำกัด (สาขาที่ 0010) ห้อง G80A \n\nex.POS186807002",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11245,5 +11245,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-07 14:44"
+ "generated_at": "2026-09-07 14:46"
 }
