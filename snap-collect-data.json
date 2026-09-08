@@ -3146,7 +3146,7 @@
   },
   {
    "no": 398,
-   "name": "หัวใบเสร็จชื่อ KLANDTH (SiamCenterPos)  / Acme' de la vie SC FL. M",
+   "name": "หัวใบเสร็จชื่อ KLANDTH (SiamCenterPos)  / Acme ' de la vie SC FL. M",
    "receipt_format": "Tax invoice (ABB)",
    "notes": "หัวใบเสร็จชื่อ KLANDTH แล้วจะมีชื่อร้าน Boylondon บรรทัดล่างเหมือนกัน ให้ดูที่รหัสสินค้าว่าเป็นของแบรนด์ไหน  \n- ตัวอย่าง เช่น I041701  \nหัวใบเสร็จชื่อ KLANDTH (SiamCenterPos)  ที่ไม่ใช่  Acme' de la vie SC FL. M  สะสมเข้า Kland ใช้ order no กรอกเฉพาะตัวเลข ไม่ต้องใส่ SALEOR เช่น SALEOR17082025147 กรอกแค่  17082025147  อัปเดต 17/8/2025",
    "category": "Spending Only",
@@ -11253,5 +11253,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-08 14:17"
+ "generated_at": "2026-09-08 17:13"
 }
