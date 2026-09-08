@@ -8572,7 +8572,7 @@
    "no": 1119,
    "name": "Van VAN HEART ICON Fl. G",
    "receipt_format": "ID",
-   "notes": "หัวบิล Van Hart ทั้ง G และ ชั้น 4  สะสมเข้าร้านเดียวกัน",
+   "notes": "หัวบิล Van Hart ทั้ง G และ ชั้น 4  สะสมเข้าร้านเดียวกัน\nบิลอีกแบบใช้ \"เลขที่ใบเสร็จ\" กรอกครบทุกตัว Ex.202600000010882",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11253,5 +11253,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-08 17:13"
+ "generated_at": "2026-09-08 17:17"
 }
