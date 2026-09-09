@@ -8746,10 +8746,10 @@
   },
   {
    "no": 1141,
-   "name": "ว่าง",
-   "receipt_format": "",
+   "name": "SCRUMP GELATERIA",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
    "notes": "",
-   "category": "",
+   "category": "Popup&Event",
    "extra": ""
   },
   {
@@ -11253,5 +11253,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-09 15:28"
+ "generated_at": "2026-09-09 16:41"
 }
