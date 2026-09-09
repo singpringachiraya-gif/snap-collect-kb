@@ -8803,8 +8803,8 @@
   {
    "no": 1148,
    "name": "Lamunn SPD Fl. 4  / Lamunn ICON Fl. GF",
-   "receipt_format": "ID",
-   "notes": "หัวบิล ละมุนโรตีสายไหม",
+   "receipt_format": "ID / เลขที่บิล",
+   "notes": "หัวบิล ละมุนโรตีสายไหม \nสาขาสยามพารากอน สะสมใช้เลขหลัง - 9 ตัวท้าย เช่น 112806481",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11253,5 +11253,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-09 16:45"
+ "generated_at": "2026-09-09 17:42"
 }
