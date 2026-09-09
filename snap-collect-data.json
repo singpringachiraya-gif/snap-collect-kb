@@ -1140,7 +1140,7 @@
    "no": 143,
    "name": "TONKATSU WAKO SC Fl. 2 / TONKATSU WAKO ICON Fl. 6",
    "receipt_format": "Silp No",
-   "notes": "ใช้แค่เลขในวงเล็บเหมือนกันทั้ง2 สาขา Ex. 330204",
+   "notes": "ใช้แค่เลขในวงเล็บ Slip No ด้านล่างซ้ายมือ เหมือนกันทั้ง2 สาขา Ex. 330204",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11253,5 +11253,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-09 13:58"
+ "generated_at": "2026-09-09 15:22"
 }
