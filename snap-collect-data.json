@@ -9452,7 +9452,7 @@
    "no": 1235,
    "name": "Keep in Touch SPD Fl. 4",
    "receipt_format": "บิลเลขที่ (Bill Ref No.)",
-   "notes": "( Food Deal : ONESIAM Food Deal...THB )",
+   "notes": "กรอกครบเฉพาะตัวเลข\n( Food Deal : ONESIAM Food Deal...THB )",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11253,5 +11253,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-09 13:27"
+ "generated_at": "2026-09-09 13:58"
 }
