@@ -8882,7 +8882,7 @@
   },
   {
    "no": 1159,
-   "name": "VIVAIA SC Fl. M",
+   "name": "VIVAIA ICON Fl. 3",
    "receipt_format": "Invoice Number",
    "notes": "กรอกครบทุกตัว เช่น 10000081",
    "category": "Spending Only",
@@ -11253,5 +11253,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-09 11:10"
+ "generated_at": "2026-09-09 13:27"
 }
