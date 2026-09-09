@@ -5124,7 +5124,7 @@
    "no": 646,
    "name": "Ravipa Pop-Up ICON Fl. 1 /  Ravipa SPD Fl. 2 / Ravipa SC Fl. M / Ravipa ICON Fl. 5",
    "receipt_format": "Receipt no",
-   "notes": "สะสมตัวอักษร และ ตัวเลขทั้งหมด\r\n\r\nEx. POS1032346",
+   "notes": "สะสมตัวอักษร และ ตัวเลขทั้งหมด\n\nEx. POS1032346\n\nUpdate จากพี่ต้น /Siriyaporn /9-Sep-2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -8804,7 +8804,7 @@
    "no": 1148,
    "name": "Lamunn SPD Fl. 4  / Lamunn ICON Fl. GF",
    "receipt_format": "ID / เลขที่บิล",
-   "notes": "หัวบิล ละมุนโรตีสายไหม \nสาขาสยามพารากอน สะสมใช้เลขหลัง - 9 ตัวท้าย เช่น 112806481",
+   "notes": "หัวบิล ละมุนโรตีสายไหม \nสาขาสยามพารากอน สะสมใช้เลขหลัง - 9 ตัวท้าย เช่น 112806481\n\nUpdate จากป๊อป 9/9/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11253,5 +11253,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-09 17:42"
+ "generated_at": "2026-09-09 17:50"
 }
