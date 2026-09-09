@@ -5123,9 +5123,9 @@
   {
    "no": 646,
    "name": "Ravipa Pop-Up ICON Fl. 1 /  Ravipa SPD Fl. 2 / Ravipa SC Fl. M / Ravipa ICON Fl. 5",
-   "receipt_format": "No (เลขที่)",
-   "notes": "",
-   "category": "Spending Only",
+   "receipt_format": "Receipt no",
+   "notes": "สะสมตัวอักษร และ ตัวเลขทั้งหมด\r\n\r\nEx. POS1032346",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -11253,5 +11253,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-09 16:41"
+ "generated_at": "2026-09-09 16:45"
 }
