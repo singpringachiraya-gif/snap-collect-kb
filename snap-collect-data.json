@@ -8604,8 +8604,8 @@
    "no": 1123,
    "name": "Oh' Polly SPD Fl. G หัวบิล Polly Atelier Tea",
    "receipt_format": "ID",
-   "notes": "กรอกครบ",
-   "category": "Spending Only",
+   "notes": "กรอกครบ \nShop Closed 9/9/2026",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -11253,5 +11253,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-09 15:22"
+ "generated_at": "2026-09-09 15:28"
 }
