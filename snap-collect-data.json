@@ -171,7 +171,7 @@
   {
    "no": 22,
    "name": "Ben's Cookies SPD Fl. G",
-   "receipt_format": "bill",
+   "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ Ex.A756624",
    "category": "Spending Only",
    "extra": ""
@@ -691,16 +691,16 @@
   {
    "no": 87,
    "name": "La Meow SC Fl. 2",
-   "receipt_format": "No (เลขที่)",
-   "notes": "Ex.601300072 / (Fooddeal 23/06/2026)",
+   "receipt_format": "บิลเลขที่",
+   "notes": "ตัวอย่าง #125667 (เอาเเค่ตัวเลขไม่เอา #) Ex.601300072\n(Fooddeal 23/06/2026)",
    "category": "Spending Only",
    "extra": ""
   },
   {
    "no": 88,
-   "name": "Little Mermaid SPD Fl. G",
-   "receipt_format": "bill no (BNO)",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ Ex.RL120127262",
+   "name": "หัวบิล Betagro Mermaid สะสมเข้า Little Mermaid SPD Fl. G",
+   "receipt_format": "Bill #",
+   "notes": "กรอกครบทุกตัวหลัง #: รวมอักขระพิเศษ Ex.RL120127262",
    "category": "Spending Only",
    "extra": ""
   },
@@ -2891,8 +2891,8 @@
   {
    "no": 366,
    "name": "บริษัท Discovery Retail  / DCR SD Fl. G - DCR SD Discovery Retial/Ecotopia Fl. G",
-   "receipt_format": "Pos-Reciept (PRH)",
-   "notes": "อัพเดท 29/06/2026\n1. สังเกต member กลางบิล ถ้ามี Reject : ใบเสร็จสะสมแล้ว (สะสมจากร้าน)\n2.ดูดีๆ ถ้ามี  DCR-Ecotopia SPD (ข้างล่างคำว่า DISCOVERY RETAIL) สะสมเข้า >>  Ecotopia SPD Fl. 5\n3.หัวบิล Discovery Retail เฉพาะตึก SD ไม่ต้องดูรายการสินค้า --> สะสม DCR SD Fl. G ได้เลยค่ะ",
+   "receipt_format": "Pos-Reciept (PRH) /อ่านหมายเหตุ",
+   "notes": "อัพเดท 10/9/2026\nใบเสร็จแบบใหม่ Receipt# กอกครบหลัง # เป็นต้นไป\nเช่น 1S242042006010299        \n\n1. สังเกต member กลางบิล ถ้ามี Reject : ใบเสร็จสะสมแล้ว (สะสมจากร้าน)\n2.ดูดีๆ ถ้ามี  DCR-Ecotopia SPD (ข้างล่างคำว่า DISCOVERY RETAIL) สะสมเข้า >>  Ecotopia SPD Fl. 5\n3.หัวบิล Discovery Retail เฉพาะตึก SD ไม่ต้องดูรายการสินค้า --> สะสม DCR SD Fl. G ได้เลยค่ะ",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11261,5 +11261,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-10 10:48"
+ "generated_at": "2026-09-10 13:23"
 }
