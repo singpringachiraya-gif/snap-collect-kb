@@ -5988,7 +5988,7 @@
    "no": 742,
    "name": "UMAMI SC Fl. 2 / UMAMI ICON Fl. 6",
    "receipt_format": "ID",
-   "notes": "ปัจจุบันมีสาขาเดียว Siamcenter + ICON  / หัวบิลจะเขียนว่า Siam Square Soi7",
+   "notes": "ปัจจุบันมีสาขาเดียว Siamcenter + ICON  / หัวบิลจะเขียนว่า Siam Square Soi7\nสาขา Siam Center = BRANCH 00001 \nสาขา Iconsiam จะมีชื่อสาขาบอก\n\nUpdate Ton 10/9/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11277,5 +11277,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-10 15:07"
+ "generated_at": "2026-09-10 16:05"
 }
