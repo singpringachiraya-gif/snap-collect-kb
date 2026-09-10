@@ -11191,6 +11191,14 @@
    "notes": "EX. 2DI1000000012",
    "category": "",
    "extra": ""
+  },
+  {
+   "no": 1473,
+   "name": "Nakamol ICON Fl. 3",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "มุมขวาล่างกรอกทั้งหมดหลัง # เช่น 78-2803",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11253,5 +11261,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-09 17:57"
+ "generated_at": "2026-09-10 09:36"
 }
