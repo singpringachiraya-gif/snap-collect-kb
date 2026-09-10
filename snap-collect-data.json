@@ -763,8 +763,8 @@
   {
    "no": 96,
    "name": "Maple Tree House SPD Fl. G (หัวบิลที่อยู่ถนนข้าวสาร)",
-   "receipt_format": "Reference no",
-   "notes": "ตัวอย่าง เช่น #304210043 ** กรอกครบทุกตัวยกเว้น #",
+   "receipt_format": "Payment bill no",
+   "notes": "ตัวอย่าง เช่น #304210043 ** กรอกครบเลขทุกตัวยกเว้น #",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11261,5 +11261,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-10 09:36"
+ "generated_at": "2026-09-10 10:00"
 }
