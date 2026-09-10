@@ -11189,7 +11189,7 @@
    "name": "Hunter ICON Fl. 3 (Minor Fashion Limited)",
    "receipt_format": "Receipt No.",
    "notes": "EX. 2DI1000000012",
-   "category": "",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -11197,6 +11197,14 @@
    "name": "Nakamol ICON Fl. 3",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "มุมขวาล่างกรอกทั้งหมดหลัง # เช่น 78-2803",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": 1474,
+   "name": "Juice Up ICS Fl. G",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "มุมขวาล่างกรอกทั้งหมดหลัง # เช่น 5-7531",
    "category": "Spending Only",
    "extra": ""
   }
@@ -11261,5 +11269,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-10 13:32"
+ "generated_at": "2026-09-10 13:53"
 }
