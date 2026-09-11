@@ -2292,7 +2292,7 @@
    "no": 290,
    "name": "ไอริส2005 - Sirivannavari Bangkok / SIRIVANNAVARI Bangkok SPD Fl. 1",
    "receipt_format": "bill no (BNO)",
-   "notes": "Ex.SRSO-202601117 กรอกครบทุกตัว\nอัพเดท 28/01/2026",
+   "notes": "Ex.SRSO-202601117 กรอกครบทุกตัว / บิล EVENT2 สะสมได้ เช่น SREV2RE-32-202609017\nอัพเดท 11/09/2026",
    "category": "Spending Only",
    "extra": "Luxury"
   },
@@ -11277,5 +11277,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-10 16:34"
+ "generated_at": "2026-09-11 13:47"
 }
