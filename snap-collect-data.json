@@ -866,9 +866,9 @@
   },
   {
    "no": 109,
-   "name": "Onitsuka Tiger ICON Fl. 1 / Onitsuka Tiger SPO Fl. G  (JoinCoin)",
+   "name": "Onitsuka Tiger ICON Fl. 1",
    "receipt_format": "BNO",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ\nJoinCoin - เฉพาะสาขา SPO",
+   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
    "extra": ""
   },
@@ -1770,7 +1770,7 @@
   },
   {
    "no": 223,
-   "name": "Onitsuka Tiger SPO Fl. G  (JoinCoin) / Onitsuka Tiger ICON Fl. 1",
+   "name": "ว่าง",
    "receipt_format": "Receipt no",
    "notes": "ใช้เลข Tax Invoice / Receipt No Ex.073853 / ใช้ BNO  (วิธีดูสาขา POS ID :OTSVB -01= สาขาSPO)",
    "category": "Spending Only",
@@ -4338,10 +4338,10 @@
   },
   {
    "no": 547,
-   "name": "Onitsuka Tiger (Onitsuka Tiger ICON Fl. 1/ Onitsuka Tiger SPO Fl. G",
-   "receipt_format": "Receipt no",
-   "notes": "กรอกครบทุกตัว (ไม่ต้องใส่อักขระพิเศษ)",
-   "category": "Spending Only",
+   "name": "Onitsuka Tiger SPO Fl. G",
+   "receipt_format": "Number",
+   "notes": "กรอกครบทุกตัวเฉพาะตัวเลข (ไม่ต้องใส่อักขระพิเศษ) เช่น 1000018075\nเกด 13/9/2026",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -11285,5 +11285,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-13 12:07"
+ "generated_at": "2026-09-13 17:36"
 }
