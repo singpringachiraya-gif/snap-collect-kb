@@ -11215,6 +11215,14 @@
    "notes": "สะสมเข้้าร้านค้า Prima Gold SPD Fl. 2\nดูสาขาที่ออกใบกำกับภาษี 00062 /SPG\n\nex. INV001/26090031",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1476,
+   "name": "Expert Watch ICON Fl. BM1",
+   "receipt_format": "เลขที่",
+   "notes": "เช่น 235863",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11277,5 +11285,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-11 13:47"
+ "generated_at": "2026-09-13 12:07"
 }
