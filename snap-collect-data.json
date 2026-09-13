@@ -4340,7 +4340,7 @@
    "no": 547,
    "name": "Onitsuka Tiger SPO Fl. G",
    "receipt_format": "Number",
-   "notes": "กรอกครบทุกตัวเฉพาะตัวเลข (ไม่ต้องใส่อักขระพิเศษ) เช่น 1000018075\nเกด 13/9/2026",
+   "notes": "กรอกเฉพาะตัวเลข (ไม่ต้องใส่อักขระพิเศษ) เช่น 1000018075\nเกด 13/9/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11285,5 +11285,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-13 17:36"
+ "generated_at": "2026-09-13 18:03"
 }
