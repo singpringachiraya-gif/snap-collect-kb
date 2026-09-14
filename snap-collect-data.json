@@ -11235,9 +11235,9 @@
   {
    "no": 1478,
    "name": "Crystal & Symphony SPD Fl. 3",
-   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
-   "notes": "",
-   "category": "JoinONESIAMCoin",
+   "receipt_format": "TNA",
+   "notes": "Reject : สะสมผ่านร้านค้าเท่านั้น (TNA:ShopList)",
+   "category": "TNA",
    "extra": ""
   }
  ],
@@ -11301,5 +11301,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-14 14:31"
+ "generated_at": "2026-09-14 14:38"
 }
