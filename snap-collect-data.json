@@ -8770,9 +8770,9 @@
   },
   {
    "no": 1144,
-   "name": "KAYOU ICON Fl. 5 (join Coin)",
+   "name": "KAYOU ICON Fl. 5",
    "receipt_format": "No (เลขที่)",
-   "notes": "สะสมตัวเลข 4 ตัวท้าย เช่น ตัวอย่าง 0005 \nSpending Only เริ่ม 03/06/2026",
+   "notes": "สะสมตัวเลข 4 ตัวท้าย NO หรือ 4 ตัวท้ายใต้บาร์โค้ดก็ได้ เป็นเลขเดียวกัน\n เช่น ตัวอย่าง 0005 \n\nีUpdate  14/09/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11231,6 +11231,14 @@
    "notes": "เช่น D11000000078",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1478,
+   "name": "Crystal & Symphony SPD Fl. 3",
+   "receipt_format": "TNA",
+   "notes": "Reject TNA สะสมที่ร้านเท่านั้น",
+   "category": "TNA",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11293,5 +11301,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-14 11:11"
+ "generated_at": "2026-09-14 14:25"
 }
