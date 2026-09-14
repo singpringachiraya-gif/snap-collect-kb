@@ -11223,6 +11223,14 @@
    "notes": "เช่น 235863",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1477,
+   "name": "Marithe Francois Girbaud ICON Fl. 1",
+   "receipt_format": "Docket No.",
+   "notes": "เช่น D11000000078",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11285,5 +11293,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-14 10:16"
+ "generated_at": "2026-09-14 11:11"
 }
