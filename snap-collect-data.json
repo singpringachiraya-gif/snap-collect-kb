@@ -2003,8 +2003,8 @@
   {
    "no": 252,
    "name": "Xiaomi Store SPD Fl. 3 / Xiaomi SD Fl. 2 (บริษัท เลค คอมมูนิเคชั่น จำกัด)",
-   "receipt_format": "No (เลขที่)",
-   "notes": "หมายเลขคำสั่งซื้อ เช่น 1257122156150968",
+   "receipt_format": "หมายเลขใบเสร็จ",
+   "notes": "เช่น THMS2CABBIN202609130000039579\t\n\nอัปเดต 14/9/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11285,5 +11285,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-13 18:03"
+ "generated_at": "2026-09-14 10:16"
 }
