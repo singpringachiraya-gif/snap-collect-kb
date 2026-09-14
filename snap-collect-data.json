@@ -4,7 +4,7 @@
    "no": 1,
    "name": "CHA TRA MUE SPD Fl. G / CHA TRA MUE SD Fl. 3 / CHA TRA MUE ICON Fl. G / CHA TRA MUE ICS Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "เช่น 0155624 / มี  Member ร้านค้า ถ้าชื่อไม่ตรง Reject: ชื่อที่ปรากฏบนใบเสร็จไม่ตรงกับชื่อบัญชี ONESIAM SuperAp",
+   "notes": "",
    "category": "Spending Only",
    "extra": ""
   },
@@ -1770,9 +1770,9 @@
   },
   {
    "no": 223,
-   "name": "ว่าง",
-   "receipt_format": "Receipt no",
-   "notes": "ใช้เลข Tax Invoice / Receipt No Ex.073853 / ใช้ BNO  (วิธีดูสาขา POS ID :OTSVB -01= สาขาSPO)",
+   "name": "Dream Toy ดูรหัส",
+   "receipt_format": "Rcpt",
+   "notes": "รหัส 190xxxxxxxx สะสมเข้าร้าน Nanoblock SC Fl. 1\nกรอกเลขครบ เช่น 1901002528",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11309,5 +11309,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-14 16:35"
+ "generated_at": "2026-09-14 16:54"
 }
