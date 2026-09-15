@@ -100,7 +100,7 @@
    "no": 13,
    "name": "Auto Spa SPD Fl. BF / Auto Planet Siam Paragon",
    "receipt_format": "Rcpt",
-   "notes": "กรอกครบทุุกตัวหลัง # เช่น 1001054435",
+   "notes": "กรอกครบทุุกตัวหลัง # เช่น 1001054435\n\nสะสมเข้าร้านค้า Auto Spa SPD Fl. B",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11325,5 +11325,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-15 15:22"
+ "generated_at": "2026-09-15 15:27"
 }
