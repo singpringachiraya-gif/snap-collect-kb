@@ -11257,11 +11257,19 @@
    "extra": ""
   },
   {
-   "no": 1480,
+   "no": 1481,
    "name": "Thaitipshop SPD Fl. G",
    "receipt_format": "เลขที่",
    "notes": "กรอกครบ เช่น 02000022",
    "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": 1482,
+   "name": "ICONIC CRAFT COFFEE EXPO 2026",
+   "receipt_format": "",
+   "notes": "วันที่ 16-20 SEP 2026",
+   "category": "Popup&Event",
    "extra": ""
   }
  ],
@@ -11325,5 +11333,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-15 15:27"
+ "generated_at": "2026-09-15 16:53"
 }
