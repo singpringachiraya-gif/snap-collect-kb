@@ -3939,8 +3939,8 @@
   {
    "no": 497,
    "name": "Nose Tea SC Fl. 2 / Nose Tea EXT null",
-   "receipt_format": "ID",
-   "notes": "ระบุ discount all thb สะสมเต็ม เนื่องจากเป็นการใช้ voucher ห้าง หรือ burn onesiam coin \n External นอกห้าง สาขาเดียว Town in Town",
+   "receipt_format": "ID / Tax Inv",
+   "notes": "ระบุ discount all thb สะสมเต็ม เนื่องจากเป็นการใช้ voucher ห้าง หรือ burn onesiam coin \n External นอกห้าง สาขาเดียว Town in Town\n\nสาขา ICONSIAM เปลี่ยนใบเสร็จใช้ Tax Inv กรอกเต็ม เช่น NT00029/0000075\nสาขา Siam Center ใช้ ID / ถ้าเปลี่ยนแบบรบกวนแจ้ง สอบถาม",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11333,5 +11333,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-15 17:26"
+ "generated_at": "2026-09-15 18:06"
 }
