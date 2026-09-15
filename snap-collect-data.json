@@ -1972,7 +1972,7 @@
    "no": 248,
    "name": "Coffee World SPD Fl. 4",
    "receipt_format": "No (เลขที่)",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
+   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ\n\n* สะสมตามยอด Grand Total ของใบเสร็จเลย / ดูแค่เมมเบอร์ชื่อตรงกับแอคเคาท์",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11317,5 +11317,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-15 11:22"
+ "generated_at": "2026-09-15 11:24"
 }
