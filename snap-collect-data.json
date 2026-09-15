@@ -7146,7 +7146,7 @@
   },
   {
    "no": 890,
-   "name": "Coffee World-SPD",
+   "name": "ว่าง",
    "receipt_format": "No (เลขที่)",
    "notes": "",
    "category": "Spending Only",
@@ -11317,5 +11317,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-14 17:05"
+ "generated_at": "2026-09-15 11:22"
 }
