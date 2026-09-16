@@ -11335,6 +11335,14 @@
    "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบ เช่น 2M6ZR",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1485,
+   "name": "YEO UN BKK สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
+   "receipt_format": "ID",
+   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบ เช่น 2M6ZR",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11397,5 +11405,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-16 14:03"
+ "generated_at": "2026-09-16 14:06"
 }
