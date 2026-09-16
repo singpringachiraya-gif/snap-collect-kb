@@ -11319,6 +11319,22 @@
    "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบหลัง # เช่น 4-2131",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1485,
+   "name": "Daily Theory สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบหลัง # เช่น 4-2131",
+   "category": "Popup&Event",
+   "extra": ""
+  },
+  {
+   "no": 1485,
+   "name": "Smizzle Burger สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
+   "receipt_format": "ID",
+   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบ เช่น 2M6ZR",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11381,5 +11397,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-16 14:02"
+ "generated_at": "2026-09-16 14:03"
 }
