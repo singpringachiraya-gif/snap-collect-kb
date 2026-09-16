@@ -11407,6 +11407,14 @@
    "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบ เช่น CA202609160013",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1485,
+   "name": "หัวบิล Great Earth / Caffe Vergnano 1882 by Great Earth สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบหลัง # เช่น 4-0064",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11469,5 +11477,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-16 16:40"
+ "generated_at": "2026-09-16 17:13"
 }
