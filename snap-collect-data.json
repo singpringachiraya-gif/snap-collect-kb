@@ -11279,6 +11279,14 @@
    "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบหลัง # เป็นต้นไป เช่น PS001007544",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1484,
+   "name": "หัวบิล บริษัท ไอคอนสยาม จำกัด สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
+   "receipt_format": "Rcpt",
+   "notes": "งานวันที่ 16-20 SEP 2026 / ดูรายการซื่อเกี่ยวกับ Coffee\n\nกรอกครบหลัง # เช่น 1E01000199",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11341,5 +11349,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-16 12:10"
+ "generated_at": "2026-09-16 12:35"
 }
