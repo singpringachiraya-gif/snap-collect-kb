@@ -1492,7 +1492,7 @@
    "no": 187,
    "name": "PP SPACE SPO Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "กรอกครบทุกตัว",
+   "notes": "กรอกครบทุกตัว \n\nศัญญาร้านสิ้นสุด 30 กันยายน 2569",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11493,5 +11493,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-16 18:28"
+ "generated_at": "2026-09-16 18:35"
 }
