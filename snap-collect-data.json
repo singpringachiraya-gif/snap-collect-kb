@@ -10706,7 +10706,7 @@
   },
   {
    "no": 1412,
-   "name": "หัวบิล โคแอน จำกัด / Oura Ring SPD Fl. 3",
+   "name": "Koan หัวบิล โคแอน จำกัด / สะสมเข้า Oura Ring SPD Fl. 3",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "ใช้เลขน้าวันที่ กรอกครบทุกตัว เช่น 0011000001413",
    "category": "Spending Only",
@@ -11349,5 +11349,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-16 12:35"
+ "generated_at": "2026-09-16 13:07"
 }
