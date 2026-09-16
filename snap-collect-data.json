@@ -11271,6 +11271,14 @@
    "notes": "งานวันที่ 16-20 SEP 2026 \n\nบิลเขียนมือ มีตราแสตมป์ ONESIAM สะสม เล่มที่/เลขที่ เช่น A00/1\n\nบิลของทางร้านเอง หากเจอใบเสร็จเเล้วส่งมาถามได้เลยค่ะ (ตอนนี้ยังไม่มีตัวอย่างใบเสร็จ)\n\nใบเสร็จรับเงิน Thonburian Vibes / หากเจอ Reject ภาพใบเสร็จไม่ชัดเจน เนื่องจากไม่มีเลขที่ใบเสร็จ",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1483,
+   "name": "Yellow Stuff สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
+   "receipt_format": "Invoice",
+   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบหลัง # เป็นต้นไป เช่น PS001007544",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11333,5 +11341,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-15 18:06"
+ "generated_at": "2026-09-16 12:10"
 }
