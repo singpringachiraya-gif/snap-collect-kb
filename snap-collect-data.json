@@ -11423,6 +11423,14 @@
    "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบหลัง # เช่น 14-0045",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1485,
+   "name": "THE ESPRESSO TIME A&H สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
+   "receipt_format": "ID",
+   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบ เช่น DQS7T",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11485,5 +11493,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-16 17:21"
+ "generated_at": "2026-09-16 17:27"
 }
