@@ -4930,8 +4930,8 @@
   },
   {
    "no": 622,
-   "name": "ว่าง",
-   "receipt_format": "Ticket No",
+   "name": "ADLV SC Fl. G",
+   "receipt_format": "เจอ",
    "notes": "SPO (ดูชื่อร้านตรง Branch Name : AT (American Tourister) , Samsonite ,Tumi จะมีเขียนบอก // กรอกครบ",
    "category": "Spending Only",
    "extra": ""
@@ -11493,5 +11493,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-16 18:35"
+ "generated_at": "2026-09-16 18:40"
 }
