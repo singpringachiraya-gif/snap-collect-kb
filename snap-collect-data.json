@@ -4995,8 +4995,8 @@
   {
    "no": 630,
    "name": "The Alley SPO Fl. G (JoinCoin)  / The Alley SC Fl. 2 (JoinCoin)  /The Alley ICON Fl. 3 (Spending)",
-   "receipt_format": "SN",
-   "notes": "Ex. 2025030501003\n(Food Deal : One siam-100% )",
+   "receipt_format": "Receipt no",
+   "notes": "Ex. 2025030501003\n(Food Deal : One siam-100% )\n\nกรอกครบ 16/9/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11373,5 +11373,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-16 13:29"
+ "generated_at": "2026-09-16 13:49"
 }
