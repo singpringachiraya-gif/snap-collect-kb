@@ -11389,7 +11389,15 @@
    "name": "โรงคั่วกาแฟ วังน้ำเขียว สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
    "receipt_format": "เลขที่",
    "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบ เช่น 92029066",
-   "category": "",
+   "category": "Popup&Event",
+   "extra": ""
+  },
+  {
+   "no": 1485,
+   "name": "sodo donut สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
+   "receipt_format": "ID",
+   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบ เช่น LD3UO",
+   "category": "Popup&Event",
    "extra": ""
   }
  ],
@@ -11453,5 +11461,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-16 15:40"
+ "generated_at": "2026-09-16 16:13"
 }
