@@ -4930,7 +4930,7 @@
   },
   {
    "no": 622,
-   "name": "บริษัท Samsonite (Thailand) Co., Ltd - Samsonite, Tumi, American Tourister",
+   "name": "ว่าง",
    "receipt_format": "Ticket No",
    "notes": "SPO (ดูชื่อร้านตรง Branch Name : AT (American Tourister) , Samsonite ,Tumi จะมีเขียนบอก // กรอกครบ",
    "category": "Spending Only",
@@ -11493,5 +11493,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-16 18:25"
+ "generated_at": "2026-09-16 18:26"
 }
