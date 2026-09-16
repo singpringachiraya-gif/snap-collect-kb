@@ -11311,6 +11311,14 @@
    "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบหลัง # เช่น 4-2131",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1485,
+   "name": "BAANORPOR บ้านออพอ สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบหลัง # เช่น 4-2131",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11373,5 +11381,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-16 13:49"
+ "generated_at": "2026-09-16 14:02"
 }
