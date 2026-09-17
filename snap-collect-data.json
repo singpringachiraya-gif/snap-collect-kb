@@ -11431,6 +11431,14 @@
    "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบ เช่น DQS7T",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1482,
+   "name": "BANGKOK WATCH WEEK SPD Fl. M",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11493,5 +11501,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-16 18:40"
+ "generated_at": "2026-09-17 11:19"
 }
