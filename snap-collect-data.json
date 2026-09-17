@@ -258,7 +258,7 @@
   },
   {
    "no": 33,
-   "name": "CC-OO ICON Fl. 2",
+   "name": "CC-OO ICON Fl. 2 /CC-OO SC Fl. M",
    "receipt_format": "Document No",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
@@ -11517,5 +11517,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-17 15:10"
+ "generated_at": "2026-09-17 16:43"
 }
