@@ -7922,10 +7922,10 @@
   },
   {
    "no": 990,
-   "name": "KG & Salon Inter SPD Fl. 2 (open 15 july)",
+   "name": "บิล ซาจิทาร์ริโอ จำกัด สะสมเข้า KG & Salon Inter SPD Fl. 2 (open 15 july)",
    "receipt_format": "เลขที่",
    "notes": "เช่น 57178",
-   "category": "JoinONESIAMCoin",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -11517,5 +11517,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-17 15:03"
+ "generated_at": "2026-09-17 15:10"
 }
