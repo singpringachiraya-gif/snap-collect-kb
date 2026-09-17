@@ -755,7 +755,7 @@
   {
    "no": 95,
    "name": "Mandarin Oriental Shop SPD Fl. G / Mandarin Oriental Dry Cleaning SPD Fl. B",
-   "receipt_format": "Tax invoice (ABB)",
+   "receipt_format": "Tax invoice (ABB) / ดูด้านล่างใบเสร็จ",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ Ex.T26-165609",
    "category": "Spending Only",
    "extra": ""
@@ -11509,5 +11509,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-17 14:06"
+ "generated_at": "2026-09-17 14:28"
 }
