@@ -11444,7 +11444,7 @@
    "no": 1482,
    "name": "FRIENDS&FAMILY EVENT ICON Fl. 7",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "สะสมได้หลายแบบ ดูตามใบเสร็จ ที่มีชื่องาน",
+   "notes": "สะสมได้หลายแบบ ดูตามใบเสร็จ ที่มีชื่องาน  อีเว้น Promotion\n\n3.1 Phillip Lim\nAlexander Wang\nAmerican Eagle\nArmani\nCamper\nCK (Calvin Klein)\nClub21 Multi-Label\nCoccinelle\nFurla\nKate Spade\nKeds\nKenneth Cole\nMax Mara\nMulberry\nPaul Smith\nRag & Bone\nRockfish Weatherwear\nSperry\nStella McCartney\nTommy Hilfiger\nTommy Jeans\nCosmetic Brands",
    "category": "Popup&Event",
    "extra": ""
   },
@@ -11525,5 +11525,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-17 16:54"
+ "generated_at": "2026-09-17 16:58"
 }
