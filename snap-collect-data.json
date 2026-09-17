@@ -9204,15 +9204,15 @@
    "no": 1204,
    "name": "Sudtana SPD Fl. 5",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "มุมขวาล่าง Ex. #1-0026",
+   "notes": "มุมขวาล่างเลขหลัง # กรอกครบ Ex. 1-0026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
    "no": 1205,
-   "name": "Distar Fresh SPD Fl. 5A",
-   "receipt_format": "",
-   "notes": "",
+   "name": "Distar Fresh /ไดสตาร์ เฟรช ฟาร์ม",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "สะสมเข้า Distar Fresh SPD Fl. 5A\n\nมุมขวาล่าง หรือ มุมขวาบน เลขหลัง #  \nกรอกครบทุกตัวรวมอักขระพิเศษ Ex. 1-0026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11525,5 +11525,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-17 16:58"
+ "generated_at": "2026-09-17 19:00"
 }
