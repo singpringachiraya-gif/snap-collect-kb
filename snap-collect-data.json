@@ -7146,9 +7146,9 @@
   },
   {
    "no": 890,
-   "name": "ว่าง",
-   "receipt_format": "No (เลขที่)",
-   "notes": "",
+   "name": "G-Shock Casio SC Fl. M",
+   "receipt_format": "INV No.",
+   "notes": "001/00040456",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11517,5 +11517,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-17 16:43"
+ "generated_at": "2026-09-17 16:48"
 }
