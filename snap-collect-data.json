@@ -11455,6 +11455,14 @@
    "notes": "เช่น 001/00007134",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1482,
+   "name": "Puff SC Fl. M",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "เลขสะสมอยู่ใต้เลขผู้เสียภาษี\nเช่น RC-10-102-202609276",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11517,5 +11525,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-17 16:48"
+ "generated_at": "2026-09-17 16:54"
 }
