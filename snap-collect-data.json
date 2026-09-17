@@ -11437,7 +11437,7 @@
    "name": "BANGKOK WATCH WEEK SPD Fl. M",
    "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
    "notes": "",
-   "category": "",
+   "category": "Popup&Event",
    "extra": ""
   },
   {
@@ -11445,7 +11445,15 @@
    "name": "FRIENDS&FAMILY EVENT ICON Fl. 7",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "สะสมได้หลายแบบ ดูตามใบเสร็จ ที่มีชื่องาน",
-   "category": "",
+   "category": "Popup&Event",
+   "extra": ""
+  },
+  {
+   "no": 1482,
+   "name": "Temp Shop สะสมเข้า FRIENDS&FAMILY EVENT ICON Fl. 7",
+   "receipt_format": "INV NO.",
+   "notes": "เช่น 001/00007134",
+   "category": "Popup&Event",
    "extra": ""
   }
  ],
@@ -11509,5 +11517,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-17 14:28"
+ "generated_at": "2026-09-17 15:03"
 }
