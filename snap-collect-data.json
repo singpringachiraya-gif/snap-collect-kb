@@ -2453,7 +2453,7 @@
    "name": "Prima Gems SPD Fl. M",
    "receipt_format": "No (เลขที่)",
    "notes": "Ex.R001242 กรอกครบทุกตัว / อัพเดท 28/01/2026",
-   "category": "JoinONESIAMCoin",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -4029,7 +4029,7 @@
    "name": "Rajdamri Gems SPD Fl. 1",
    "receipt_format": "Receipt no",
    "notes": "",
-   "category": "JoinONESIAMCoin",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -11533,5 +11533,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-18 11:34"
+ "generated_at": "2026-09-18 11:37"
 }
