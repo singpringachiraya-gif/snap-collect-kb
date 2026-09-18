@@ -2253,7 +2253,7 @@
    "name": "Mikimoto SPD Fl. M",
    "receipt_format": "No (เลขที่)",
    "notes": "Ex.R2601-00004 กรอครบทุกตัว\nอัพเดท 28/01/2026",
-   "category": "JoinONESIAMCoin",
+   "category": "Spending Only",
    "extra": "Luxury"
   },
   {
@@ -11533,5 +11533,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-18 10:43"
+ "generated_at": "2026-09-18 11:34"
 }
