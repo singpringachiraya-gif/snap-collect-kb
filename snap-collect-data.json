@@ -11463,6 +11463,14 @@
    "notes": "เลขสะสมอยู่ใต้เลขผู้เสียภาษี\nเช่น RC-10-102-202609276",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1482,
+   "name": "ซาลาเปาทับหลี ประกายจันทร์ ICS Fl. G",
+   "receipt_format": "เลขที่",
+   "notes": "กรอกครบ เช่น L-260918-615505",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11525,5 +11533,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-17 19:00"
+ "generated_at": "2026-09-18 10:43"
 }
