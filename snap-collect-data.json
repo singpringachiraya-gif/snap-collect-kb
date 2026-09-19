@@ -11471,6 +11471,14 @@
    "notes": "กรอกครบ เช่น L-260918-615505",
    "category": "",
    "extra": ""
+  },
+  {
+   "no": 1482,
+   "name": "AMAM LONBAKERY TOWN SPD Fl. G",
+   "receipt_format": "",
+   "notes": "",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11533,5 +11541,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-18 18:35"
+ "generated_at": "2026-09-19 10:43"
 }
