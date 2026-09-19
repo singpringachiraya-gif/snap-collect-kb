@@ -11469,15 +11469,15 @@
    "name": "ซาลาเปาทับหลี ประกายจันทร์ ICS Fl. G",
    "receipt_format": "เลขที่",
    "notes": "กรอกครบ เช่น L-260918-615505",
-   "category": "",
+   "category": "Spending Only",
    "extra": ""
   },
   {
    "no": 1482,
    "name": "AMAM LONBAKERY TOWN SPD Fl. G",
-   "receipt_format": "",
-   "notes": "",
-   "category": "",
+   "receipt_format": "บาร์โค้ดคำสั่งซื้อ",
+   "notes": "กรอกครบทุกตัว เช่น 20260919100740556072610008",
+   "category": "Spending Only",
    "extra": ""
   }
  ],
@@ -11541,5 +11541,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-19 10:43"
+ "generated_at": "2026-09-19 10:49"
 }
