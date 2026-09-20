@@ -11479,6 +11479,14 @@
    "notes": "กรอกครบทุกตัว เช่น 20260919100740556072610008",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1487,
+   "name": "Mechat Matcha. สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบหลัง # เช่น 1-0400",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11541,5 +11549,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-20 15:42"
+ "generated_at": "2026-09-20 18:07"
 }
