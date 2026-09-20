@@ -3915,8 +3915,8 @@
   {
    "no": 494,
    "name": "Pennii popcorn cafe SPD Fl. G",
-   "receipt_format": "INVOICE NO (Inv#)",
-   "notes": "กรอก SOS251013004",
+   "receipt_format": "เลขที",
+   "notes": "กรอกครบ\n SOS251013004",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11549,5 +11549,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-20 18:07"
+ "generated_at": "2026-09-20 18:45"
 }
