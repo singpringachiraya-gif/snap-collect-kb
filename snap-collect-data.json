@@ -11449,7 +11449,7 @@
    "extra": ""
   },
   {
-   "no": 1482,
+   "no": 1483,
    "name": "Temp Shop สะสมเข้า FRIENDS&FAMILY EVENT ICON Fl. 7",
    "receipt_format": "INV NO.",
    "notes": "เช่น 001/00007134",
@@ -11457,7 +11457,7 @@
    "extra": ""
   },
   {
-   "no": 1482,
+   "no": 1484,
    "name": "Puff SC Fl. M",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "เลขสะสมอยู่ใต้เลขผู้เสียภาษี\nเช่น RC-10-102-202609276",
@@ -11465,7 +11465,7 @@
    "extra": ""
   },
   {
-   "no": 1482,
+   "no": 1485,
    "name": "ซาลาเปาทับหลี ประกายจันทร์ ICS Fl. G",
    "receipt_format": "เลขที่",
    "notes": "กรอกครบ เช่น L-260918-615505",
@@ -11473,7 +11473,7 @@
    "extra": ""
   },
   {
-   "no": 1482,
+   "no": 1486,
    "name": "AMAM LONBAKERY TOWN SPD Fl. G",
    "receipt_format": "บาร์โค้ดคำสั่งซื้อ",
    "notes": "กรอกครบทุกตัว เช่น 20260919100740556072610008",
@@ -11541,5 +11541,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-20 10:22"
+ "generated_at": "2026-09-20 10:51"
 }
