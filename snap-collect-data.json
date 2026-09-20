@@ -10524,7 +10524,7 @@
    "no": 1386,
    "name": "Tonkatsu Marushichi SPD Fl. G (สำนักงานใหญ่ พระราม 9)",
    "receipt_format": "Receipt no. / Ref.",
-   "notes": "Receipt no. กรอกครบ T01RC1072569/000343\nหากไม่มีเลข Receipt ใช้ Ref. แทนได้ เช่น 00072-1 (By Yo 3/7/26)",
+   "notes": "Receipt no. กรอกครบ T01RC1072569/000343\nหากไม่มีเลข Receipt บิล Ref. ให้ Reject รูปภาพไม่ใช่ใบเสร็จ เป็นใบรองบิล \n(Update Yo 20/9/26)",
    "category": "Popup&Event",
    "extra": ""
   },
@@ -11541,5 +11541,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-19 10:49"
+ "generated_at": "2026-09-20 10:22"
 }
