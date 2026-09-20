@@ -9267,8 +9267,8 @@
   {
    "no": 1212,
    "name": "Hoka SC Fl. G",
-   "receipt_format": "Tax invoice (ABB)",
-   "notes": "JoinCoin 27/02/2026",
+   "receipt_format": "Tax invoice no (ABB)",
+   "notes": "กรอกครบทุกตัว\nJoinCoin 27/02/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11541,5 +11541,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-20 12:50"
+ "generated_at": "2026-09-20 15:42"
 }
