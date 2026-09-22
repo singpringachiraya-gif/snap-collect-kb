@@ -2012,8 +2012,8 @@
    "no": 254,
    "name": "Bornga SD Fl. 3",
    "receipt_format": "Receipt no",
-   "notes": "หลังขีด5 ตัวท้าย\nGrab Dine Out สะสมได้  ใช้คำว่า  เขียนหัวมุม GF-xxx\nอัพเดท 02/03/2026",
-   "category": "JoinONESIAMCoin",
+   "notes": "หลังขีด5 ตัวท้าย\nGrab Dine Out สะสมได้  ใช้คำว่า  เขียนหัวมุม GF-xxx\nอัพเดท 02/03/2026\nยกเลิก Join Coin 13/7/2026",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -6860,8 +6860,8 @@
    "no": 852,
    "name": "Bakehaus SPD Fl. 3",
    "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
+   "notes": "Shop closed 30-Jul-26",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -7260,8 +7260,8 @@
    "no": 902,
    "name": "Acai Waikiki SPD Fl. 3 / บริษัท อาซาอิ ไวกิกิ จำกัด",
    "receipt_format": "ID",
-   "notes": "กรอกครบทุกตัว",
-   "category": "JoinONESIAMCoin",
+   "notes": "กรอกครบทุกตัว \nยกเลิก Join Coin 31/7/2026",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11573,5 +11573,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-22 15:35"
+ "generated_at": "2026-09-22 15:40"
 }
