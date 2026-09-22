@@ -20,7 +20,7 @@
    "no": 3,
    "name": "Adidas SPD Fl. 2 / Adidas Original SC Fl. G / Adidas Original ICON Fl. 2 / Adidas SPO Fl. G",
    "receipt_format": "Silp No",
-   "notes": "สาขา SPO (หัวบิล Factory Outlet spo  หัวบิล Factory Outlet Central Airport มี2แบบ  / SC/SPD/ICON     \nใช้  Slip โดยเริ่มต้นจาก THxxxxxx กรอกครบ\nเลขเต็ม Slip : 000TH11804000049780 / เลขที่กรอก :  TH11804000049780",
+   "notes": "สาขา SPO (หัวบิล Factory Outlet spo  หัวบิล Factory Outlet Central Airport มี2แบบ  / SC/SPD/ICON     \nใช้  Slip โดยเริ่มต้นจาก THxxxxxx กรอกครบ\nเลขเต็ม Slip : 000TH11804000049780 / เลขที่กรอก :  TH11804000049780\n\nSiam Center ยกเลิก Join Coin 18/9/2026 (Thanyanan mail)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -1940,8 +1940,8 @@
    "no": 244,
    "name": "โรงเรียนดนตรียามาฮ่า สยามพารากอน SPD Fl. 4",
    "receipt_format": "Receipt no",
-   "notes": "ใบเสร็จแบบเขียนมือ ใช้ เล่มที่-เลขที่\nใบเสร็จแบบ Print  ใช้ใบเสร็จเลขที่  กรอกครบทุกตัว / มีบิล 2 แบบ **ใส่เครื่องหมายลบ - ด้วย",
-   "category": "JoinONESIAMCoin",
+   "notes": "ใบเสร็จแบบเขียนมือ ใช้ เล่มที่-เลขที่\nใบเสร็จแบบ Print  ใช้ใบเสร็จเลขที่  กรอกครบทุกตัว / มีบิล 2 แบบ **ใส่เครื่องหมายลบ - ด้วย\n\nยกเลิก Join Coin 18/9/2026",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11573,5 +11573,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-22 15:40"
+ "generated_at": "2026-09-22 15:43"
 }
