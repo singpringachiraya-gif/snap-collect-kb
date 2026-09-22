@@ -3700,8 +3700,8 @@
    "no": 465,
    "name": "BACCARAT Crystal SPD Fl. 3",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "เล่มที่ และ เลขที่ Ex.583/29123",
-   "category": "JoinONESIAMCoin",
+   "notes": "เล่มที่ และ เลขที่ Ex.583/29123\n\n เปลี่ยนชื่อร้านเป็น Crystal & Symphony (14/9/2026)",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11573,5 +11573,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-22 15:43"
+ "generated_at": "2026-09-22 15:44"
 }
