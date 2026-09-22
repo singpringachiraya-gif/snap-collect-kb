@@ -2173,7 +2173,7 @@
    "name": "SPR_Christian Louboutin SPD Fl. M",
    "receipt_format": "Reference no",
    "notes": "Ex. 1119-02-26506 กรอครบทุกตัว \nอัพเดท 28/01/2026",
-   "category": "JoinONESIAMCoin",
+   "category": "ShopClosed",
    "extra": "Luxury"
   },
   {
@@ -4429,7 +4429,7 @@
    "name": "Givenchy SPD Fl. M",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว",
-   "category": "JoinONESIAMCoin",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11549,5 +11549,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-22 10:19"
+ "generated_at": "2026-09-22 10:35"
 }
