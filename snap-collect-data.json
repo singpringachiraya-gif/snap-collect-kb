@@ -2797,7 +2797,7 @@
    "name": "GOOD JOB ICON Fl. 3",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว เช่น hy7n",
-   "category": "JoinONESIAMCoin",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11549,5 +11549,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-22 10:41"
+ "generated_at": "2026-09-22 10:48"
 }
