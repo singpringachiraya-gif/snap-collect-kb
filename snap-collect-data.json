@@ -11503,6 +11503,14 @@
    "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบหลัง # เช่น 1-0400",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1488,
+   "name": "PAUL SPD Fl. G",
+   "receipt_format": "ID",
+   "notes": "",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11565,5 +11573,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-22 14:02"
+ "generated_at": "2026-09-22 14:55"
 }
