@@ -1717,7 +1717,7 @@
    "name": "Kloset Etcetera SC Fl. 1 (บริษัท กำลังเสริม)",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "ไม่มีเลขใบเสร็จ - (EX. ETCRC184202412297) กรอกครบทุกตัว รวมอักขระพิเศษ",
-   "category": "Spending Only",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -2885,7 +2885,7 @@
    "name": "ICONIC SC Fl. 1",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัวบนใบเสร็จ  เช่่น IC01-202300123",
-   "category": "JoinONESIAMCoin",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11557,5 +11557,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-22 11:16"
+ "generated_at": "2026-09-22 11:35"
 }
