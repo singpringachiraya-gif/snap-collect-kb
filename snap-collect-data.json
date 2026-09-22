@@ -2553,14 +2553,6 @@
    "extra": ""
   },
   {
-   "no": 323,
-   "name": "ภูฟ้าผสมผสาน Phufa SPD Fl. 4",
-   "receipt_format": "No (เลขที่)",
-   "notes": "กรอบครบทุุกตัว เช่น 000000025755",
-   "category": "JoinONESIAMCoin",
-   "extra": ""
-  },
-  {
    "no": 324,
    "name": "thai yamazaki co. ltd  - Flavors Field",
    "receipt_format": "No (เลขที่)",
@@ -3050,7 +3042,7 @@
   },
   {
    "no": 385,
-   "name": "Phufa Treasure Trove SD Fl. 3(ภูฟ้าผสมผสาน)",
+   "name": "Phufa Treasure Trove SD Fl. 3(ภูฟ้า)",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัวบนใบเสร็จ",
    "category": "JoinONESIAMCoin",
@@ -3066,7 +3058,7 @@
   },
   {
    "no": null,
-   "name": "Phufa ICON Fl. 5(ภูฟ้าผสมผสาน)",
+   "name": "Phufa ICON Fl. 5(ภูฟ้า)",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัวบนใบเสร็จ",
    "category": "JoinONESIAMCoin",
@@ -11573,5 +11565,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-22 12:02"
+ "generated_at": "2026-09-22 12:05"
 }
