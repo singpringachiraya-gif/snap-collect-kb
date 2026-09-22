@@ -2917,7 +2917,7 @@
    "name": "Veganerie SPD Fl. G",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว เช่น 660421044",
-   "category": "JoinONESIAMCoin",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -3309,7 +3309,7 @@
    "name": "PROUD GEMS / Proud Gems SD Fl. 3",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
-   "category": "JoinONESIAMCoin",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -7653,7 +7653,7 @@
    "name": "BANG & OLUFSEN ICON Fl. 1",
    "receipt_format": "SALE NO",
    "notes": "เช่น SO250600007",
-   "category": "JoinONESIAMCoin",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11557,5 +11557,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-22 11:35"
+ "generated_at": "2026-09-22 11:41"
 }
