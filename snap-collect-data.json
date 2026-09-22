@@ -2844,8 +2844,8 @@
    "no": 359,
    "name": "Bang Bao ICON Fl. 6",
    "receipt_format": "Receipt no",
-   "notes": "กรอกครบทุกตัว เช่น 25029291",
-   "category": "Spending Only",
+   "notes": "",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -2853,7 +2853,7 @@
    "name": "Pralyn SPD Fl. G",
    "receipt_format": "Receipt no",
    "notes": "rcpt ตัวเต็ม",
-   "category": "JoinONESIAMCoin",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11557,5 +11557,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-22 11:03"
+ "generated_at": "2026-09-22 11:16"
 }
