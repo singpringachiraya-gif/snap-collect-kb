@@ -2973,7 +2973,7 @@
    "name": "Maron Jewelry SC Fl. M",
    "receipt_format": "Reference no",
    "notes": "กรอกครบทุกตัว เช่น 00100004269",
-   "category": "JoinONESIAMCoin",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11549,5 +11549,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-22 10:14"
+ "generated_at": "2026-09-22 10:19"
 }
