@@ -2810,10 +2810,18 @@
   },
   {
    "no": 356,
-   "name": "WALTZ SPD Fl. 2 / WALTZ ICON Fl. 4",
+   "name": "WALTZ SPD Fl. 2",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "กรอกครบทุกตัว เช่น 0000020231010050",
    "category": "JoinONESIAMCoin",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "WALTZ ICON Fl. 4",
+   "receipt_format": "",
+   "notes": "",
+   "category": "",
    "extra": ""
   },
   {
@@ -11549,5 +11557,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-22 10:48"
+ "generated_at": "2026-09-22 10:52"
 }
