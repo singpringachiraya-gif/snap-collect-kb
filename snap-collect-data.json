@@ -2762,18 +2762,18 @@
   },
   {
    "no": 350,
-   "name": "KWANPEN ICON Fl. M /  KWANPEN SPD Fl. M",
+   "name": "KWANPEN SPD Fl. M",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "ใส่เฉพาะตัวเลข",
-   "category": "JoinONESIAMCoin",
+   "category": "Spending Only",
    "extra": ""
   },
   {
    "no": 351,
    "name": "ALAND ICON Fl. 2",
    "receipt_format": "Pos-Reciept (PRH)",
-   "notes": "pos-receipt เช่น 2422105-1124952 / ALAND 00001 SC / 00002 ICON",
-   "category": "JoinONESIAMCoin",
+   "notes": "",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11549,5 +11549,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-22 10:35"
+ "generated_at": "2026-09-22 10:41"
 }
