@@ -2818,7 +2818,7 @@
   },
   {
    "no": 357,
-   "name": "JAY MART SPD Fl. 4 (JoinCoin) / JAY MART ICS Fl. 2 (spending) \nขึ้นต้นด้วย JAY IOT สะสมเข้า Jay Mart (camera) fl.2",
+   "name": "JAY MART SPD Fl. 3 (JoinCoin) / JAY MART ICS Fl. 2 (spending) \nขึ้นต้นด้วย JAY IOT สะสมเข้า Jay Mart (camera) fl.2",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "กรอกครบทุกตัวบนใบเสร็จ - เหมือนกันทั้ง 3 สาขา\nEX. 31117825-200316\nJAYMART / ขึ้นต้นด้วย JAY IOT สะสมเข้า Jay Mart (camera) fl.2\n** ดูตรง MEMBER ถ้าขึ้น JET สะสมแล้วจากร้าน Reject สะสมแล้ว ต้องเลือกอย่างใดอย่างหนึ่งระหว่างสมาชิกร้านค้ากับสมาชิก ONESIAM",
    "category": "JoinONESIAMCoin",
@@ -11565,5 +11565,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-22 12:05"
+ "generated_at": "2026-09-22 13:58"
 }
