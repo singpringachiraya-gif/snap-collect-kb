@@ -2819,9 +2819,9 @@
   {
    "no": null,
    "name": "WALTZ ICON Fl. 4",
-   "receipt_format": "",
-   "notes": "",
-   "category": "",
+   "receipt_format": "INVOICE NO (Inv#)",
+   "notes": "กรอกครบทุกตัว เช่น 0000020231010050",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -11557,5 +11557,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-22 10:52"
+ "generated_at": "2026-09-22 10:57"
 }
