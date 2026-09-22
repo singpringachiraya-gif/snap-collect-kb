@@ -706,9 +706,9 @@
   },
   {
    "no": 89,
-   "name": "L'Occitane ICON Fl. 1",
-   "receipt_format": "Tax invoice (ABB)",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ\nหัวบิล betagro mermaid co., ltd",
+   "name": "ว่าง",
+   "receipt_format": "",
+   "notes": "",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11405,5 +11405,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-22 16:21"
+ "generated_at": "2026-09-22 16:30"
 }
