@@ -11282,182 +11282,14 @@
   },
   {
    "no": 1482,
-   "name": "ICONIC CRAFT COFFEE EXPO 2026 ดูตราปั๊มของงาน",
-   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "งานวันที่ 16-20 SEP 2026 \n\nบิลเขียนมือ มีตราแสตมป์ ONESIAM สะสม เล่มที่/เลขที่ เช่น A00/1\n\nบิลของทางร้านเอง หากเจอใบเสร็จเเล้วส่งมาถามได้เลยค่ะ (ตอนนี้ยังไม่มีตัวอย่างใบเสร็จ)\n\nใบเสร็จรับเงิน Thonburian Vibes / หากเจอ Reject ภาพใบเสร็จไม่ชัดเจน เนื่องจากไม่มีเลขที่ใบเสร็จ",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 1482,
-   "name": "Yellow Stuff สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
-   "receipt_format": "Invoice",
-   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบหลัง # เป็นต้นไป เช่น PS001007544",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 1482,
-   "name": "หัวบิล บริษัท ไอคอนสยาม จำกัด สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
-   "receipt_format": "Rcpt",
-   "notes": "งานวันที่ 16-20 SEP 2026 / ดูรายการซื่อเกี่ยวกับ Coffee\n\nกรอกครบหลัง # เช่น 1E01000199",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 1482,
-   "name": "หัวบิล ICONSIAM SIGNATURE สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
-   "receipt_format": "Receipt / เฉพาะที่มีตราปั๊มงาน",
-   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบหลัง # เป็นต้นไป เช่น 1S512052010000021",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 1482,
-   "name": "ออมบราวน์ Ombrown สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
-   "receipt_format": "ID",
-   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบ เช่น 2M6ZR",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 1482,
-   "name": "HARU BAKEHOUSE สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
-   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบหลัง # เช่น 4-2131",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 1482,
-   "name": "BAANORPOR บ้านออพอ สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
-   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบหลัง # เช่น 4-2131",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 1482,
-   "name": "Daily Theory สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
-   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบหลัง # เช่น 4-2131",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 1482,
-   "name": "Smizzle Burger สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
-   "receipt_format": "ID",
-   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบ เช่น 2M6ZR",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 1482,
-   "name": "YEO UN BKK สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
-   "receipt_format": "ID",
-   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบ เช่น 2M6ZR",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 1482,
-   "name": "Rincha สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
-   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "งานวันที่ 16-20 SEP 2026 \n\nสะสมแบบ เวลา/ยอดซื้อ เช่น 1143/245",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 1482,
-   "name": "ปิงวังยมน่าน สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
-   "receipt_format": "ID",
-   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบ เช่น 2M6ZR",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 1482,
-   "name": "ขนมบ้าบิ่นมะพร้าวอ่อนไส้ทะลัก By Kanom nong meji สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
-   "receipt_format": "ID",
-   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบ เช่น 2M6ZR",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 1482,
-   "name": "Rowie's Coffee สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
-   "receipt_format": "ID",
-   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบ เช่น LD3UO",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 1482,
-   "name": "Thonburian Vibes ใบเสร็จรับเงิน สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
-   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "กรณีที่ลูกค้าถ่ายใบเสร็จมาคู่กันกับใบสีน้ำตาล สะสมได้ใช้เลขด้านล่างใบเสร็จ หลัง # เช่น 1-6204 \nเเต่ถ้ามีเเค่ใบน้ำตาลอย่างเดียว reject ไม่ใช่ใบเสร็จ",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 1482,
-   "name": "โรงคั่วกาแฟ วังน้ำเขียว สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
-   "receipt_format": "เลขที่",
-   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบ เช่น 92029066",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 1482,
-   "name": "sodo donut สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
-   "receipt_format": "ID",
-   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบ เช่น LD3UO",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 1482,
-   "name": "บริษัท ทาราบะ เจแปนนีส เรสเตอรองท์ สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
-   "receipt_format": "ใบกำกับภาษีอย่างย่อ/ใบเสร็จรับเงิน",
-   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบ เช่น CA202609160013",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 1482,
-   "name": "หัวบิล Great Earth / Caffe Vergnano 1882 by Great Earth สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
-   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบหลัง # เช่น 4-0064",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 1482,
-   "name": "Monster and Friends สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
-   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบหลัง # เช่น 14-0045",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 1482,
-   "name": "THE ESPRESSO TIME A&H สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
-   "receipt_format": "ID",
-   "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบ เช่น DQS7T",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
-   "no": 1482,
    "name": "BANGKOK WATCH WEEK SPD Fl. M",
    "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
    "notes": "",
-   "category": "Popup&Event",
+   "category": "",
    "extra": ""
   },
   {
-   "no": 1482,
+   "no": 1483,
    "name": "FRIENDS&FAMILY EVENT ICON Fl. 7",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "สะสมได้หลายแบบ ดูตามใบเสร็จ ที่มีชื่องาน  อีเว้น Promotion\n\n3.1 Phillip Lim\nAlexander Wang\nAmerican Eagle\nArmani\nCamper\nCK (Calvin Klein)\nClub21 Multi-Label\nCoccinelle\nFurla\nKate Spade\nKeds\nKenneth Cole\nMax Mara\nMulberry\nPaul Smith\nRag & Bone\nRockfish Weatherwear\nSperry\nStella McCartney\nTommy Hilfiger\nTommy Jeans\nCosmetic Brands",
@@ -11465,7 +11297,7 @@
    "extra": ""
   },
   {
-   "no": 1483,
+   "no": 1484,
    "name": "Temp Shop สะสมเข้า FRIENDS&FAMILY EVENT ICON Fl. 7",
    "receipt_format": "INV NO.",
    "notes": "เช่น 001/00007134",
@@ -11473,7 +11305,7 @@
    "extra": ""
   },
   {
-   "no": 1484,
+   "no": 1485,
    "name": "Puff SC Fl. M",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "เลขสะสมอยู่ใต้เลขผู้เสียภาษี\nเช่น RC-10-102-202609276",
@@ -11481,7 +11313,7 @@
    "extra": ""
   },
   {
-   "no": 1485,
+   "no": 1486,
    "name": "ซาลาเปาทับหลี ประกายจันทร์ ICS Fl. G",
    "receipt_format": "เลขที่",
    "notes": "กรอกครบ เช่น L-260918-615505",
@@ -11489,7 +11321,7 @@
    "extra": ""
   },
   {
-   "no": 1486,
+   "no": 1487,
    "name": "AMAM LONBAKERY TOWN SPD Fl. G",
    "receipt_format": "บาร์โค้ดคำสั่งซื้อ",
    "notes": "กรอกครบทุกตัว เช่น 20260919100740556072610008",
@@ -11497,7 +11329,7 @@
    "extra": ""
   },
   {
-   "no": 1487,
+   "no": 1488,
    "name": "Mechat Matcha. สะสมเข้า ICONIC CRAFT COFFEE EXPO 2026 ICON Fl. 7",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "งานวันที่ 16-20 SEP 2026 \n\nกรอกครบหลัง # เช่น 1-0400",
@@ -11505,7 +11337,7 @@
    "extra": ""
   },
   {
-   "no": 1488,
+   "no": 1489,
    "name": "PAUL SPD Fl. G",
    "receipt_format": "ID",
    "notes": "เช่น 06L86",
@@ -11573,5 +11405,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-22 15:49"
+ "generated_at": "2026-09-22 16:21"
 }
