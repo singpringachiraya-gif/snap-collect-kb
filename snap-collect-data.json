@@ -3933,7 +3933,7 @@
    "name": "บริษัท ฟู้ดมู้ด จํากัด \nBrix Dessert Bar SPD Fl. G  >> สาขา SPD ใช้ NO กรอกแค่ 6 ตัวท้าย\nBrix Dessert Bar ICON Fl. G >> สาขา ICON ใช้ ID",
    "receipt_format": "Reciept no",
    "notes": "สาขา SPD ถ้าไม่มี NO บิลมีแต่ ID ใช้เลข ID ได้เลย \nสาขา SPD (ไม่ join Coin เริ่ม 05-Oct-2025  อัพเดท 29/09/2025",
-   "category": "JoinONESIAMCoin",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -8570,7 +8570,7 @@
   },
   {
    "no": 1119,
-   "name": "Van VAN HEART ICON Fl. G",
+   "name": "VAN HEART ICON Fl. G",
    "receipt_format": "ID",
    "notes": "หัวบิล Van Hart ทั้ง G และ ชั้น 4  สะสมเข้าร้านเดียวกัน\nบิลอีกแบบใช้ \"เลขที่ใบเสร็จ\" กรอกครบทุกตัว Ex.202600000010882",
    "category": "Spending Only",
