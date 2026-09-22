@@ -706,10 +706,10 @@
   },
   {
    "no": 89,
-   "name": "ว่าง",
-   "receipt_format": "",
-   "notes": "",
-   "category": "Spending Only",
+   "name": "Rowie's Coffee / Siam Center",
+   "receipt_format": "เจอใบเสร็จมาอัพเดทกันค่ะ",
+   "notes": "เพิ่มร้านค้า จำนวน 1 รายการ โดยมีผลวันที่ 23 กันยายน 2569",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -11405,5 +11405,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-22 16:30"
+ "generated_at": "2026-09-22 17:51"
 }
