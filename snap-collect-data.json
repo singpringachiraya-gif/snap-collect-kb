@@ -5924,8 +5924,8 @@
    "no": 731,
    "name": "GRAB & GO SD Fl. 4 (หัวบิล Discovery Retail สะสมเข้า DCR SD Fl. G)",
    "receipt_format": "Pos-Reciept (PRH)",
-   "notes": "Sku สินค้า G&G ,Eco  สะสมเข้า DCR SD Fl. G ทั้งหมด (P'prai 20/8/2026)",
-   "category": "JoinONESIAMCoin",
+   "notes": "Sku สินค้า G&G ,Eco  สะสมเข้า DCR SD Fl. G ทั้งหมด (P'prai 20/8/2026)\nลบร้านค้า 19/8/2026",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -8621,7 +8621,7 @@
    "name": "Oh' Polly SPD Fl. G หัวบิล Polly Atelier Tea",
    "receipt_format": "ID",
    "notes": "กรอกครบ \nShop Closed 9/9/2026",
-   "category": "JoinONESIAMCoin",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11573,5 +11573,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-22 15:44"
+ "generated_at": "2026-09-22 15:47"
 }
