@@ -11508,7 +11508,7 @@
    "no": 1488,
    "name": "PAUL SPD Fl. G",
    "receipt_format": "ID",
-   "notes": "",
+   "notes": "เช่น 06L86",
    "category": "Spending Only",
    "extra": ""
   }
@@ -11573,5 +11573,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-22 14:57"
+ "generated_at": "2026-09-22 14:59"
 }
