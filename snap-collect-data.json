@@ -4268,8 +4268,8 @@
    "no": 536,
    "name": "Duck Donuts SD Fl. M",
    "receipt_format": "Receipt no",
-   "notes": "ใช้5ตัวท้าย",
-   "category": "JoinONESIAMCoin",
+   "notes": "ใช้5ตัวท้าย\nShop Closed 15/7/2026",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11573,5 +11573,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-22 15:47"
+ "generated_at": "2026-09-22 15:49"
 }
