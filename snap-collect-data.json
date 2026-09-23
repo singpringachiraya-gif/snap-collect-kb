@@ -3178,9 +3178,9 @@
   },
   {
    "no": 400,
-   "name": "Tenjo Sushi & Yakiniku Premium Buffet ICON Fl. 4 (มีสาขา External ด้วย)",
+   "name": "Tenjo Sushi & Yakiniku Premium Buffet (มีสาขา External ด้วย)",
    "receipt_format": "Receipt no",
-   "notes": "6 ตัวท้าย หลังเครื่องหมาย /  (Ex.310016)\nGrab Dine Out สะสมได้  \nอัพเดท 02/03/2026",
+   "notes": "6 ตัวท้าย หลังเครื่องหมาย /  (Ex.310016)\nGrab Dine Out สะสมได้  \nอัพเดท 02/03/2026\n\nรายชื่อสาขาที่สะสมได้ เลือกตึก External\nCentral Pinklao\nCentral Rama 9\nCentral Rama3\nCentral Ramindra\nCentral Westgate\nCentral World\nFuture Park Rangsit\nGateway Ekamai\nMajor Ratchayothin\nSeacon Square Srinakarin\nSenafest\nTerminal Rama 3\nTerminal21 Asok\nThaniya Silom\nThe Mall Bangkae\nThe Mall Lifestore Bangkapi\nThe Mall Lifestore Thapra\nThe Mall Ngamwongwan\nThe Promenade\nThe Walk Nawamin",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11405,5 +11405,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-23 12:00"
+ "generated_at": "2026-09-23 12:09"
 }
