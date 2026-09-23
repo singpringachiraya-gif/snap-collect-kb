@@ -3797,7 +3797,7 @@
    "name": "Asia Gold EXT null",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
-   "category": "Spending Only",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -3989,7 +3989,7 @@
    "name": "HONMONO GRAND OMAKASE SPD Fl. G",
    "receipt_format": "Receipt no",
    "notes": "เช่น VPG112566/300018 (กรอกครบทุกตัว)",
-   "category": "JoinONESIAMCoin",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -3997,7 +3997,7 @@
    "name": "REP COFFEE ICS Fl. 3",
    "receipt_format": "ID",
    "notes": "กรอกครบทุกตัว",
-   "category": "JoinONESIAMCoin",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11437,5 +11437,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-23 12:54"
+ "generated_at": "2026-09-23 13:08"
 }
