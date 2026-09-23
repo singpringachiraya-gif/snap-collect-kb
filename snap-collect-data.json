@@ -3733,7 +3733,7 @@
    "name": "DER MOND - ( ขาย Online Only สะสมผ่านร้านค้าเท่านั้น)\nซื้อหน้าร้านค้า Reject: ร้านค้า Pop Up ไม่เข้าร่วมการสะสม",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
-   "category": "JoinONESIAMCoin",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -3789,7 +3789,7 @@
    "name": "MKY GOLD_pop up EXT null",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
-   "category": "Spending Only",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -9684,7 +9684,7 @@
    "no": 1266,
    "name": "CHJ Jewellery ICON Fl. 5",
    "receipt_format": "Receipt no",
-   "notes": "กรอกครบ เช่น 1C01002263",
+   "notes": "บริษัท โกลเด้น ทอร์เก้น จำกัด สาขา 00008 หัวบิลชั้น 5\n\nกรอกครบ เช่น 1C01002263",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -10204,7 +10204,7 @@
    "no": 1343,
    "name": "หัวบิล : บริษัท โกลเด้น ทอร์เก้น อินเตอร์เนชั่นแนล จำกัด\"  สังเกตสาขาตรง Cashier >> Zhou Liu Fu ICON Fl. G\n(JoinCoin)",
    "receipt_format": "Rcpt.",
-   "notes": "อักษร+เลข ทั้งหมด 1B05000001",
+   "notes": "หัวใบเสร็จชั้น 1 สะสมเข้า Zhou Liu Fu ICON Fl. G\n\nอักษร+เลข ทั้งหมด 1B05000001",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11437,5 +11437,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-23 12:37"
+ "generated_at": "2026-09-23 12:53"
 }
