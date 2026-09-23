@@ -3900,8 +3900,8 @@
    "no": 490,
    "name": "Burger & Lobster SPD Fl. G",
    "receipt_format": "Order number",
-   "notes": "กรอกครบทุกตัว (ไม่ต้องใส่อักขระพิเศษ)",
-   "category": "JoinONESIAMCoin",
+   "notes": "กรอกครบทุกตัว (ไม่ต้องใส่อักขระพิเศษ)\nClosed 23/9/2026",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11405,5 +11405,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-23 12:14"
+ "generated_at": "2026-09-23 12:18"
 }
