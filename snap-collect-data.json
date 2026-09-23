@@ -2700,7 +2700,7 @@
    "no": 343,
    "name": "Coffee Bean by dao / Coffee Beans by Dao SPD Fl. G / Coffee Beans by Dao ICON Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "กรอกเฉพาะตัวเลข 10 หลักที่อยู่หลัง RC/SIAMxxxxx หรือRC/ICONxxxxx เท่านั้น\n - สะสมรวมเฉพาะ ยอดที่ใช้ ONESIAM COIN จ่ายเท่านั้น ส่วนลดอื่นๆ หักออก (อัพเดท 12/08/2025)\nหากมีตัวปั๊ม POINT COLLECTED สะสมได้ปกติ เป็นการสะสม Member ของทางร้าน (UPDATE 19/9/2025)",
+   "notes": "กรอกเฉพาะตัวเลข 10 หลักที่อยู่หลัง RC/SIAMxxxxx หรือRC/ICONxxxxx เท่านั้น\n - สะสมรวมเฉพาะ ยอดที่ใช้ ONESIAM COIN และ Gift Card จ่ายเท่านั้น \nส่วนลดอื่นๆ หักออก เช่น E-Coupon อื่นๆ   \n\n(อัพเดทจากป๊อป 23/09/2026)\n\nหากมีตัวปั๊ม POINT COLLECTED สะสมได้ปกติ เป็นการสะสม Member ของทางร้าน (UPDATE 19/9/2025)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11405,5 +11405,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-23 12:18"
+ "generated_at": "2026-09-23 12:20"
 }
