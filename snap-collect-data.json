@@ -3133,7 +3133,7 @@
    "name": "PALLADIUM & YEAH! SD Fl. 1",
    "receipt_format": "Order number",
    "notes": "กรอกครบทุกตัว เช่น 2310110090005",
-   "category": "JoinONESIAMCoin",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11405,5 +11405,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-23 11:28"
+ "generated_at": "2026-09-23 11:46"
 }
