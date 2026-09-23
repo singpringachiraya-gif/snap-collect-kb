@@ -18,10 +18,10 @@
   },
   {
    "no": 3,
-   "name": "Adidas SPD Fl. 2 / Adidas Original SC Fl. G / Adidas Original ICON Fl. 2 / Adidas SPO Fl. G",
+   "name": "ว่าง",
    "receipt_format": "Silp No",
-   "notes": "สาขา SPO (หัวบิล Factory Outlet spo  หัวบิล Factory Outlet Central Airport มี2แบบ  / SC/SPD/ICON     \nใช้  Slip โดยเริ่มต้นจาก THxxxxxx กรอกครบ\nเลขเต็ม Slip : 000TH11804000049780 / เลขที่กรอก :  TH11804000049780\n\nSiam Center ยกเลิก Join Coin 18/9/2026 (Thanyanan mail)",
-   "category": "JoinONESIAMCoin",
+   "notes": "",
+   "category": "",
    "extra": ""
   },
   {
@@ -11437,5 +11437,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-23 12:33"
+ "generated_at": "2026-09-23 12:37"
 }
