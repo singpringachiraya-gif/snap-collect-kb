@@ -4009,14 +4009,6 @@
    "extra": ""
   },
   {
-   "no": 504,
-   "name": "Hello Yogurt SPD Fl. 4",
-   "receipt_format": "Receipt no",
-   "notes": "RC# ตัวเต็ม",
-   "category": "JoinONESIAMCoin",
-   "extra": ""
-  },
-  {
    "no": 505,
    "name": "Premium Gold Yaowaraj ICS Fl. 2",
    "receipt_format": "Order number",
@@ -4778,7 +4770,7 @@
   },
   {
    "no": 600,
-   "name": "Hello Yogurt / Hello Yogurt SPD Fl. 4 / Hello Yogurt SPO Fl. G",
+   "name": "Hello Yogurt SPO Fl. G",
    "receipt_format": "Receipt no",
    "notes": "SPO",
    "category": "Spending Only",
@@ -4812,7 +4804,7 @@
    "no": 604,
    "name": "Tom Star Beauty Co., Ltd - Kedma",
    "receipt_format": "Receipt no",
-   "notes": "SPO",
+   "notes": "",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11437,5 +11429,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-23 13:08"
+ "generated_at": "2026-09-23 13:13"
 }
