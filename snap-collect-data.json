@@ -4013,7 +4013,7 @@
    "name": "Premium Gold Yaowaraj ICS Fl. 2",
    "receipt_format": "Order number",
    "notes": "กรอกครบทุกตัว",
-   "category": "JoinONESIAMCoin",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11429,5 +11429,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-23 13:13"
+ "generated_at": "2026-09-23 13:19"
 }
