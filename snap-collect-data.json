@@ -11343,6 +11343,38 @@
    "notes": "เช่น 06L86",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1490,
+   "name": "Adidas SPD Fl. 2 /Siam Paragon",
+   "receipt_format": "Slip",
+   "notes": "ใช้  Slip โดยเริ่มต้นจาก THxxxxxx กรอกครบ\nเลขเต็ม Slip : 000TH11804000049780 / ตัด 0 ข้างหน้าออกเลขที่กรอก :  TH11804000049780",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
+  },
+  {
+   "no": 1491,
+   "name": "Adidas Original ICON Fl. 2 /ICONSIAM",
+   "receipt_format": "Slip",
+   "notes": "ใช้  Slip โดยเริ่มต้นจาก THxxxxxx กรอกครบ\nเลขเต็ม Slip : 000TH11804000049780 / ตัด 0 ข้างหน้าออกเลขที่กรอก :  TH11804000049780",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
+  },
+  {
+   "no": 1492,
+   "name": "Adidas SPO Fl. G /Siam Premium Outlet",
+   "receipt_format": "Slip",
+   "notes": "สาขา SPO (หัวบิล Factory Outlet spo  หัวบิล Factory Outlet Central Airport มี2แบบ  /\n\nใช้  Slip โดยเริ่มต้นจาก THxxxxxx กรอกครบ\nเลขเต็ม Slip : 000TH11804000049780 / ตัด 0 ข้างหน้าออกเลขที่กรอก :  TH11804000049780",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
+  },
+  {
+   "no": 1492,
+   "name": "Adidas Original SC Fl. G",
+   "receipt_format": "Slip",
+   "notes": "ใช้  Slip โดยเริ่มต้นจาก THxxxxxx กรอกครบ\nเลขเต็ม Slip : 000TH11804000049780 / ตัด 0 ข้างหน้าออกเลขที่กรอก :  TH11804000049780",
+   "category": "ShopClosed",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11405,5 +11437,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-23 12:24"
+ "generated_at": "2026-09-23 12:33"
 }
