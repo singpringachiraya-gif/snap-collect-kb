@@ -2850,9 +2850,9 @@
   },
   {
    "no": 361,
-   "name": "Absolute Siam SC Fl. 1",
-   "receipt_format": "Pos-Reciept (PRH)",
-   "notes": "Ex. กรอกแบบนี้ 2328101-1147598",
+   "name": "Absolute Siam SC Fl. 1 (หัวบิล DCR)",
+   "receipt_format": "Reciept no",
+   "notes": "เช่น 1S246046001007688",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11461,5 +11461,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-24 17:19"
+ "generated_at": "2026-09-24 17:35"
 }
