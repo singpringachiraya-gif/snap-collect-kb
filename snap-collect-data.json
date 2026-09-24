@@ -2971,8 +2971,8 @@
   {
    "no": 376,
    "name": "Maron Jewelry SC Fl. M",
-   "receipt_format": "Reference no",
-   "notes": "กรอกครบทุกตัว เช่น 00100004269",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "เลขใบเสร็จอยู่ใต้เลขผู้เสียภาษี\n\nกรอกครบทุกตัว เช่น RC-5-202608095",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11461,5 +11461,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-24 15:48"
+ "generated_at": "2026-09-24 17:19"
 }
