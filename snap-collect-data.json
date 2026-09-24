@@ -11361,11 +11361,19 @@
    "extra": ""
   },
   {
-   "no": 1492,
+   "no": 1493,
    "name": "Adidas Original SC Fl. G",
    "receipt_format": "Slip",
    "notes": "ใช้  Slip โดยเริ่มต้นจาก THxxxxxx กรอกครบ\nเลขเต็ม Slip : 000TH11804000049780 / ตัด 0 ข้างหน้าออกเลขที่กรอก :  TH11804000049780",
    "category": "ShopClosed",
+   "extra": ""
+  },
+  {
+   "no": 1494,
+   "name": "Plush Studios SC Fl. 1 / Siam Center",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "",
+   "category": "Spending Only",
    "extra": ""
   }
  ],
@@ -11429,5 +11437,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-23 16:59"
+ "generated_at": "2026-09-24 10:29"
 }
