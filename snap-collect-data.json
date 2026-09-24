@@ -3628,7 +3628,7 @@
    "no": 456,
    "name": "Charlotte Tillbury (หัวบิล CT-ICONSIAM) - แผนกเครื่องสำอางค์ STK > สะสมเข้า Takashimaya ICON",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "CHARLOTTE/0031/ยอดซื้อ เช่น CHARLOTTE/0031/200\nเลข 0031 - มาจากรหัสสาขา\nอัพเดท 25/11/2025",
+   "notes": "CHARLOTTE/Abb no. เอาเเค่ 4 ตัวท้าย​\nเช่น CHARLOTTE/9691​\nอัพเดท 24/09/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -3636,7 +3636,7 @@
    "no": 457,
    "name": "Jo Malone (หัวบิล Location: ICONSIAM) - แผนกเครื่องสำอางค์ STK > สะสมเข้า Takashimaya ICON",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "JOMALONE/0448/ยอดซื้อ เช่น JOMALONE/0448/100\nเลข 0448 - มาจากรหัสสาขา\nอัพเดท 25/11/2025",
+   "notes": "JOMALONE/Invoice no. เอาเเค่ 4 ตัวท้าย​\nเช่น JOMALONE/5336​\nอัพเดท 24/09/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -3660,7 +3660,7 @@
    "no": 460,
    "name": "L'Occitane (หัวบิล Location: Siam Takashimaya)   -   แผนกเครื่องสำอางค์ STK > สะสมเข้า Takashimaya ICON",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "LOCCITANE/0092/ยอดซื้อ เช่น LOCCITANE/0092/500\nเลข 0092 - มาจากรหัสสาขา\nอัพเดท 25/11/2025",
+   "notes": "LOCCITANE/Invoice no. เอาเเค่ 4 ตัวท้าย​\nเช่น LOCCITANE/1310​\nอัพเดท 24/09/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11445,5 +11445,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-24 13:57"
+ "generated_at": "2026-09-24 14:02"
 }
