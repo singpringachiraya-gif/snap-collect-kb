@@ -3644,7 +3644,7 @@
    "no": 458,
    "name": "Lamer (หัวบิล Location: Siam Takashimaya) - แผนกเครื่องสำอางค์ STK > สะสมเข้า Takashimaya ICON",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "LAMER/0005/ยอดซื้อ เช่น LAMER/0005/100\nเลข 0005 - มาจากรหัสสาขา\nอัพเดท 25/11/2025",
+   "notes": "LAMER/Invoice no. เอาเเค่ 4 ตัวท้าย​ เช่น LAMER/2258​\nอัพเดท 24/09/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -3668,7 +3668,7 @@
    "no": 461,
    "name": "Tom Ford (หัวบิล Location: Siam Takashimaya)  -   แผนกเครื่องสำอางค์ STK > สะสมเข้า Takashimaya ICON",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "TOMFORD/0999/ยอดซื้อ เช่น TOMFORD/9999/100\nเลข 0999 - มาจากรหัสสาขา\nอัพเดท 25/11/2025",
+   "notes": "TOMFORD/Invoice no. เอาเเค่ 4 ตัวท้าย\nเช่น TOMFORD/4112​\nอัพเดท 24/09/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -8884,7 +8884,7 @@
    "no": 1158,
    "name": "Christian Dior parfumes  - สะสมเข้า Dior Cosmetics ICON Fl. M - Dior Cosmetics by Siam Takashimaya  (JoinCoin 1000:1 Luxury ) เริ่ม 22-Nov-2025",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "กรอกแบบนี้ DIORBEAUTY/DOCNO4ตัวท้าย/ยอดซื้อ เช่น DIORBEAUTY/1206/200\nอัพเดท 25/11/2025",
+   "notes": "กรอกแบบนี้ DIORBEAUTY/DOCNO4ตัวท้าย เช่น DIORBEAUTY/5625\nอัพเดท 24/09/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11375,6 +11375,14 @@
    "notes": "",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1495,
+   "name": "TARMAFIA ICON Fl. 5",
+   "receipt_format": "เลขที่ใบเสร็จ",
+   "notes": "กรอกครบทุกตัว เช่น 00000000623",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11437,5 +11445,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-24 11:41"
+ "generated_at": "2026-09-24 13:57"
 }
