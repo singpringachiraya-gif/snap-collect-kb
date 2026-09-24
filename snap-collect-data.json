@@ -1205,7 +1205,7 @@
    "name": "VANS ICON Fl. 3 / VANS SPO Fl. G",
    "receipt_format": "Receipt no",
    "notes": "5 ตัวท้าย หลังเครื่องหมาย/   ตัวอย่างเช่น 01045 \n(VANS SC Fl. G - REJECT SHOPLIST สะสมที่หน้าาร้าน)",
-   "category": "JoinONESIAMCoin",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -11383,6 +11383,22 @@
    "notes": "กรอกครบทุกตัว เช่น 00000000623",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1496,
+   "name": "GQ Wear The Flavor Pop-Up SC Fl. M / Siam Center",
+   "receipt_format": "เลขใต้บาร์โค้ด",
+   "notes": "Pop up Siam Center สังเกตุจาก P0007 ตัวหน้าใต้บาร์โค้ด\n\nกรอกครบ เช่น P0007/01/024525",
+   "category": "Popup&Event",
+   "extra": ""
+  },
+  {
+   "no": 1497,
+   "name": "VANS SC Fl. G",
+   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
+   "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น\nอัพเดท 22/07/2026",
+   "category": "TNA",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11445,5 +11461,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-24 14:02"
+ "generated_at": "2026-09-24 15:48"
 }
