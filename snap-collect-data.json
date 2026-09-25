@@ -204,7 +204,7 @@
    "no": 26,
    "name": "Bon Chon ทุกสาขา",
    "receipt_format": "Receipt no",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ EX.BC38012569/003593\nมันจะมีชื่อ member ด้วย เช็คดีๆ ชื่อตรงกันไหม (join-coin 12-Mar-26)\n( Food Deal : Onesiam App Coupon - Reject )\nใช้ Grab Dine Out สะสมได้ / อัพเดท 27/02/2026",
+   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ EX.BC38012569/003593\r\nมันจะมีชื่อ member ด้วย เช็คดีๆ ชื่อตรงกันไหม (Join-Food deal 12-Mar-26)\r\n( Food Deal : Onesiam App Coupon - Reject )\r\nใช้ Grab Dine Out สะสมได้ / อัพเดท 27/02/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11461,5 +11461,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-25 12:22"
+ "generated_at": "2026-09-25 12:25"
 }
