@@ -1202,10 +1202,26 @@
   },
   {
    "no": 151,
-   "name": "VANS ICON Fl. 3 / VANS SPO Fl. G",
+   "name": "VANS ICON Fl. 3",
    "receipt_format": "Receipt no",
-   "notes": "5 ตัวท้าย หลังเครื่องหมาย/   ตัวอย่างเช่น 01045 \n(VANS SC Fl. G - REJECT SHOPLIST สะสมที่หน้าาร้าน)",
+   "notes": "กรอกครบทุกตัว เช่น 267R1082026/00380",
    "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "VANS SPO Fl. G",
+   "receipt_format": "Receipt no",
+   "notes": "กรอกครบทุกตัว เช่น 267R1082026/00380",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "VANS SC Fl. G",
+   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
+   "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น\nอัพเดท 22/07/2026",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -11461,5 +11477,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-25 13:11"
+ "generated_at": "2026-09-25 14:19"
 }
