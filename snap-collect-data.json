@@ -274,9 +274,9 @@
   },
   {
    "no": 35,
-   "name": "Cocoichibanya ICON Fl. 6 / Cocoichibanya SPD Fl. G",
-   "receipt_format": "Tax invoice (ABB)",
-   "notes": "ICONSIAM = TC31, Paragon = C04\nEx.202601230096\nบริษัท ทนา เคอรี่ เฮ้าส์ จำกัด",
+   "name": "Cocoichibanya SPD Fl. G",
+   "receipt_format": "Tax invoice no",
+   "notes": "Paragon = C04 Ex.27864\nบริษัท ทนา เคอรี่ เฮ้าส์ จำกัด\nอัพเดท 25/09/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11461,5 +11461,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-25 12:25"
+ "generated_at": "2026-09-25 12:46"
 }
