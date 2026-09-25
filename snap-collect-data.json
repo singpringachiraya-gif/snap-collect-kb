@@ -1796,7 +1796,7 @@
    "no": 224,
    "name": "Soap for Soul SC Fl. M / Soap for Soul ICS Fl. M",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "กรอกครบทุกตัว ไม่ใส่อักขระพิเศษ >> ใช้เลขหลัง # ตัวอย่าง 15xxxxxx (เอาแค่ตัวเลข)",
+   "notes": "ใช้เลขหลัง # ตัวอย่าง 19-1298",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11477,5 +11477,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-25 14:31"
+ "generated_at": "2026-09-25 19:02"
 }
