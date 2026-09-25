@@ -370,10 +370,10 @@
   },
   {
    "no": 47,
-   "name": "Element 72 SPD Fl. 2 / Element 72 ICON Fl. 2",
+   "name": "Element 72 SPD Fl. 2",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว (ไม่ต้องใส่อักขระพิเศษ)",
-   "category": "JoinONESIAMCoin",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -381,7 +381,7 @@
    "name": "Evie's Cookies SPD Fl. G",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ Ex.202601001294",
-   "category": "Spending Only",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11461,5 +11461,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-25 12:46"
+ "generated_at": "2026-09-25 13:11"
 }
