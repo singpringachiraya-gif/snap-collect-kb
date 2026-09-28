@@ -1316,7 +1316,7 @@
    "no": 163,
    "name": "Maison Eric Kayser SPD Fl. G",
    "receipt_format": "payment bill no",
-   "notes": "Eric Kayser SPD Fl. G (รหัสสาขา EK001) กรอกครบทุกตัว รวมอักขระพิเศษ",
+   "notes": "Eric Kayser SPD Fl. G (รหัสสาขา EK001) \nกรอกเฉพาะตัวเลข เช่น 260926053 (28/09/2026 Santa)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11477,5 +11477,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-28 12:53"
+ "generated_at": "2026-09-28 12:59"
 }
