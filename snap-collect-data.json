@@ -2933,7 +2933,7 @@
    "name": "ANG BAO SPD Fl. G",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว (ไม่ต้องใส่อักขระพิเศษ)",
-   "category": "Spending Only",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11477,5 +11477,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-28 14:11"
+ "generated_at": "2026-09-28 14:18"
 }
