@@ -5156,7 +5156,7 @@
    "no": 647,
    "name": "บริษัท คอปเปอร์ไวร์ด (Copperwired)  \n.Life SPD-ICON-SPO / iStudio SPD ชั้น 2-3  / Digital Lab SD Fl. 2 / Digital lab Apple SD Fl. BM3",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "ร้านค้า .Life ICON Fl. 3 -> รหัส 00063 (ICON)\nร้านค้า .Life SPO Fl. G -> รหัส 00073 (SPO) \nร้านค้า iStudio SPD Fl. 2 -> รหัส 00148 (SPD)  เลขใบเสร็จขึ้นต้น E xxxx\nร้านค้า iStudio SPD Fl. 3  -> รหัส 00003 (SPD)   เลขใบเสร็จขึ้นต้น I xxxxxxx                                                                           \nร้านค้า Huawei SPD Fl. 3 -> รหัส 00159 (SPD) เลขใบเสร็จ ขึ้นต้นด้วย Hxxxxxx\n---------\n** รหัสสาขา 00157 = SD (เลขใบเสร็จขึ้นต้นด้วยตัว R                                                                                                                                     เฉพาะสินค้า Iphone/Ipad/AppleWatch/Macbook สะสมเข้า Digital lab Apple SD Fl. BM3 (Spending Only!!)                                    สินค้าอื่นๆนอกเหนือ  รายการ สะสมเข้า  Digital Lab SD Fl. 2 (Coin)\n-\nรหัสสาขา 00154 - Onebangkok\nช่องทางจ่าย shopeepay สะสมได้ อัพเดท 12/01/2026\nRemark:  ร้านค้า .Life SPD Fl. 3 รหัส 00012 (SPD)  ใบเสร็จขึ้นต้นด้วย D xxxxx ** ร้านปิดถาวร",
+   "notes": "ร้านค้า .Life ICON Fl. 3 -> รหัส 00063 (ICON)\nร้านค้า .Life SPO Fl. G -> รหัส 00073 (SPO) \nร้านค้า iStudio SPD Fl. 2 -> รหัส 00148 (SPD)  เลขใบเสร็จขึ้นต้น I xxxx                                                                      \nร้านค้า Huawei SPD Fl. 3 -> รหัส 00159 (SPD) เลขใบเสร็จ ขึ้นต้นด้วย Hxxxxxx\n---------\n** รหัสสาขา 00157 = SD (เลขใบเสร็จขึ้นต้นด้วยตัว R                                                                                                                                     เฉพาะสินค้า Iphone/Ipad/AppleWatch/Macbook สะสมเข้า Digital lab Apple SD Fl. BM3 (Spending Only!!)                                    สินค้าอื่นๆนอกเหนือ  รายการ สะสมเข้า  Digital Lab SD Fl. 2 (Coin)\n-\nรหัสสาขา 00154 - Onebangkok\nช่องทางจ่าย shopeepay สะสมได้ อัพเดท 12/01/2026\nRemark:  ร้านค้า .Life SPD Fl. 3 รหัส 00012 (SPD)  ใบเสร็จขึ้นต้นด้วย D xxxxx ** ร้านปิดถาวร\nร้านค้า iStudio SPD Fl. 3 รหัส 00003 (SPD)  ** ร้านปิดถาวร (Update 28/09/2026 Santa)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11477,5 +11477,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-25 19:02"
+ "generated_at": "2026-09-28 12:53"
 }
