@@ -3210,7 +3210,7 @@
   },
   {
    "no": 402,
-   "name": "GYUKATSU KYOTO KATSUGYU - Kyoto Katsugyu SC Fl. 2 / Kyoto Katsugyu ICON Fl. 6",
+   "name": "GYUKATSU KYOTO KATSUGYU - Kyoto Katsugyu SC Fl. 2",
    "receipt_format": "ID",
    "notes": "รหัส ID 5 ตัวอักษร",
    "category": "JoinONESIAMCoin",
@@ -11477,5 +11477,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-28 15:15"
+ "generated_at": "2026-09-28 15:27"
 }
