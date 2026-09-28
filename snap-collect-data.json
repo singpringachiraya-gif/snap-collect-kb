@@ -6123,7 +6123,7 @@
   {
    "no": 756,
    "name": "Jerome ICON Fl. G (เหลือสาขา ICON สาขาเดียว)",
-   "receipt_format": "Receipt no",
+   "receipt_format": "Receipt no / เลขที่",
    "notes": "Ex.KICRC1112567000357 กรอกครบทุกตัว",
    "category": "Spending Only",
    "extra": ""
@@ -11477,5 +11477,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-28 12:59"
+ "generated_at": "2026-09-28 13:45"
 }
