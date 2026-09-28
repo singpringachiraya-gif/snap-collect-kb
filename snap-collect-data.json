@@ -2930,10 +2930,10 @@
   },
   {
    "no": 369,
-   "name": "ANG BAO SPD Fl. G / ANG BAO ICON Fl. 6",
+   "name": "ANG BAO SPD Fl. G",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว (ไม่ต้องใส่อักขระพิเศษ)",
-   "category": "JoinONESIAMCoin",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -11477,5 +11477,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-28 13:45"
+ "generated_at": "2026-09-28 14:11"
 }
