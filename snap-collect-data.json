@@ -11423,6 +11423,14 @@
    "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น\nอัพเดท 22/07/2026",
    "category": "TNA",
    "extra": ""
+  },
+  {
+   "no": 1498,
+   "name": "SLEEPING CLOUD ICON Fl. 5",
+   "receipt_format": "Doc nO.",
+   "notes": "กรอกครบทุกตัว เช่น 8554",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11485,5 +11493,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-29 13:22"
+ "generated_at": "2026-09-29 13:28"
 }
