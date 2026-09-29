@@ -4525,7 +4525,7 @@
    "name": "RAC (RAC INTERGROUP)",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว",
-   "category": "Spending Only",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -4533,7 +4533,7 @@
    "name": "Decoder159 EXT_Phlap Phla Chai Rd null",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว",
-   "category": "Spending Only",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -4541,7 +4541,7 @@
    "name": "Montreal Thailand - Aldo",
    "receipt_format": "Receipt no",
    "notes": "",
-   "category": "Spending Only",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11485,5 +11485,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-29 12:50"
+ "generated_at": "2026-09-29 12:55"
 }
