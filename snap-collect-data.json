@@ -4076,7 +4076,7 @@
    "no": 511,
    "name": "Moga SPD Fl. 2 / Moga ICON Fl. 5",
    "receipt_format": "Document No",
-   "notes": "Doc. No ตัวเต็ม เช่น SICO125090170",
+   "notes": "Doc. No 5 ตัวท้าย ตัวอย่างเลขเต็ม SICO125090170\nกรอกแค่ 90170",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11477,5 +11477,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-29 12:17"
+ "generated_at": "2026-09-29 12:21"
 }
