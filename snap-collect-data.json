@@ -4557,7 +4557,7 @@
    "name": "RealMed ICS Fl. 2 (USER ชื่อพนักงานไม่ใช่ชื่อลูกค้า)",
    "receipt_format": "Receipt no",
    "notes": "ORR01241932 (ไม่ใส่เครื่องหมาย -)                                                                                                                                          -1.  DOC ID  >Ex. POSD24080001                                                                                                                                                     2. เลขที่ใบกำกับภาษี> Ex. IV6708030001                                                                                                                                  3.เลขที่ใบเสร็จ >Ex. ORR01241932 (ไม่ใส่เครื่องหมาย -)",
-   "category": "Spending Only",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -11485,5 +11485,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-29 12:55"
+ "generated_at": "2026-09-29 12:57"
 }
