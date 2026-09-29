@@ -5914,10 +5914,10 @@
   },
   {
    "no": 728,
-   "name": "เลข NR / กรอกแค่ 8 ตัวอักษร / ** ดูที่อยู่บิลจะมี F1  สะสมเข้าชั้น 1 / ชั้น M Shop Closed by Mon 14/7/2026",
-   "receipt_format": "No (เลขที่)",
-   "notes": "เลข NR / กรอกแค่ 8 ตัวอักษร / ** ดูที่อยู่บิลจะมี F1  สะสมเข้าชั้น 1 / Main Floor สะสมเข้า ชั้น M",
-   "category": "JoinONESIAMCoin",
+   "name": "ว่าง",
+   "receipt_format": "",
+   "notes": "",
+   "category": "",
    "extra": ""
   },
   {
@@ -11509,5 +11509,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-29 16:10"
+ "generated_at": "2026-09-29 16:16"
 }
