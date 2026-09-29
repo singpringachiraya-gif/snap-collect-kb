@@ -4397,7 +4397,7 @@
    "name": "CK Calvin Klein / Calvin Klein SPO Fl. G",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว",
-   "category": "JoinONESIAMCoin",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -11485,5 +11485,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-29 12:47"
+ "generated_at": "2026-09-29 12:50"
 }
