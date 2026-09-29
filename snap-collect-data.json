@@ -3154,7 +3154,7 @@
   },
   {
    "no": 395,
-   "name": "Blue by Alain Ducasse ICON Fl. 1  - หัวบิล บริษัท Siam Rivea",
+   "name": "Blue by Alain Ducasse ICON Fl. 1 / Blue by Alain Ducasse Bakery ICON Fl. G - หัวบิล บริษัท Siam Rivea",
    "receipt_format": "check no (CHK)",
    "notes": "",
    "category": "JoinONESIAMCoin",
@@ -3210,7 +3210,7 @@
   },
   {
    "no": 402,
-   "name": "GYUKATSU KYOTO KATSUGYU - Kyoto Katsugyu SC Fl. 2",
+   "name": "GYUKATSU KYOTO KATSUGYU - Kyoto Katsugyu SC Fl. 2 / Kyoto Katsugyu ICON Fl. 6",
    "receipt_format": "ID",
    "notes": "รหัส ID 5 ตัวอักษร",
    "category": "JoinONESIAMCoin",
@@ -6018,9 +6018,17 @@
   },
   {
    "no": 742,
-   "name": "UMAMI SC Fl. 2 / UMAMI ICON Fl. 6",
+   "name": "UMAMI SC Fl. 2 / SIAM CENTER",
    "receipt_format": "ID",
-   "notes": "ปัจจุบันมีสาขาเดียว Siamcenter + ICON  / หัวบิลจะเขียนว่า Siam Square Soi7\nสาขา Siam Center = BRANCH 00001 \nสาขา Iconsiam จะมีชื่อสาขาบอก\n\nUpdate Ton 10/9/2026",
+   "notes": "สาขา Siam Center = BRANCH 00001 \nเช่น CBFTP\n\nUpdate Ton 10/9/2026",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "UMAMI ICON Fl. 6 / ICONSIAM",
+   "receipt_format": "ID",
+   "notes": "สาขา ICONSIAM = BRANCH 00002\nเช่น CBFTP\n\nUpdate Ton 10/9/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11501,5 +11509,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-29 15:50"
+ "generated_at": "2026-09-29 16:06"
 }
