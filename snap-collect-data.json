@@ -5892,7 +5892,7 @@
    "no": 724,
    "name": "Moreover SPD Fl. 3 / Moreover ICON Fl. 5",
    "receipt_format": "bill no (BNO)",
-   "notes": "ตัวอย่าง 202408049",
+   "notes": "bill no (BNO)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11533,5 +11533,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-29 18:21"
+ "generated_at": "2026-09-29 18:23"
 }
