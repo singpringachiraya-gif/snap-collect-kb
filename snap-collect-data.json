@@ -3949,7 +3949,7 @@
    "name": "Pennii popcorn cafe SPD Fl. G",
    "receipt_format": "เลขที",
    "notes": "กรอกครบ\n SOS251013004",
-   "category": "Spending Only",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -11477,5 +11477,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-28 15:27"
+ "generated_at": "2026-09-29 12:06"
 }
