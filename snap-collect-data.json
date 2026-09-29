@@ -4133,7 +4133,7 @@
    "name": "Clay Works SPD Fl. 4",
    "receipt_format": "bill no (BNO)",
    "notes": "HCO168001426",
-   "category": "JoinONESIAMCoin",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -4165,7 +4165,7 @@
    "name": "O'right ICON Fl. 5",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอกเลขที่เต็ม Ex.202403000021",
-   "category": "JoinONESIAMCoin",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11485,5 +11485,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-29 12:26"
+ "generated_at": "2026-09-29 12:32"
 }
