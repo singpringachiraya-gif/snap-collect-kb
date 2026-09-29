@@ -4357,7 +4357,7 @@
    "name": "Restier / RESTIER SPO Fl. G",
    "receipt_format": "No (เลขที่)",
    "notes": "สะสมครบทุกตัว เช่น  310-20200512-0048",
-   "category": "Spending Only",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -9291,8 +9291,8 @@
   {
    "no": 1211,
    "name": "SHIMA Park JAPAN SPD Fl. 5,5A - หัวบิล Fashion E-Commerce Asia Co.,Ltd",
-   "receipt_format": "No (เลขที่)",
-   "notes": "เช่น INC2512041212A009",
+   "receipt_format": "BNO",
+   "notes": "กรอกครบทุกตัว เช่น S2600011000030006124\nถ้าบิลไม่มี BNO ใช้  No แทนเช่น INC2512041212A009",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11485,5 +11485,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-29 12:45"
+ "generated_at": "2026-09-29 12:47"
 }
