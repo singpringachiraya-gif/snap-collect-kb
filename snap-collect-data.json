@@ -1618,9 +1618,17 @@
   },
   {
    "no": 201,
-   "name": "The Gadget ICON Fl. 4 / The Gadget SPD Fl. 4",
+   "name": "The Gadget ICON Fl. 5 / ICONSIAM",
    "receipt_format": "Reference no",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
+   "notes": "กรอกครบทุกตัวหลัง # เป็นต้นไป\nเช่น 011-01-2543\n\n29/9/2026",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "The Gadget SPD Fl. 4 /SIAM PARAGON",
+   "receipt_format": "Reference no",
+   "notes": "กรอกครบทุกตัวหลัง # เป็นต้นไป\nเช่่น 011-01-2543\n\n29/9/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11525,5 +11533,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-29 17:46"
+ "generated_at": "2026-09-29 18:21"
 }
