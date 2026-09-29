@@ -5370,7 +5370,7 @@
   },
   {
    "no": 659,
-   "name": "Bunch Patisserie by Conkey's / ICON Shop Closed / SD Fl. 3",
+   "name": "ว่าง",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอกครบทุกตัว",
    "category": "Spending Only",
@@ -5597,7 +5597,7 @@
    "name": "Da Vinci Alive Bangkok ICON Fl. 6 (join coin)",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอกครบทุกตัว",
-   "category": "JoinONESIAMCoin",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -5866,9 +5866,9 @@
   },
   {
    "no": 722,
-   "name": "Evisu SD Fl. G / Evisu ICON Fl. 1",
+   "name": "Evisu SD Fl. G",
    "receipt_format": "No (เลขที่)",
-   "notes": "สาขา ICON กรอก 4 ตัวท้าย / สาขา SD กรอกเต็ม(ไม่ต้องใส่อักขระพิเศษ)  SH023012600280\n** สาขาดูจาก Location ข้างล่างไม่ต้องไปสนใจสาขาที่พิมข้างล่างเฉยๆ",
+   "notes": "สาขา SD กรอกเต็ม(ไม่ต้องใส่อักขระพิเศษ)  SH023012600280\n** สาขาดูจาก Location ข้างล่างไม่ต้องไปสนใจสาขาที่พิมข้างล่างเฉยๆ",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11431,6 +11431,14 @@
    "notes": "กรอกครบทุกตัว เช่น 8554",
    "category": "",
    "extra": ""
+  },
+  {
+   "no": 1499,
+   "name": "Evisu ICON Fl. 2",
+   "receipt_format": "No (เลขที่)",
+   "notes": "กรอกเต็ม(ไม่ต้องใส่อักขระพิเศษ) SH023012600280\n ** สาขาดูจาก Location ข้างล่างไม่ต้องไปสนใจสาขาที่พิมข้างล่างเฉยๆ\nupdate 29/09/2026",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11493,5 +11501,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-29 14:13"
+ "generated_at": "2026-09-29 15:44"
 }
