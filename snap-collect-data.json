@@ -4074,9 +4074,17 @@
   },
   {
    "no": 511,
-   "name": "Moga SPD Fl. 2 / Moga ICON Fl. 5",
+   "name": "Moga SPD Fl. 2 / SIAM PARAGON",
    "receipt_format": "Document No",
    "notes": "Doc. No 5 ตัวท้าย ตัวอย่างเลขเต็ม SICO125090170\nกรอกแค่ 90170",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Moga ICON Fl. 5 / ICONSIAM",
+   "receipt_format": "Document No",
+   "notes": "กรอกครบ เช่น SICO125090170",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -4085,7 +4093,7 @@
    "name": "DAKASI ICON Fl. 5",
    "receipt_format": "Receipt no",
    "notes": "เช่น RC2308230101",
-   "category": "JoinONESIAMCoin",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11477,5 +11485,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-29 12:21"
+ "generated_at": "2026-09-29 12:26"
 }
