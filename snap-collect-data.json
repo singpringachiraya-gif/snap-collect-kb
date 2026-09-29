@@ -10645,7 +10645,7 @@
    "name": "HONO YAKINIKU SC Fl. 2",
    "receipt_format": "Invoice no.",
    "notes": "กรอกครบ เช่น 0000198",
-   "category": "Spending Only",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -11485,5 +11485,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-29 13:00"
+ "generated_at": "2026-09-29 13:22"
 }
