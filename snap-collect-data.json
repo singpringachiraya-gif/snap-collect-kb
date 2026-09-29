@@ -4061,7 +4061,7 @@
    "name": "GoGo Gyoza & Ramen ICS Fl. 4",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "",
-   "category": "Spending Only",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11477,5 +11477,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-29 12:06"
+ "generated_at": "2026-09-29 12:17"
 }
