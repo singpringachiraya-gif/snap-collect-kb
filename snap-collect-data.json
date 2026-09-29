@@ -4645,7 +4645,7 @@
    "name": "บริษัท บริษัท อาร์มิน ซิสเท็ม จำกัด - Anello / Bossini",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว",
-   "category": "Spending Only",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11493,5 +11493,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-29 14:06"
+ "generated_at": "2026-09-29 14:13"
 }
