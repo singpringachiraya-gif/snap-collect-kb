@@ -1659,8 +1659,8 @@
   {
    "no": 206,
    "name": "Panpuri SPD Fl. 1 / Panpuri SPD Fl. G / Panpuri SC Fl. 1/Panpuri ICON Fl. M",
-   "receipt_format": "Reference no",
-   "notes": "สาขา 0000 SPD \nEx.AB261040009SMC10008270",
+   "receipt_format": "Reference no / Document no",
+   "notes": "กรอกเหมือนกันทุกสาขา\nสาขา 0000 SPD \nEx.AB261040009SMC10008270",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11509,5 +11509,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-29 16:29"
+ "generated_at": "2026-09-29 16:42"
 }
