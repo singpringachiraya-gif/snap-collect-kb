@@ -4581,7 +4581,7 @@
    "name": "De Hygienique EXT null",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว",
-   "category": "Spending Only",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11485,5 +11485,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-29 12:57"
+ "generated_at": "2026-09-29 13:00"
 }
