@@ -6037,7 +6037,7 @@
    "name": "Geneus at Iconsiam ICON Fl. 5",
    "receipt_format": "No (เลขที่)",
    "notes": "No. ขวาบน กรอกครบทุกตัว Ex. G240232",
-   "category": "JoinONESIAMCoin",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11509,5 +11509,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-29 16:16"
+ "generated_at": "2026-09-29 16:29"
 }
