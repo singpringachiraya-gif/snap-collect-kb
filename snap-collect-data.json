@@ -6274,9 +6274,25 @@
   },
   {
    "no": 775,
-   "name": "Pandora SD Fl. G  / Pandora SPD Fl. 2  / Pandora ICON Fl. M / Pandora ICON Fl. 4",
-   "receipt_format": "Receipt no / TAX INV.",
-   "notes": "ไม่สะสมเฉพาะ Pandora (ที่ระบุ STK)\nเฉพาะ 6 ตัวท้ายหลังขีด - เช่น S25158001-000613 กรอกแค่ 000613 / สาขา SPD ใช้ TAX INV. กรอกเต็ม (ไม่เอาขีด)",
+   "name": "Pandora SD Fl. G  / Siam Discovery",
+   "receipt_format": "Rcpt",
+   "notes": "เฉพาะ 6 ตัวท้ายหลังขีด - เช่น S25158001-000613 \nกรอกแค่ 000613",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Pandora SPD Fl. 2  / Siam Paragon",
+   "receipt_format": "Rcpt",
+   "notes": "สาขา Siam Paragon สะสมตัวเลข 6 หลักท้าย \nEx.000108\n\nMail ton 1/7/2026",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Pandora ICON Fl. M / Pandora ICON Fl. 4 /",
+   "receipt_format": "Rcpt",
+   "notes": "ไม่สะสมเฉพาะ Pandora (ที่ระบุ STK)\n\nPandora Fl.4  สาขา ICONSIAM\nตำแหน่งสะสม : Rcpt / สะสมตัวเลข 6 หลักท้าย \nEx.000128",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11509,5 +11525,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-29 16:42"
+ "generated_at": "2026-09-29 17:46"
 }
