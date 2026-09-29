@@ -4333,7 +4333,7 @@
    "name": "Lotus Sleep Studio  (มีหลายสาขา) -  External",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัวบนใบเสร็จ /  (รหัสร้าน CLS-SH020 สาขา นครชัยศรี ไม่เข้าร่วมสะสม)",
-   "category": "Spending Only",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -4349,7 +4349,7 @@
    "name": "Les Nereides  (มีหลายสาขา) -  External",
    "receipt_format": "เลขใต้ Barcode",
    "notes": "ใช้เลขหลัง# กรอกครบทุกตัวบนใบเสร็จ ตัวอย่าง #3-1048",
-   "category": "Spending Only",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11485,5 +11485,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-29 12:32"
+ "generated_at": "2026-09-29 12:45"
 }
