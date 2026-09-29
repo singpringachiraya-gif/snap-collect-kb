@@ -6284,7 +6284,7 @@
    "no": 775,
    "name": "Pandora SD Fl. G  / Siam Discovery",
    "receipt_format": "Rcpt",
-   "notes": "เฉพาะ 6 ตัวท้ายหลังขีด - เช่น S25158001-000613 \nกรอกแค่ 000613",
+   "notes": "สะสมตัวเลข 6 หลักท้าย เช่น 000613",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11533,5 +11533,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-29 18:24"
+ "generated_at": "2026-09-29 18:27"
 }
