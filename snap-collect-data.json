@@ -1242,9 +1242,33 @@
   },
   {
    "no": 154,
-   "name": "Watsons SC Fl. 2 / Watsons ICON Fl. 5 / Watsons SPO Fl. G",
+   "name": "Watsons SC Fl. 2 / SIAM CENTER",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "ใช้เลข R00x/เลข# (4หลัก)  (จะอยู่ล่างCashier name ด้านล่างๆใบเสร็จ)  \nEx. R 002 #0107 กรอกแค่ R002/0107\nถ้าไม่มีสาขาบอกให้ดูที่รหัสสาขา\nรหัสสาขา SC : S00890 / ICON : S00819  / SPO : S03008",
+   "notes": "ใช้เลข R00x/เลข# (4หลัก)  (จะอยู่ล่างCashier name ด้านล่างๆใบเสร็จ)  \nEx. R 002 #0107 กรอกแค่ R002/0107\nถ้าไม่มีสาขาบอกให้ดูที่รหัสสาขา\nรหัสสาขา SC : S00890",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Watsons ICON Fl. 5 / ICONSIAM",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "ใช้เลข R00x/เลข# (4หลัก)  (จะอยู่ล่างCashier name ด้านล่างๆใบเสร็จ)  \nEx. R 002 #0107 กรอกแค่ R002/0107\nถ้าไม่มีสาขาบอกให้ดูที่รหัสสาขา\nรหัสสาขา ICON : S00819",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Watsons ICS Fl. G / หัวบิลไม่บอกสาขา = ICS Building",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "ใช้เลข R00x/เลข# (4หลัก)  (จะอยู่ล่างCashier name ด้านล่างๆใบเสร็จ)  \nEx. R 002 #0107 กรอกแค่ R002/0107",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Watsons SPO Fl. G / Siam Premium Outlets",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "ใช้เลข R00x/เลข# (4หลัก)  (จะอยู่ล่างCashier name ด้านล่างๆใบเสร็จ)  \nEx. R 002 #0107 กรอกแค่ R002/0107",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11533,5 +11557,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-30 17:48"
+ "generated_at": "2026-09-30 18:57"
 }
