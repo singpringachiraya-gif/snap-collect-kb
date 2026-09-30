@@ -4517,7 +4517,7 @@
    "name": "Babyccino SD Fl. G",
    "receipt_format": "payment bill no",
    "notes": "ใต้ qr code (Food deal : Gifcard )",
-   "category": "JoinONESIAMCoin",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11453,7 +11453,7 @@
    "name": "SLEEPING CLOUD ICON Fl. 5",
    "receipt_format": "Doc nO.",
    "notes": "กรอกครบทุกตัว เช่น 8554",
-   "category": "",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -11462,6 +11462,14 @@
    "receipt_format": "No (เลขที่)",
    "notes": "กรอกเต็ม(ไม่ต้องใส่อักขระพิเศษ) SH023012600280\n ** สาขาดูจาก Location ข้างล่างไม่ต้องไปสนใจสาขาที่พิมข้างล่างเฉยๆ",
    "category": "JoinONESIAMCoin",
+   "extra": ""
+  },
+  {
+   "no": 1500,
+   "name": "Punthai Coffee ICS Fl. 4",
+   "receipt_format": "Slip",
+   "notes": "เช่น C097000002682",
+   "category": "Spending Only",
    "extra": ""
   }
  ],
@@ -11525,5 +11533,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-30 17:38"
+ "generated_at": "2026-09-30 17:44"
 }
