@@ -2666,10 +2666,10 @@
   },
   {
    "no": 336,
-   "name": "ว่าง",
-   "receipt_format": "Silp No",
-   "notes": "กรอกครบทุกตัว (ไม่ต้องใส่อักขระพิเศษ)",
-   "category": "Spending Only",
+   "name": "Rag & Bone SD Fl. G",
+   "receipt_format": "No (เลขที่)",
+   "notes": "กรอกครบทุกตัว \n\nshop closed by thanyanun 30/9/ 2026",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -4516,7 +4516,7 @@
    "no": 564,
    "name": "Babyccino SD Fl. G",
    "receipt_format": "payment bill no",
-   "notes": "ใต้ qr code (Food deal : Gifcard )",
+   "notes": "ใต้ qr code (Food deal : Gifcard )\nSHOP CLOSED BY THANYANUN 30/9/2026",
    "category": "ShopClosed",
    "extra": ""
   },
@@ -11533,5 +11533,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-30 17:44"
+ "generated_at": "2026-09-30 17:48"
 }
