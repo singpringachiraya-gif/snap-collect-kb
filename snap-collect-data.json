@@ -6298,7 +6298,7 @@
   },
   {
    "no": null,
-   "name": "Pandora ICON Fl. 4 /",
+   "name": "Pandora ICON Fl. 4 / ICONSIAM",
    "receipt_format": "Rcpt",
    "notes": "สาขา Siam Takashimaya สะสมไม่ได้\n\nPandora Fl.4  สาขา ICONSIAM\nตำแหน่งสะสม : Rcpt / สะสมตัวเลข 6 หลักท้าย \nEx.000128",
    "category": "JoinONESIAMCoin",
@@ -8156,8 +8156,8 @@
    "no": 1012,
    "name": "Pandora (Location:Siamtakashimaya) **สะสมไม่ได้",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
-   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
-   "category": "Popup&Event",
+   "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
+   "category": "TNA",
    "extra": ""
   },
   {
@@ -11525,5 +11525,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-30 11:07"
+ "generated_at": "2026-09-30 11:10"
 }
