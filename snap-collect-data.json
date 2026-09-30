@@ -2730,9 +2730,9 @@
   },
   {
    "no": 344,
-   "name": "อร่อยหม่าล่าเดเทอลิ่ง (JOINCOIN) -  ZhangLiang MALA TANG SC Fl. 2",
+   "name": "ZhangLiang MALA TANG SC Fl. 2 อร่อยหม่าล่าเดเทอลิ่ง (JOINCOIN) -",
    "receipt_format": "bill no (BNO)",
-   "notes": "กรอกตัวเลขอย่างเดียว (Bill Ref Number)",
+   "notes": "กรอกตัวเลขอย่างเดียว หลัง # เป็นต้นไป (Bill Ref Number)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11525,5 +11525,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-30 14:27"
+ "generated_at": "2026-09-30 14:29"
 }
