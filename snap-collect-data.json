@@ -8604,7 +8604,7 @@
    "no": 1116,
    "name": "Shependence SC Fl. M / SIAM CENTER",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "ดูสะสมยอด Net total \n\nกรอกเลขใต้ Tax ID\nเช่น RCSIAM-6-202605118\n\nUpdate 30/9/2026",
+   "notes": "ดูสะสมยอด Net total \n\nเลขที่ใบเสร็จอยู่ใต้ Tax ID   กรอกครบทุกตัวอักษร เช่น\nเช่น RCSIAM-6-202605118\n\nUpdate 30/9/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11525,5 +11525,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-30 12:32"
+ "generated_at": "2026-09-30 12:33"
 }
