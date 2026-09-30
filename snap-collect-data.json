@@ -7868,7 +7868,7 @@
    "no": 975,
    "name": "Soap Opera Bangkok SC Fl. M",
    "receipt_format": "เลขมุมล่างซ้าย",
-   "notes": "กรอกครบไม่เอาขีด",
+   "notes": "กรอกครบหลัง # เป็นต้นไป เช่น 18-2051",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11525,5 +11525,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-30 11:10"
+ "generated_at": "2026-09-30 11:31"
 }
