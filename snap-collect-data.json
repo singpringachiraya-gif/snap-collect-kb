@@ -6298,17 +6298,9 @@
   },
   {
    "no": null,
-   "name": "Pandora ICON Fl. M / Pandora by Siam Takashimaya ICON Fl. M",
-   "receipt_format": "Rcpt",
-   "notes": "รอ Confirm\nตำแหน่งสะสม : Rcpt / สะสมตัวเลข 6 หลักท้าย \nEx.000128",
-   "category": "JoinONESIAMCoin",
-   "extra": ""
-  },
-  {
-   "no": null,
    "name": "Pandora ICON Fl. 4 /",
    "receipt_format": "Rcpt",
-   "notes": "Pandora Fl.4  สาขา ICONSIAM\nตำแหน่งสะสม : Rcpt / สะสมตัวเลข 6 หลักท้าย \nEx.000128",
+   "notes": "สาขา Siam Takashimaya สะสมไม่ได้\n\nPandora Fl.4  สาขา ICONSIAM\nตำแหน่งสะสม : Rcpt / สะสมตัวเลข 6 หลักท้าย \nEx.000128",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11533,5 +11525,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-30 11:06"
+ "generated_at": "2026-09-30 11:07"
 }
