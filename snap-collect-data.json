@@ -8161,22 +8161,6 @@
    "extra": ""
   },
   {
-   "no": 1011,
-   "name": "หัวบิล MUTCHIMA  www.Mutchimaofficial.com ICONSIAM G >> สะสมเข้า SOOKSIAM ICON Fl. BM",
-   "receipt_format": "INVOICE NO (Inv#)",
-   "notes": "เช่น 250806160855835 /  อยู่ใน Zone SookSiam ICON",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 1012,
-   "name": "Pandora (Location:Siamtakashimaya) **สะสมไม่ได้",
-   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
-   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
-   "category": "Popup&Event",
-   "extra": ""
-  },
-  {
    "no": 1013,
    "name": "Jasmin SPD Fl. 1 (เริ่ม 01/08/2025)",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
@@ -11541,5 +11525,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-09-30 10:28"
+ "generated_at": "2026-09-30 10:33"
 }
