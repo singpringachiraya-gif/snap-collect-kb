@@ -7755,7 +7755,7 @@
   {
    "no": 958,
    "name": "1:2 Coffee SPD Fl. 3 / SIAM PARAGON",
-   "receipt_format": "Payment bill No",
+   "receipt_format": "เวลา / Payment bill No (เลขQ 2 หลักท้าย)",
    "notes": "ใช้เวลาออกใบเสร็จ/Payment No เช่น 1016/18\nเวลาออกใบเสร็จอยู่มุมขวามือหลังวันที่  / \nบิลเลขที่ (Bill Ref No) แบบยาว ไม่กรอกแล้ว ใช้ เวลา/Payment No เท่านั้น \n\nหากไม่มี Payment no รูปแบบสะสมจะเป็น เวลา/Q หลักตามใบเสร็จ เช่น 1340/29\n\n\nบิล Food Deal ซื้อจาก APP มีตัวปั้ม - SKU: Siam Deal Discount 5 THB (บางทีไม่ปั้มดูดีๆ)\n Reject: ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp\n\nUpdate 1/10/2026",
    "category": "Spending Only",
    "extra": "(เริ่ม join Coin 01/08/2025)"
@@ -7763,7 +7763,7 @@
   {
    "no": null,
    "name": "1:2 Coffee SC Fl. 2 / SIAM CENTER",
-   "receipt_format": "Payment bill No",
+   "receipt_format": "เวลา / Payment bill No (เลขQ 2 หลักท้าย)",
    "notes": "ใช้เวลาออกใบเสร็จ/Payment No เช่น 1016/18\nเวลาออกใบเสร็จอยู่มุมขวามือหลังวันที่  / \nบิลเลขที่ (Bill Ref No) แบบยาว ไม่กรอกแล้ว ใช้ เวลา/Payment No เท่านั้น \n\nหากไม่มี Payment no รูปแบบสะสมจะเป็น เวลา/Q หลักตามใบเสร็จ เช่น 1340/29\n\n\nบิล Food Deal ซื้อจาก APP มีตัวปั้ม - SKU: Siam Deal Discount 5 THB (บางทีไม่ปั้มดูดีๆ)\n Reject: ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp\n\nUpdate 1/10/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
@@ -7771,7 +7771,7 @@
   {
    "no": null,
    "name": "1:2 Coffee ICON Fl. 4 / ICONSIAM",
-   "receipt_format": "Payment bill No",
+   "receipt_format": "เวลา / Payment bill No (เลขQ 2 หลักท้าย)",
    "notes": "ใช้เวลาออกใบเสร็จ/Payment No เช่น 1016/18\nเวลาออกใบเสร็จอยู่มุมขวามือหลังวันที่  / \nบิลเลขที่ (Bill Ref No) แบบยาว ไม่กรอกแล้ว ใช้ เวลา/Payment No เท่านั้น \n\nหากไม่มี Payment no รูปแบบสะสมจะเป็น เวลา/Q หลักตามใบเสร็จ เช่น 1340/29\n\n\nบิล Food Deal ซื้อจาก APP มีตัวปั้ม - SKU: Siam Deal Discount 5 THB (บางทีไม่ปั้มดูดีๆ)\n Reject: ใบเสร็จเกิดจากการซื้อสินค้า/บริการ ผ่านเว็บไซต์ของร้านค้า หรือซื้อผ่าน ONESIAM SuperApp\n\nUpdate 1/10/2026",
    "category": "Spending Only",
    "extra": ""
@@ -11581,5 +11581,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-01 16:36"
+ "generated_at": "2026-10-01 17:38"
 }
