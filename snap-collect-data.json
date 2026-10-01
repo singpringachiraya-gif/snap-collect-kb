@@ -10586,7 +10586,15 @@
   },
   {
    "no": 1384,
-   "name": "Khao-So-I ICON Fl. G / Khao So i SPD Fl. G",
+   "name": "Khao So i SPD Fl. G / SIAM PARAGON",
+   "receipt_format": "ID",
+   "notes": "เช่น VEVJO \nสะสมเฉพาะใบเสร็จตัวจริง ไม่สะสมใบรองบิลที่เป็นเลขโต๊ะ (By Yo 13/8/26)",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Khao-So-I ICON Fl. G / ICONSIAM = Branch 00005",
    "receipt_format": "ID",
    "notes": "เช่น VEVJO \nสะสมเฉพาะใบเสร็จตัวจริง ไม่สะสมใบรองบิลที่เป็นเลขโต๊ะ (By Yo 13/8/26)",
    "category": "Spending Only",
@@ -11557,5 +11565,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-01 11:10"
+ "generated_at": "2026-10-01 12:52"
 }
