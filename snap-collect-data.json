@@ -613,7 +613,7 @@
    "name": "Kam's Roast ICON Fl. 6 (JoinCoin) K food guru",
    "receipt_format": "Tax invoice (ABB)",
    "notes": "สะสมเฉพาะตัวเลข 680409016",
-   "category": "Spending Only",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -11581,5 +11581,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-02 11:32"
+ "generated_at": "2026-10-02 12:23"
 }
