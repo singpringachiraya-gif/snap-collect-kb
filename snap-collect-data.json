@@ -11437,7 +11437,7 @@
    "name": "Adidas SPD Fl. 2 /Siam Paragon",
    "receipt_format": "Slip",
    "notes": "ใช้  Slip โดยเริ่มต้นจาก THxxxxxx กรอกครบ\nเลขเต็ม Slip : 000TH11804000049780 / ตัด 0 ข้างหน้าออกเลขที่กรอก :  TH11804000049780",
-   "category": "ShopClosed",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -11445,7 +11445,7 @@
    "name": "Adidas Original ICON Fl. 2 /ICONSIAM",
    "receipt_format": "Slip",
    "notes": "ใช้  Slip โดยเริ่มต้นจาก THxxxxxx กรอกครบ\nเลขเต็ม Slip : 000TH11804000049780 / ตัด 0 ข้างหน้าออกเลขที่กรอก :  TH11804000049780",
-   "category": "ShopClosed",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -11461,7 +11461,7 @@
    "name": "Adidas Original SC Fl. G",
    "receipt_format": "Slip",
    "notes": "ใช้  Slip โดยเริ่มต้นจาก THxxxxxx กรอกครบ\nเลขเต็ม Slip : 000TH11804000049780 / ตัด 0 ข้างหน้าออกเลขที่กรอก :  TH11804000049780",
-   "category": "ShopClosed",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -11581,5 +11581,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-02 11:08"
+ "generated_at": "2026-10-02 11:32"
 }
