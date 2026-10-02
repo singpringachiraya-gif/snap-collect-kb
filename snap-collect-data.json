@@ -11525,7 +11525,7 @@
    "name": "Solsot ICON Fl. 6",
    "receipt_format": "Receipt No.",
    "notes": "กรอกครบทุกตัว \nตัวอย่างเช่น  SOL11RC2102569/000002",
-   "category": "",
+   "category": "Spending Only",
    "extra": ""
   }
  ],
@@ -11589,5 +11589,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-02 12:36"
+ "generated_at": "2026-10-02 14:33"
 }
