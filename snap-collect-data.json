@@ -8308,7 +8308,7 @@
    "no": 1026,
    "name": "MAPPY SC Fl. 2",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "มุมขวาล่าง กรอกครบ หลัง # เป็นต้นไป เช่น 8-2785",
+   "notes": "มุมขวาล่าง กรอกครบ หลัง # เป็นต้นไป เช่น 8-2785\ndate 4/10/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11589,5 +11589,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-04 13:07"
+ "generated_at": "2026-10-04 13:11"
 }
