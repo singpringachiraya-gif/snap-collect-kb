@@ -1989,7 +1989,7 @@
    "name": "โรงเรียนดนตรียามาฮ่า สยามพารากอน SPD Fl. 4",
    "receipt_format": "Receipt no",
    "notes": "ใบเสร็จแบบเขียนมือ ใช้ เล่มที่-เลขที่\nใบเสร็จแบบ Print  ใช้ใบเสร็จเลขที่  กรอกครบทุกตัว / มีบิล 2 แบบ **ใส่เครื่องหมายลบ - ด้วย\n\nยกเลิก Join Coin 18/9/2026",
-   "category": "ShopClosed",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -8700,8 +8700,8 @@
    "no": 1123,
    "name": "Oh' Polly SPD Fl. G หัวบิล Polly Atelier Tea",
    "receipt_format": "ID",
-   "notes": "กรอกครบ \nShop Closed 9/9/2026",
-   "category": "ShopClosed",
+   "notes": "กรอกครบ",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -11589,5 +11589,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-02 14:33"
+ "generated_at": "2026-10-04 09:41"
 }
