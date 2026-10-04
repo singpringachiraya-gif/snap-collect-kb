@@ -962,7 +962,7 @@
   },
   {
    "no": 121,
-   "name": "Piri Piri SPD Fl. G",
+   "name": "ว่าง",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "ไม่มีเลขใบเสร็จ - บรรทัดวันที่ ริมขวาสุด (ex.C01-430174)",
    "category": "Spending Only",
@@ -6043,7 +6043,7 @@
   {
    "no": 741,
    "name": "Priri Piri Paragon Co.Ltd - Piri Piri SPD Fl. G",
-   "receipt_format": "No (เลขที่)",
+   "receipt_format": "เลขที่",
    "notes": "กรอกเต็ม",
    "category": "Spending Only",
    "extra": ""
@@ -11589,5 +11589,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-04 14:37"
+ "generated_at": "2026-10-04 17:47"
 }
