@@ -3164,8 +3164,8 @@
    "no": 392,
    "name": "GULJAK ICON Fl. 6",
    "receipt_format": "No (เลขที่)",
-   "notes": "เลข NO ** กรอกเฉพาะ5ตัวท้าย  >> SCT/00042545 กรอกแค่ 42545\nร้านปิดมีผลทันที 7-Sep-2026 by พี่มน",
-   "category": "ShopClosed",
+   "notes": "เลข NO ** กรอกเฉพาะ5ตัวท้าย  >> \nSCT/00042545 กรอกแค่ 42545",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -11589,5 +11589,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-04 09:41"
+ "generated_at": "2026-10-04 09:45"
 }
