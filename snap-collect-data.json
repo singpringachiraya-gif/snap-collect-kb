@@ -9530,7 +9530,7 @@
   },
   {
    "no": 1233,
-   "name": "Dots Coffee SPD FI.5",
+   "name": "ว่าง",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
    "category": "Popup&Event",
@@ -10363,8 +10363,8 @@
   {
    "no": 1354,
    "name": "Dots Coffee  SPD Fl.5A   [nextopia]",
-   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
-   "notes": "",
+   "receipt_format": "No.กรอกเต็ม",
+   "notes": "EX.00400004799",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11589,5 +11589,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-04 13:11"
+ "generated_at": "2026-10-04 14:37"
 }
