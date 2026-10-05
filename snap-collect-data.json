@@ -7570,10 +7570,10 @@
   },
   {
    "no": 931,
-   "name": "EMIS SC Fl. M",
+   "name": "EMIS SC Fl. M  / Siam Center",
    "receipt_format": "Order No.",
-   "notes": "เช่น 515218 (update by aom 05/09/26)",
-   "category": "Spending Only",
+   "notes": "เช่น 515218 \n(update by aom 05/09/26)",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -11621,5 +11621,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-05 17:31"
+ "generated_at": "2026-10-05 17:34"
 }
