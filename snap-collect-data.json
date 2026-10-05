@@ -2220,7 +2220,7 @@
    "no": 273,
    "name": "Ferragamo SPO Fl. G / Siam Premium Outlets",
    "receipt_format": "Receipt no",
-   "notes": "สาขา SPO กรอกเฉพาะ 4 ตัวท้าย / ดูดีดีนะ\n\nอัพเดท 28/01/2026 เกด",
+   "notes": "สะสมครบทุกตัวอักษร รวมถึงอักขระพิเศษ \nเช่น A3LV-5-634-3656\n\nอัพเดท 5/10/2026 เกด",
    "category": "JoinONESIAMCoin",
    "extra": "Luxury"
   },
@@ -11621,5 +11621,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-05 17:34"
+ "generated_at": "2026-10-05 17:36"
 }
