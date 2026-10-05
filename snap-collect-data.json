@@ -11573,7 +11573,23 @@
    "name": "บริษัท คอมเซเว่น จำกัด (มหาชน) สาขาที่ 1597 สะสมเข้า Banana ICS Fl. 2",
    "receipt_format": "เลขที่ใบเสร็จ (กรอกเต็ม รวมอักขระพิเศษ)",
    "notes": "EX.6910-CH1597-00038",
-   "category": "",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": 1503,
+   "name": "Matcho Pop-Up",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "",
+   "category": "Popup&Event",
+   "extra": ""
+  },
+  {
+   "no": 1504,
+   "name": "K-YOUNG Pop-Up",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "",
+   "category": "Popup&Event",
    "extra": ""
   }
  ],
@@ -11637,5 +11653,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-05 18:31"
+ "generated_at": "2026-10-05 18:43"
 }
