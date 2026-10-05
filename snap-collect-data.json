@@ -9036,8 +9036,8 @@
    "no": 1162,
    "name": "Rangoon Tea House ICON Fl. G",
    "receipt_format": "check no (CHK)",
-   "notes": "( Food Deal : laphet Yay IC Promo)",
-   "category": "Spending Only",
+   "notes": "( Food Deal : laphet Yay IC Promo)\n\nMail Shop Closed 5/10/2026",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11637,5 +11637,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-05 17:48"
+ "generated_at": "2026-10-05 18:31"
 }
