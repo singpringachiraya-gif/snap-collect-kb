@@ -4994,9 +4994,9 @@
   },
   {
    "no": 622,
-   "name": "ADLV SC Fl. G",
+   "name": "ADLV SC Fl. G (บริษัท ริช สปอร์ต จำกัด)",
    "receipt_format": "Reciept no",
-   "notes": "กรอกครบ เช่่น 000AD09801000007855",
+   "notes": "กรอกครบ \nเช่่น 000AD09801000007855\nหรือ  000RSH1501000000541",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11589,5 +11589,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-04 17:47"
+ "generated_at": "2026-10-05 11:20"
 }
