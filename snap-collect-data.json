@@ -8705,6 +8705,14 @@
    "extra": ""
   },
   {
+   "no": null,
+   "name": "Emis SD Fl. G / Siam Discovery",
+   "receipt_format": "Pos-Reciept (PRH)",
+   "notes": "เช่น 2432102-1016504\n\nMail Remark Closed 5/10/2026",
+   "category": "ShopClosed",
+   "extra": ""
+  },
+  {
    "no": 1122,
    "name": "Swarovski (POP UP) SPD Fl. 2",
    "receipt_format": "Transaction No (Trans)",
@@ -11543,6 +11551,14 @@
    "notes": "กรอกครบทุกตัว \nตัวอย่างเช่น  SOL11RC2102569/000002",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1502,
+   "name": "บริษัท คอมเซเว่น จำกัด (มหาชน) สาขาที่ 1597 สะสมเข้า Banana ICS Fl. 2",
+   "receipt_format": "เลขที่ใบเสร็จ (กรอกเต็ม รวมอักขระพิเศษ)",
+   "notes": "EX.6910-CH1597-00038",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11605,5 +11621,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-05 16:34"
+ "generated_at": "2026-10-05 17:31"
 }
