@@ -2202,7 +2202,7 @@
   },
   {
    "no": 272,
-   "name": "endi SPD Fl. M / Fendi Men SPD Fl. M / Fendi ICON Fl. M",
+   "name": "Fendi SPD Fl. M / Fendi Men SPD Fl. M / Fendi ICON Fl. M",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "เลขที่ใบเสร็จเต็ม (invoice) Ex.1119-02-26506 กรอกครบทุกตัว\nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
@@ -2210,11 +2210,19 @@
   },
   {
    "no": 273,
-   "name": "Ferragamo ICON Fl. G / Ferragamo SPO Fl. G",
+   "name": "Ferragamo SPO Fl. G / Siam Premium Outlets",
    "receipt_format": "Receipt no",
-   "notes": "สาขา ICON กรอกครบล เช่น  A4BY-1-5110-16242 \nสาขาSPO กรอกเฉพาะ 4 ตัวท้าย\nอัพเดท 28/01/2026 เกด",
+   "notes": "สาขา SPO กรอกเฉพาะ 4 ตัวท้าย / ดูดีดีนะ\n\nอัพเดท 28/01/2026 เกด",
    "category": "JoinONESIAMCoin",
    "extra": "Luxury"
+  },
+  {
+   "no": null,
+   "name": "Ferragamo SPD Fl. M / Siam Paragon",
+   "receipt_format": "Receipt no",
+   "notes": "สาขา SPD กรอกครบ\nกรอกครบ เช่น  A4BY-1-5110-16242",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
   },
   {
    "no": 274,
@@ -11589,5 +11597,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-05 11:52"
+ "generated_at": "2026-10-05 16:30"
 }
