@@ -2202,11 +2202,19 @@
   },
   {
    "no": 272,
-   "name": "Fendi SPD Fl. M / Fendi Men SPD Fl. M / Fendi ICON Fl. M",
+   "name": "Fendi SPD Fl. M / Siam Paragon",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "เลขที่ใบเสร็จเต็ม (invoice) Ex.1119-02-26506 กรอกครบทุกตัว\nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
    "extra": "Luxury"
+  },
+  {
+   "no": null,
+   "name": "Fendi ICON Fl. M / ICONSIAM",
+   "receipt_format": "INVOICE NO (Inv#)",
+   "notes": "เลขที่ใบเสร็จเต็ม (invoice) Ex.1119-02-26506 กรอกครบทุกตัว\nอัพเดท 28/01/2026",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
   },
   {
    "no": 273,
@@ -11597,5 +11605,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-05 16:30"
+ "generated_at": "2026-10-05 16:34"
 }
