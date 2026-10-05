@@ -2786,9 +2786,17 @@
   },
   {
    "no": 346,
-   "name": "Yugen SPD Fl. G / Yugen ICON Fl. 5 /Yugen SPD Fl. 3",
+   "name": "Yugen SPD Fl. G / Siam Paragon",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
    "notes": "ไม่มีเลขที่ใบเสร็จ -  เลขที่ล่างเวลา ในใบเสร็จ 6ตัว  / เช่น 000001",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Yugen SC Fl. 1 / Sian Center",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "ไม่มีเลขที่ใบเสร็จ -  เลขที่ข้างเวลา \nกรอกหลัง # เป็นต้นไป เช่น 0005",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11621,5 +11629,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-05 17:36"
+ "generated_at": "2026-10-05 17:46"
 }
