@@ -994,10 +994,10 @@
   },
   {
    "no": 121,
-   "name": "ว่าง",
-   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "ไม่มีเลขใบเสร็จ - บรรทัดวันที่ ริมขวาสุด (ex.C01-430174)",
-   "category": "Spending Only",
+   "name": "SMILEY POP UP ICON Fl. 1 / ICONSIAM",
+   "receipt_format": "RCPT",
+   "notes": "ดูสาขาด้านล่างบิลตรง CASHIER : ICONSIAM\n\nกรองครบหลัง # เป็นต้นไป เช่น 1016000821",
+   "category": "Popup&Event",
    "extra": ""
   },
   {
@@ -11693,5 +11693,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-06 12:31"
+ "generated_at": "2026-10-06 12:37"
 }
