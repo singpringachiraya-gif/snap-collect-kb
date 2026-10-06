@@ -2634,9 +2634,9 @@
   },
   {
    "no": 321,
-   "name": "Millinium Auto SPD Fl. 2",
-   "receipt_format": "เจอบิลแล้วมาตรวจสอบกันก่อนค่ะ",
-   "notes": "เรื่องร้านรถไม่แน่ใจถามพี่อุ้ม",
+   "name": "Millinium Auto SPD Fl. 2 / SIAM PARAGON",
+   "receipt_format": "No (เลขที่)",
+   "notes": "บริษัทมิลเลนเนียมออโต้ กรุ๊ป จำกัด สาขา0004\nรายการสินค้าในใบเสร็จ เกี่ยวกับ mini lifestyle , apparel, luggage, and accessories สามารถสะสมได้ \nใช้เลข No ในการสะสม เช่น No.10254396\n\nเรื่องร้านรถไม่แน่ใจถามพี่อุ้ม / ใบจองรถไม่สะสม",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11693,5 +11693,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-06 15:10"
+ "generated_at": "2026-10-06 15:20"
 }
