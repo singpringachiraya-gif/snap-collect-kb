@@ -2675,7 +2675,7 @@
   {
    "no": 327,
    "name": "CPS Chaps & CPS Coffee & ORI SC Fl. G / Siam Center",
-   "receipt_format": "No (เลขที่)",
+   "receipt_format": "No (เลขที่) / ID",
    "notes": "CPS Chaps & CPS Coffee & ORI SC Fl. G /  \nกรอกครบที่เป็นเสื้อผ้า Docket no เช่น DC5000133665        \nที่เป็นคาเฟ่ Coffee ใช้เลข ID",
    "category": "Spending Only",
    "extra": ""
@@ -2683,7 +2683,7 @@
   {
    "no": null,
    "name": "CPS Chaps + CPS Coffee ICON Fl. 1 / ICONSIAM",
-   "receipt_format": "No (เลขที่)",
+   "receipt_format": "No (เลขที่) / ID",
    "notes": "CPS Chaps + CPS Coffee ICON Fl. 1 /  \nกรอกครบที่เป็นเสื้อผ้า Docket no เช่น DC5000133665        \nที่เป็นคาเฟ่ Coffee ใช้เลข ID",
    "category": "Spending Only",
    "extra": ""
