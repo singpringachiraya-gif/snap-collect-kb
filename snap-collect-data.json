@@ -2674,9 +2674,17 @@
   },
   {
    "no": 327,
-   "name": "CPS ที่เป็นสินค้า Fashion หัวบิล Jaspal / Siam Center / ICONSIAM",
+   "name": "CPS Chaps & CPS Coffee & ORI SC Fl. G / Siam Center",
    "receipt_format": "No (เลขที่)",
-   "notes": "CPS Chaps + CPS Coffee ICON Fl. 1 /  กรอกครบที่เป็นเสื้อผ้า Docket no เช่น DC5000133665        \nที่เป็นคาเฟ่ Coffee ใช้เลข ID\n\nCPS Chaps & CPS Coffee & ORI SC Fl. G /  กรอกครบที่เป็นเสื้อผ้า Docket no เช่น DC5000133665        \nที่เป็นคาเฟ่ Coffee ใช้เลข ID",
+   "notes": "CPS Chaps & CPS Coffee & ORI SC Fl. G /  \nกรอกครบที่เป็นเสื้อผ้า Docket no เช่น DC5000133665        \nที่เป็นคาเฟ่ Coffee ใช้เลข ID",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "CPS Chaps + CPS Coffee ICON Fl. 1 / ICONSIAM",
+   "receipt_format": "No (เลขที่)",
+   "notes": "CPS Chaps + CPS Coffee ICON Fl. 1 /  \nกรอกครบที่เป็นเสื้อผ้า Docket no เช่น DC5000133665        \nที่เป็นคาเฟ่ Coffee ใช้เลข ID",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11685,5 +11693,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-06 12:14"
+ "generated_at": "2026-10-06 12:26"
 }
