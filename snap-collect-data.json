@@ -4468,8 +4468,8 @@
    "no": 546,
    "name": "Swiss Watch / Swiss Watch Gallery SPO Fl. G",
    "receipt_format": "INVOICE NO (Inv#)",
-   "notes": "บิลมี 2 แบบ // แบบที่ 1. 00253 , แบบที่ 2. 1002100",
-   "category": "Spending Only",
+   "notes": "บิลมี 2 แบบ // แบบที่ 1. 00253 , แบบที่ 2. 1002100\n\nMail remark shop closed 6/10/2026",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11699,5 +11699,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-06 17:35"
+ "generated_at": "2026-10-07 13:05"
 }
