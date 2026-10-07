@@ -11627,8 +11627,8 @@
   {
    "no": 1504,
    "name": "K-YOUNG Pop-Up",
-   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
-   "notes": "",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "มุมขวาล่างกรอกทั้งหมดหลัง # เช่น 5-7531",
    "category": "Popup&Event",
    "extra": ""
   }
@@ -11699,5 +11699,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-07 16:30"
+ "generated_at": "2026-10-07 16:36"
 }
