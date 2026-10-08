@@ -8265,6 +8265,14 @@
    "extra": ""
   },
   {
+   "no": 1011,
+   "name": "หัวบิล MUTCHIMA www.Mutchimaofficial.com ICONSIAM G >> สะสมเข้า SOOKSIAM ICON Fl. BM",
+   "receipt_format": "INVOICE NO (Inv#)",
+   "notes": "เช่น 250806160855835 /  อยู่ใน Zone SookSiam ICON",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
    "no": 1012,
    "name": "Pandora (Location:Siamtakashimaya) **สะสมไม่ได้",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
@@ -11699,5 +11707,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-08 15:31"
+ "generated_at": "2026-10-08 15:37"
 }
