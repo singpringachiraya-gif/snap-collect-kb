@@ -5474,9 +5474,9 @@
   },
   {
    "no": 659,
-   "name": "ว่าง",
-   "receipt_format": "No (เลขที่)",
-   "notes": "กรอกครบทุกตัว",
+   "name": "Beans SPD Fl. 4 / Siam Paragon",
+   "receipt_format": "เลขที่",
+   "notes": "ใบเสร็จหัว FL.4\nกรอกครบทุกตัว เช่น RC691008064",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11715,5 +11715,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-08 16:51"
+ "generated_at": "2026-10-08 17:47"
 }
