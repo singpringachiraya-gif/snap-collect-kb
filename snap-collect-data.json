@@ -8210,7 +8210,7 @@
   },
   {
    "no": 1004,
-   "name": "หัวบิล ซูชิเด็น สาขา 00025 สยามเซ็นเตอร์ - DON SC Fl. 2  (เปิด 1 สิงหาคม 25)",
+   "name": "DON SC Fl. 2  - หัวบิล ซูชิเด็น สาขา 00025 สยามเซ็นเตอร์",
    "receipt_format": "Tax invoice (ABB)",
    "notes": "เช่น RC680802036",
    "category": "Spending Only",
@@ -11699,5 +11699,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-08 14:16"
+ "generated_at": "2026-10-08 15:31"
 }
