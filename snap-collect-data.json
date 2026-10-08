@@ -5434,8 +5434,16 @@
   },
   {
    "no": 654,
-   "name": "BEANS Coffee roaster SPD Fl. G (00021) / Beans ICON Fl. G\nหัวบิล Event Paragon สะสมเข้า Beans SPD Fl. 4 (00000)",
-   "receipt_format": "Receipt no",
+   "name": "BEANS Coffee roaster SPD Fl. G (00021) / Beans ICON Fl. G\nหัวบิล Event Paragon สะสมเข้า Beans SPD Fl. 4",
+   "receipt_format": "เลขที่",
+   "notes": "หัวบิล BEANS Coffee roaster FL.4 สะสมเข้า Beans SPD Fl. 4\n\nกรอกครบทุกตัว  ex RC681023043",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "BEANS Coffee roaster ICONSIAM / Beans ICON Fl. G",
+   "receipt_format": "เลขที่",
    "notes": "กรอกครบทุกตัว  ex RC681023043",
    "category": "Spending Only",
    "extra": ""
@@ -5469,14 +5477,6 @@
    "name": "FIX ME By Wash Me / FIX ME SPD Fl. B",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอกครบทุกตัว",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 659,
-   "name": "Beans SPD Fl. 4 / Siam Paragon",
-   "receipt_format": "เลขที่",
-   "notes": "ใบเสร็จหัว FL.4\nกรอกครบทุกตัว เช่น RC691008064",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11715,5 +11715,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-08 17:47"
+ "generated_at": "2026-10-08 18:20"
 }
