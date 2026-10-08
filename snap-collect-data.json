@@ -1018,7 +1018,7 @@
   },
   {
    "no": 124,
-   "name": "Pronto SPD Fl. 1",
+   "name": "Pronto Original SPD Fl. 2",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
@@ -11707,5 +11707,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-08 15:37"
+ "generated_at": "2026-10-08 15:59"
 }
