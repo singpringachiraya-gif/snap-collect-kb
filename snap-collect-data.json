@@ -9781,7 +9781,7 @@
    "name": "Chow Tai Fook SPD Fl. 1 (ร้านทอง)",
    "receipt_format": "เลขที่",
    "notes": "ใบเสร็จหัวบิล บริษัท เอ็นจีจี เอ็นเตอร์ไพรส์ จำกัด ดูตรงสาขา Siam Paragon - CTF\nกรอกเลขที่ครบเช่น AB26-26070025",
-   "category": "Spending Only",
+   "category": "JoinONESIAMCoin",
    "extra": "แลกโปรศูนย์ได้/แลกโปรBankไม่ได้"
   },
   {
@@ -11639,6 +11639,14 @@
    "notes": "มุมขวาล่างกรอกทั้งหมดหลัง # เช่น 5-7531",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1505,
+   "name": "Fan Favs Fest Pop-Up Store SC Fl. G",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "กรอกครบหลัง # เป็นต้นไป เช่น INV2610080054",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11707,5 +11715,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-08 16:01"
+ "generated_at": "2026-10-08 16:26"
 }
