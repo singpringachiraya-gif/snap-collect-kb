@@ -2338,11 +2338,19 @@
   },
   {
    "no": 284,
-   "name": "MCM SPD Fl. M / MCM ICON Fl. M",
+   "name": "MCM SPD Fl. M / SIAM PARAGON",
+   "receipt_format": "Reference no",
+   "notes": "Ex.1005023905 กรอกครบทุกตัว\nอัพเดท 8/10/2026 mail remark Shop Closed",
+   "category": "ShopClosed",
+   "extra": "Luxury"
+  },
+  {
+   "no": null,
+   "name": "MCM ICON Fl. M / ICONSIAM",
    "receipt_format": "Reference no",
    "notes": "Ex.1005023905 กรอกครบทุกตัว\nอัพเดท 28/01/2026",
    "category": "JoinONESIAMCoin",
-   "extra": "Luxury"
+   "extra": ""
   },
   {
    "no": 285,
@@ -11715,5 +11723,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-08 18:32"
+ "generated_at": "2026-10-08 19:00"
 }
