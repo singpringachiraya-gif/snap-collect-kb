@@ -1019,8 +1019,8 @@
   {
    "no": 124,
    "name": "Pronto Original SPD Fl. 2",
-   "receipt_format": "No (เลขที่)",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
+   "receipt_format": "เลขที่ใบเสร็จ อยู่ด้านล่างบิล",
+   "notes": "กรอกครบหลัง # เป็นต้นไป เช่น 63822",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11707,5 +11707,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-08 15:59"
+ "generated_at": "2026-10-08 16:01"
 }
