@@ -2077,7 +2077,7 @@
    "name": "THE RITZ CLINIC ICS Fl. 1",
    "receipt_format": "No (เลขที่)",
    "notes": "* สะสมทุกตำแหน่งรวมถึงขีดด้วย  RE-06-2504-001\"  // สำเนาสะสมได้",
-   "category": "Spending Only",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -11715,5 +11715,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-08 18:22"
+ "generated_at": "2026-10-08 18:32"
 }
