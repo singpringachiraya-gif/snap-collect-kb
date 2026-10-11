@@ -9421,7 +9421,7 @@
    "name": "GOLDEN GOOSE SPD Fl. M",
    "receipt_format": "Tax invoice (ABB)",
    "notes": "เช่น 107512500000035",
-   "category": "Spending Only",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -11723,5 +11723,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-08 19:00"
+ "generated_at": "2026-10-11 16:53"
 }
