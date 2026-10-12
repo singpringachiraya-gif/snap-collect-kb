@@ -9466,10 +9466,10 @@
   },
   {
    "no": 1213,
-   "name": "บริษัท มิสเตอร์  ออคโตพุสไทย (สาขา 00008)  ดูรหัสสาขา , รายการสินค้าดีๆ \nถ้าสินค้าทั่วไป  >> สะสมเข้า Kpopmerch SD Fl. 3 (Spending Only)",
+   "name": "บริษัท มิสเตอร์  ออคโตพุสไทย (สาขา 00008 ,สาขา 00009) สะสมเข้า Kpopmerch SD Fl. 3",
    "receipt_format": "No (เลขที่)",
    "notes": "เช่น ST68000117\nอัพเดท 27/02/2026",
-   "category": "Spending Only",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -9477,7 +9477,7 @@
    "name": "บริษัท มิสเตอร์  ออคโตพุสไทย (สาขา 00009) สะสมเข้า  SEVENTEEN Pop-Up SD Fl. 1 (Spending)\nดูรหัสสาขาดีๆ / Event 26Feb-31Mar2026",
    "receipt_format": "No (เลขที่)",
    "notes": "เช่น ST68000117\nอัพเดท 27/02/2026",
-   "category": "Spending Only",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -11723,5 +11723,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-11 18:30"
+ "generated_at": "2026-10-12 18:38"
 }
