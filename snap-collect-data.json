@@ -11635,8 +11635,8 @@
   {
    "no": 1503,
    "name": "Matcho Pop-Up",
-   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
-   "notes": "",
+   "receipt_format": "ID",
+   "notes": "Matcho Project",
    "category": "Popup&Event",
    "extra": ""
   },
@@ -11739,5 +11739,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-13 18:35"
+ "generated_at": "2026-10-13 18:38"
 }
