@@ -11663,6 +11663,14 @@
    "notes": "Ex. 99",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1507,
+   "name": "Bambu Lab SPD Fl. 4",
+   "receipt_format": "ใบเสร็็จรับเงิน",
+   "notes": "กรอกครบ Ex. SO-02-202610130013",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11731,5 +11739,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-13 13:50"
+ "generated_at": "2026-10-13 18:35"
 }
