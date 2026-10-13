@@ -11655,6 +11655,14 @@
    "notes": "กรอกครบหลัง # เป็นต้นไป เช่น INV2610080054",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1506,
+   "name": "Topologie ICON Fl. 2",
+   "receipt_format": "Number",
+   "notes": "Ex. 99",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11723,5 +11731,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-12 18:38"
+ "generated_at": "2026-10-13 13:50"
 }
