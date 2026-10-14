@@ -11671,6 +11671,22 @@
    "notes": "กรอกครบ Ex. SO-02-202610130013",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1508,
+   "name": "หัวบิล บริษัท เบย์ฟิช พัทยา จำกัด สะสมเข้าร้าน",
+   "receipt_format": "Invoice#",
+   "notes": "กรอกครบ เช่น PS001004253",
+   "category": "Popup&Event",
+   "extra": ""
+  },
+  {
+   "no": 1509,
+   "name": "VELA TEA G FL. SPD",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11739,5 +11755,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-13 18:38"
+ "generated_at": "2026-10-14 13:29"
 }
