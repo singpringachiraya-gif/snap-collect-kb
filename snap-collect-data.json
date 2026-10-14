@@ -1428,7 +1428,7 @@
    "no": 170,
    "name": "Infinite Gallery SPD Fl. 2",
    "receipt_format": "No (เลขที่)",
-   "notes": "กรอกครบทุกตัว เช่น IC-RC-660500063\nสาขา ICONSIAM ปิด 13-Jun2026\nบริษัท Richy Vision Co.,Ltd",
+   "notes": "กรอกครบทุกตัว เช่น PG-RC-691000059\nสาขา ICONSIAM ปิด 13-Jun2026\nบริษัท Richy Vision Co.,Ltd",
    "category": "JoinONESIAMCoin",
    "extra": "SPD - Join Coin"
   },
@@ -11779,5 +11779,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-14 15:21"
+ "generated_at": "2026-10-14 19:37"
 }
