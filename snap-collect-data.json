@@ -10690,9 +10690,17 @@
   },
   {
    "no": 1382,
-   "name": "maison margiela paris / MM6 ICONSIAM สะสมเข้าร้าน MM6 & GANNI ICON Fl. 1 ดูสาขาตรงหมายเหตุ",
+   "name": "MM6 maison margiela paris / MM6 ICONSIAM สะสมเข้าร้าน MM6 & GANNI ICON Fl. 1",
    "receipt_format": "Rcpt",
-   "notes": "ICONSIAM สะสมตัวเลข 4 ตัวท้าย เช่น 0180 (by ton 1/7/26)\nMM6 SD Fl. G สะสมตัวเลข 4 ตัวท้าย",
+   "notes": "ICONSIAM สะสมตัวเลข 4 ตัวท้าย เช่น 0180 (by ton 1/7/26)",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "MM6  maison margiela paris / Siam Discovery สะสมเข้า>>\r\nMM6 SD Fl. G",
+   "receipt_format": "Rcpt",
+   "notes": "MM6 SD Fl. G สะสมตัวเลข 4 ตัวท้าย",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11763,5 +11771,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-14 13:43"
+ "generated_at": "2026-10-14 13:57"
 }
