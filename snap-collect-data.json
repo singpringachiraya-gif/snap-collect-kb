@@ -10674,9 +10674,17 @@
   },
   {
    "no": 1381,
-   "name": "GANNI ดูสาขาตรงหมายเหตุ",
+   "name": "GANNI SD Fl. G /Siam Discovery",
    "receipt_format": "Rcpt",
-   "notes": "ICONSIAM สะสมตัวเลข 4 ตัวท้าย เช่น 0535 (by ton 1/7/26)\nสาขา Siam Discovery สะสม 4 ตัวท้ายเหมือนกัน",
+   "notes": "สาขา Siam Discovery สะสม 4 ตัวท้าย",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "GANNI ICON Fl. 1 /ICONSIAM",
+   "receipt_format": "Rcpt",
+   "notes": "ICONSIAM สะสมตัวเลข 4 ตัวท้าย เช่น 0535 (by ton 1/7/26)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11755,5 +11763,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-14 13:29"
+ "generated_at": "2026-10-14 13:43"
 }
