@@ -11735,6 +11735,22 @@
    "notes": "",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1510,
+   "name": "The Rocky Riot",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "วันที่จัดงาน: วันที่ 15 ตุลาคม - 8 พฤศจิกายน 2569",
+   "category": "Popup&Event",
+   "extra": ""
+  },
+  {
+   "no": 1511,
+   "name": "Baby G x Baby molly pop up",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "วันที่จัดงาน: วันที่ 15 ตุลาคม - 1 พฤศจิกายน 2569",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11803,5 +11819,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-15 15:30"
+ "generated_at": "2026-10-15 16:33"
 }
