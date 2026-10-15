@@ -4690,10 +4690,26 @@
   },
   {
    "no": 572,
-   "name": "Tea Jian Cha SPD Fl. 5 / Tea Jian Cha SD Fl. M /  Tea Jian Cha ICON Fl. 5",
+   "name": "Tea Jian Cha SPD Fl. 5 / Siam Paragon",
    "receipt_format": "ID",
-   "notes": "กรอกครบทุกตัว \nส่วนลด >> cash voucher สะสมยอดใช้จ่ายเต็มไม่ต้องหัก16/10/68)\nGrab Dine Out สะสมได้  \nอัพเดท 02/03/2026",
+   "notes": "กรอกครบทุกตัว \n\nส่วนลด >> cash voucher สะสมยอดใช้จ่ายเต็มไม่ต้องหัก16/10/68)\n\nช่องทางชำระเงิน ระบุ Grab : ให้ Reject ใบเสร็จมาจาก Delivery\n\nช่องทางชำระเงิน ระบุว่า Grab Dine Out สามารถสะสมได้  \n\nอัพเดท 02/03/2026",
    "category": "JoinONESIAMCoin",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Tea Jian Cha SD Fl. M / Siam Discovery",
+   "receipt_format": "ID",
+   "notes": "กรอกครบทุกตัว \n\nส่วนลด >> cash voucher สะสมยอดใช้จ่ายเต็มไม่ต้องหัก16/10/68)\n\nช่องทางชำระเงิน ระบุ Grab : ให้ Reject ใบเสร็จมาจาก Delivery\n\nช่องทางชำระเงิน ระบุว่า Grab Dine Out สามารถสะสมได้  \n\nอัพเดท 02/03/2026",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Tea Jian Cha ICON Fl. 5 / ICONSIAM",
+   "receipt_format": "ID",
+   "notes": "กรอกครบทุกตัว \n\nส่วนลด >> cash voucher สะสมยอดใช้จ่ายเต็มไม่ต้องหัก16/10/68)\n\nช่องทางชำระเงิน ระบุ Grab : ให้ Reject ใบเสร็จมาจาก Delivery\n\nช่องทางชำระเงิน ระบุว่า Grab Dine Out สามารถสะสมได้  \n\nอัพเดท 02/03/2026",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -11787,5 +11803,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-15 14:41"
+ "generated_at": "2026-10-15 15:30"
 }
