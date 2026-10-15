@@ -3986,9 +3986,17 @@
   },
   {
    "no": 485,
-   "name": "Sephora SC Fl. G / Sephora ICON Fl. M",
-   "receipt_format": "Reference no",
-   "notes": "สาขา SC กรอกครบทุกตัวเอาขีด เช่น 1821-004-0231608\t\nสาขา ICON กรอกเลขตัวเต็มใบเสร็จไม่มีเครื่องหมาย - (ขีด) เช่น 18210040231608\nอัพเดท 16/10/2025",
+   "name": "Sephora SC Fl. G / Siam Center",
+   "receipt_format": "Ref (ดูด้านล่างใบเสร็จ)",
+   "notes": "สาขา SC กรอกครบทุกตัวเอาขีด เช่น 1821-004-0231608",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Sephora ICON Fl. M / ICONSIAM",
+   "receipt_format": "Ref (ดูด้านล่างใบเสร็จ)",
+   "notes": "สาขา ICON กรอกเลขตัวเต็มใบเสร็จไม่มีเครื่องหมาย - (ขีด) เช่น 18210040231608\nอัพเดท 16/10/2025",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11779,5 +11787,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-15 10:13"
+ "generated_at": "2026-10-15 14:40"
 }
