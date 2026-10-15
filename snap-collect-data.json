@@ -11751,6 +11751,14 @@
    "notes": "วันที่จัดงาน: วันที่ 15 ตุลาคม - 1 พฤศจิกายน 2569",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1512,
+   "name": "Stanley x Zo&Friend Pop up SC Fl. G / SIAM CENTER",
+   "receipt_format": "TAX INVOICE",
+   "notes": "กรอกครบ เช่น EV6910-00025",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11819,5 +11827,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-15 17:14"
+ "generated_at": "2026-10-15 17:52"
 }
