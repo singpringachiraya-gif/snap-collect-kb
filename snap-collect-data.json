@@ -11739,8 +11739,8 @@
   {
    "no": 1510,
    "name": "The Rocky Riot (Pop up) SC Fl. M / SIAM CENTER",
-   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
-   "notes": "วันที่จัดงาน: วันที่ 15 ตุลาคม - 8 พฤศจิกายน 2569",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "มุมขวาล่างกรอกทั้งหมดหลัง # เช่น 1-0034",
    "category": "Popup&Event",
    "extra": ""
   },
@@ -11835,5 +11835,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-16 14:53"
+ "generated_at": "2026-10-16 15:12"
 }
