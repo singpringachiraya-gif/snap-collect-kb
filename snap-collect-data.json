@@ -11759,6 +11759,14 @@
    "notes": "กรอกครบ เช่น EV6910-00025",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1513,
+   "name": "Hua Seng Hong (โซนสุขสยาม) >> สะสมเข้า Hua Seng Hong (Pop Up) ICON Fl. G",
+   "receipt_format": "Receipt No.",
+   "notes": "กรอกครบทุกตัว \nตัวอย่าง เช่น  RC12026/26073",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11827,5 +11835,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-16 14:03"
+ "generated_at": "2026-10-16 14:53"
 }
