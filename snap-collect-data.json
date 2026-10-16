@@ -523,7 +523,7 @@
   {
    "no": 62,
    "name": "Harborland ICON Fl. 6",
-   "receipt_format": "ID",
+   "receipt_format": "เลขที่",
    "notes": "ตัวอย่างเช่น 0000683377 ก่อนวันที่",
    "category": "Spending Only",
    "extra": ""
@@ -11843,5 +11843,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-16 16:01"
+ "generated_at": "2026-10-16 16:12"
 }
