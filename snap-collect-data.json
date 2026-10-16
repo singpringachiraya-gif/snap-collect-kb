@@ -1098,7 +1098,7 @@
   },
   {
    "no": 134,
-   "name": "sushi seki_spr_pop up SPD Fl. 5",
+   "name": "Seki Omakase SPD Fl. G",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ เช่น RC010052568/001635",
    "category": "Spending Only",
@@ -11765,7 +11765,15 @@
    "name": "Hua Seng Hong (โซนสุขสยาม) >> สะสมเข้า Hua Seng Hong (Pop Up) ICON Fl. G",
    "receipt_format": "Receipt No.",
    "notes": "กรอกครบทุกตัว \nตัวอย่าง เช่น  RC12026/26073",
-   "category": "",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": 1514,
+   "name": "หัวบิล บริษัท เซ็นทรัลเทรดดิ้ง ร้าน SHOP LE Siam Premium Outlets ห้องเลขที่ G121",
+   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM (ร้านเปิดใหม่ 16/10/26 ยังไม่ได้สร้างร้านค้าในระบบ)",
+   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
+   "category": "Popup&Event",
    "extra": ""
   }
  ],
@@ -11835,5 +11843,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-16 15:12"
+ "generated_at": "2026-10-16 16:01"
 }
