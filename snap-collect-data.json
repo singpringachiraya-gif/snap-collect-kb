@@ -7403,8 +7403,8 @@
   {
    "no": 898,
    "name": "Smoke Joint SPD Fl. G",
-   "receipt_format": "No (เลขที่)",
-   "notes": "กรอกครบทุกตัว",
+   "receipt_format": "Payment Bill No.",
+   "notes": "กรอกเลขครบทุกตัว เช่น 610160029",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11827,5 +11827,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-16 13:45"
+ "generated_at": "2026-10-16 14:03"
 }
