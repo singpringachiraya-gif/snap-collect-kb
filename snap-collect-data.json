@@ -4540,7 +4540,7 @@
    "no": 553,
    "name": "Tory Burch SPD Fl. M",
    "receipt_format": "bill no (BNO)",
-   "notes": "กรอกครบทุกตัว เช่น 97502",
+   "notes": "กรอกครบทุกตัว เช่น S2300022000010004609",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -4556,7 +4556,7 @@
    "no": 555,
    "name": "Tory Burch SPO Fl. G",
    "receipt_format": "bill no (BNO)",
-   "notes": "กรอกครบทุกตัว \n18/10/2026",
+   "notes": "กรอกครบทุกตัว เช่น S2300022000010004609\n18/10/2026",
    "category": "Spending Only",
    "extra": ""
   },
