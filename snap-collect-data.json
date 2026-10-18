@@ -4548,7 +4548,7 @@
    "no": 554,
    "name": "Tory Burch ICON Fl. M",
    "receipt_format": "bill no (BNO)",
-   "notes": "สะสมเต็ม (อัพเดท 03/05/2026)",
+   "notes": "กรอกครบทุกตัว (อัพเดท 03/05/2026)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -4556,7 +4556,7 @@
    "no": 555,
    "name": "Tory Burch SPO Fl. G",
    "receipt_format": "bill no (BNO)",
-   "notes": "สะสม 4 ตัวท้าย",
+   "notes": "กรอกครบทุกตัว \n18/10/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11867,5 +11867,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-18 15:17"
+ "generated_at": "2026-10-18 15:19"
 }
