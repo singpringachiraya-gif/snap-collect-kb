@@ -1107,7 +1107,7 @@
   {
    "no": 135,
    "name": "Swatch ICON Fl. M",
-   "receipt_format": "Transaction No (Trans)",
+   "receipt_format": "Transaction No",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
    "extra": ""
@@ -10363,7 +10363,7 @@
   {
    "no": 1337,
    "name": "หัวบิล Swatch Group Thailand Swatch Pop-Up สะสมเข้าตึก Siam Discovery ร้านค้า Swatch SD Fl. G",
-   "receipt_format": "เลขที่่",
+   "receipt_format": "Transaction No",
    "notes": "Swatch Pop Up Spd FL.1   [Pop Up 1 June-31 June 2026 ปิดแล้ว] \nSwatch SD Fl. G เปิดถึง 30 SEP 2026\nTransaction No กรอกครบ เช่น 2068000018",
    "category": "Spending Only",
    "extra": ""
@@ -11867,5 +11867,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-18 15:19"
+ "generated_at": "2026-10-18 16:06"
 }
