@@ -11783,6 +11783,14 @@
    "notes": "Ex.065/3222",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1516,
+   "name": "Sodo Donut สะสมเข้า SOOKSIAM ICON Fl. BM",
+   "receipt_format": "ID",
+   "notes": "",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11851,5 +11859,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-18 11:09"
+ "generated_at": "2026-10-18 14:27"
 }
