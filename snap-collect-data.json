@@ -11807,6 +11807,22 @@
    "notes": "กรอกครบหลัง # เป็นต้นไป (Ex. 1-0763)",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1518,
+   "name": "Rosrangsan รสรังสรร สะสมเข้า DEAR TUMMY FOOD MARKET ICON Fl. G",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "เลือก Building ICON ร้านค้า DEAR TUMMY FOOD MARKET ICON Fl. G (Spending Only)",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": 1518,
+   "name": "Didi's ICONSIAM สะสมเข้า DEAR TUMMY FOOD MARKET ICON Fl. G",
+   "receipt_format": "ID",
+   "notes": "เลือก Building ICON ร้านค้า DEAR TUMMY FOOD MARKET ICON Fl. G (Spending Only)\n\nกรอกครบทุกตัว",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11875,5 +11891,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-18 16:42"
+ "generated_at": "2026-10-18 17:08"
 }
