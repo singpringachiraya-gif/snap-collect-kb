@@ -11791,6 +11791,14 @@
    "notes": "",
    "category": "",
    "extra": ""
+  },
+  {
+   "no": 1517,
+   "name": "หัวบิล อร่อยทุกคำ สะสมเข้า Aroi Tuk Khum ICS Fl. G",
+   "receipt_format": "ไม่มีเลขใบเสร็จ สะสมจากเลขหลัง # ด้านล่างขวา",
+   "notes": "Ex. 1-0763",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11859,5 +11867,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-18 14:27"
+ "generated_at": "2026-10-18 14:49"
 }
