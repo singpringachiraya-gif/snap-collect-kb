@@ -6052,7 +6052,7 @@
    "no": 728,
    "name": "Sushi Seki SPD Fl. 5 / SIAM PARAGON",
    "receipt_format": "Receipt No",
-   "notes": "กรอกครบ ex. RC004102569/000775",
+   "notes": "ดูใบเสร็จว่าเป็นชั้น 5 บนใบเสร็จ \n\nกรอกครบ ex. RC004102569/000775",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11781,7 +11781,7 @@
    "name": "หัวบิล บริษัท ติวเตอร์แลนด์ จำกัด สะสมเข้า Baanvichakorn SPD Fl. 4",
    "receipt_format": "เล่มที่/เลขที่",
    "notes": "Ex.065/3222",
-   "category": "",
+   "category": "Spending Only",
    "extra": ""
   }
  ],
@@ -11851,5 +11851,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-18 11:04"
+ "generated_at": "2026-10-18 11:09"
 }
