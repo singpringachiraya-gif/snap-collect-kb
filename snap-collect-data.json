@@ -10090,9 +10090,9 @@
   },
   {
    "no": 1297,
-   "name": "Eat Duan (อีทด่วน) สะสมเฉพาะบิลที่เป็นหัวบิล Dear Tummy - DEAR TUMMY FOOD MARKET ICON Fl. G",
+   "name": "Eat Duan (อีทด่วน) สะสมเข้าร้าน DEAR TUMMY FOOD MARKET ICON Fl. G",
    "receipt_format": "ID",
-   "notes": "",
+   "notes": "เลือก Building ICON ร้านค้า DEAR TUMMY FOOD MARKET ICON Fl. G (Spending Only)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11891,5 +11891,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-18 17:08"
+ "generated_at": "2026-10-18 17:14"
 }
