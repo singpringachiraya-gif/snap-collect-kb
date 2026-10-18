@@ -11812,7 +11812,7 @@
    "no": 1518,
    "name": "Rosrangsan รสรังสรร สะสมเข้า DEAR TUMMY FOOD MARKET ICON Fl. G",
    "receipt_format": "ID",
-   "notes": "กรอกเต็ม Ex.BXKQ2",
+   "notes": "เลือก Building ICON ร้านค้า DEAR TUMMY FOOD MARKET ICON Fl. G (Spending Only)\n\n\nกรอกเต็ม Ex.BXKQ2",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11891,5 +11891,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-18 17:23"
+ "generated_at": "2026-10-18 17:24"
 }
