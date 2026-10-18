@@ -11789,7 +11789,7 @@
    "name": "Sodo Donut สะสมเข้า SOOKSIAM ICON Fl. BM",
    "receipt_format": "ID",
    "notes": "",
-   "category": "",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -11797,7 +11797,7 @@
    "name": "หัวบิล อร่อยทุกคำ สะสมเข้า Aroi Tuk Khum ICS Fl. G",
    "receipt_format": "ไม่มีเลขใบเสร็จดูจาก Remark",
    "notes": "กรอกครบหลัง # เป็นต้นไป (Ex. 1-0763)",
-   "category": "",
+   "category": "Spending Only",
    "extra": ""
   }
  ],
@@ -11867,5 +11867,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-18 14:52"
+ "generated_at": "2026-10-18 14:53"
 }
