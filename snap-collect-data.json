@@ -1099,7 +1099,7 @@
   {
    "no": 134,
    "name": "Seki Omakase SPD Fl. G",
-   "receipt_format": "No (เลขที่)",
+   "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ เช่น RC010052568/001635",
    "category": "Spending Only",
    "extra": ""
