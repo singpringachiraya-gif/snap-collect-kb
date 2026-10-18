@@ -4540,7 +4540,7 @@
    "no": 553,
    "name": "Tory Burch SPD Fl. M",
    "receipt_format": "bill no (BNO)",
-   "notes": "สะสม 4 ตัวท้าย",
+   "notes": "กรอกครบทุกตัว เช่น 97502",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11867,5 +11867,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-18 14:53"
+ "generated_at": "2026-10-18 15:17"
 }
