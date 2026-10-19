@@ -11823,6 +11823,14 @@
    "notes": "เลือก Building ICON ร้านค้า DEAR TUMMY FOOD MARKET ICON Fl. G (Spending Only)\n\nกรอกครบทุกตัว",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1519,
+   "name": "Milli litre สะสมเข้า มิล-ลิ-ลิตร ICS Fl. G",
+   "receipt_format": "เลขที่ใบเสร็จ",
+   "notes": "กรอกครบทุกตัว",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11891,5 +11899,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-18 18:24"
+ "generated_at": "2026-10-19 13:01"
 }
