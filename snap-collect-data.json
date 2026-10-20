@@ -4930,9 +4930,17 @@
   },
   {
    "no": 599,
-   "name": "หัวบิล Supara Co., Ltd / กิติธัญ - GQ / GQ ICON Fl. 1 / GQ SPO Fl. G",
+   "name": "หัวบิล Supara Co., Ltd / กิติธัญ - GQ / GQ SPO Fl. G",
    "receipt_format": "Receipt no",
    "notes": "เลขเต็ม OTSVB/01/202510/000830 ** กรอกแค่ 6 ตัวท้าย เช่น 000830",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "หัวบิล Supara Co., Ltd / กิติธัญ - GQ / GQ ICON Fl. 1",
+   "receipt_format": "เลขใต้บาร์โค๊ด",
+   "notes": "สังเกตุจาก P0003 ตัวหน้าใต้บาร์โค้ด\n\nกรอกครบ เช่น P0003/01/024525\n\nUpdate 20/10/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11907,5 +11915,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-20 10:39"
+ "generated_at": "2026-10-20 13:44"
 }
