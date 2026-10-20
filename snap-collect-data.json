@@ -6484,7 +6484,7 @@
    "no": 780,
    "name": "KHIRI THAI TEA SPD Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "Ex.NYnz  กรอกครบ / จะไม่มีสาขาบอกไม่มีหัวบิลห้างมีแค่ชื่อร้านค้า\nสาขาไอคอนสยาม: Reject Pop up ไม่ร่วมรายการสะสม",
+   "notes": "Ex.NYnz  กรอกครบ / จะไม่มีสาขาบอกไม่มีหัวบิลห้างมีแค่ชื่อร้านค้า",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11915,5 +11915,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-20 14:10"
+ "generated_at": "2026-10-20 14:38"
 }
