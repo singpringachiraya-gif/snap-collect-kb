@@ -11871,6 +11871,14 @@
    "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
    "category": "",
    "extra": ""
+  },
+  {
+   "no": 1524,
+   "name": "Ellle ICON Fl. 1  / iconsiam",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "21OCT - 22NOV 26 ค่ะ",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11939,5 +11947,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-20 17:34"
+ "generated_at": "2026-10-20 17:40"
 }
