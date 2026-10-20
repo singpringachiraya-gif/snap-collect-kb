@@ -8795,7 +8795,7 @@
   {
    "no": 1120,
    "name": "FATT Chicken & Flying Pig SPD Fl. 4",
-   "receipt_format": "ID/เลขที่",
+   "receipt_format": "ID หรือ เลขที่",
    "notes": "หากใบเสร็จระบุใช้ Cash voucher เป็นส่วนลด ให้เช็ค Transaction เพราะอาจจะเป็นการ Burn Coin ที่สะสมได้ *จนกว่าร้านจะมีการเปลี่ยนคำในบิลให้ตรงกับประเภทส่วนลด\n (บิลปกติจะไม่มีระบุสาขาสะสมได้)  ใช้ ID\nใบกำกับภาษี : หัวบิล บ้านภาชี จำกัด เอ็มสเฟียร์ ใช้ เลขที่ มุมขวาบน EX : INV-20261010FS091",
    "category": "JoinONESIAMCoin",
    "extra": ""
@@ -11899,5 +11899,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-19 13:01"
+ "generated_at": "2026-10-20 10:21"
 }
