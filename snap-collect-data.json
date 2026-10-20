@@ -11847,6 +11847,14 @@
    "notes": "กรอกครบทุกตัว เช่น 202610000245",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1521,
+   "name": "KHIRI Thai Tea ICS สะสมเข้า DEAR TUMMY FOOD MARKET ICON Fl. G",
+   "receipt_format": "Receipt",
+   "notes": "เช่น cTNt",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11915,5 +11923,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-20 14:38"
+ "generated_at": "2026-10-20 14:40"
 }
