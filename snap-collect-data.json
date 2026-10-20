@@ -11855,6 +11855,14 @@
    "notes": "เช่น cTNt",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": null,
+   "name": "UMAMI Fashion Island สะสมเข้า UMAMI SC Fl. 2",
+   "receipt_format": "ID",
+   "notes": "อนุโลม สะสมเข้าสาขา Siam Center ก่อนจนถึงวันที่ 23 ตุลาคม \n\nTon 20/10/2026",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11923,5 +11931,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-20 14:45"
+ "generated_at": "2026-10-20 17:05"
 }
