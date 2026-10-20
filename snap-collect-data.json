@@ -4546,7 +4546,7 @@
   },
   {
    "no": 553,
-   "name": "Tory Burch SPD Fl. M",
+   "name": "Tory Burch SPD Fl. M / SIAM PARAGON",
    "receipt_format": "bill no (BNO)",
    "notes": "กรอกครบทุกตัว เช่น S2300022000010004609\n\nUpdate mail by พี่จิม 20/10/2026",
    "category": "JoinONESIAMCoin",
@@ -4554,7 +4554,7 @@
   },
   {
    "no": 554,
-   "name": "Tory Burch ICON Fl. M",
+   "name": "Tory Burch ICON Fl. M /ICONSIAM",
    "receipt_format": "bill no (BNO)",
    "notes": "กรอกครบทุกตัว (อัพเดท 03/05/2026)",
    "category": "Spending Only",
@@ -4562,7 +4562,7 @@
   },
   {
    "no": 555,
-   "name": "Tory Burch SPO Fl. G",
+   "name": "Tory Burch SPO Fl. G /Siam Premium Outlets",
    "receipt_format": "bill no (BNO)",
    "notes": "กรอกครบทุกตัว เช่น S2300022000010004609\n18/10/2026",
    "category": "Spending Only",
@@ -11923,5 +11923,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-20 14:40"
+ "generated_at": "2026-10-20 14:45"
 }
