@@ -11831,6 +11831,14 @@
    "notes": "กรอกครบทุกตัว",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1520,
+   "name": "Moma's Bubble Tea Bar SC Fl. 2 /Siam Center",
+   "receipt_format": "เลขที่",
+   "notes": "กรอกครบทุกตัว เช่น 202610000245",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11899,5 +11907,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-20 10:21"
+ "generated_at": "2026-10-20 10:39"
 }
