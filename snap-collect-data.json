@@ -6244,7 +6244,7 @@
    "no": 750,
    "name": "Burger King SPD Fl. G",
    "receipt_format": "INVOICE ID",
-   "notes": "กรอกครบทุกตัว เช่น 401014-005-62576\nสะสมเฉพาะใบเสร็จจริง",
+   "notes": "กรอกครบทุกตัว เช่น 401014-005-62576\nสะสมเฉพาะใบเสร็จจริง\n\nใบ Q ตู้ Kiosk ให้ Reject : รูปภาพไม่ใช่ใบเสร็จ\n\nUpdate จากทีม Fraud 21/10/2026\n(เนื่องจากเกิดเคส duplicate เลขสะสมของทั้ง 2 ใบไม่เหมือนกัน )",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11947,5 +11947,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-21 15:07"
+ "generated_at": "2026-10-21 15:08"
 }
