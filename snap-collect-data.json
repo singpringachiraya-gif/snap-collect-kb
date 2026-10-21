@@ -2492,7 +2492,7 @@
    "no": 302,
    "name": "PMT HOUR GLASS -  PMT The Hour Glass SPD Fl. G /  PMT The Hour Glass ICON Fl. G\nดูจากรหัสสินค้าด้วยว่า สะสมเข้าอันไหน **",
    "receipt_format": "No (เลขที่) /",
-   "notes": "กรอกครบ (มี 9 หลัก)  \nหากเลขที่ใบเสร็จขึ้นต้นด้วย....\n055XXXXXX PMT --> PMT The Hour Glass SPD Fl. M / PMT The Hour Glass ICON Fl. G\n065XXXXXX Rolex  --> Rolex SPD Fl. M / Rolex ICON Fl. G\n068XXXXXX LAtelier --> LATELIER SPD Fl. M\n066XXXXXX Hublot --> Hublot (Blue River Diamond เช่าช่วง) SPD Fl. M\n063XXXXXX  - TUDOR SPD Fl. M (แลกโปรได้อย่างเดียวสะสมไม่ได้ -ไม่ต้องไปติ๊ก Spending)\nPatek SPD ไม่มีแล้ว ** อัพเดท 10/04/2026 จากใหม่ Plat",
+   "notes": "กรอกครบ (มี 9 หลัก)  \nหากเลขที่ใบเสร็จขึ้นต้นด้วย....\n055XXXXXX PMT --> PMT The Hour Glass SPD Fl. M / PMT The Hour Glass ICON Fl. G\n065XXXXXX Rolex  --> Rolex SPD Fl. M / Rolex ICON Fl. G\n068XXXXXX LAtelier --> LATELIER SPD Fl. M\n066XXXXXX Hublot --> Hublot (Blue River Diamond เช่าช่วง) SPD Fl. M\n063XXXXXX  - TUDOR SPD Fl. M \nPatek SPD ไม่มีแล้ว ** อัพเดท 10/04/2026 จากใหม่ Plat",
    "category": "Spending Only",
    "extra": "Luxury / อัพเดทจากใหม่ axVIZ 29/07/2025"
   },
@@ -11947,5 +11947,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-20 17:40"
+ "generated_at": "2026-10-21 13:14"
 }
