@@ -6243,8 +6243,8 @@
   {
    "no": 750,
    "name": "Burger King SPD Fl. G",
-   "receipt_format": "INVOICE NO (Inv#)",
-   "notes": "กรอกครบทุกตัว",
+   "receipt_format": "INVOICE ID",
+   "notes": "กรอกครบทุกตัว เช่น 401014-005-62576\nสะสมเฉพาะใบเสร็จจริง",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11947,5 +11947,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-21 13:14"
+ "generated_at": "2026-10-21 15:07"
 }
