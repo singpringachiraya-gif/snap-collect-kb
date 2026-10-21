@@ -11887,6 +11887,14 @@
    "notes": "I.C.C. INTERNATIONAL PLC. \n\nกรอบครบ เช่น A017787337",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Perpetual SPD Fl. M / SIAM PARAGON",
+   "receipt_format": "เลขที่ / Document No",
+   "notes": "กรอกครบ เช่น ORVM2600048",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11955,5 +11963,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-21 18:39"
+ "generated_at": "2026-10-21 19:03"
 }
