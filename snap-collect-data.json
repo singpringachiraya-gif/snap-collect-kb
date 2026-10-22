@@ -9588,7 +9588,7 @@
    "no": 1223,
    "name": "BCUC Paragon - Blue Coffee SPD Fl. G",
    "receipt_format": "No (เลขที่)",
-   "notes": "( Food Deal : one siam app 15% / ไม่ใช้เงินสด - อื่นๆ )",
+   "notes": "( Food Deal : one siam app 15% / ไม่ใช้เงินสด - อื่นๆ )\n\nส่วนลด ONESIAM ไม่สะสมให้\npop 22/10/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11979,5 +11979,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-22 12:33"
+ "generated_at": "2026-10-22 17:04"
 }
