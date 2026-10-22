@@ -7772,7 +7772,7 @@
    "no": 943,
    "name": "หัวบิล บริษัท 198 คูซีน  - Have A Zeed SD Fl. 3 / Have A Zeed ICON Fl. 6",
    "receipt_format": "Receipt no",
-   "notes": "สาขา SD -> ใช้ Receipt No กรอกแค่ 6 ตัวหลัง / เช่น 000062 (Join-Coin)\nสาขา ICON ->ใช้ Receipt No  กรอกแค่ 6 ตัวหลัง / เช่น 000062 (Join-Coin)  ** (Food deal ร้าน Have A Zeed ICON Fl. 6 คำว่า Cash Voucher 500/1000  ) (Food deal ร้าน Have A Zeed SD Fl. 3 คำว่า Voucher1000  ) \n(แยกสาขาดูตรงเลขใบเสร็จ SDC - สยามดิส / ICS - ICONSIAM)",
+   "notes": "สาขา SD -> ใช้ Receipt No กรอกแค่ 6 ตัวหลัง / เช่น 000062 (Join-Coin)\nสาขา ICON ->ใช้ Receipt No  กรอกแค่ 6 ตัวหลัง / เช่น 000062 (Join-Coin)  ** (Food deal ร้าน Have A Zeed ICON Fl. 6 คำว่า Cash Voucher 500/1000  ) (Food deal ร้าน Have A Zeed SD Fl. 3 คำว่า Voucher1000  ) \n(แยกสาขาดูตรงเลขใบเสร็จ SDC - สยามดิส / ICS - ICONSIAM)\n\n*ส่วนต่างที่ชำระเพิ่มสามารถสะสมได้",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -11979,5 +11979,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-22 11:41"
+ "generated_at": "2026-10-22 12:33"
 }
