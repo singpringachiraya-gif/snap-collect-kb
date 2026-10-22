@@ -11889,11 +11889,27 @@
    "extra": ""
   },
   {
-   "no": null,
+   "no": 1525,
    "name": "Perpetual SPD Fl. M / SIAM PARAGON",
    "receipt_format": "เลขที่ / Document No",
    "notes": "กรอกครบ เช่น ORVM2600048",
    "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": 1526,
+   "name": "GPR Gold Cookies SC Fl. G / SIAM CENTER",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "POP UP 21OCT - 27 OCT 26 ค่ะ",
+   "category": "Popup&Event",
+   "extra": ""
+  },
+  {
+   "no": 1527,
+   "name": "Tangle SC Fl. M / SIAM CENTER",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "POP UP 21OCT - 2 NOV 26 ค่ะ",
+   "category": "Popup&Event",
    "extra": ""
   }
  ],
@@ -11963,5 +11979,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-21 19:03"
+ "generated_at": "2026-10-22 11:41"
 }
