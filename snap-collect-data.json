@@ -11911,6 +11911,22 @@
    "notes": "POP UP 21OCT - 2 NOV 26 ค่ะ",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1528,
+   "name": "Morning Kiss SPD Fl. 2 / SIAM PARAGON",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "",
+   "category": "",
+   "extra": ""
+  },
+  {
+   "no": 1529,
+   "name": "Morning Kiss SC Fl. BM1 / SIAM CENTER",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -11979,5 +11995,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-22 17:04"
+ "generated_at": "2026-10-22 18:39"
 }
