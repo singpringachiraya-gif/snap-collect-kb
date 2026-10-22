@@ -11597,7 +11597,7 @@
    "name": "Adidas SPD Fl. 2 /Siam Paragon",
    "receipt_format": "Slip",
    "notes": "ใช้  Slip โดยเริ่มต้นจาก THxxxxxx กรอกครบ\nเลขเต็ม Slip : 000TH11804000049780 / ตัด 0 ข้างหน้าออกเลขที่กรอก :  TH11804000049780",
-   "category": "Spending Only",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -11605,7 +11605,7 @@
    "name": "Adidas Original ICON Fl. 2 /ICONSIAM",
    "receipt_format": "Slip",
    "notes": "ใช้  Slip โดยเริ่มต้นจาก THxxxxxx กรอกครบ\nเลขเต็ม Slip : 000TH11804000049780 / ตัด 0 ข้างหน้าออกเลขที่กรอก :  TH11804000049780",
-   "category": "Spending Only",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -11618,10 +11618,10 @@
   },
   {
    "no": 1493,
-   "name": "Adidas Original SC Fl. G",
+   "name": "Adidas Original SC Fl. G / SIAM CENTER",
    "receipt_format": "Slip",
    "notes": "ใช้  Slip โดยเริ่มต้นจาก THxxxxxx กรอกครบ\nเลขเต็ม Slip : 000TH11804000049780 / ตัด 0 ข้างหน้าออกเลขที่กรอก :  TH11804000049780",
-   "category": "Spending Only",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -11995,5 +11995,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-22 18:39"
+ "generated_at": "2026-10-22 18:40"
 }
