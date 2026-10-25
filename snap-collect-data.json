@@ -11917,7 +11917,7 @@
    "name": "Morning Kiss SPD Fl. 2 / SIAM PARAGON",
    "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
    "notes": "",
-   "category": "",
+   "category": "Popup&Event",
    "extra": ""
   },
   {
@@ -11925,7 +11925,15 @@
    "name": "Morning Kiss SC Fl. BM1 / SIAM CENTER",
    "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
    "notes": "",
-   "category": "",
+   "category": "Popup&Event",
+   "extra": ""
+  },
+  {
+   "no": 1530,
+   "name": "ADIDAS หัวบิล FOES-TH, Event Sales-B \nสะสมเข้า Adidas Original SD Fl. 1 (Spending only)",
+   "receipt_format": "Slip",
+   "notes": "ตำแหน่งการสะสม slip : THCUA1000001034",
+   "category": "Spending Only",
    "extra": ""
   }
  ],
@@ -11995,5 +12003,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-25 16:18"
+ "generated_at": "2026-10-25 17:39"
 }
