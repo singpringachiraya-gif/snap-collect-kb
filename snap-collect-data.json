@@ -10419,7 +10419,7 @@
   {
    "no": 1343,
    "name": "หัวบิล : บริษัท โกลเด้น ทอร์เก้น อินเตอร์เนชั่นแนล จำกัด\"  สังเกตสาขาตรง Cashier >> Zhou Liu Fu ICON Fl. G\n(JoinCoin)",
-   "receipt_format": "Rcpt.",
+   "receipt_format": "Rcpt. (อ่านหมายเหตุ)",
    "notes": "สะสมเฉพาะใบเสร็จแนวตั้งเท่านั้น / ใบแบบแนวนอนไม่ใช่ใบเสร็จ\n\nหัวใบเสร็จชั้น 1 สะสมเข้า Zhou Liu Fu ICON Fl. G\nกรอกครบอักษร+เลข ทั้งหมด 1B05000001",
    "category": "JoinONESIAMCoin",
    "extra": ""
