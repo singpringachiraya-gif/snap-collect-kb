@@ -6835,9 +6835,9 @@
   {
    "no": 825,
    "name": "MISTER MINI SERVICE / mister mini service SPD Fl. B",
-   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
-   "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
-   "category": "TNA",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "เลขใต้เวลา เช่น 000006",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -12003,5 +12003,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-25 17:40"
+ "generated_at": "2026-10-26 15:12"
 }
