@@ -10364,7 +10364,7 @@
    "no": 1334,
    "name": "Dean & Deluca SPD Fl. 5",
    "receipt_format": "Receipt no",
-   "notes": "กรอกครบ เช่น RCSPG052569/001763",
+   "notes": "กรอกครบ เช่น RCSPG052569/001763\nสะสมแค่ส่วนต่างที่จ่ายด้วยเงิน หรือ Coin เเละ Gift card เท่านั้น \nส่วนลดอื่นๆหักออก",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -12019,5 +12019,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-28 10:48"
+ "generated_at": "2026-10-28 11:08"
 }
