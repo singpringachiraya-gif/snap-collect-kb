@@ -8740,7 +8740,7 @@
    "no": 1111,
    "name": "บริษัท คินโนะ จํากัด / DOMO Yakiniku SPD Fl. 4 (JoinCoin)",
    "receipt_format": "No.",
-   "notes": "Ex.กรอกครบเฉพาะตัวเลข 8 ตัวท้าย หลังหลังพศ 2026/00000562 เช่น กรอกแค่ 00000562\nเปลี่ยนใบเสร็จ อัพเดท 14/08/2026 (Food Deal : Food Deal  )",
+   "notes": "Ex.กรอกครบเฉพาะตัวเลข 8 ตัวท้าย หลังหลังพศ 2026/00000562 เช่น กรอกแค่ 00000562\nเปลี่ยนใบเสร็จ อัพเดท 14/08/2026 (Food Deal : Food Deal  )\nส่วนลดอื่นๆหักออก เช่น ONESIAMSIAM E-coupon",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -12035,5 +12035,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-28 15:33"
+ "generated_at": "2026-10-28 18:45"
 }
