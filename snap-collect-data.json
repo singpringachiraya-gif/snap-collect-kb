@@ -11959,6 +11959,14 @@
    "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
    "category": "",
    "extra": ""
+  },
+  {
+   "no": 1533,
+   "name": "Didi's Siam Center หัวบิล บริษัท กระยาหารสราญรส จำกัด",
+   "receipt_format": "ID",
+   "notes": "EX : NV0D5",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -12027,5 +12035,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-28 12:25"
+ "generated_at": "2026-10-28 12:32"
 }
