@@ -3173,7 +3173,7 @@
    "name": "บริษัท นารายณ์อินเตอร์เทรด จำกัด - Naraya ICON Fl. G",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "ตัด 0 ห้าตัวหน้าออก และกรอกข้อมูลตั้งแต่ ICS ตามด้วยตัวอักษร และตัวเลขทั้งหมด\nEX. กรอกแค่ ICS01000068389  \n                                                                                                                               \nในช่องทางการชำระ \n- Cash , QR pay ✅สะสมได้\n- VIZ Coin ✅สะสมได้ เนื่องจาก เป็น ONESIAM Coin ชำระแทนเงินสด\n- Super APP จะถือเป็นการใช้ e-Cash Coupon สะสมไม่ได้ ❌ (หากมีการใช้คูปอง ร้านจะใส่ Ref No. ไว้เพิ่มเติมเพื่อระบุโค้ดของคูปองนั้น ๆ) \n** ให้สะสมยอดแบบหักส่วนลด\n\nupdate 28/10/26",
-   "category": "",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -12019,5 +12019,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-28 10:42"
+ "generated_at": "2026-10-28 10:43"
 }
