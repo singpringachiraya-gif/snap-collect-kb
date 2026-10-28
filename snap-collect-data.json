@@ -11951,6 +11951,14 @@
    "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
    "category": "",
    "extra": ""
+  },
+  {
+   "no": 1532,
+   "name": "𝗡𝗖𝗧 𝟭𝟮𝟳 𝗧𝗵𝗲 𝟳𝘁𝗵 𝗔𝗹𝗯𝘂𝗺 [𝗕𝗟𝗜𝗡𝗚𝗬] 𝗣𝗢𝗣-𝗨𝗣 [𝗡𝗘𝗢 𝗟𝗢𝗦𝗧&𝗙𝗢𝗨𝗡𝗗 𝗖𝗘𝗡𝗧𝗘𝗥] 𝗶𝗻 𝗕𝗔𝗡𝗚𝗞𝗢𝗞",
+   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
+   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -12019,5 +12027,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-28 11:08"
+ "generated_at": "2026-10-28 12:25"
 }
