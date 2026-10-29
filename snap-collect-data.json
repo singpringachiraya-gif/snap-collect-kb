@@ -1476,7 +1476,7 @@
    "no": 175,
    "name": "Seek n' Keep Club SC Fl. 1 (JoinCoin)",
    "receipt_format": "เอกสารเลขที่",
-   "notes": "SC-SB2402000638  กรอกครบทุกตัว * โดยใส่ ตัวอักษร / เครื่องหมาย- / ตัวเลข ทั้งหมด",
+   "notes": "SC-SB2402000638  กรอกครบทุกตัว * โดยใส่ ตัวอักษร / เครื่องหมาย- / ตัวเลข ทั้งหมด update by P'Ton 29/10/69",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -1508,7 +1508,7 @@
    "no": 179,
    "name": "PRESTIGE PRODUCT LTD - Maison Francis Kurkdjian ICON Fl. M / Byredo ICON Fl. 1",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "หลัง #INV- ทั้งหมด เช่น M2307090010 หรือ B2511010003 \nกรอกครบทุกตัว รวมอักขระพิเศษ",
+   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
    "extra": ""
   },
@@ -12043,5 +12043,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-29 16:03"
+ "generated_at": "2026-10-29 16:12"
 }
