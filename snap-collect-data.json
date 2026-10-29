@@ -1475,8 +1475,8 @@
   {
    "no": 175,
    "name": "Seek n' Keep Club SC Fl. 1 (JoinCoin)",
-   "receipt_format": "Document No",
-   "notes": "2403001164  กรอกตัวเลขครบทุกตัว *เฉพาะตัวเลข",
+   "receipt_format": "เอกสารเลขที่",
+   "notes": "SC-SB2402000638  กรอกครบทุกตัว * โดยใส่ ตัวอักษร / เครื่องหมาย- / ตัวเลข ทั้งหมด",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -12043,5 +12043,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-29 14:24"
+ "generated_at": "2026-10-29 16:03"
 }
