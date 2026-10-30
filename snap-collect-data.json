@@ -11978,7 +11978,7 @@
   },
   {
    "no": 1534,
-   "name": "BIGBANG 2026–2027 WORLD TOUR SPD Fl. 3 / \nMISTER OCTOPUS THAI สาขา 00010",
+   "name": "MISTER OCTOPUS THAI สาขา 00010 สะสมเข้า \nBIGBANG 2026–2027 WORLD TOUR SPD Fl. 3",
    "receipt_format": "เลขที่",
    "notes": "กรอกครบ เช่น ST69000343\nระยะเวลา Pop up 26 Oct-26 Nov",
    "category": "Popup&Event",
@@ -11986,7 +11986,7 @@
   },
   {
    "no": 1535,
-   "name": "ข่มขลัง atrium siamcenter SC Fl. G",
+   "name": "บริษัท ฮันเตอร์ มอลล์ จำกัด HUNTER MALL สะสมเข้า \nข่มขลัง atrium siamcenter SC Fl. G",
    "receipt_format": "หมายเลขใบเสร็จ",
    "notes": "กรอกครบ เช่น RC0000101-2610290096\nระยะเวลา Pop up 29 Oct-1 Nov",
    "category": "Popup&Event",
@@ -12059,5 +12059,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-10-30 11:11"
+ "generated_at": "2026-10-30 11:16"
 }
