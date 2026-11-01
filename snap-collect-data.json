@@ -11991,6 +11991,22 @@
    "notes": "กรอกครบ เช่น RC0000101-2610290096\nระยะเวลา Pop up 29 Oct-1 Nov",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1536,
+   "name": "Sundalo ICON Fl. 2 / ICONSIAM",
+   "receipt_format": "เลขที่ใบเสร็จ",
+   "notes": "กรอกครบ เช่น 00200006703",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": 1537,
+   "name": "Grill Yamaya ICON Fl. 6 / ICONSIAM",
+   "receipt_format": "ID",
+   "notes": "Ex. D5JM3",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -12059,5 +12075,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-01 12:01"
+ "generated_at": "2026-11-01 12:45"
 }
