@@ -6149,7 +6149,7 @@
    "name": "BOONLAPO SPD Fl. 3 (JoinCoin)",
    "receipt_format": "Sale no",
    "notes": "SOเลข9หลัก / เลือกอันที่ JoinCoin !!!",
-   "category": "JoinONESIAMCoin",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -12075,5 +12075,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-01 13:23"
+ "generated_at": "2026-11-02 12:05"
 }
