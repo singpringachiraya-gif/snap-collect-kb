@@ -11954,7 +11954,7 @@
   },
   {
    "no": 1531,
-   "name": "เส้นพานิช",
+   "name": "ว่าง",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
    "category": "",
@@ -12005,6 +12005,14 @@
    "name": "Grill Yamaya ICON Fl. 6 / ICONSIAM",
    "receipt_format": "ID",
    "notes": "Ex. D5JM3",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": 1538,
+   "name": "เส้นพาณิช SPD Fl. G / Siam Paragon",
+   "receipt_format": "No.",
+   "notes": "กรอกครบ เช่น 0100122",
    "category": "Spending Only",
    "extra": ""
   }
@@ -12075,5 +12083,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-02 12:05"
+ "generated_at": "2026-11-03 14:51"
 }
