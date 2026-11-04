@@ -8290,9 +8290,9 @@
   },
   {
    "no": 1005,
-   "name": "Olens SC Fl. M",
-   "receipt_format": "ABB TAX INVOICE NO.",
-   "notes": "",
+   "name": "Olens SC Fl. M / SIAM CENTER",
+   "receipt_format": "ABB NO.",
+   "notes": "กรอกครบ เช่น SCMASCP010021391",
    "category": "Spending Only",
    "extra": ""
   },
@@ -12099,5 +12099,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-04 15:41"
+ "generated_at": "2026-11-04 16:38"
 }
