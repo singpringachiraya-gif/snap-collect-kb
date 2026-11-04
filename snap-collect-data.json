@@ -3220,7 +3220,7 @@
    "no": 387,
    "name": "Buddhi belly SPD Fl. 3 / Buddhi belly ICON Fl. 3",
    "receipt_format": "ID",
-   "notes": "กรอบครบทุกตัว เช่น RADRJ",
+   "notes": "กรอบครบทุกตัว เช่น RADRJ \n ** ONESIAM = ONESIAM COINS สะสมได้",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -12091,5 +12091,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-04 12:38"
+ "generated_at": "2026-11-04 15:11"
 }
