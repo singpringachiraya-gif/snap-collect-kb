@@ -3218,9 +3218,17 @@
   },
   {
    "no": 387,
-   "name": "Buddhi belly SPD Fl. 3 / Buddhi belly ICON Fl. 3",
+   "name": "Buddhi belly SPD Fl. 3 / SIAM PARAGON",
    "receipt_format": "ID",
-   "notes": "กรอบครบทุกตัว เช่น RADRJ \n ** ONESIAM = ONESIAM COINS สะสมได้",
+   "notes": "กรอบครบทุกตัว เช่น RADRJ",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Buddhi belly ICON Fl. 3 / ICONSIAM",
+   "receipt_format": "ID",
+   "notes": "กรอกครบทุกตัว เช่น FHMIT \n\nกรณีระบุ \"ONESIAM\" เพียงอย่างเดียว\n\n✅ ถือว่าลูกค้าใช้ ONESIAM Coin ชำระค่าสินค้า สามารถนำยอดดังกล่าวมาสะสมได้ และได้รับ ONESIAM Coin ตามปกติ\n\nกรณีระบุ \"คูปอง ONESIAM\"\n\n❌ ถือว่าลูกค้าใช้ e-Cash Coupon เป็นส่วนลดในการชำระเงิน\n\n❌ ไม่สามารถนำยอดส่วนนี้มารวมคำนวณยอดสะสม และไม่ได้รับ ONESIAM Coin\n\nกรณีใช้ Gift Card / e-Gift Card\nในใบเสร็จจะระบุเป็น \"Siam Gift Card\"\n\n✅ สามารถนำยอดใช้จ่ายมาสะสมได้\n\n✅ ได้รับ ONESIAM Coin ตามเงื่อนไขปกติ\n\nUpdate Monchai 4/11/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -12091,5 +12099,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-04 15:11"
+ "generated_at": "2026-11-04 15:30"
 }
