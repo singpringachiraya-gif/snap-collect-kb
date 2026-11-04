@@ -11954,10 +11954,10 @@
   },
   {
    "no": 1531,
-   "name": "ว่าง",
-   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
-   "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
-   "category": "",
+   "name": "Peppery Thai Bistro SPD Fl. G / SIAM PARAGON",
+   "receipt_format": "Receipt No",
+   "notes": "หลังเครื่องหมายขีด - กรอกแค่ เลขด้านหลัง",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -12083,5 +12083,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-04 10:12"
+ "generated_at": "2026-11-04 10:56"
 }
