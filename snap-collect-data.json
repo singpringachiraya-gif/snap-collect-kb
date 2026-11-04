@@ -12036,7 +12036,7 @@
    "no": 1540,
    "name": "Nakamol SC Fl. M / SIAM CENTER",
    "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "กรอกครบทุกตัวรวมอักขระพิเศษ เช่น #91-0003\n\nเริ่ม Live 5/11/2026 Aom",
+   "notes": "ตำแหน่งด้านล่างขวา กรอกครบทุกตัวรวมอักขระพิเศษ \nเช่น #91-0003\n\nเริ่ม Live 5/11/2026 Aom",
    "category": "JoinONESIAMCoin",
    "extra": ""
   }
@@ -12107,5 +12107,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-04 18:39"
+ "generated_at": "2026-11-04 18:42"
 }
