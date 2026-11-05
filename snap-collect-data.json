@@ -2557,7 +2557,7 @@
    "name": "Pannarai Jewellers SPD Fl. M",
    "receipt_format": "No (เลขที่)",
    "notes": "Ex.2540 กรอกครบทุกตัว / อัพเดท 28/01/2026",
-   "category": "JoinONESIAMCoin",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -12107,5 +12107,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-05 12:41"
+ "generated_at": "2026-11-05 14:14"
 }
