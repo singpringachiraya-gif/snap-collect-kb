@@ -9243,8 +9243,8 @@
   {
    "no": 1174,
    "name": "Gordon Ramsay Street Burger SPD Fl. 5A (หัวบิล 00049 Siamparagon) -  Zone Nextopia",
-   "receipt_format": "ID",
-   "notes": "เช่น DVZ0L",
+   "receipt_format": "Tax Invoice (ABB)",
+   "notes": "กรอกเลขทั้งหมดหลัง / เป็นต้นไป \nเช่น 00000801\n\nUpdate Pop 5/11/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -12107,5 +12107,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-05 15:18"
+ "generated_at": "2026-11-05 17:37"
 }
