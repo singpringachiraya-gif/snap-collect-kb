@@ -3277,7 +3277,7 @@
    "name": "APEX ICON Fl. 5 (เลขใบเสร็จจะขึ้นต้นด้วย REICO xxxxxx) เป็นสาขาเดียวที่ไม่มีบอกตึก \nAPEX ICS Fl. 1 (จะมีบอกสาขามุมขวา) เลขใบเสร็จจะขึ้นต้นด้วย  REICS xxxxx)",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอกครบทุกตัว เช่น REICO02570043 / เช่น REICS025030018\nสาขา APEX Skincare SPD Fl. 2 ** สะสมที่่ร้านเท่านั้น (ในบิลจะมีสาขาบอก)",
-   "category": "Spending Only",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -12107,5 +12107,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-04 18:42"
+ "generated_at": "2026-11-05 11:34"
 }
