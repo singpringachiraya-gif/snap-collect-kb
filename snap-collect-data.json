@@ -4699,7 +4699,7 @@
   {
    "no": 569,
    "name": "MOMOKO Bag & Shoes Spa SPD Fl. 3 \nMOMOKO Bag & Shoes Spa ICON Fl. BM1",
-   "receipt_format": "Receipt no",
+   "receipt_format": "Tax (ABB) No.",
    "notes": "กรอกครบทุกตัว เช่น ICON2-REP2400230\nSPD : (ไม่ Join) >> เลข SPD\nICON :  Join Coin ขึ้นต้น เลข ICON",
    "category": "JoinONESIAMCoin",
    "extra": ""
@@ -12107,5 +12107,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-05 14:14"
+ "generated_at": "2026-11-05 15:18"
 }
