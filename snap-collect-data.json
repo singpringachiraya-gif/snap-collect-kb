@@ -12039,6 +12039,14 @@
    "notes": "ตำแหน่งด้านล่างขวา กรอกครบทุกตัวรวมอักขระพิเศษ \nเช่น #91-0003\n\nเริ่ม Live 5/11/2026 Aom",
    "category": "JoinONESIAMCoin",
    "extra": ""
+  },
+  {
+   "no": 1541,
+   "name": "หัวบิล บริษัท แมน โปรวิชั่นส์ จำกัด สะสมเข้า Mothai SPD Fl. 5A",
+   "receipt_format": "เลขที่",
+   "notes": "Ex.ST69000141",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -12107,5 +12115,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-05 17:37"
+ "generated_at": "2026-11-06 13:39"
 }
