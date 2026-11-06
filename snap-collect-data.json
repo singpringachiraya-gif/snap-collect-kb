@@ -8244,7 +8244,7 @@
    "no": 1029,
    "name": "Laderach SPD Fl. 1  / Laderach ICON Fl. M",
    "receipt_format": "Receipt no",
-   "notes": "กรอกครบ เช่น RC68077310016",
+   "notes": "กรอกครบ เช่น 820200226110600059",
    "category": "Spending Only",
    "extra": ""
   },
@@ -12131,5 +12131,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-06 18:09"
+ "generated_at": "2026-11-06 18:33"
 }
