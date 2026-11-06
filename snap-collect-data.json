@@ -12047,6 +12047,14 @@
    "notes": "Ex.ST69000141",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Cheese Wonder SPD Fl. G",
+   "receipt_format": "เลขที่ใบเสร็จ",
+   "notes": "Ex. RC691106065",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -12115,5 +12123,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-06 13:39"
+ "generated_at": "2026-11-06 14:01"
 }
