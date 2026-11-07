@@ -12063,6 +12063,14 @@
    "notes": "Ex. RC691106065",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1486,
+   "name": "CHICHA San Chen SPD Fl. G",
+   "receipt_format": "ID",
+   "notes": "กรอกครบทุกตัว เช่น 9ERNJ",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -12131,5 +12139,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-06 18:33"
+ "generated_at": "2026-11-07 14:26"
 }
