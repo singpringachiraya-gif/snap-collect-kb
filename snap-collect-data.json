@@ -12071,6 +12071,14 @@
    "notes": "กรอกครบทุกตัว เช่น 9ERNJ",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1487,
+   "name": "RNRN SC Fl. M",
+   "receipt_format": "Order No.",
+   "notes": "กรอกครบทุกตัว เช่น 686781",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -12139,5 +12147,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-07 14:26"
+ "generated_at": "2026-11-07 14:44"
 }
