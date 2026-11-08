@@ -10212,7 +10212,7 @@
    "no": 1275,
    "name": "Gadget House ICON Fl. BM1",
    "receipt_format": "เลขที่",
-   "notes": "4 ตัวท้าย เช่น ST6900640 สะสม 0640",
+   "notes": "กรอกครบทุกตัว เช่น ST6900640\n\nUpdate Monchai 7/11/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -12147,5 +12147,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-07 14:44"
+ "generated_at": "2026-11-08 10:02"
 }
