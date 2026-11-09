@@ -12079,6 +12079,14 @@
    "notes": "กรอกครบทุกตัว เช่น 686781",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1488,
+   "name": "G-Shock Casio ICON Fl. 3 / ICONSIAM",
+   "receipt_format": "Reciept no",
+   "notes": "กรอกครบทุกตัว เช่น 0018A-000000097",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -12147,5 +12155,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-09 11:28"
+ "generated_at": "2026-11-09 12:08"
 }
