@@ -4924,8 +4924,8 @@
    "no": 616,
    "name": "Eat Me Cheese SPO Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "SPO",
-   "category": "Spending Only",
+   "notes": "SPO ปิดไปแล้ว เมื่อวันที่ 10 กันยายน 26 ค่ะ / Wilailack",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -5308,8 +5308,8 @@
    "no": 664,
    "name": "บริษัท ชีสอีทเทอรี่ จำกัด - Eat Me Cheese / Eat Me Cheese SPO Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "SPO",
-   "category": "Spending Only",
+   "notes": "ร้านปิดไปแล้ว เมื่อวันที่ 10 กันยายน 26 ค่ะ / Wilailack\nเจอใบเสร็จ Reject : ไม่เข้าร่วมสะสมได้เลยค่ะ",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -12147,5 +12147,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-09 10:21"
+ "generated_at": "2026-11-09 11:28"
 }
