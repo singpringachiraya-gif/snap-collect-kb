@@ -3413,7 +3413,7 @@
    "name": "หัวบิล DREAM TOY \n1.ร้านค้า TAMASHII SPOT SC Fl. 1 *เลขใบเสร็จขึ้นต้น : 150XXXX                 \n2 ร้านค้า The Gundam Base Thailand SC Fl. 1 * เลขที่ใบเสร็จ ขึ้นต้นด้วย 110XXXXX",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
-   "category": "JoinONESIAMCoin",
+   "category": "TNA",
    "extra": ""
   },
   {
@@ -3421,7 +3421,7 @@
    "name": "THANN ICON Fl. 4 ( TNA สะสมจากร้านค้าเท่านั้น)",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
-   "category": "JoinONESIAMCoin",
+   "category": "TNA",
    "extra": ""
   },
   {
@@ -3429,7 +3429,7 @@
    "name": "บริษัท ทิพย์พารา จำกัด - Taling Pling SPD Fl. G",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
-   "category": "JoinONESIAMCoin",
+   "category": "TNA",
    "extra": ""
   },
   {
@@ -3445,7 +3445,7 @@
    "name": "OPTICANA / OPTICANA ICON Fl. 4",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
-   "category": "JoinONESIAMCoin",
+   "category": "TNA",
    "extra": ""
   },
   {
@@ -3453,7 +3453,7 @@
    "name": "PRUKSA PRIME CLINIC  / Pruksa Prime Clinic ICON Fl. 5 / Pruksa Prime Clinic SC Fl. 2",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
-   "category": "JoinONESIAMCoin",
+   "category": "TNA",
    "extra": ""
   },
   {
@@ -3461,7 +3461,7 @@
    "name": "VILLAINS SF / Villains SF SC Fl. M",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
-   "category": "JoinONESIAMCoin",
+   "category": "TNA",
    "extra": ""
   },
   {
@@ -3469,7 +3469,7 @@
    "name": "RALPH LAURENT - Ralph Lauren Home For DM Home SPD Fl. 3",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
-   "category": "JoinONESIAMCoin",
+   "category": "TNA",
    "extra": ""
   },
   {
@@ -3477,7 +3477,7 @@
    "name": "In-store / In-Store SC Fl. 1 // *** Shop Closed",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
-   "category": "JoinONESIAMCoin",
+   "category": "TNA",
    "extra": ""
   },
   {
@@ -3493,7 +3493,7 @@
    "name": "P & P Jewelry",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
-   "category": "JoinONESIAMCoin",
+   "category": "TNA",
    "extra": ""
   },
   {
@@ -3501,7 +3501,7 @@
    "name": "Rakxa wellness / RAKxa Wellness EXT null",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
-   "category": "JoinONESIAMCoin",
+   "category": "TNA",
    "extra": ""
   },
   {
@@ -3509,7 +3509,7 @@
    "name": "Comme des Garcons SD Fl. G",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
-   "category": "JoinONESIAMCoin",
+   "category": "TNA",
    "extra": ""
   },
   {
@@ -3517,7 +3517,7 @@
    "name": "3.1 Phillip Lim",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
-   "category": "JoinONESIAMCoin",
+   "category": "TNA",
    "extra": ""
   },
   {
@@ -3525,7 +3525,7 @@
    "name": "alexanderwang",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
-   "category": "JoinONESIAMCoin",
+   "category": "TNA",
    "extra": ""
   },
   {
@@ -3533,7 +3533,7 @@
    "name": "Mountain Rock",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Online Only - Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
-   "category": "JoinONESIAMCoin",
+   "category": "TNA",
    "extra": ""
   },
   {
@@ -3541,7 +3541,7 @@
    "name": "Bangkok Airways",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Online Only - Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
-   "category": "JoinONESIAMCoin",
+   "category": "TNA",
    "extra": ""
   },
   {
@@ -3549,7 +3549,7 @@
    "name": "Samitivaj Hospital",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Online Only - Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
-   "category": "JoinONESIAMCoin",
+   "category": "TNA",
    "extra": ""
   },
   {
@@ -12171,5 +12171,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-09 14:37"
+ "generated_at": "2026-11-09 14:53"
 }
