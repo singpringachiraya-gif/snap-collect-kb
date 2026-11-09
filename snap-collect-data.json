@@ -162,9 +162,17 @@
   },
   {
    "no": 21,
-   "name": "Bankara Ramen SPD Fl. G / Bankara Ramen ICON Fl. G (ICON JoinCoin) (บริษัท สยามวินต์-ธารา) / บริษัท ที ที เค ฟู๊ดส์ จำกัด / บริษัท สยามวินต์-ธารา",
-   "receipt_format": "Receipt no",
-   "notes": "Ex. 0001102213ใส่ไม่ครบ ตัดเลข 0 สามตัวหน้าออก กรอกแค่ 110213        \n( Food Deal : fooddeal 500 , fooddeal 1000 )\nอัพเดท 28/01/2026\nบริษัท ที ที เค ฟู๊ดส์ จำกัด / บริษัท สยามวินต์-ธารา",
+   "name": "Bankara Ramen SPD Fl. G / บริษัท ที ที เค ฟู๊ดส์ จำกัด / บริษัท สยามวินต์-ธารา",
+   "receipt_format": "Receipt no (ด้านล่างใบเสร็จ)",
+   "notes": "กรอกเลขครบทุกตัว เช่น 000208773\n\n( Food Deal : fooddeal 500 , fooddeal 1000 )\nอัพเดท Monchai 9/11/2026\n\nบริษัท ที ที เค ฟู๊ดส์ จำกัด / บริษัท สยามวินต์-ธารา",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Bankara Ramen ICON Fl. G / บริษัท ที ที เค ฟู๊ดส์ จำกัด / บริษัท สยามวินต์-ธารา",
+   "receipt_format": "Receipt no (ด้านล่างใบเสร็จ)",
+   "notes": "กรอกเลขครบทุกตัว เช่น 000208773\n\n( Food Deal : fooddeal 500 , fooddeal 1000 )\nอัพเดท Monchai 9/11/2026\n\nบริษัท ที ที เค ฟู๊ดส์ จำกัด / บริษัท สยามวินต์-ธารา",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -12163,5 +12171,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-09 14:29"
+ "generated_at": "2026-11-09 14:37"
 }
