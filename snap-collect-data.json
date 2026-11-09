@@ -9429,7 +9429,7 @@
    "name": "KRAZ SPD Fl. 4",
    "receipt_format": "ID",
    "notes": "",
-   "category": "Spending Only",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -12171,5 +12171,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-09 16:52"
+ "generated_at": "2026-11-09 18:32"
 }
