@@ -1220,7 +1220,7 @@
    "no": 153,
    "name": "Under Armour SPO Fl. G",
    "receipt_format": "Receipt no",
-   "notes": "เช่่น 25DSC14028777 / \nหากเจอใบเสร็จไม่ระบุสาขา และยอดชำระ REJECT : ร้านค้าไม่เข้าร่วมการสะสม",
+   "notes": "กรอกครบทุกตัวเช่่น 25DSC14028777 \nหากเจอใบเสร็จไม่ระบุสาขา และยอดชำระ REJECT : ร้านค้าไม่เข้าร่วมการสะสม",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -12147,5 +12147,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-08 10:02"
+ "generated_at": "2026-11-09 10:21"
 }
