@@ -1188,7 +1188,7 @@
    "no": 148,
    "name": "TONKATSU WAKO SC Fl. 2 / SIAM CENTER",
    "receipt_format": "Slip NO",
-   "notes": "กรอกครบทุกตัว รวมขีด ยกเว้น [ ] \n\nตัวอย่าง 001-1 [419000] กรอกแค่ เช่น 001-1419000\n\nUpdate Podjana 9/11/2026",
+   "notes": "กรอกครบทุกตัว รวมขีด ยกเว้น [ ] \n\nตัวอย่าง 001-1 [419000] กรอกแค่ เช่น 001-1419000\n\n*** ลบเลขที่แล้วคีย์เองเท่านั้น เนื่องจากระบบใส่ [ ] ให้แบบไม่โชว์ให้เห็น\n\nUpdate Podjana 9/11/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -12171,5 +12171,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-09 18:32"
+ "generated_at": "2026-11-10 13:38"
 }
