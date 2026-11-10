@@ -346,9 +346,25 @@
   },
   {
    "no": 43,
-   "name": "Crocs ICON Fl. 3 / Crocs SC Fl. M / Crocs SPO Fl. G",
-   "receipt_format": "Reciept no",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ เช่น 001/0000022\nหัวบิล CMG",
+   "name": "Crocs ICON Fl. 3 / ICONSIAM",
+   "receipt_format": "Reciept no หรือ เลขใต้บาร์โค้ด (เลขเดียวกัน)",
+   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ เช่น 001/0000022\nหัวบิล CMG\n\nหรือ ตัวอย่างแบบใหม่ เช่น 000C7-000000057",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Crocs SC Fl. M / Siam Center",
+   "receipt_format": "Reciept no หรือ เลขใต้บาร์โค้ด (เลขเดียวกัน)",
+   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ เช่น 001/0000022\nหัวบิล CMG\n\nหรือ ตัวอย่างแบบใหม่ เช่น 000C7-000000057",
+   "category": "Spending Only",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Crocs SPO Fl. G / Siam Premium Outlets",
+   "receipt_format": "Reciept no หรือ เลขใต้บาร์โค้ด (เลขเดียวกัน)",
+   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ เช่น 001/0000022\nหัวบิล CMG\n\nหรือ ตัวอย่างแบบใหม่ เช่น 000C7-000000057",
    "category": "Spending Only",
    "extra": ""
   },
@@ -12171,5 +12187,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-10 13:38"
+ "generated_at": "2026-11-10 15:07"
 }
