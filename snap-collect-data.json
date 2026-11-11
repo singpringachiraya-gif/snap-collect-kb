@@ -2946,11 +2946,27 @@
   },
   {
    "no": 365,
-   "name": "Havaianas SC Fl. M / Havaianas ICON Fl. 2 / Havaianas SPO Fl. G",
-   "receipt_format": "No (เลขที่)",
-   "notes": "SC / ICON / SPO ใส่ 9 ตัวท้าย  เช่น   กรอก 120240464 \nดูของแต่ละสาขา SC (Joincoin) / SPO (ไม่JoinCoin) / ICON  (Joincoin)",
+   "name": "Havaianas SC Fl. M / SIAM CENTER",
+   "receipt_format": "Receipt No (เลขที่)",
+   "notes": "กรอกครบทั้งหมด เช่น 000HV06201000030675\n\nupdate 10/11/2026 Suphakan Angkasayawat",
    "category": "JoinONESIAMCoin",
    "extra": "อัพเดท 12/11/2024"
+  },
+  {
+   "no": null,
+   "name": "Havaianas ICON Fl. 2 / ICONSIAM",
+   "receipt_format": "Receipt No (เลขที่)",
+   "notes": "ICON ใส่ 9 ตัวท้าย  เช่น   กรอก 120240464",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
+  },
+  {
+   "no": null,
+   "name": "Havaianas SPO Fl. G  / Siam Premium Outlets",
+   "receipt_format": "Receipt No (เลขที่)",
+   "notes": "กรอกครบทั้งหมด เช่น 000HV06201000030675",
+   "category": "Spending Only",
+   "extra": ""
   },
   {
    "no": 366,
@@ -12195,5 +12211,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-10 19:02"
+ "generated_at": "2026-11-11 11:13"
 }
