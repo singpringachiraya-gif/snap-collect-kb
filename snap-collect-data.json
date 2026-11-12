@@ -12151,6 +12151,14 @@
    "notes": "ex. 2026000000003129",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1491,
+   "name": "House of Little Bunny SPD Fl. 5 / SIAM PARAGON",
+   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
+   "notes": "",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -12219,5 +12227,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-12 13:44"
+ "generated_at": "2026-11-12 14:26"
 }
