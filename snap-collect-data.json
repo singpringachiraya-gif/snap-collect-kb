@@ -6516,7 +6516,7 @@
    "no": 810,
    "name": "Pandora ICON Fl. 4 / ICONSIAM",
    "receipt_format": "Rcpt",
-   "notes": "สาขา Siam Takashimaya สะสมไม่ได้\n\nPandora Fl.4  สาขา ICONSIAM\nตำแหน่งสะสม : Rcpt / สะสมตัวเลข 6 หลักท้าย \nEx.000128",
+   "notes": "สาขา Siam Takashimaya สะสมไม่ได้\n\nPandora Fl.4  สาขา ICONSIAM\nสะสมตัวเลขและอักษระพิเศษทั้งหมด\nEx. S261105201-000128\nupdate 12/11/26",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -10812,7 +10812,7 @@
    "no": 1323,
    "name": "MM6 maison margiela paris / ICONSIAM สะสมเข้าร้าน MM6 & GANNI ICON Fl. 1",
    "receipt_format": "Rcpt",
-   "notes": "ICONSIAM สะสมตัวเลข 4 ตัวท้าย เช่น 0180 (by ton 1/7/26)",
+   "notes": "สะสมตัวเลขและอักษระพิเศษทั้งหมด\nEx. S262300301-000044\nupdate 12/11/26",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -12227,5 +12227,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-12 15:07"
+ "generated_at": "2026-11-12 15:21"
 }
