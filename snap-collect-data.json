@@ -12167,6 +12167,14 @@
    "notes": "เลขอยู่บริเวณหัวบิล EX. RC-15-202611071",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1492,
+   "name": "Hama Sushi ICS Fl. M",
+   "receipt_format": "RNo",
+   "notes": "กรอกครบ เอาขีด Ex. 3005-223073",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -12235,5 +12243,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-12 15:30"
+ "generated_at": "2026-11-12 16:49"
 }
