@@ -5218,9 +5218,9 @@
   },
   {
    "no": 647,
-   "name": "Tommy Hilfiger SPO Fl. G (บริษัท เซ็นทรัลเทรดดิ้ง จำกัด / หัวบิล shop TH  G128)",
-   "receipt_format": "INVOICE NO (Inv#)",
-   "notes": "SPO / 001/00002961",
+   "name": "Tommy Hilfiger SPO Fl. G (บริษัท เซ็นทรัลเทรดดิ้ง จำกัด / หัวบิล cmg)",
+   "receipt_format": "Receipt no",
+   "notes": "Ex. 000E4-000000274",
    "category": "Spending Only",
    "extra": ""
   },
@@ -12211,5 +12211,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-11 14:29"
+ "generated_at": "2026-11-12 11:09"
 }
