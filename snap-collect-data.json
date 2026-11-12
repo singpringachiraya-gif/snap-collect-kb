@@ -348,7 +348,7 @@
    "no": 43,
    "name": "Crocs ICON Fl. 3 / ICONSIAM",
    "receipt_format": "Reciept no หรือ เลขใต้บาร์โค้ด (เลขเดียวกัน)",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ เช่น 001/0000022\nหัวบิล CMG\n\nหรือ ตัวอย่างแบบใหม่ เช่น 000C7-000000057",
+   "notes": "ตัวอย่างแบบใหม่ เช่น 000C7-000000057\nupdate 12/11/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -356,7 +356,7 @@
    "no": null,
    "name": "Crocs SC Fl. M / Siam Center",
    "receipt_format": "Reciept no หรือ เลขใต้บาร์โค้ด (เลขเดียวกัน)",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ เช่น 001/0000022\nหัวบิล CMG\n\nหรือ ตัวอย่างแบบใหม่ เช่น 000C7-000000057",
+   "notes": "ตัวอย่างแบบใหม่ เช่น 000C7-000000057\nupdate 12/11/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -364,7 +364,7 @@
    "no": null,
    "name": "Crocs SPO Fl. G / Siam Premium Outlets",
    "receipt_format": "Reciept no หรือ เลขใต้บาร์โค้ด (เลขเดียวกัน)",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ เช่น 001/0000022\nหัวบิล CMG\n\nหรือ ตัวอย่างแบบใหม่ เช่น 000C7-000000057",
+   "notes": "ตัวอย่างแบบใหม่ เช่น 000C7-000000057\nupdate 12/11/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -5220,7 +5220,7 @@
    "no": 647,
    "name": "Tommy Hilfiger SPO Fl. G (บริษัท เซ็นทรัลเทรดดิ้ง จำกัด / หัวบิล cmg)",
    "receipt_format": "Receipt no",
-   "notes": "Ex. 000E4-000000274",
+   "notes": "Ex. 000E4-000000274\nupdate 12/11/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11234,9 +11234,9 @@
   },
   {
    "no": 1376,
-   "name": "Shop FF สะสมเข้าร้าน Fitflop SPO Fl. G / Siam Premium Outlets",
-   "receipt_format": "INV NO.",
-   "notes": "บริษัท เซ็นทรัลเทรดดิ้ง จำกัด\nเลขประจำตัวผู้เสียภาษี: 0105500001158",
+   "name": "Fitflop SPO Fl. G (บริษัท เซ็นทรัลเทรดดิ้ง / หัวบิล cmg)",
+   "receipt_format": "Receipt No",
+   "notes": "Ex. 001B4-000000185 \nupdate 12/11/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -12227,5 +12227,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-12 14:45"
+ "generated_at": "2026-11-12 15:07"
 }
