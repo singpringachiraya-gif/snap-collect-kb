@@ -12143,6 +12143,14 @@
    "notes": "Reject :  ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
    "category": "",
    "extra": ""
+  },
+  {
+   "no": 1490,
+   "name": "Juneny Candy SPD Fl. 3",
+   "receipt_format": "เลขที่ใบเสร็จ",
+   "notes": "ex. 2026000000003129",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -12211,5 +12219,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-12 11:09"
+ "generated_at": "2026-11-12 13:44"
 }
