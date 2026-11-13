@@ -1618,7 +1618,7 @@
   },
   {
    "no": 199,
-   "name": "Actiff Lifestyle SD Fl. 1",
+   "name": "Actiff Lifestyle SD Fl. 1 (หัวบิล บริษัท แอคทีฟ ไลฟ์สไตล์)",
    "receipt_format": "INVOICE NO (Inv#)",
    "notes": "หัวบิลจะอยู่ล่างสุด Siamcenter Room123,1stFloor \n(ร้านเดิมอยู่ตึก SC ยังหัวบิลเดิม แต่ย้ายไปอยู่ตึก SD) บริษัทแอคทีฟ แอพพาเรล จำกัด",
    "category": "Spending Only",
@@ -12243,5 +12243,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-13 13:30"
+ "generated_at": "2026-11-13 18:01"
 }
