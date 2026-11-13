@@ -7324,8 +7324,8 @@
    "no": 908,
    "name": "Teddy House SC Fl. 1",
    "receipt_format": "Receipt no",
-   "notes": "Rcpt# Order 038780030014 กรอกแค่เลขไม่ต้องใส่ -",
-   "category": "Spending Only",
+   "notes": "กรอกแค่เลขไม่ต้องใส่ - Ex.080740020001",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -12243,5 +12243,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-12 16:49"
+ "generated_at": "2026-11-13 13:30"
 }
