@@ -4316,7 +4316,7 @@
    "no": 534,
    "name": "บริษัท Rev Edition Co.,Ltd  -  Oakley Thailand ICON Fl. 2",
    "receipt_format": "INVOICE NO (Inv#)",
-   "notes": "กรอก 6 ตัวท้าย",
+   "notes": "กรอบครบทุุกตัว OS003P02990016505 \nUpdate 14/11/26 By K.ว่านหยี",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -12243,5 +12243,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-13 18:01"
+ "generated_at": "2026-11-14 17:46"
 }
