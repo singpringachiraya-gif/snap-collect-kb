@@ -12175,14 +12175,6 @@
    "notes": "กรอกครบ เอาขีด Ex. 3005-223073",
    "category": "Spending Only",
    "extra": ""
-  },
-  {
-   "no": 1493,
-   "name": "Acne Studios ICON Fl. M",
-   "receipt_format": "Document",
-   "notes": "กรอกครบ 176411595000007",
-   "category": "Popup&Event",
-   "extra": ""
   }
  ],
  "name_map": [],
@@ -12251,5 +12243,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-15 12:45"
+ "generated_at": "2026-11-15 13:00"
 }
