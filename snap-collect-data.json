@@ -1581,7 +1581,7 @@
    "name": "Double Slash ICS Fl. G",
    "receipt_format": "No (เลขที่)",
    "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
-   "category": "Spending Only",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -12243,5 +12243,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-16 13:37"
+ "generated_at": "2026-11-16 15:38"
 }
