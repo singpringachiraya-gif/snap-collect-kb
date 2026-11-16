@@ -1212,7 +1212,7 @@
    "no": null,
    "name": "TONKATSU WAKO ICON Fl. 6 / ICONSIAM",
    "receipt_format": "Slip NO",
-   "notes": "ใช้แค่เลขในวงเล็บ Slip No ด้านล่างซ้ายมือ Ex. 330204",
+   "notes": "กรอกตัวอักษรครบทุกตัวอักษร รวมตัวเลข และอักครพิเศษ (ไม่ต้องเว้นวรรค)\n\nEx. :  001-41[346201] \n\nUpdate Monchai 16/11/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -4764,7 +4764,7 @@
    "no": 590,
    "name": "MyEureka ICON Fl. 5 (ขาย Popcorn) - JoinCoin",
    "receipt_format": "No (เลขที่)",
-   "notes": "กรอกแค่ คัวเลข 4 ตัวท้าย / Ex. a/00005115 กรอกแค่ 5115\nเปลี่ยนมาใช้ร้าน MyEureka ICON Fl. 5  22/04/2026 เปลี่ยนสัญญาร้านค้า",
+   "notes": "กรอกครบทุกตัว / Ex. a/00005115 \nเปลี่ยนมาใช้ร้าน MyEureka ICON Fl. 5  22/04/2026 เปลี่ยนสัญญาร้านค้า\n\nUpdate 16/11/2026 Monchai",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -12243,5 +12243,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-16 15:38"
+ "generated_at": "2026-11-16 18:04"
 }
