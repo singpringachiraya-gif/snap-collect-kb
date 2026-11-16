@@ -8653,7 +8653,7 @@
    "name": "DENT @ PARAGON SPD Fl. 4",
    "receipt_format": "เลขที่",
    "notes": "เช่น 26-001132 /  (Patient Name ชื่อลูกค้าดูดีๆว่าชื่อตรงไหม!!!)",
-   "category": "Spending Only",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -12251,5 +12251,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-16 10:53"
+ "generated_at": "2026-11-16 10:58"
 }
