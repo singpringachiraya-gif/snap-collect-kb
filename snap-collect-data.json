@@ -291,9 +291,9 @@
   {
    "no": 36,
    "name": "Cafe Chilli Issan Rustic ICON Fl. G",
-   "receipt_format": "Receipt no",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
-   "category": "Spending Only",
+   "receipt_format": "",
+   "notes": "",
+   "category": "ShopClosed",
    "extra": ""
   },
   {
@@ -12243,5 +12243,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-16 13:21"
+ "generated_at": "2026-11-16 13:37"
 }
