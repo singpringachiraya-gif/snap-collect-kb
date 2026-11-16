@@ -6013,7 +6013,7 @@
    "name": "Lojel, Moleskine SD Fl. 2",
    "receipt_format": "Receipt no",
    "notes": "กรอกครบทุกตัว Ex.001101001415",
-   "category": "Spending Only",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -6539,14 +6539,6 @@
   {
    "no": 813,
    "name": "TIMBUK2 SD Fl. 1",
-   "receipt_format": "Receipt no",
-   "notes": "",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 814,
-   "name": "Lojel, Moleskine SD Fl. 2",
    "receipt_format": "Receipt no",
    "notes": "",
    "category": "Spending Only",
@@ -12251,5 +12243,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-16 11:50"
+ "generated_at": "2026-11-16 13:21"
 }
