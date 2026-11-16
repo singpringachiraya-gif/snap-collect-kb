@@ -7994,9 +7994,9 @@
   },
   {
    "no": 992,
-   "name": "Jai Chan SD Fl. 3 (เริ่ม Join Coin 18 June)",
-   "receipt_format": "Tax invoice (ABB)",
-   "notes": "R25031300592 กรอกเฉพาะ 4 ตัวท้าย เช่น 0592",
+   "name": "Jai Chan SD Fl. 3 / Siam Discovery",
+   "receipt_format": "Abbreviated Tax Invoice",
+   "notes": "กรอกครบ ทุกตัว เช่น R26031307548\n\nUpdate Pratthana Kriangkrai 16/11/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -12251,5 +12251,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-16 10:58"
+ "generated_at": "2026-11-16 11:50"
 }
