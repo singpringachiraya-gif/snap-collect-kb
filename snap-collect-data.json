@@ -12199,6 +12199,14 @@
    "notes": "กรอกครบ อักขระพิเศษและตัวเลขทั้งหมด EX : #1-0123",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1497,
+   "name": "Lee SPO Fl. G",
+   "receipt_format": "Reciept no",
+   "notes": "กรอกครบทุกตัว เช่น 00239-000000028",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -12267,5 +12275,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-17 15:37"
+ "generated_at": "2026-11-17 18:27"
 }
