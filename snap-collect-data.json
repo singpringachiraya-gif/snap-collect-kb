@@ -12181,7 +12181,7 @@
    "name": "Wila The Firstale SC Fl. G",
    "receipt_format": "เลขที่",
    "notes": "กรอกครบ เช่น ST69000016",
-   "category": "",
+   "category": "Spending Only",
    "extra": ""
   }
  ],
@@ -12251,5 +12251,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-17 10:45"
+ "generated_at": "2026-11-17 10:49"
 }
