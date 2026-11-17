@@ -12175,6 +12175,14 @@
    "notes": "กรอกครบ 176411595000007",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1494,
+   "name": "Wila The Firstale SC Fl. G",
+   "receipt_format": "เลขที่",
+   "notes": "กรอกครบ เช่น ST69000016",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -12243,5 +12251,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-16 18:15"
+ "generated_at": "2026-11-17 10:45"
 }
