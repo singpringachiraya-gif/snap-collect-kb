@@ -6516,7 +6516,7 @@
    "no": 810,
    "name": "Pandora ICON Fl. 4 / ICONSIAM",
    "receipt_format": "Rcpt",
-   "notes": "สาขา Siam Takashimaya สะสมไม่ได้\n\nPandora Fl.4  สาขา ICONSIAM\nสะสมตัวเลขและอักษระพิเศษทั้งหมด\nEx. S261105201-000128\nupdate 12/11/26",
+   "notes": "สาขา Siam Takashimaya สะสมไม่ได้\n\nPandora Fl.4  สาขา ICONSIAM\nสะสมตัวเลขและอักษระพิเศษทั้งหมด\nEx. S261105201-000128\nupdate 12/11/26 by wanyee",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -6650,7 +6650,7 @@
   },
   {
    "no": 828,
-   "name": "Chaumet ICON Fl. 1 (Luxury)",
+   "name": "Bhu Mhai ICON Fl. 5",
    "receipt_format": "Receipt no",
    "notes": "เช่่น 378\nอัพเดท 02/01/2025",
    "category": "JoinONESIAMCoin",
@@ -12191,6 +12191,14 @@
    "notes": "เลขอยู่บริเวณหัวบิล EX. RC-1279-202611352",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1496,
+   "name": "MUSE on the move / Siam center FI.1",
+   "receipt_format": "เลขที่",
+   "notes": "สะสมเลขที่ : #1-0123",
+   "category": "",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -12259,5 +12267,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-17 15:21"
+ "generated_at": "2026-11-17 15:30"
 }
