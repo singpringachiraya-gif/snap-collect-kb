@@ -12183,6 +12183,14 @@
    "notes": "กรอกครบ เช่น ST69000016",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1495,
+   "name": "Sliptosleep ICS Fl. M",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "เลขอยู่บริเวณหัวบิล EX. RC-1279-202611352",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -12251,5 +12259,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-17 10:49"
+ "generated_at": "2026-11-17 13:33"
 }
