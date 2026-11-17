@@ -12196,8 +12196,8 @@
    "no": 1496,
    "name": "MUSE on the move / Siam center FI.1",
    "receipt_format": "เลขที่",
-   "notes": "สะสมเลขที่ : #1-0123",
-   "category": "",
+   "notes": "กรอกครบ อักขระพิเศษและตัวเลขทั้งหมด EX : #1-0123",
+   "category": "Spending Only",
    "extra": ""
   }
  ],
@@ -12267,5 +12267,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-17 15:30"
+ "generated_at": "2026-11-17 15:37"
 }
