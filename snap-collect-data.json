@@ -12197,7 +12197,7 @@
    "name": "MUSE on the move / Siam center FI.1",
    "receipt_format": "เลขที่",
    "notes": "กรอกครบ อักขระพิเศษและตัวเลขทั้งหมด EX : #1-0123",
-   "category": "Spending Only",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -12275,5 +12275,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-17 18:29"
+ "generated_at": "2026-11-18 10:19"
 }
