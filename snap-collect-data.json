@@ -11259,9 +11259,9 @@
   {
    "no": 1379,
    "name": "Kantima Salon SC Fl. 1",
-   "receipt_format": "เจอใบเสร็จแล้วมาอัพเดตกันค่ะ",
-   "notes": "",
-   "category": "Spending Only",
+   "receipt_format": "Reject",
+   "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
+   "category": "TNA",
    "extra": ""
   },
   {
@@ -12283,5 +12283,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-18 13:23"
+ "generated_at": "2026-11-18 15:59"
 }
