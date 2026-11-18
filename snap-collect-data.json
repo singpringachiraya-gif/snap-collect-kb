@@ -12207,6 +12207,14 @@
    "notes": "กรอกครบทุกตัว เช่น 00239-000000028",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1498,
+   "name": "PaperSwan SPD Fl. G / SIAM PARAGON",
+   "receipt_format": "INVOICE #",
+   "notes": "กรอกครบเช่น PS001000643",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -12275,5 +12283,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-18 12:14"
+ "generated_at": "2026-11-18 13:23"
 }
