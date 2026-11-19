@@ -9356,7 +9356,7 @@
    "no": 1162,
    "name": "SAPPAROS (สรรพรส)  SPD Fl. 5  - Zone Nextopia",
    "receipt_format": "No (เลขที่)",
-   "notes": "บิลเลขที่ ** กรอกครบ Ex.SS0669-2189 \n23/9/2026",
+   "notes": "บิลเลขที่ ** กรอกครบ Ex.SS0669-2189 \nใบกำกับภาษีใช้ เลขที่ ** กรอกครบ Ex.DT0669-0611 \nดูชื่อลูกค้าก่อนกดบันทึก\n23/9/2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -12283,5 +12283,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-18 15:59"
+ "generated_at": "2026-11-19 15:32"
 }
