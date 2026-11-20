@@ -12068,7 +12068,7 @@
    "no": 1482,
    "name": "Man Hin by Chef Man SPD Fl. 5A /SIAM PARAGON",
    "receipt_format": "เลขที่ใบเสร็จ",
-   "notes": "กรอกครบ เช่น 691104006",
+   "notes": "กรอกครบ เช่น 691104006\nชื่อลูกค้าตรวจสอบจากบรรทัด ชื่อลูกค้า:\nบรรทัดถัดมา Customer1 เป็นชื่อพนักงาน",
    "category": "Spending Only",
    "extra": ""
   },
@@ -12281,5 +12281,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-20 14:57"
+ "generated_at": "2026-11-20 18:10"
 }
