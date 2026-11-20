@@ -12256,6 +12256,12 @@
    "reason": "อื่นๆ",
    "message": "ใบเสร็จมัดจำ (Deposit) ชำระไม่เต็มจำนวนไม่เข้าร่วมรายการสะสม",
    "store_note": ""
+  },
+  {
+   "case": "สินค้ารายการพิเศษ / Limited Edition ที่มีปั๊มไม่ร่วมรายการสะสมยอด",
+   "reason": "อื่นๆ",
+   "message": "สินค้ารายการนี้ถูกยกเว้นการสะสมยอดซื้อ ONESIAM Member",
+   "store_note": ""
   }
  ],
  "categories": [
@@ -12267,5 +12273,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-20 10:05"
+ "generated_at": "2026-11-20 12:15"
 }
