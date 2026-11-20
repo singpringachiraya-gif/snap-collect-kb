@@ -3441,14 +3441,6 @@
    "extra": ""
   },
   {
-   "no": 425,
-   "name": "หัวบิล DREAM TOY \n1.ร้านค้า TAMASHII SPOT SC Fl. 1 *เลขใบเสร็จขึ้นต้น : 150XXXX                 \n2 ร้านค้า The Gundam Base Thailand SC Fl. 1 * เลขที่ใบเสร็จ ขึ้นต้นด้วย 110XXXXX",
-   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
-   "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
-   "category": "TNA",
-   "extra": ""
-  },
-  {
    "no": 426,
    "name": "THANN ICON Fl. 4 ( TNA สะสมจากร้านค้าเท่านั้น)",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
@@ -3523,14 +3515,6 @@
   {
    "no": 435,
    "name": "P & P Jewelry",
-   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
-   "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
-   "category": "TNA",
-   "extra": ""
-  },
-  {
-   "no": 436,
-   "name": "Rakxa wellness / RAKxa Wellness EXT null",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
    "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
    "category": "TNA",
@@ -12283,5 +12267,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-19 15:32"
+ "generated_at": "2026-11-20 10:05"
 }
