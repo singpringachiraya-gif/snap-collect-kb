@@ -12199,6 +12199,14 @@
    "notes": "กรอกครบเช่น PS001000643",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1499,
+   "name": "Summer Balmer SC Fl. M",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "เลขอยู่บริเวณหัวบิล EX. RC-13-202611532",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -12273,5 +12281,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-20 13:01"
+ "generated_at": "2026-11-20 14:57"
 }
