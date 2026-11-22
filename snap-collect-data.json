@@ -9090,9 +9090,17 @@
   },
   {
    "no": 1131,
-   "name": "Lamunn SPD Fl. 4  / Lamunn ICON Fl. GF",
+   "name": "Lamunn SPD Fl. 4",
    "receipt_format": "ID / เลขที่บิล (อ่านหมายเหตุ)",
-   "notes": "หัวบิล ละมุนโรตีสายไหม \nสาขาสยามพารากอน สะสมใช้เลขหลัง - 9 ตัวท้าย เช่น 112806481\n\nสาขาไอคอนสยาม สะสมใช้ ID\n\nUpdate จากป๊อป 9/9/2026",
+   "notes": "หัวบิล ละมุนโรตีสายไหม \nสะสมใช้เลขหลัง - 9 ตัวท้าย เช่น 112806481\n\nUpdate จากป๊อป 9/9/2026",
+   "category": "JoinONESIAMCoin",
+   "extra": ""
+  },
+  {
+   "no": 1131,
+   "name": "Lamunn ICON Fl. GF",
+   "receipt_format": "ID / เลขที่บิล (อ่านหมายเหตุ)",
+   "notes": "หัวบิล ละมุนโรตีสายไหม \nสะสมใช้เลขหลัง - 9 ตัวท้าย เช่น 112806481\n\nUpdate จากโจ 22/11/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -12289,5 +12297,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-21 12:36"
+ "generated_at": "2026-11-22 17:13"
 }
