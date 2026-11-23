@@ -12231,6 +12231,14 @@
    "notes": "กรอกครบ เช่น 691122037",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1502,
+   "name": "JACKTENDER SD Fl. 2",
+   "receipt_format": "ID",
+   "notes": "กรอกครบทุกตัว เช่น 8BFLC",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -12305,5 +12313,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-23 10:22"
+ "generated_at": "2026-11-23 12:17"
 }
