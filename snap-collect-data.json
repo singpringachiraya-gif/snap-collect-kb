@@ -12245,7 +12245,15 @@
    "name": "Standard Bread SPD Fl. G",
    "receipt_format": "No.",
    "notes": "กรอกครบ เช่น 0201093",
-   "category": "Spending Only",
+   "category": "Popup&Event",
+   "extra": ""
+  },
+  {
+   "no": 1504,
+   "name": "Kaew Boutique SPD Fl. G",
+   "receipt_format": "ID",
+   "notes": "",
+   "category": "Popup&Event",
    "extra": ""
   }
  ],
@@ -12321,5 +12329,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-24 13:57"
+ "generated_at": "2026-11-24 15:47"
 }
