@@ -12239,6 +12239,14 @@
    "notes": "กรอกครบทุกตัว เช่น 8BFLC",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1503,
+   "name": "Standard Bread SPD Fl. G",
+   "receipt_format": "No.",
+   "notes": "กรอกครบ เช่น 0201093",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -12313,5 +12321,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-23 12:17"
+ "generated_at": "2026-11-24 13:57"
 }
