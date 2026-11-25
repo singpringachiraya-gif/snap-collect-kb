@@ -780,7 +780,7 @@
    "no": 95,
    "name": "LUSH SC Fl. G / LUSH ICON Fl. 2",
    "receipt_format": "Tax invoice (ABB)",
-   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ /  (CARD TOP UP= REJECT: ภาพไม่ใช่ใบเสร็จ)",
+   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ /  (CARD TOP UP= REJECT: ภาพไม่ใช่ใบเสร็จ)\nStored Value สะสมได้ (เป็นการชำระผ่านเครดิตร้าน)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -12329,5 +12329,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-24 15:47"
+ "generated_at": "2026-11-25 16:55"
 }
