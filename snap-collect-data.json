@@ -7651,7 +7651,7 @@
   {
    "no": 952,
    "name": "JOE WINGS SPD Fl. G",
-   "receipt_format": "No (เลขที่)",
+   "receipt_format": "No (เลขที่) กรอกครบ",
    "notes": "เช่น 0202224",
    "category": "Spending Only",
    "extra": ""
@@ -7693,14 +7693,6 @@
    "name": "YA KUN KAYA TOAST ICON Fl. G",
    "receipt_format": "Receipt no",
    "notes": "กรอกทุกตัวเลข เช่น 04052960",
-   "category": "Spending Only",
-   "extra": ""
-  },
-  {
-   "no": 958,
-   "name": "JOE WINGS SPD Fl. G",
-   "receipt_format": "No (เลขที่)",
-   "notes": "",
    "category": "Spending Only",
    "extra": ""
   },
@@ -12337,5 +12329,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-26 14:32"
+ "generated_at": "2026-11-26 15:26"
 }
