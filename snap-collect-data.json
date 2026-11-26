@@ -1613,7 +1613,7 @@
    "name": "แสนยอด@work SPD Fl. G",
    "receipt_format": "ID",
    "notes": "เช่่น UBZWN",
-   "category": "JoinONESIAMCoin",
+   "category": "Spending Only",
    "extra": ""
   },
   {
@@ -12329,5 +12329,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-26 15:32"
+ "generated_at": "2026-11-26 18:14"
 }
