@@ -8979,8 +8979,8 @@
   {
    "no": 1118,
    "name": "Acne Studios SPD Fl. 1",
-   "receipt_format": "Receipt no",
-   "notes": "เช่่น 11273000004 / ใบกำกับภาษีใช้ Document ใส่เลขทั้งหมด (15/11/2025)",
+   "receipt_format": "Reference",
+   "notes": "ใช่เลขหลัง# กรอกครบ เช่น 11273002840 / ใบกำกับภาษีใช้ Document ใส่เลขทั้งหมด (26/11/2025)",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -9620,7 +9620,7 @@
    "no": 1197,
    "name": "TACO BELL ICON Fl. G",
    "receipt_format": "INVOICE NO (Inv#)",
-   "notes": "กรอกครบไม่เอาขีด",
+   "notes": "กรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
    "extra": ""
   },
@@ -12329,5 +12329,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-26 18:44"
+ "generated_at": "2026-11-26 19:04"
 }
