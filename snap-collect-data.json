@@ -770,7 +770,7 @@
   },
   {
    "no": 94,
-   "name": "Pang Cha by Lukkaithong SPD Fl. G / Pang Cha by Lukkaithong SPD Fl. 4 (บริษัทกาญณรงค์ karnnarong group co. ltd)",
+   "name": "Pang Cha by Lukkaithong SPD Fl. G / Pang Cha by Lukkaithong SPD Fl. 4 \n(บริษัทกาญณรงค์ karnnarong group co. ltd)",
    "receipt_format": "Receipt no",
    "notes": "รหัสสาขา 003 สะสมเข้า Pang Cha by Lukkaithong SPD Fl. 4 \nรหัสสาขา 016 สะสมเข้า Pang Cha by Lukkaithong SPD Fl. G\n\nกรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
@@ -1475,8 +1475,8 @@
   {
    "no": 181,
    "name": "P.S. I LOVE You SPD Fl. G / P.S. I LOVE You ICON Fl. G (Spending Only)",
-   "receipt_format": "No (เลขที่)",
-   "notes": "หลัง SO กรอกครบทุกตัว เช่่น 260318/003/006/0002 ใส่ / ด้วย อัปเดตล่าสุดปี 2026",
+   "receipt_format": "Receipt no",
+   "notes": "หลัง SO กรอกครบทุกตัว เช่น 260318/003/006/0002 ใส่ / ด้วย อัปเดตล่าสุดปี 2026",
    "category": "Spending Only",
    "extra": ""
   },
@@ -6795,8 +6795,8 @@
   {
    "no": 848,
    "name": "Four Season SPD Fl. G",
-   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "check no (CHK)",
+   "receipt_format": "check no (CHK)",
+   "notes": "กรอกครบทุกตัว เช่น 0062",
    "category": "Spending Only",
    "extra": ""
   },
@@ -11651,8 +11651,8 @@
   {
    "no": 1430,
    "name": "PAUL SPD Fl. G",
-   "receipt_format": "ID",
-   "notes": "เช่น 06L86",
+   "receipt_format": "Receipt No.",
+   "notes": "เช่น 0100469",
    "category": "Spending Only",
    "extra": ""
   },
@@ -12329,5 +12329,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-26 18:14"
+ "generated_at": "2026-11-26 18:44"
 }
