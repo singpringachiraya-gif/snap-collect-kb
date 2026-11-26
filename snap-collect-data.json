@@ -772,7 +772,7 @@
    "no": 94,
    "name": "Pang Cha by Lukkaithong SPD Fl. G / Pang Cha by Lukkaithong SPD Fl. 4 (บริษัทกาญณรงค์ karnnarong group co. ltd)",
    "receipt_format": "Receipt no",
-   "notes": "LPGRC2012569/001024 กรอกครบทุกตัว รวมอักขระพิเศษ",
+   "notes": "รหัสสาขา 003 สะสมเข้า Pang Cha by Lukkaithong SPD Fl. 4 \nรหัสสาขา 016 สะสมเข้า Pang Cha by Lukkaithong SPD Fl. G\n\nกรอกครบทุกตัว รวมอักขระพิเศษ",
    "category": "Spending Only",
    "extra": ""
   },
@@ -12329,5 +12329,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-25 18:16"
+ "generated_at": "2026-11-26 12:58"
 }
