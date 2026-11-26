@@ -994,7 +994,7 @@
   },
   {
    "no": 122,
-   "name": "PAUL ทุกสาขา",
+   "name": "PAUL ตึก External (ดูที่หมายเหตุ)",
    "receipt_format": "No (เลขที่)",
    "notes": "สาขาอื่นเลือก ตึก External / Central World  / Central Embassy /  Central Chidlom  /  The Emporium  / The 8th Thonglor null / Mega Bangna (เมกะไม่ร่วมแล้ว)\n\nยกเว้น SPD (Spending only เปิด 23/9/2026)",
    "category": "JoinONESIAMCoin",
@@ -12329,5 +12329,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-26 15:26"
+ "generated_at": "2026-11-26 15:32"
 }
