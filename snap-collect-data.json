@@ -12255,6 +12255,14 @@
    "notes": "",
    "category": "Popup&Event",
    "extra": ""
+  },
+  {
+   "no": 1505,
+   "name": "Glintz Jewelry SC Fl. M",
+   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
+   "notes": "ตำแหน่งด้านล่างขวา กรอกครบหลัง # เป็นต้นไป (Ex. 1-0763)",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -12329,5 +12337,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-26 12:58"
+ "generated_at": "2026-11-26 14:32"
 }
