@@ -5587,9 +5587,9 @@
   {
    "no": 696,
    "name": "Darlin SC Fl. 1",
-   "receipt_format": "No (เลขที่)",
-   "notes": "กรอกครบทุกตัว",
-   "category": "Spending Only",
+   "receipt_format": "Receipt No.",
+   "notes": "กรอกครบทุกตัว รวมอักษรพิเศษ เช่น #17-3939",
+   "category": "JoinONESIAMCoin",
    "extra": ""
   },
   {
@@ -12337,5 +12337,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-27 12:14"
+ "generated_at": "2026-11-27 13:41"
 }
