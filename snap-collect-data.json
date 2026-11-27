@@ -924,7 +924,7 @@
    "no": 113,
    "name": "OMU ICS Fl. G",
    "receipt_format": "เลขที่ใบเสร็จ",
-   "notes": "กรอกครบ เช่น 00600016704",
+   "notes": "กรอกครบทุกตัว เช่น 00600016704",
    "category": "Spending Only",
    "extra": ""
   },
