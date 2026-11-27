@@ -9412,7 +9412,7 @@
    "no": 1171,
    "name": "Super Matcha ICON Fl. G",
    "receipt_format": "ID",
-   "notes": "",
+   "notes": "กรอกครบทุุกตัว",
    "category": "Spending Only",
    "extra": ""
   },
@@ -12329,5 +12329,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-27 11:18"
+ "generated_at": "2026-11-27 11:25"
 }
