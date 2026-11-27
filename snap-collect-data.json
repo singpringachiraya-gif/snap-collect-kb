@@ -2219,8 +2219,8 @@
   {
    "no": 274,
    "name": "BOYY  {Luxury} BOYY SPD Fl. M ** ปิด 16/Dec/2025",
-   "receipt_format": "Receipt no",
-   "notes": "กรอบครบทุกตัว เช่น PG24100025    /   หัวบิล Boyy Headquarter : Reject  pop up event",
+   "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
+   "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
    "category": "ShopClosed",
    "extra": ""
   },
@@ -12345,5 +12345,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-27 14:48"
+ "generated_at": "2026-11-27 19:16"
 }
