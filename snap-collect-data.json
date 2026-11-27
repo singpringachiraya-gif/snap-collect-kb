@@ -923,8 +923,8 @@
   {
    "no": 113,
    "name": "OMU ICS Fl. G",
-   "receipt_format": "Receipt no",
-   "notes": "OMU ICS Fl. G",
+   "receipt_format": "เลขที่ใบเสร็จ",
+   "notes": "กรอกครบ เช่น 00600016704",
    "category": "Spending Only",
    "extra": ""
   },
@@ -12329,5 +12329,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-27 10:40"
+ "generated_at": "2026-11-27 10:53"
 }
