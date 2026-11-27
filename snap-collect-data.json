@@ -20,7 +20,7 @@
    "no": 3,
    "name": "COS SPD Fl. 1/ Siam Paragon",
    "receipt_format": "Silp No",
-   "notes": "เช่น 0000150201000000078 กรอกแค่ 6 ตัวท้าย เช่น 000078 \r\nRemark (Operater ชื่อพนงไม่ใช่ชื่อลค)",
+   "notes": "เช่น 0000150201000000078 กรอกแค่ 6 ตัวท้าย เช่น 000078 \nRemark (Operater ชื่อพนงไม่ใช่ชื่อลค)",
    "category": "Spending Only",
    "extra": ""
   },
@@ -12329,5 +12329,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-27 11:31"
+ "generated_at": "2026-11-27 11:33"
 }
