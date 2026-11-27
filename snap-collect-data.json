@@ -5595,8 +5595,8 @@
   {
    "no": 697,
    "name": "เสนห์ขนมจีน ICS Fl. 4",
-   "receipt_format": "No (เลขที่)",
-   "notes": "กรอกครบทุกตัว",
+   "receipt_format": "ID",
+   "notes": "กรอกครบทุกตัว เช่น 2F8VS",
    "category": "Spending Only",
    "extra": ""
   },
@@ -12329,5 +12329,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-27 10:30"
+ "generated_at": "2026-11-27 10:33"
 }
