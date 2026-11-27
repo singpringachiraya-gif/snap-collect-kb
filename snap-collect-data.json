@@ -12263,6 +12263,14 @@
    "notes": "กรอกครบทุกตัว RC691126009",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1507,
+   "name": "BTS POP UP SPD Fl. M",
+   "receipt_format": "เลขที่",
+   "notes": "",
+   "category": "Popup&Event",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -12337,5 +12345,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-27 13:51"
+ "generated_at": "2026-11-27 14:48"
 }
