@@ -2788,7 +2788,7 @@
    "no": 345,
    "name": "EVEANDBOY SPO Fl. G",
    "receipt_format": "Tax invoice (ABB N0)",
-   "notes": "กรอกครบทุกตัว (ไม่ต้องใส่อักขระพิเศษ)",
+   "notes": "กรอกครบทุกตัว เช่น 160226100190548",
    "category": "Spending Only",
    "extra": ""
   },
@@ -12329,5 +12329,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-27 11:07"
+ "generated_at": "2026-11-27 11:10"
 }
