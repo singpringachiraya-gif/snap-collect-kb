@@ -6115,8 +6115,8 @@
   {
    "no": 762,
    "name": "Food Library - เพลินพุงคาเฟ่ SC Fl. 2 /  เพลินพุง/ตำตำ ICON Fl. G",
-   "receipt_format": "No (เลขที่)",
-   "notes": "chk no. เช่น 151737 กรอกครบทุกตัว",
+   "receipt_format": "Chk no.",
+   "notes": "เช่น 151737 กรอกครบทุกตัว",
    "category": "Spending Only",
    "extra": ""
   },
@@ -7364,7 +7364,7 @@
    "no": 916,
    "name": "Sushi Den ICON Fl. 6",
    "receipt_format": "Tax invoice (ABB)",
-   "notes": "กรอกครบทุกตัว (ไม่ต้องใส่อักขระพิเศษ)",
+   "notes": "กรอกครบทุกตัว เช่น RC691125021",
    "category": "Spending Only",
    "extra": ""
   },
@@ -12337,5 +12337,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-27 12:03"
+ "generated_at": "2026-11-27 12:14"
 }
