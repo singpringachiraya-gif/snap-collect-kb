@@ -8547,8 +8547,8 @@
   {
    "no": 1064,
    "name": "The Rolling Pinn SPD Fl. G / The Rolling Pinn ICON Fl. 6",
-   "receipt_format": "No (เลขที่)",
-   "notes": "กรอกครบ เช่น 202508003560",
+   "receipt_format": "INVOICE #",
+   "notes": "กรอกครบ เช่น PS004038382",
    "category": "Spending Only",
    "extra": ""
   },
@@ -12329,5 +12329,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-27 11:33"
+ "generated_at": "2026-11-27 11:38"
 }
