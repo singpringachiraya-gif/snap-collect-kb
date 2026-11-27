@@ -5588,7 +5588,7 @@
    "no": 696,
    "name": "Darlin SC Fl. 1",
    "receipt_format": "Receipt No.",
-   "notes": "กรอกครบทุกตัว รวมอักษรพิเศษ เช่น #17-3939",
+   "notes": "กรอกครบทุกตัว รวมอักษรพิเศษ เช่น #17-3939\n\nUpdate : 27/11/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -9267,8 +9267,8 @@
   {
    "no": 1153,
    "name": "FIKKA Fl. 5  - Zone Nextopia",
-   "receipt_format": "No (เลขที่)",
-   "notes": "เช่น 504833783296878 ( Food Deal : Food Deal )",
+   "receipt_format": "Reciept Number",
+   "notes": "กรอกครบ เช่น 01000073 ( Food Deal : Food Deal )\n\nUpdate : Pop 27/11/2026",
    "category": "JoinONESIAMCoin",
    "extra": ""
   },
@@ -9890,7 +9890,7 @@
   },
   {
    "no": 1231,
-   "name": "Chow Tai Fook SPD Fl. 1 (ร้านทอง)",
+   "name": "Chow Tai Fook SPD Fl. 1 (ร้านทอง) / หัวบิล NGG : บริษัท เอ็นจีจี เอ็นเตอร์ไพรส์ จำกัด",
    "receipt_format": "เลขที่",
    "notes": "ใบเสร็จหัวบิล บริษัท เอ็นจีจี เอ็นเตอร์ไพรส์ จำกัด ดูตรงสาขา Siam Paragon - CTF\nกรอกเลขที่ครบเช่น AB26-26070025",
    "category": "JoinONESIAMCoin",
@@ -12337,5 +12337,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-27 13:41"
+ "generated_at": "2026-11-27 13:51"
 }
