@@ -10211,7 +10211,7 @@
   {
    "no": 1271,
    "name": "Slayuan ICON Fl. 5",
-   "receipt_format": "Tax Invoice",
+   "receipt_format": "Tax Invoice ABB",
    "notes": "กรอกครบทุกตัว Ex. RCSY-ICS69041100012 (update04/09/26)",
    "category": "Spending Only",
    "extra": ""
@@ -12329,5 +12329,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-27 11:10"
+ "generated_at": "2026-11-27 11:18"
 }
