@@ -12255,6 +12255,14 @@
    "notes": "ตำแหน่งด้านล่างขวา กรอกครบหลัง # เป็นต้นไป (Ex. 1-0763)",
    "category": "Spending Only",
    "extra": ""
+  },
+  {
+   "no": 1506,
+   "name": "Beans SD Fl. 2 / Siam Discovery",
+   "receipt_format": "เลขที่ใบเสร็จ",
+   "notes": "กรอกครบทุกตัว RC691126009",
+   "category": "Spending Only",
+   "extra": ""
   }
  ],
  "name_map": [],
@@ -12329,5 +12337,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-27 11:58"
+ "generated_at": "2026-11-27 12:03"
 }
