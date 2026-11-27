@@ -10491,8 +10491,8 @@
   {
    "no": 1306,
    "name": "Yonny ICS Fl. G / Yonny SC Fl. 2",
-   "receipt_format": "ไม่มีเลขที่ใบเสร็จ (ดูจาก Remark)",
-   "notes": "เลขที่ใบกำกับภาษีอย่างย่อ เช่น 20260804122840107015510006",
+   "receipt_format": "เลขที่ใบกำกับภาษีอย่างย่อ",
+   "notes": "กรอกครบทุกตัว เช่น 20260804122840107015510006",
    "category": "Spending Only",
    "extra": ""
   },
@@ -12329,5 +12329,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-26 19:04"
+ "generated_at": "2026-11-27 10:30"
 }
