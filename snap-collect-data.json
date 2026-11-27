@@ -2218,10 +2218,10 @@
   },
   {
    "no": 274,
-   "name": "BOYY  {Luxury} BOYY SPD Fl. M ** ปิด 16/Dec/2025",
+   "name": "BOYY SPD Fl. 1 / BOYY Mid-Luxe SPD Fl. 1",
    "receipt_format": "ร้านค้าไม่เข้าร่วมการสะสม ONESIAM",
-   "notes": "Reject : ใบเสร็จมาจากร้านค้า ตาม Shop List Earn&Redeem Coin ต้องสะสมที่ร้านค้าเท่านั้น",
-   "category": "ShopClosed",
+   "notes": "Reject : ร้านค้าไม่เข้าร่วมสะสมใบเสร็จ เช่น โซน Paragon Department Store, Gourmet Market หรือ Pop-Up Store",
+   "category": "",
    "extra": ""
   },
   {
@@ -12345,5 +12345,5 @@
   "Spending Only",
   "TNA"
  ],
- "generated_at": "2026-11-27 19:16"
+ "generated_at": "2026-11-27 19:20"
 }
